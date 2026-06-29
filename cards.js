@@ -9834,5 +9834,1595 @@ window.SECTIONS = [
 "note": "Transcript stated oxytocin IV onset 'around (a)' minute and IM '5 minutes'; standard sources give plasma half-life 1-6 min, IV onset near-immediate and IM uterine response in 3-5 min. Card corrected to reflect this; the transcript's exact figures were garbled."
 }
 ]
+},
+{
+"id": "physiology",
+"title": "Physiology",
+"cards": [
+{
+"topic": "Physiology",
+"subtopic": "Cardiovascular - cardiac cycle",
+"q": "What is end-diastolic volume (EDV)?",
+"a": "The volume of blood in the left ventricle at the end of diastole (after filling), immediately before contraction. Normal value is approximately 120 mL.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Cardiovascular - cardiac cycle",
+"q": "What is end-systolic volume (ESV)?",
+"a": "The volume of blood remaining in the left ventricle at the end of systole, after ejection of the stroke volume. Normal value is approximately 50 mL.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Cardiovascular - cardiac output",
+"q": "Define stroke volume and how it is calculated.",
+"a": "Stroke volume is the volume of blood ejected by the left ventricle in one contraction. Stroke volume = end-diastolic volume - end-systolic volume. Normal value is approximately 70 mL.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Cardiovascular - cardiac output",
+"q": "Define cardiac output and state how it is calculated.",
+"a": "Cardiac output is the volume of blood pumped by the heart per minute. Cardiac output = stroke volume x heart rate. Normal resting value is approximately 4.5-5 L/min (at a heart rate of ~72 bpm).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Cardiovascular - cardiac output",
+"q": "Define ejection fraction and how it is calculated.",
+"a": "Ejection fraction is the percentage of end-diastolic volume ejected with each contraction. Ejection fraction = (stroke volume / end-diastolic volume) x 100. A normal value is around 55-65%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Cardiovascular - cardiac output",
+"q": "What does an ejection fraction of 28% indicate, and what does the value represent?",
+"a": "An ejection fraction of 28% means that only 28% of the end-diastolic (left ventricular) blood volume is ejected after each contraction (cycle), with 72% remaining in the left ventricle. This is markedly reduced and indicates heart failure with reduced ejection fraction. Ejection fraction is measured per contraction/cycle, NOT per minute.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Cardiovascular - cardiac output",
+"q": "At what ejection fraction is heart failure indicated?",
+"a": "A reduced ejection fraction indicates impaired ventricular function. Heart failure with reduced ejection fraction (HFrEF) is conventionally defined as EF below 40%; an EF of 41-49% is classified as mildly reduced (HFmrEF), and 50% or above as preserved (HFpEF).",
+"ai": true,
+"note": "Transcript implies an EF below the normal value of ~55% indicates heart failure. By current standards (ESC/NICE), HFrEF is defined as EF <40%, not <55%. EF 41-49% is mildly reduced and >=50% is preserved range, so the threshold for the HFrEF diagnosis is <40%."
+},
+{
+"topic": "Physiology",
+"subtopic": "Renal - glomerular filtration",
+"q": "Define glomerular filtration rate (GFR) and its normal value.",
+"a": "GFR is the volume of plasma filtered from the glomerular capillaries into Bowman's capsule per unit time, summed across all nephrons. Normal value is approximately 120 mL/min.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Renal - glomerular filtration",
+"q": "Where does glomerular filtration take place in the nephron?",
+"a": "Filtration takes place at the glomerulus, with filtrate passing into Bowman's space (the Bowman's capsule) of the nephron.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Renal - renal blood flow",
+"q": "Distinguish renal plasma flow from renal blood flow, and give the normal renal plasma flow.",
+"a": "Renal plasma flow is the volume of plasma passing through the kidneys per minute; renal blood flow is the total volume of blood passing through the renal arteries per minute. Normal renal plasma flow is approximately 600 mL/min.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Renal - glomerular filtration",
+"q": "Define filtration fraction and its normal value.",
+"a": "Filtration fraction is the ratio of GFR to renal plasma flow (GFR / RPF), representing the proportion of plasma filtered at the glomerulus. Normal value is approximately 20%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Renal - clearance",
+"q": "Which substances are used to estimate GFR and renal plasma flow experimentally and clinically?",
+"a": "GFR is measured experimentally by inulin clearance and clinically estimated using creatinine clearance. Renal plasma flow is measured by para-aminohippuric acid (PAH) clearance. Serum creatinine is used clinically to assess renal function.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Renal - GFR estimation",
+"q": "Which equation does NICE recommend for estimating GFR, and what variables does it use?",
+"a": "NICE recommends the MDRD equation to estimate GFR (to assess renal/kidney function). The MDRD equation uses serum creatinine, age, sex (gender), and ethnicity, but does NOT use weight or urea.",
+"ai": true,
+"note": "Historically NICE referenced MDRD, but current NICE guidance (CKD, NG203) recommends the CKD-EPI creatinine equation for estimating GFR, and now advises NOT applying the ethnicity adjustment factor. MDRD is outdated as the recommended equation."
+},
+{
+"topic": "Physiology",
+"subtopic": "Renal - GFR estimation",
+"q": "What is the Cockcroft-Gault equation used for and what variables does it include?",
+"a": "The Cockcroft-Gault equation is used for drug dosing in adults. It includes age, weight, sex (gender), and serum creatinine.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Renal - GFR estimation",
+"q": "What is the Schwartz formula used for and what variables does it include?",
+"a": "The Schwartz formula is used for estimating GFR / drug dosing in children. It uses height and serum creatinine.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Renal - hormonal regulation",
+"q": "Where is atrial natriuretic peptide (ANP) produced and what is its stimulus?",
+"a": "ANP is released from the atrial walls in response to increased blood pressure/atrial stretch (increased blood volume).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Renal - hormonal regulation",
+"q": "What are the renal actions of atrial natriuretic peptide (ANP)?",
+"a": "ANP dilates the afferent arteriole, increasing renal plasma flow, glomerular filtration and GFR, thereby increasing urine production. It also inhibits sodium reabsorption in the proximal convoluted tubule and distal convoluted tubule (promoting sodium and water loss), helping lower blood pressure.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Renal - hormonal regulation",
+"q": "How does angiotensin II affect glomerular filtration?",
+"a": "Angiotensin II is produced when blood pressure falls, sodium concentration falls, or sympathetic tone rises. It preferentially constricts the efferent arteriole, raising glomerular capillary hydrostatic pressure and thereby increasing the filtration fraction and maintaining GFR. It also promotes sodium (and accompanying water) reabsorption.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Renal - hormonal regulation",
+"q": "What stimulates parathyroid hormone (PTH) release and what are its renal actions?",
+"a": "PTH release is stimulated by decreased serum calcium, increased serum phosphate, or decreased vitamin D. In the kidney it acts on the proximal convoluted tubule to increase phosphate excretion (decrease phosphate reabsorption) and on the distal convoluted tubule to increase calcium reabsorption.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Renal - tubular transport",
+"q": "Where is most calcium reabsorbed in the nephron, and which part is PTH-dependent?",
+"a": "Most calcium is reabsorbed passively in the proximal convoluted tubule (PCT). Only the smaller amount reabsorbed in the distal convoluted tubule (DCT) is active and PTH-dependent. Maximum (bulk) calcium reabsorption is not PTH-dependent.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Renal - hormonal regulation",
+"q": "Where does aldosterone act and what is its main function?",
+"a": "Aldosterone acts on the distal convoluted tubule and collecting tubules/ducts. Its main role is potassium regulation: it is stimulated by high plasma potassium and promotes potassium excretion while reabsorbing sodium, via upregulation of the Na+/K+ pump (and acting through hydrogen/potassium handling).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Renal - hormonal regulation",
+"q": "What is the primary stimulus for ADH (vasopressin) secretion?",
+"a": "The primary stimulus is increased serum osmolality (e.g. dehydration, decreased body water). Decreased blood volume is a secondary stimulus, but increased serum osmolality is the primary trigger.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Renal - hormonal regulation",
+"q": "What are the renal actions of ADH (antidiuretic hormone / vasopressin)?",
+"a": "ADH acts on the collecting ducts (and distal convoluted/collecting tubules), inserting aquaporin-2 channels to increase water reabsorption. Sodium is reabsorbed passively with the water, and ADH also increases urea reabsorption in the collecting duct, aiding water conservation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Renal - hormonal regulation",
+"q": "Which molecule is responsible for aquaporin-2 channel insertion in the collecting duct?",
+"a": "ADH (antidiuretic hormone / vasopressin) promotes insertion of aquaporin-2 protein channels in the collecting duct, increasing water reabsorption.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Renal - RAAS",
+"q": "Where is renin produced and what stimulates the renin-angiotensin-aldosterone system (RAAS)?",
+"a": "Renin is produced by the juxtaglomerular (granular) cells of the juxtaglomerular apparatus, located between the distal convoluted tubule and the afferent arteriole. RAAS is stimulated by three factors: decreased blood pressure (sensed by baroreceptors), decreased sodium (sensed by the macula densa), and increased sympathetic tone.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Renal - RAAS",
+"q": "Outline the renin-angiotensin-aldosterone cascade.",
+"a": "Renin converts angiotensinogen (from the liver) to angiotensin I. Angiotensin-converting enzyme (ACE) in the lungs converts angiotensin I to angiotensin II. Angiotensin II causes vasoconstriction (raising blood pressure), constricts the efferent arteriole (preserving filtration fraction), and stimulates aldosterone release from the adrenal cortex.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Renal - RAAS",
+"q": "In RAAS exam questions, what is the order of preference for the signalling molecule stimulating the system and regulating sodium?",
+"a": "The principal stimulator of RAAS is norepinephrine (sympathetic). For a molecule that stimulates the system and regulates sodium, choose norepinephrine; if absent, choose angiotensin II (the main sodium regulator); if both absent, choose aldosterone. For potassium regulation specifically, choose aldosterone.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Renal - tubular transport",
+"q": "Where are glucose, amino acids and most substances maximally reabsorbed in the nephron?",
+"a": "The proximal convoluted tubule (PCT) is the site of maximal reabsorption of glucose (by facilitated diffusion / Na+-glucose cotransport), amino acids, and most other substances. Glucose and amino acids are essentially 100% reabsorbed in the PCT.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Renal - tubular transport",
+"q": "Which substance is NOT maximally reabsorbed in the PCT, and where is it maximally reabsorbed?",
+"a": "Magnesium is the exception: its maximal reabsorption occurs in the thick ascending limb of the loop of Henle, not the PCT.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Renal - tubular transport",
+"q": "What is the renal threshold / transport maximum (Tm) for glucose?",
+"a": "The kidney reabsorbs glucose only up to a maximum (Tm). When plasma glucose exceeds this level, the Na+-glucose transporters become saturated and the excess glucose is excreted in the urine (glucosuria). Glucose is reabsorbed in the largest amount in the PCT.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Renal - tubular transport",
+"q": "Which parts of the nephron are impermeable to water?",
+"a": "The thick ascending limb of the loop of Henle and the early distal convoluted tubule are impermeable to water. The PCT is freely permeable to water; the rest of the tubule is variably permeable.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Renal - tubular transport",
+"q": "Which transporters/pumps are found in the thick ascending limb, DCT and late DCT/collecting tubule?",
+"a": "The thick ascending limb of the loop of Henle has the Na+-K+-2Cl- cotransporter. The distal convoluted tubule has the Na+-Cl- cotransporter. The late DCT/collecting tubule has a hydrogen-potassium pump and a Na+/K+ pump.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Renal - tubular transport",
+"q": "Where are sodium, potassium, bicarbonate and phosphate maximally reabsorbed?",
+"a": "All are maximally reabsorbed in the proximal convoluted tubule (PCT). Sodium reabsorption continues in the loop of Henle, DCT and collecting tubules/ducts. About 90% of phosphate is reabsorbed in the PCT (under PTH control), with ~8% in the DCT.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Renal - tubular transport",
+"q": "Describe urea handling and its role in the medullary concentration gradient.",
+"a": "About 50% of urea is reabsorbed by diffusion in the PCT. Urea contributes to the medullary concentration gradient (hyperosmolarity/hypertonicity of the medullary interstitium), enabling water reabsorption back into the blood. ADH increases urea reabsorption in the collecting duct.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Renal - tubular transport",
+"q": "How are filtered ions such as magnesium excreted?",
+"a": "Ions are excreted unchanged - they are not metabolised and do not form new compounds. They are excreted in the same form in which they were filtered.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Respiratory - lung volumes",
+"q": "Define tidal volume and give its normal value.",
+"a": "Tidal volume is the volume of air inspired or expired in a single normal (quiet) breath. Normal value is approximately 500 mL.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Respiratory - lung volumes",
+"q": "Define expiratory reserve volume and residual volume.",
+"a": "Expiratory reserve volume is the additional air that can be forcefully expired after a normal expiration. Residual volume is the volume of air remaining in the lungs after maximal expiration that can never be expired; it keeps the alveoli from collapsing.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Respiratory - lung capacities",
+"q": "What is a lung capacity, and how is inspiratory capacity defined?",
+"a": "A capacity is the sum of two or more lung volumes. Inspiratory capacity = tidal volume + inspiratory reserve volume.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Respiratory - lung capacities",
+"q": "Define functional residual capacity (FRC).",
+"a": "FRC is the volume of air remaining in the lungs after a normal (quiet) expiration. FRC = expiratory reserve volume + residual volume.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Respiratory - lung capacities",
+"q": "Define vital capacity.",
+"a": "Vital capacity is the maximum volume of air that can be forcefully inspired after a forced (maximal) expiration. Vital capacity = inspiratory reserve volume + tidal volume + expiratory reserve volume.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Respiratory - lung capacities",
+"q": "Which lung capacities cannot be measured by spirometry?",
+"a": "Any capacity that includes the residual volume cannot be measured by spirometry: residual volume itself, functional residual capacity, and total lung capacity. The other volumes and vital capacity can be measured by spirometry.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Respiratory - pregnancy changes",
+"q": "How do lung volumes change in pregnancy?",
+"a": "The diaphragm rises, reducing dead/residual space, so residual volume decreases and functional residual capacity decreases. Tidal/inspiratory volume increases, respiratory rate stays normal, and vital capacity remains unchanged (or slightly increased).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Respiratory - oxygen transport",
+"q": "On the oxygen-haemoglobin dissociation curve, what does a right shift signify?",
+"a": "A right shift indicates decreased haemoglobin affinity for oxygen, favouring oxygen unloading to the tissues. It is caused by increased temperature, increased 2,3-bisphosphoglycerate (2,3-BPG/DPG), increased CO2/H+ (low pH), and occurs at high altitude.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Respiratory - oxygen transport",
+"q": "On the oxygen-haemoglobin dissociation curve, what does a left shift signify?",
+"a": "A left shift indicates increased haemoglobin affinity for oxygen, favouring oxygen loading in the lungs and decreased unloading to tissues. It is caused by decreased temperature, decreased 2,3-BPG, decreased CO2/H+ (high pH).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Respiratory - oxygen transport",
+"q": "What is the Bohr effect?",
+"a": "The Bohr effect describes how increased CO2 and H+ (and lower pH) at the tissue level decrease haemoglobin's affinity for oxygen (right shift), promoting oxygen unloading to the tissues where CO2 is high and oxygen is low.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Respiratory - oxygen transport",
+"q": "What is the Haldane effect?",
+"a": "The Haldane effect describes how, at the level of the lungs, oxygenation of haemoglobin (increased oxygen loading/uploading) reduces haemoglobin's ability to carry CO2, promoting CO2 release. Deoxygenated haemoglobin carries CO2 more readily.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Respiratory - CO2 transport",
+"q": "Which enzyme in the red blood cell buffers blood carbon dioxide?",
+"a": "Carbonic anhydrase. It catalyses the combination of CO2 with water to form carbonic acid, which dissociates into bicarbonate (HCO3-) and H+ ions.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Respiratory - CO2 transport",
+"q": "In what forms is carbon dioxide transported in the blood, and in what proportions?",
+"a": "CO2 is transported as bicarbonate (~70%), as carbaminohaemoglobin bound to haemoglobin (~23%), and dissolved in plasma (~7%). In red cells, CO2 + water forms carbonic acid which dissociates into bicarbonate (exchanged for chloride - the chloride shift) and H+.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "By approximately what percentage does cardiac output increase in normal pregnancy, and by when does it plateau?",
+"a": "Cardiac output increases by about 40%, plateauing at around 24-30 weeks. It rises from a non-pregnant value of ~4.5 L/min to ~6 L/min at term (an absolute increase of ~1.5 L/min).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "How does cardiac output change during the stages of labour and in the immediate postpartum period?",
+"a": "Cardiac output rises ~15-20% in the first stage, ~50% in the second stage, and is highest (~60-80% above baseline) immediately postpartum. It returns to normal by about 6 weeks postpartum.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "How does total blood volume change in pregnancy?",
+"a": "Blood volume increases by ~30% (some sources, e.g. RCOG-aligned texts, quote 40-45%). It rises from ~75 mL/kg (non-pregnant) to ~100 mL/kg, i.e. an increase of ~25 mL/kg.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "By how much does plasma volume expand in pregnancy and when does it peak?",
+"a": "Plasma volume expands by ~45%, peaking at around 32 weeks.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "By how much does stroke volume increase in pregnancy?",
+"a": "Stroke volume increases by ~30%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "By how much does red cell mass increase in pregnancy, and what is the haematological consequence?",
+"a": "Red cell mass increases by ~20-30%. Because plasma volume (~45%) rises disproportionately more than red cell mass, haematocrit falls, producing the physiological (dilutional) anaemia of pregnancy, most marked around 32 weeks.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "By how much does heart rate increase in pregnancy?",
+"a": "Heart rate increases by ~10-15% (approximately 10-15 beats per minute).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "What is uterine artery blood flow at term, and what proportion goes to the placenta?",
+"a": "Uterine blood flow rises from ~45 mL/min (non-pregnant) to approximately 750 mL/min at term. About 90% of uterine blood flow supplies the placenta.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "What proportion of cardiac output goes to the kidneys in pregnancy?",
+"a": "The kidneys receive ~20-25% of cardiac output (similar proportion to the non-pregnant state), equating to roughly 300 mL/min.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "What happens to systemic vascular resistance and blood pressure in pregnancy?",
+"a": "Peripheral (systemic) vascular resistance falls and blood pressure decreases (diastolic falls more than systolic, with the nadir in the second trimester). Serum colloid osmotic pressure also declines.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "Which cardiovascular parameters remain essentially unchanged in pregnancy?",
+"a": "Central venous pressure and pulmonary capillary wedge pressure remain essentially unchanged.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "What is the WHO/UK definition of anaemia in pregnancy by trimester?",
+"a": "First trimester: Hb < 110 g/L (11 g/dL). Second/third trimester: Hb < 105 g/L (10.5 g/dL). Postpartum: Hb < 100 g/L (10 g/dL).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "What is the total extra iron requirement of pregnancy and how is it distributed?",
+"a": "Total requirement is ~1000 mg: ~450-500 mg for expansion of maternal red cell mass, ~300 mg to the fetus and placenta, and ~200-250 mg for basal losses/blood loss at delivery. Daily extra requirement rises from ~2.8 mg/day to ~6.6 mg/day (an increase of ~4 mg/day).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "What is the expected Hb rise with oral and with IV iron therapy in pregnancy?",
+"a": "Oral iron: target rise of ~0.8-1 g/dL within 4-8 weeks. IV iron: expected rise of ~2 g/dL within 4-8 weeks. (In exam options choose the lower target value, ~0.8 g/dL, when both 0.8 and 1 appear.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "What is the most common haematological problem in pregnancy, and what else should be excluded if iron is low?",
+"a": "Anaemia is the most common haematological problem in pregnancy. If iron studies are low, haemoglobinopathies such as thalassaemia should be excluded (e.g. via ferritin and electrophoresis).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "What happens to neutrophils and platelets in pregnancy?",
+"a": "Neutrophils increase (driving a physiological leucocytosis). Platelets may fall slightly, and gestational thrombocytopenia may be seen near term.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "Which clotting factors increase in pregnancy, creating a procoagulant state?",
+"a": "Factors I (fibrinogen), VII, VIII, IX, X, XII and von Willebrand factor increase. This is driven largely by oestrogen.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "Which clotting factors decrease and which remain unchanged in pregnancy?",
+"a": "Factors XI and XIII decrease. Factors II and V remain unchanged. (Factor IX is variable; usually rises, but in some sources is treated as unchanged.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "What happens to fibrinogen levels in pregnancy?",
+"a": "Fibrinogen approximately doubles, rising from a normal ~2-4 g/L to ~3-6 g/L.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "How do APTT, prothrombin time and natural anticoagulants change in pregnancy?",
+"a": "APTT and PT remain essentially unchanged (APTT may shorten slightly). Protein S decreases; antithrombin III and protein C are essentially unchanged. D-dimer rises.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "By how much does GFR increase in pregnancy and when does it peak?",
+"a": "GFR increases by ~50-60%, peaking at around 16-24 weeks (earliest peak ~16 weeks). It remains ~50-60% above baseline through to term.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "By how much does renal plasma flow increase in pregnancy?",
+"a": "Renal plasma flow increases by ~75% (some sources up to 80% in mid-pregnancy, falling to 50-60% above baseline by the third trimester).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "What happens to serum urea, creatinine, bicarbonate and albumin in pregnancy?",
+"a": "Serum urea, creatinine, bicarbonate and albumin all fall (albumin falls by ~20%), reflecting increased GFR and plasma volume expansion. Physiological glucosuria and proteinuria may occur.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "By how much does tidal volume increase in pregnancy and what drives it?",
+"a": "Tidal volume increases by ~40%, driven largely by progesterone acting on the respiratory centre. Respiratory rate is essentially unchanged.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "By how much does minute ventilation increase in pregnancy?",
+"a": "Minute ventilation increases by ~40-50% (best exam answer ~50%), due to the increase in tidal volume.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "What happens to oxygen consumption in pregnancy?",
+"a": "Oxygen consumption increases by ~20%, rising from ~250 mL/min (non-pregnant) to ~300 mL/min (an increase of ~50 mL/min).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "What is the acid-base picture of pregnancy and the associated blood gas changes?",
+"a": "Pregnancy produces a compensated respiratory alkalosis: PaCO2 and bicarbonate both fall, while pH rises slightly (becomes more alkaline). PaO2 rises modestly.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "Which lung volumes/capacities decrease in pregnancy as the diaphragm rises?",
+"a": "Expiratory reserve volume, residual volume, functional residual capacity and total lung capacity all decrease. Total lung capacity falls by ~200 mL.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "Which lung volumes/capacities increase or stay unchanged in pregnancy?",
+"a": "Tidal volume and inspiratory capacity increase. Vital capacity, FEV1 and peak flow rate remain essentially unchanged.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "Which ECG findings are considered normal in pregnancy?",
+"a": "Left axis deviation, a Q wave in leads III and aVF, T-wave inversion in lead III, and a present (not absent) QRS complex. These are normal due to the leftward/upward shift of the heart and raised diaphragm.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "Which cardiac examination findings are normal versus pathological in pregnancy?",
+"a": "Normal: third heart sound (S3), ejection systolic (flow) murmur, sinus tachycardia, ectopics. Pathological: any diastolic murmur, and a systolic murmur of grade 3 or louder.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "Which vitamin requirements roughly double or more in pregnancy?",
+"a": "Vitamin C and pantothenic acid roughly double; folate increases more than double. Requirements for vitamins B1, B2, B6, B12 and niacin rise modestly.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "Which vitamins do NOT have an increased dietary requirement in normal pregnancy and lactation?",
+"a": "Vitamins D and K do not have an increased requirement in normal pregnancy/lactation (vitamin D supplementation is nonetheless advised in the UK for those at risk of deficiency).",
+"ai": true,
+"note": "Conflicts with UK guidance: NICE/RCOG recommend routine vitamin D supplementation (10 micrograms/400 IU daily) for ALL pregnant and breastfeeding women, so the practical UK requirement is effectively increased. The lecturer's claim refers to theoretical RDA only."
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "How do thyroid function tests change in pregnancy?",
+"a": "Thyroid binding globulin increases (oestrogen-driven), so total T3 and total T4 rise. TSH falls in the first trimester (hCG cross-stimulates the TSH receptor) and may occasionally rise. Free T4 is essentially unchanged; free T3 drops.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "Which test is the best indicator of thyroid function in pregnancy?",
+"a": "Free T4 (free T3 is not used as it drops in pregnancy).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "Which liver enzymes increase in the third trimester and why?",
+"a": "Alkaline phosphatase (ALP) increases up to ~3-fold (the placenta also produces ALP) and gamma-glutamyl transferase (GGT) increases. AST, ALT, bilirubin, albumin and calcium all decrease/remain low.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "What GI changes occur in pregnancy due to progesterone?",
+"a": "Progesterone reduces GI motility and gastric emptying, relaxes the lower oesophageal sphincter (increasing reflux and aspiration risk), and reduces gut motility (increasing constipation). Gallbladder contractility falls, causing biliary stasis, raised lithogenic index and increased gallstone formation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "What is the key fetal stimulus that initiates labour?",
+"a": "Fetal cortisol (from the fetal adrenal) is the key initiator. It acts on the placenta to increase corticotrophin-releasing hormone (CRH), driving the cascade toward labour. Fetal DHEA is converted by the placenta to oestrogen.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "What roles do oestrogen and progesterone play in the onset of labour?",
+"a": "Oestrogen increases oxytocin synthesis, oxytocin receptor expression, and gap junctions, and increases prostaglandin production. Progesterone maintains uterine quiescence and suppresses IL-8 and gap junctions; functional progesterone withdrawal permits labour.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "Which prostaglandin is most important in cervical ripening, and how does it act?",
+"a": "Prostaglandin E2 (PGE2) has the most significant role in cervical ripening. Via COX-2, it increases PGF2-alpha production, causes neutrophil chemotaxis (neutrophils release collagenases that degrade type I collagen) and promotes uterine contraction.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "Which prostaglandins are favoured by the amnion/chorion versus the decidua?",
+"a": "The amnion and chorion primarily produce prostaglandin E2 (PGE2); the decidua favours prostaglandin F2-alpha (PGF2-alpha). PGF2-alpha is the main prostaglandin of the third stage of labour and underlies physiological/active management.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal Physiology",
+"q": "What is the change in uterine weight from non-pregnant to term, and its volume?",
+"a": "The uterus increases from ~40-50 g (non-pregnant, ~10 mL capacity) to ~1000-1200 g at term (~5000 mL capacity). Return to non-pregnant size after delivery is termed uterine involution.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual Cycle",
+"q": "The menstrual cycle is described by two parallel cycles. What are they?",
+"a": "The ovarian cycle (follicular phase, ovulation, luteal phase) and the uterine/endometrial cycle (proliferative phase, secretory phase, menstruation).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual Cycle",
+"q": "In the ovarian cycle, which phase is variable in length and which is fixed?",
+"a": "The follicular phase fluctuates and accounts for variation in total cycle length. The luteal phase is fixed at approximately 14 days.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual Cycle",
+"q": "How do you calculate the day of ovulation if you are given the total cycle length?",
+"a": "Subtract 14 days (the fixed luteal phase) from the cycle length. E.g. in a 28-day cycle ovulation is ~day 14; in a 35-day cycle ~day 21; in a 25-day cycle ~day 11.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual Cycle",
+"q": "Describe the two-cell, two-gonadotrophin theory of ovarian steroidogenesis.",
+"a": "LH acts on theca cells to produce androgens; these androgens diffuse into granulosa cells, where FSH-induced aromatase converts them to oestrogen (oestradiol).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual Cycle",
+"q": "What is the main biologically active oestrogen produced by granulosa cells in the follicular phase?",
+"a": "Oestradiol (the most potent/active form of oestrogen produced by aromatisation of theca-derived androgens).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual Cycle",
+"q": "How does oestradiol exert feedback on the hypothalamic-pituitary axis at LOW concentrations during the early/mid follicular phase?",
+"a": "At low concentrations oestrogen exerts negative feedback on the hypothalamus and pituitary, gradually suppressing FSH, although the growing follicles continue to produce oestrogen.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual Cycle",
+"q": "What feedback effect does HIGH/sustained oestradiol exert in the late follicular phase, and what does it trigger?",
+"a": "Sustained high oestradiol switches to POSITIVE feedback on the hypothalamus/pituitary, increasing GnRH effect and producing the mid-cycle LH surge (and a smaller FSH peak).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual Cycle",
+"q": "At ovulation, both LH and FSH peak. Which surge is larger and why?",
+"a": "The LH surge/peak is larger. Pituitary gonadotrophs producing LH are more responsive to GnRH than those producing FSH, so LH rises more steeply.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual Cycle",
+"q": "Which hormone is directly responsible for triggering ovulation?",
+"a": "The LH surge. LH triggers ovulation via increased progesterone, increased cAMP, and increased prostaglandin (PGF2-alpha) production.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual Cycle",
+"q": "By what mechanism does the LH surge cause physical rupture of the follicle and release of the ovum?",
+"a": "LH increases prostaglandin F2-alpha, which causes contraction/constriction of theca externa smooth muscle, rupturing the Graafian follicle and expelling the ovum.",
+"ai": false,
+"note": "Transcript initially said PGE2 then self-corrected to PGF2-alpha (lines 396-399), which is the form used. Standard texts attribute follicular rupture to LH-induced prostaglandins (PGF2-alpha and PGE2) plus proteolytic enzymes; the theca externa smooth-muscle contraction model is acceptable at MRCOG level."
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual Cycle",
+"q": "At ovulation, does prostaglandin act on theca externa or theca interna?",
+"a": "Theca externa. PGF2-alpha causes contraction of theca externa smooth muscle to rupture the follicle (not theca interna).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual Cycle",
+"q": "How long before ovulation does the LH SURGE begin, and how long before ovulation does the LH PEAK occur?",
+"a": "The LH surge begins approximately 24-36 hours before ovulation; the LH peak occurs approximately 10-12 hours before ovulation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual Cycle",
+"q": "After ovulation, what does the corpus luteum secrete, and which hormone predominates?",
+"a": "The corpus luteum secretes progesterone and oestrogen; progesterone predominates and dominates the luteal phase.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual Cycle",
+"q": "Which hormone is mainly responsible for negative feedback on GnRH during the luteal phase?",
+"a": "Progesterone. It sends negative feedback to the hypothalamus/pituitary to reduce FSH and LH; when the corpus luteum regresses, oestrogen and progesterone fall, allowing the next cycle to begin.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual Cycle",
+"q": "What is the lifespan of the corpus luteum in a non-pregnant cycle, and what prolongs it in pregnancy?",
+"a": "About 14 days (roughly 14-16) in a non-pregnant cycle. In pregnancy, hCG rescues and prolongs it, maintaining progesterone production through the first trimester.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual Cycle",
+"q": "In a 28-day cycle, which single hormone reaches its peak on day 21?",
+"a": "Progesterone (luteal-phase peak ~day 21). It is chosen over oestrogen because progesterone has only one peak, whereas oestrogen has two.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual Cycle",
+"q": "Describe the peaks of oestrogen across the cycle.",
+"a": "Oestrogen has two peaks. The larger peak is in the LATE follicular phase (just before ovulation, driving the LH surge); a second, smaller peak occurs in the luteal phase. The larger of the two is the late-follicular peak.",
+"ai": false,
+"note": "Transcript wording on which peak is larger is garbled in places (lines 203-209, 316-322); standard physiology: the late-follicular (pre-ovulatory) oestrogen peak is the larger one."
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual Cycle",
+"q": "Which hormone has only ONE peak, occurring at mid-cycle?",
+"a": "LH. A single sharp peak at mid-cycle identifies LH; if a question shows one peak only at mid-cycle it is LH.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual Cycle",
+"q": "Which hormone is essentially constant throughout the cycle except for a peak at mid-cycle?",
+"a": "LH (constant/low through most of the cycle with a single sharp mid-cycle peak).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual Cycle",
+"q": "Which hormone begins to rise only a few hours AFTER ovulation (i.e. at the start of the luteal phase)?",
+"a": "Progesterone. It rises shortly after ovulation as the corpus luteum forms.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual Cycle",
+"q": "Why do PCOS patients typically have a raised LH:FSH ratio and high androgens?",
+"a": "Without ovulation there is no corpus luteum and no progesterone, so GnRH is never suppressed and continually stimulates the pituitary. LH responds more strongly than FSH (raised LH:FSH). High LH drives theca androgen production, raising testosterone.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual Cycle",
+"q": "Why does physiological cycle length vary between 21 and 35 days?",
+"a": "Variation arises in the follicular phase: if oestrogen rises more slowly and is delayed in reaching the threshold for positive feedback, the LH surge is delayed and the cycle lengthens. The luteal phase stays fixed (~14 days).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual Cycle",
+"q": "Which prostaglandin is highest PRE-menstruation, and what is its action?",
+"a": "Prostaglandin F2-alpha is highest just before menstruation. Its level rises pre-menstrually and causes spiral arteriole vasoconstriction, leading to shedding of the superficial endometrium.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual Cycle",
+"q": "Which prostaglandin is highest DURING menstruation?",
+"a": "Prostaglandin E2 is highest during menstruation (whereas PGF2-alpha peaks just prior to/at the onset of menstruation).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual Cycle",
+"q": "Which hormone drives the PROLIFERATIVE phase of the endometrium, and what histological features are seen?",
+"a": "Oestrogen drives the proliferative phase. Features: increased mitotic activity, long/tubular straight glands lined by ciliated/columnar epithelium, stromal oedema, and gentle coiling (not super-coiling) of spiral arterioles.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual Cycle",
+"q": "Which hormone drives the SECRETORY phase of the endometrium, and what histological features are seen?",
+"a": "Progesterone drives the secretory phase. Features: sub-nuclear glycogen vacuolation, super-coiled glands giving a 'corkscrew' appearance, dense deeply-coiled spiral arteries, and division into a superficial and a deep (spongy) layer.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual Cycle",
+"q": "Which endometrial phase shows sub-nuclear vacuolation, and what does it indicate?",
+"a": "Sub-nuclear (sub-nuclear glycogen) vacuolation is seen only in the secretory phase and is one of the earliest histological signs that ovulation has occurred.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual Cycle",
+"q": "Soon after ovulation, what is the state of the endometrium?",
+"a": "It enters the secretory phase under the influence of progesterone (glandular secretion, sub-nuclear vacuolation, coiled glands).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual Cycle",
+"q": "Which hormone, increased after ovulation, decreases the PROLIFERATION of the endometrium?",
+"a": "Progesterone. Oestrogen drives proliferation; progesterone converts the endometrium to a secretory state and opposes further proliferation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual Cycle",
+"q": "What is the approximate endometrial thickness in the proliferative vs secretory phase?",
+"a": "The endometrium thickens from roughly 2-3 mm in the late proliferative phase to about 5-6 mm in the secretory phase.",
+"ai": true,
+"note": "Transcript states '2-3 cm' (proliferative) and '5 cm' (secretory), which is anatomically impossible. Correct values are in millimetres: ~2-3 mm proliferative rising to ~5-7 mm secretory. Card uses the correct mm figures."
+},
+{
+"topic": "Physiology",
+"subtopic": "Renal tubular transport",
+"q": "In the nephron, which segment reabsorbs the maximum amount of filtered sodium, glucose, and potassium?",
+"a": "The proximal convoluted tubule (PCT). Sodium-coupled co-transporters (e.g. Na-glucose) move solutes with sodium into the cell, while counter-transporters (e.g. Na-H exchanger) move solutes in the opposite direction to sodium.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Renal handling of glucose",
+"q": "Why does glucose appear in the urine (glycosuria) in diabetes mellitus but not normally?",
+"a": "Normally all filtered glucose is completely reabsorbed in the PCT via SGLT cotransporters, so none appears in urine. In hyperglycaemia the filtered load exceeds the transport maximum (Tm); the SGLT carriers become saturated/occupied, and the excess glucose remains in the tubular fluid and is excreted.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Renal magnesium handling",
+"q": "Where in the nephron is most filtered magnesium reabsorbed, and which segment regulates its excretion?",
+"a": "The majority (~60-70%) of filtered magnesium is reabsorbed paracellularly in the thick ascending limb of the loop of Henle. The distal convoluted tubule reabsorbs only ~5% but is the segment that fine-tunes (regulates) magnesium excretion.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Magnesium metabolism",
+"q": "How is magnesium eliminated from the body, and in what form?",
+"a": "Magnesium is an elemental ion that is not metabolised or conjugated by the liver. It is excreted essentially unchanged, almost entirely via the kidneys. About 20-30% circulates protein-bound; the remainder is in the free ionised (active, functional) form.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Calcium-phosphate regulation",
+"q": "How does parathyroid hormone (PTH) alter renal phosphate and calcium handling, and what stimulates its release?",
+"a": "Low serum calcium and high serum phosphate stimulate PTH. PTH acts on the PCT to increase phosphate excretion (phosphaturia) and activates 1-alpha-hydroxylase (increasing active vitamin D / calcitriol); it acts on the DCT to increase calcium reabsorption. Net effect: serum calcium rises, serum phosphate falls.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Calcium-phosphate regulation",
+"q": "What is the effect of active vitamin D (calcitriol) on intestinal absorption of calcium and phosphate?",
+"a": "Calcitriol increases absorption of BOTH calcium and phosphate from the GI tract (it does not discriminate between them), unlike PTH which raises calcium but lowers phosphate.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Volume regulation - natriuretic peptides",
+"q": "What triggers atrial natriuretic peptide (ANP)/BNP release and what is its action on the kidney?",
+"a": "ANP is released from atrial walls (BNP from ventricular walls) in response to raised blood volume / atrial stretch. It dilates the afferent arteriole, increasing GFR and sodium filtration, and reduces sodium reabsorption in the distal nephron, increasing sodium and water excretion (natriuresis) to lower blood volume and pressure.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "RAAS - aldosterone",
+"q": "What is the action of aldosterone in the nephron, and what stimulates its release?",
+"a": "Aldosterone acts on principal cells of the collecting duct to increase sodium reabsorption and potassium excretion (via the Na/K-ATPase). It is stimulated by low plasma sodium, high plasma potassium, and angiotensin II.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Water balance - ADH",
+"q": "How does antidiuretic hormone (ADH/vasopressin) act on the kidney and what stimulates it?",
+"a": "ADH is released from the posterior pituitary in response to increased plasma osmolality (e.g. dehydration, high salt intake) or decreased blood volume. It inserts aquaporin-2 channels into the principal cells of the collecting duct, increasing water reabsorption; urine osmolality rises and plasma osmolality returns toward normal.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "RAAS - regulation",
+"q": "What are the three main stimuli that activate the renin-angiotensin-aldosterone system (RAAS)?",
+"a": "(1) Decreased blood pressure sensed by baro-receptors in the afferent arteriole; (2) decreased sodium chloride delivery sensed by chemoreceptors of the macula densa; (3) increased sympathetic tone (noradrenaline acting on the juxtaglomerular cells). These trigger renin release from juxtaglomerular cells.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "RAAS - angiotensin II",
+"q": "List the main actions of angiotensin II.",
+"a": "(1) Stimulates aldosterone release from the adrenal cortex (increasing renal Na reabsorption / K excretion); (2) acts on the PCT Na-H exchanger to increase sodium reabsorption and hydrogen excretion; (3) constricts the efferent arteriole to maintain GFR when renal blood flow falls; (4) causes systemic vasoconstriction via AT1 receptors, raising blood pressure; (5) stimulates ADH release.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Acid-base - aldosterone",
+"q": "Why can aldosterone excess cause a metabolic alkalosis?",
+"a": "By increasing distal sodium reabsorption, aldosterone drives increased hydrogen ion (and potassium) excretion. Loss of hydrogen ions raises plasma pH, producing a (contraction) alkalosis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "RAAS - anatomy",
+"q": "Which juxtaglomerular structure secretes renin, and where is it located?",
+"a": "The juxtaglomerular (granular) cells, located in the wall of the afferent arteriole adjacent to the macula densa of the distal tubule, secrete renin. Renin converts angiotensinogen (from the liver) to angiotensin I, which ACE (from the lungs) converts to angiotensin II.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Cardiovascular changes - multiple pregnancy",
+"q": "By what percentage does cardiac output increase in a twin pregnancy compared with a singleton pregnancy?",
+"a": "Cardiac output is approximately 15-20% higher in twin than in singleton pregnancy. For a single-best-answer, choose 20%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Cardiovascular changes - multiple pregnancy",
+"q": "In twin pregnancy, by how much do stroke volume and heart rate increase compared with singleton pregnancy?",
+"a": "Stroke volume is ~15% higher and heart rate ~3.5% higher in twin vs singleton pregnancy. Peak (highest) cardiac output occurs at ~24-28 weeks in twins, versus ~16-20 weeks in singletons.",
+"ai": true,
+"note": "Stroke volume (~15%) and the timing of peak CO are reasonable; the precise 3.5% heart-rate figure and exact peak-CO weeks are course/source-specific values not consistently confirmed in standard references and should be treated cautiously."
+},
+{
+"topic": "Physiology",
+"subtopic": "Cardiovascular changes in pregnancy",
+"q": "By how much does cardiac output rise in a normal singleton pregnancy, and when does it peak?",
+"a": "Cardiac output rises by ~30-50% above non-pregnant values (driven by increased stroke volume ~30% and heart rate ~10-15 bpm), peaking around 16-28 weeks. Stroke volume increase is the dominant early contributor.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "ECG changes in pregnancy",
+"q": "Which normal physiological ECG changes are seen in pregnancy?",
+"a": "Sinus tachycardia (heart rate up ~10-15 bpm), shortened PR interval, left axis deviation (heart axis shifts leftward), small Q waves in leads III and aVF, and T-wave inversion in lead III. These reflect diaphragmatic elevation rotating the heart and the increased heart rate.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "ECG changes in pregnancy",
+"q": "What is the normal range of the cardiac electrical axis, and how does it change in pregnancy?",
+"a": "Normal QRS axis is between -30 and +90 degrees. In pregnancy, left axis deviation occurs (axis shifts toward the -30 to -90 range) due to upward displacement of the heart by the gravid uterus/diaphragm.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Cardiovascular changes in pregnancy",
+"q": "Which normal cardiac auscultation findings can occur in pregnancy?",
+"a": "A systolic (flow) murmur, a loud first heart sound, a third heart sound (S3), and ectopic beats may all be normal in pregnancy. A diastolic murmur, a loud murmur grade 3 or above, or a 4th heart sound (S4) are NOT physiological and warrant investigation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Cardiovascular changes in pregnancy",
+"q": "Which haemodynamic parameters remain UNCHANGED in normal pregnancy?",
+"a": "Central venous pressure and pulmonary capillary wedge pressure remain unchanged despite the large increase in blood volume, because of the marked fall in systemic vascular resistance. Colloid osmotic pressure decreases and pulmonary vascular resistance decreases.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Haematological changes in pregnancy",
+"q": "By how much do blood volume, plasma volume, and red cell mass increase in pregnancy, and why does physiological anaemia occur?",
+"a": "Blood volume increases ~30-45%, plasma volume ~45-50%, and red cell mass ~20-30% (up to ~40% with iron supplementation). Because plasma volume rises proportionately more than red cell mass, there is a dilutional fall in haemoglobin concentration - the physiological anaemia of pregnancy.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Coagulation changes in pregnancy",
+"q": "Which clotting factors DECREASE in pregnancy?",
+"a": "Factors XI and XIII decrease in pregnancy. Most other procoagulant factors (e.g. I/fibrinogen, VII, VIII, IX, X, XII, von Willebrand factor) increase, making pregnancy a hypercoagulable state. Factor IX is variable (may be unchanged or mildly increased).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Coagulation changes in pregnancy",
+"q": "What happens to fibrinogen and D-dimer in pregnancy, and what is the clinical implication for D-dimer?",
+"a": "Fibrinogen rises from ~2-4 g/L (non-pregnant) to ~3-6 g/L in pregnancy. D-dimer also rises physiologically, so it is NOT a reliable test for excluding venous thromboembolism in pregnancy.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Coagulation changes in pregnancy",
+"q": "What drives the hypercoagulable, procoagulant state of pregnancy at a molecular level?",
+"a": "Oestrogen increases gene expression of clotting factors, producing a net increase in procoagulants and a relatively reduced fibrinolytic state. Fibrinolytic activity returns to normal within ~1 hour of delivery of the placenta.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Reproductive endocrine signalling",
+"q": "What type of cellular signalling do prostaglandins, inhibin, and activin use?",
+"a": "They act by both autocrine and paracrine signalling. When asked for the single best answer, prostaglandins (and inhibin/activin) are classically described as having paracrine function.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Ovulation - LH dynamics",
+"q": "How long before ovulation does the LH surge begin, and how long before ovulation is the LH peak?",
+"a": "The onset of the LH surge precedes ovulation by ~36 hours. The LH peak precedes ovulation by ~10-12 hours. The interval from LH surge onset to LH peak is therefore ~24 hours.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Ovulation - mechanism",
+"q": "Which prostaglandin mediates ovulation (follicle rupture), and why?",
+"a": "Prostaglandin F2-alpha, because it causes smooth muscle contraction promoting expulsion/rupture of the oocyte from the follicle.",
+"ai": true,
+"note": "Both PGE2 and PGF2-alpha are involved in ovulation/follicle rupture in standard physiology; attributing rupture solely to PGF2-alpha is an oversimplification. PGF2-alpha is, however, correctly the agent used for cervical ripening/contraction."
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual cycle - feedback",
+"q": "Describe the two-feedback effect of oestradiol on the hypothalamic-pituitary axis during the cycle.",
+"a": "At low/moderate concentrations oestradiol exerts negative feedback, suppressing LH and FSH. Once oestradiol exceeds a threshold and is sustained, it switches to positive feedback, triggering the GnRH-driven LH surge that causes ovulation. LH-producing cells are more sensitive to oestradiol than FSH-producing cells, so the LH peak is larger.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual cycle - feedback threshold",
+"q": "What oestradiol concentration and duration switch the hypothalamus from negative to positive feedback (triggering the LH surge)?",
+"a": "Sustained oestradiol of approximately >200 pg/mL (~700 pmol/L) for about 48 hours switches feedback from negative to positive, triggering the LH surge.",
+"ai": true,
+"note": "The lecture stated the threshold as >300 pmol/L, which is incorrect (~82 pg/mL is far too low to trigger positive feedback). The accepted threshold is ~>200 pg/mL (approx >700 pmol/L) sustained for ~48 hours. Corrected value used in this card."
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual cycle - luteal phase / PCOS",
+"q": "Which hormone maintains the luteal phase and suppresses LH/FSH after ovulation, and what happens to it in PCOS?",
+"a": "Progesterone (from the corpus luteum) dominates the luteal phase and provides negative feedback suppressing LH and FSH. In anovulatory PCOS, no corpus luteum forms, so progesterone stays low, negative feedback is reduced, and LH (and FSH) remain raised - characteristically with a high LH:FSH ratio.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual cycle - phases",
+"q": "Which phase of the ovarian cycle has a fixed length and which can vary?",
+"a": "The luteal phase is essentially fixed at ~14 days. The follicular phase is variable - it lengthens if oestrogen fails to reach the threshold needed to trigger GnRH/LH/FSH and ovulation, so cycle-length variability comes from the follicular phase.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstrual cycle - hormone profile",
+"q": "Which hormones peak during the cycle, and which produce visible peaks on a hormone-profile diagram?",
+"a": "LH shows a single sharp pre-ovulatory peak (largest, triggers ovulation). Oestradiol shows two peaks - a larger pre-ovulatory peak and a smaller mid-luteal peak (~day 18). Progesterone shows a single mid-luteal peak (~day 20-21), larger than the oestradiol luteal peak.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Endometrial cycle - histology",
+"q": "Describe the histological appearance of proliferative-phase (oestrogen-dependent) endometrium.",
+"a": "Long, straight tubular glands with increased ciliated and microvillous cells, increased mitotic figures, abundant stroma, and straight spiral arteries. A well-defined basal layer is preserved. Driven by oestrogen.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Endometrial cycle - histology",
+"q": "Describe the histological appearance of secretory-phase (progesterone-dependent) endometrium.",
+"a": "Highly coiled (corkscrew/saw-tooth) glands, deeply coiled spiral arteries, sub-nuclear glycogen vacuolation, and endometrial thickness increasing to ~2-3 mm (up to ~5 mm). Progesterone from the corpus luteum drives the secretory change.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Endometrial cycle",
+"q": "Around day 14, what endometrial appearance is expected and what does it indicate?",
+"a": "Around day 14 (at ovulation), the endometrium is at the end of the proliferative phase; after ovulation it becomes secretory. So early proliferative changes are seen up to ~day 14 and secretory changes appear after ovulation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Endometrial histology - postmenopausal",
+"q": "What histological features suggest postmenopausal (atrophic) endometrium?",
+"a": "Scanty stroma and very low/absent mitotic figures (reduced cell division), reflecting loss of oestrogenic stimulation and atrophy.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Pregnancy endocrinology - hCG",
+"q": "What is the role of beta-hCG in early pregnancy and how is it used clinically?",
+"a": "hCG (from trophoblast/placenta) prevents regression of the corpus luteum, maintaining progesterone production until the placenta takes over (~8-12 weeks / end of first trimester). Clinically, serial beta-hCG levels help determine whether a miscarriage has occurred or pregnancy is ongoing.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Pregnancy endocrinology",
+"q": "Which hormone supports the continuation of pregnancy, and which hormone deficiency can cause miscarriage?",
+"a": "Progesterone supports pregnancy. Deficiency of progesterone (or inadequate corpus luteum/hCG support) can lead to miscarriage.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Fetal haematopoiesis",
+"q": "When does fetal haematopoiesis begin and at which site?",
+"a": "Haematopoiesis begins in the early second week of development in the yolk sac, which produces the first (primitive) megaloblastic red cells.",
+"ai": true,
+"note": "Standard embryology dates yolk-sac (mesoblastic) haematopoiesis to ~3 weeks of gestation, not the 2nd week; the lecturer's '2nd week' is borderline/imprecise. The yolk-sac site and primitive megaloblastic erythropoiesis are correct."
+},
+{
+"topic": "Physiology",
+"subtopic": "Respiratory changes in pregnancy",
+"q": "What acid-base change occurs in normal pregnancy and why?",
+"a": "A compensated respiratory alkalosis. Progesterone increases minute ventilation and respiratory rate, causing washout of CO2 (low PaCO2); renal compensation lowers bicarbonate. Minute ventilation rises by roughly 40-50% (single-best-answer ~40%).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Cardiovascular/respiratory changes in pregnancy",
+"q": "What happens to oxygen consumption and peripheral (systemic) vascular resistance in pregnancy?",
+"a": "Oxygen consumption increases (~20%). Peripheral/systemic vascular resistance decreases due to progesterone-mediated vasodilatation, which (with arteriovenous shunting) helps keep blood pressure low despite the increased blood volume and cardiac output.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Placental transport",
+"q": "How is hCG transported across the placental syncytiotrophoblast?",
+"a": "By transcytosis - endocytosis on one side followed by exocytosis (pinocytosis-type vesicular transport) - allowing the large glycoprotein hormone to cross the cell.",
+"ai": true,
+"note": "Transcellular vesicular transport (endocytosis/exocytosis) is plausible for large peptide hormones, but the exact placental transport mechanism for hCG is not a firmly standardised MRCOG fact and the transcript passage here was heavily garbled; verify against the course's primary source."
+},
+{
+"topic": "Physiology",
+"subtopic": "Reproductive physiology / Menopause",
+"q": "In a post-menopausal woman with hypo-oestrogenism, what are the effects on the vaginal epithelium with respect to lactobacilli, pH, blood flow, collagen and tissue atrophy?",
+"a": "Lactobacilli decrease, pH increases (becomes more alkaline), blood flow decreases, collagen decreases, and tissue atrophy increases.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Endometrial cycle",
+"q": "During the first 14 days of the menstrual cycle (follicular phase), what type of endometrium predominates and under which hormone's influence?",
+"a": "A proliferative endometrium, driven by oestrogen.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Endometrial cycle",
+"q": "After ovulation (luteal phase), what histological features characterise the secretory endometrium and which hormone drives it?",
+"a": "Progesterone drives the secretory phase; glands become coiled/tortuous and sub-nuclear vacuoles (glycogen) appear, with increased nuclear halos.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Endometrial cycle",
+"q": "An endometrial biopsy taken for amenorrhoea shows scant stroma, absent mitotic figures and small glands. What does this represent?",
+"a": "Atrophic (inactive) endometrium, as seen in post-menopausal / hypo-oestrogenic states.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Placental transport",
+"q": "By what process is IgG transported across the placenta?",
+"a": "Receptor-mediated endocytosis (pinocytosis) - an active, energy-dependent process, not simple/passive transport. IgG is the main immunoglobulin transferred across the placenta.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Menstruation / Prostaglandins",
+"q": "Which prostaglandin causes the smooth muscle contraction of endometrial blood vessels that initiates menstruation, and which predominates during menstrual flow?",
+"a": "Prostaglandin F2-alpha causes vasoconstriction/contraction before and at the onset of menstruation (disrupting endometrial blood supply and triggering shedding); prostaglandin E2 predominates during menstruation. PGF2-alpha also contracts the follicle to help expel the ovum at ovulation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal cardiovascular physiology",
+"q": "By how much does cardiac output rise in the first stage, second stage of labour, and immediately postpartum?",
+"a": "First stage ~15-20%, second stage ~50%, and immediately postpartum ~60-80% above pre-labour values (due to autotransfusion and relief of caval compression). It returns to normal by around 6 weeks postpartum.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal cardiovascular physiology",
+"q": "What happens to the pulmonary capillary wedge pressure (PCWP) in normal pregnancy?",
+"a": "It remains essentially unchanged, typically around 6-12 mmHg, despite increases in blood volume and cardiac output.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal cardiovascular physiology",
+"q": "What are the typical ECG changes seen in normal pregnancy?",
+"a": "Left axis deviation (~15 degrees), T-wave inversion in lead III, a Q wave in lead III and aVF, a shortened PR interval, and increased heart rate (~10-15% faster). Right axis deviation and absent QRS are NOT features.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Fetal haematopoiesis",
+"q": "At which gestations do the successive sites of fetal haematopoiesis begin: yolk sac, liver, and bone marrow?",
+"a": "Yolk sac from ~2 weeks (14 days); liver from ~6 weeks (continuing to ~18-30 weeks); bone marrow from ~8 weeks, becoming the predominant adult site.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Fetal haematopoiesis",
+"q": "What is the correct sequence of sites of fetal haematopoiesis?",
+"a": "Yolk sac, then liver, then bone marrow.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal respiratory physiology",
+"q": "By how much does tidal volume and minute ventilation increase in pregnancy?",
+"a": "Tidal volume increases by about 30-40% and minute ventilation by about 40-50%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Maternal haematology",
+"q": "At approximately what gestation is maximum maternal plasma volume expansion (and the nadir of physiological anaemia) reached?",
+"a": "Around 32 weeks' gestation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Fetal cardiovascular physiology",
+"q": "What proportion of total body weight is blood volume in the fetus, and what is the total blood volume of a term newborn?",
+"a": "Fetal blood volume is about 10-12% of total body weight; total blood volume in a term newborn is approximately 85 ml/kg.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Fetal cardiovascular physiology",
+"q": "How is fetal cardiac output described, and how does the proportion of combined output change between 20 and 32 weeks?",
+"a": "It is the combined output of BOTH ventricles (not just the left), because the parallel circulation has right-to-left shunts. The combined output is ~33% at 20 weeks falling toward ~20% relative measures later in gestation; about 40% of combined output goes to the placenta.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Fetal metabolism",
+"q": "What are the main metabolic fuels used by the fetus?",
+"a": "Glucose/carbohydrates and lactate.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Fetal haemoglobin",
+"q": "Which haemoglobin predominates before 10 weeks' gestation, and which from 10 weeks to birth?",
+"a": "Embryonic haemoglobin (e.g. Gower 1) predominates before ~10 weeks; fetal haemoglobin (HbF) predominates from ~10 weeks until birth.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Fetal haemoglobin",
+"q": "What percentage of haemoglobin is fetal haemoglobin (HbF) at birth, and at 32 weeks?",
+"a": "Approximately 50-90% of total haemoglobin at birth, and up to ~90% at 32 weeks.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Fetal haemoglobin",
+"q": "When does synthesis of adult haemoglobin (alpha and beta chains) begin in the fetus, and when does it reach measurable amounts?",
+"a": "Alpha- and beta-chain synthesis begins around 10 weeks but only in very small concentration; adult haemoglobin is present in measurable amounts by about 24-28 weeks.",
+"ai": false,
+"note": "Globin switch from HbF to HbA accelerates around 32 weeks; transcript's 10-week start and 24-28 week measurable amount align with standard teaching."
+},
+{
+"topic": "Physiology",
+"subtopic": "Fetal haemoglobin",
+"q": "What percentage of haemoglobin is fetal haemoglobin (HbF) by 6 months of age?",
+"a": "Less than 2% (adult haemoglobin predominates by then).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Fetal/neonatal circulation",
+"q": "What mechanisms contribute to closure of the ductus arteriosus at birth?",
+"a": "A rise in arterial pO2 (oxygen causes ductal constriction), a fall in prostaglandin E2 (PGE2 had maintained patency in utero), and increased bradykinin release from the expanding lungs - all promote constriction. PGE2 has a greater role than PGE1.",
+"ai": false,
+"note": "Standard teaching: increased O2, decreased PGE2, and increased bradykinin all promote closure. The transcript at one point lists bradykinin as 'decreased', which is an error - bradykinin release increases and causes constriction; card states the established mechanism."
+},
+{
+"topic": "Physiology",
+"subtopic": "Fetal renal physiology",
+"q": "At what gestation does fetal urine production begin, and what is the approximate daily urine output near term?",
+"a": "Urine production begins around 9-11 weeks (some sources 8-11 weeks); fetal urine output is approximately 800 ml/day.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Fetal renal physiology",
+"q": "What proportion of fetal cardiac output goes to the kidneys, and how does renal blood flow change after birth?",
+"a": "Only about 2-3% of fetal cardiac output goes to the kidneys (versus ~25% in the adult). By the fourth day after birth this rises to about 10%, an approximately 5-fold increase.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Fetal renal physiology",
+"q": "By what gestation does the fetus have a nephron number similar to the adult (i.e. nephrogenesis essentially complete)?",
+"a": "By about 34 weeks.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Amniotic fluid",
+"q": "From what gestation does fetal urine become the major contributor to amniotic fluid?",
+"a": "From about 18 weeks onward; before this the amniotic membrane and (later) the fetal lungs/skin contribute.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Amniotic fluid",
+"q": "When does fetal swallowing begin, and approximately how much amniotic fluid is swallowed per day?",
+"a": "Swallowing begins around the end of the first trimester (~12 weeks); the fetus swallows approximately 250 ml/day (term values are often quoted in the 200-500 ml/day range).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Amniotic fluid",
+"q": "At what gestation is amniotic fluid index (AFI) maximal?",
+"a": "Around 34-36 weeks (often quoted as ~35 weeks); AFI then declines toward term. Some sources support a peak as early as 32 weeks.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Fetal respiratory physiology",
+"q": "When does fetal breathing movement begin, which cells secrete lung fluid, and which secrete surfactant?",
+"a": "Fetal breathing movements begin around 12 weeks. Alveolar epithelium secretes lung fluid; surfactant is secreted by type II pneumocytes (via lamellar bodies).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Fetal respiratory physiology",
+"q": "When does pulmonary surfactant production begin, and what is its major lipid constituent?",
+"a": "Surfactant production by type II pneumocyte lamellar bodies begins around 24 weeks. The major constituent is dipalmitoyl phosphatidylcholine (lecithin), making up ~90%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Fetal respiratory physiology",
+"q": "Which factors increase and which decrease fetal surfactant production?",
+"a": "Increase: corticosteroids/glucocorticoids (betamethasone, dexamethasone, cortisol), thyroid hormone, catecholamines, prolactin. Decrease: maternal diabetes and androgens. Fetal breathing is decreased by maternal alcohol/sedatives and fetal hypoxia, and increased by maternal meals/glucose intake or acidosis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Fetal respiratory physiology",
+"q": "Which steroid hormone produced by the fetus increases pulmonary surfactant, and why is 11-deoxycorticosterone not the answer?",
+"a": "Cortisol (a glucocorticoid) increases surfactant. 11-deoxycorticosterone acts as a mineralocorticoid, not a glucocorticoid, so it does not stimulate surfactant.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Lung development",
+"q": "In which phase of lung development do the following appear: lung buds, conducting airways and type II pneumocytes, the air-blood interface, secondary alveoli, and mature alveoli?",
+"a": "Embryonic phase: lung buds. Pseudoglandular phase: conducting airways and type II pneumocytes. Canalicular phase: the air-blood interface (and type I pneumocytes / blood-gas barrier). Saccular phase: secondary alveoli. Alveolar phase: mature alveoli (by ~36 weeks).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Lung development",
+"q": "At what gestation does definitive (mature) alveoli formation occur?",
+"a": "By about 36 weeks.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Fetal endocrine development",
+"q": "When do the anterior and posterior pituitary develop in the fetus?",
+"a": "Anterior pituitary develops first, around 4-5 weeks; posterior pituitary develops by about 7 weeks.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Fetal CNS development",
+"q": "When does the sense of touch develop in the fetal CNS?",
+"a": "By about 10 weeks. (Note: teratogen sensitivity is greatest in the CNS during organogenesis.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Physiology",
+"subtopic": "Fetal GIT / hepatic physiology",
+"q": "What is the role of the fetal liver in metabolism and haematopoiesis, and when does meconium first appear?",
+"a": "The fetal liver is a haematopoietic organ and progressively takes over metabolic functions (e.g. cholesterol handling) that the placenta performs earlier in gestation. Meconium first appears around 10-12 weeks.",
+"ai": false,
+"note": ""
+}
+]
 }
 ];
