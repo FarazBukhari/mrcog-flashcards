@@ -6018,6 +6018,2796 @@ window.SECTIONS = [
 ]
 },
 {
+"id": "biostatistics",
+"title": "Biostatistics",
+"cards": [
+{
+"topic": "Biostatistics",
+"subtopic": "Maternal mortality / rates",
+"q": "What is the current UK maternal mortality rate (MBRRACE-UK), and per what denominator is it expressed?",
+"a": "Approximately 12.8 per 100,000 maternities (women giving birth).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Rates and ratios",
+"q": "Why is maternal mortality expressed per 100,000 rather than per 1,000?",
+"a": "Maternal deaths are relatively rare events, so a larger denominator (per 100,000) gives a more meaningful, readable rate; mortality rates in general are conventionally reported per 100,000.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Types of data",
+"q": "What type of data is ABO blood group?",
+"a": "Nominal (categorical) data – categories with no inherent order.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Types of data",
+"q": "What type of data are scales such as the Apgar scale, pain scale or satisfaction scale, and what is their key limitation?",
+"a": "Ordinal data – ordered categories, but the intervals between values are not necessarily equal.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Types of data",
+"q": "What feature distinguishes ratio data from interval data?",
+"a": "Ratio data has a true (absolute) zero, so values cannot go below zero (e.g. height, weight, gestational age). Interval data has no true zero and can take negative values.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Types of data",
+"q": "Is gestational age interval or ratio data, and why?",
+"a": "Ratio data – it has a true zero and cannot be negative.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Standard error / dispersion",
+"q": "What is the formula for the standard error of the mean (SEM)?",
+"a": "SEM = standard deviation ÷ √(sample size), i.e. SD/√n.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Standard error / dispersion",
+"q": "What is the difference between standard deviation and standard error of the mean?",
+"a": "SD describes how individual data values in a single sample scatter around that sample's mean. SEM describes how close the sample mean is likely to be to the true population mean; SEM is used when making inferences about the population.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Confidence intervals",
+"q": "What z-value (multiplier) is used to construct a 95% confidence interval?",
+"a": "Approximately 1.96 (often rounded to 2 for exam calculations).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Confidence intervals",
+"q": "How do you calculate a 95% confidence interval for a mean?",
+"a": "95% CI = mean ± (z × SEM) = mean ± (1.96 × SD/√n). The ± gives the lower and upper limits on each side of the mean.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Confidence intervals",
+"q": "List the approximate z-multipliers for 90%, 95%, 98% and 99% confidence intervals.",
+"a": "90% → 1.64; 95% → 1.96; 98% → 2.33; 99% → 2.58.",
+"ai": true,
+"note": "Transcript garbled the table. Correct standard values: 90%=1.645, 95%=1.96, 98%=2.33, 99%=2.576. The transcript appeared to mis-assign 2.33 to 95%; corrected here."
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Measures of dispersion",
+"q": "How is range calculated?",
+"a": "Range = highest value − lowest value in the dataset.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Measures of dispersion",
+"q": "What is the relationship between variance and standard deviation?",
+"a": "Variance = (standard deviation)²; conversely, standard deviation = √(variance).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Measures of dispersion",
+"q": "How is the interquartile range (IQR) calculated?",
+"a": "IQR = Q3 − Q1 (upper quartile minus lower quartile).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Distributions",
+"q": "In a normal (Gaussian / bell-shaped) distribution, what is the relationship between mean, median and mode?",
+"a": "They are all equal and coincide at the centre of the distribution.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Distributions",
+"q": "In a negatively skewed distribution, which way does the tail point and where does the mode lie relative to the mean?",
+"a": "The tail points toward the left (lower values). The mode is the greatest (highest point), lying to the right of the mean; order is mean < median < mode.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Distributions",
+"q": "How many modes does a bimodal distribution have?",
+"a": "Two modes.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Box-and-whisker plot",
+"q": "On a box-and-whisker plot, what do the top and bottom edges of the box represent?",
+"a": "The top of the box = upper quartile (Q3); the bottom of the box = lower quartile (Q1). The box therefore spans the interquartile range.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Box-and-whisker plot",
+"q": "On a box-and-whisker plot, what do the ends of the whiskers represent?",
+"a": "The maximum and minimum values within range (excluding outliers). They do NOT extend from the quartiles to outliers – outliers are plotted as separate dots.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Forest plot / meta-analysis",
+"q": "On a forest plot, what does the diamond represent?",
+"a": "The diamond represents the overall (pooled) result of the meta-analysis combining all included studies.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Forest plot / meta-analysis",
+"q": "On a forest plot, what do the lateral (horizontal) tips of the overall diamond represent?",
+"a": "The lateral ends of the diamond represent the 95% confidence interval of the pooled (overall) result.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Statistical tests",
+"q": "Which non-parametric test compares the variable of two unpaired (independent) samples?",
+"a": "Mann-Whitney U test.",
+"ai": false,
+"note": "Transcript described 'a non-parametric test comparing two unpaired/independent groups' without naming it clearly; standard answer is the Mann-Whitney U test."
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Statistical tests",
+"q": "Which statistical test is used when comparing proportions between groups (categorical data)?",
+"a": "Chi-squared (χ²) test.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Correlation / regression",
+"q": "Which tests are used to assess correlation between two variables, depending on data type/distribution?",
+"a": "Pearson correlation for normally distributed (parametric) continuous data; Spearman rank correlation for non-parametric/ordinal data. (Linear regression models the relationship/prediction between variables.)",
+"ai": false,
+"note": "Transcript was garbled here; standard pairing is Pearson (parametric) vs Spearman (non-parametric); linear regression for prediction."
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Statistical tests",
+"q": "If data follows a normal distribution (e.g. after logarithmic transformation), which class of statistical test should be used?",
+"a": "A parametric test (e.g. t-test).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Diagnostic test statistics",
+"q": "Define sensitivity and give its formula.",
+"a": "Sensitivity = proportion of people WITH the disease who test positive = true positives ÷ all disease positive = TP ÷ (TP + FN).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Diagnostic test statistics",
+"q": "Define specificity and give its formula.",
+"a": "Specificity = proportion of people WITHOUT the disease who test negative = true negatives ÷ all disease negative = TN ÷ (TN + FP).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Diagnostic test statistics",
+"q": "Define positive predictive value (PPV) and give its formula.",
+"a": "PPV = proportion of people who test positive who actually have the disease = true positives ÷ all test positive = TP ÷ (TP + FP).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Diagnostic test statistics",
+"q": "Define negative predictive value (NPV) and give its formula.",
+"a": "NPV = proportion of people who test negative who truly do not have the disease = true negatives ÷ all test negative = TN ÷ (TN + FN).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Diagnostic test statistics",
+"q": "Which factor does positive predictive value (PPV) depend on, and how?",
+"a": "PPV has a direct relationship with disease prevalence – as prevalence increases, PPV increases (and NPV decreases).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Diagnostic test statistics",
+"q": "How is the accuracy of a diagnostic test calculated?",
+"a": "Accuracy = (true positives + true negatives) ÷ total = (TP + TN) ÷ (TP + TN + FP + FN).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Likelihood ratios",
+"q": "What is the formula for the positive likelihood ratio (LR+)?",
+"a": "LR+ = sensitivity ÷ (1 − specificity).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Likelihood ratios",
+"q": "What is the formula for the negative likelihood ratio (LR−)?",
+"a": "LR− = (1 − sensitivity) ÷ specificity.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Likelihood ratios",
+"q": "What do a likelihood ratio greater than 10 and a likelihood ratio less than 0.1 indicate?",
+"a": "LR+ > 10 strongly rules IN disease (test is highly useful/specific for ruling in); LR− < 0.1 strongly rules OUT disease (test is highly useful/sensitive for ruling out).",
+"ai": true,
+"note": "Transcript was garbled ('less than 10 = highly sensitive'). Correct thresholds: LR+ >10 = rule in (high specificity); LR− <0.1 = rule out (high sensitivity)."
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Odds ratio",
+"q": "What is the alternative formula for odds (used to derive odds ratio)?",
+"a": "Odds = probability ÷ (1 − probability).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Odds ratio",
+"q": "In a 2×2 table (a=exposed cases, b=exposed controls, c=unexposed cases, d=unexposed controls), what is the formula for the odds ratio?",
+"a": "Odds ratio = (a × d) ÷ (b × c), i.e. AD/BC.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Odds ratio",
+"q": "What does an odds ratio greater than 1 indicate?",
+"a": "A positive association – exposure to the risk factor is associated with an increased incidence/rate of the event (increased odds of the outcome).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Relative risk",
+"q": "How is relative risk (RR) calculated from a cohort study 2×2 table?",
+"a": "RR = incidence in exposed ÷ incidence in unexposed = [a/(a+b)] ÷ [c/(c+d)].",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Relative risk",
+"q": "In a cohort study, 400/5000 smokers and 200/10000 non-smokers developed CVD over 10 years. What is the relative risk?",
+"a": "Incidence in exposed = 400/5000 = 0.08; incidence in unexposed = 200/10000 = 0.02; RR = 0.08/0.02 = 4.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Number needed to treat",
+"q": "How is the number needed to treat (NNT) calculated?",
+"a": "NNT = 1 ÷ absolute risk reduction (ARR), where ARR = control event rate − experimental event rate. NNT is rounded up to the next whole number.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Hypothesis testing / errors",
+"q": "What is a type 1 error and what is its conventional symbol?",
+"a": "A type 1 error (alpha, α) is a false positive – rejecting the null hypothesis when it is actually true (concluding there is a difference when none exists).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Hypothesis testing / errors",
+"q": "What is a type 2 error and what is its conventional symbol?",
+"a": "A type 2 error (beta, β) is a false negative – failing to reject the null hypothesis when it is actually false (concluding there is no difference when one truly exists).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Power / sample size",
+"q": "How is the power of a study related to the type 2 (beta) error?",
+"a": "Power = 1 − β. If power is 90% (0.9), the chance of a type 2 error is 1 − 0.9 = 0.1, i.e. 10%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Hypothesis testing / errors",
+"q": "With a 95% confidence interval, what is the corresponding alpha (type 1) error?",
+"a": "Alpha = 1 − 0.95 = 0.05 (5%).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "P-values",
+"q": "What does a p-value < 0.05 conventionally indicate?",
+"a": "Statistical significance – the result is unlikely to be due to chance alone, so the null hypothesis is rejected (at the 5% significance level).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "ROC curve",
+"q": "On an ROC curve, what does a curve closer to the top-left corner indicate, and what does the area under the curve (AUC) represent?",
+"a": "A curve nearer the top-left (further above the diagonal reference line) indicates a better-performing test; a perfect test reaches the top-left corner. The AUC quantifies overall test performance/discrimination (higher AUC = better test).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "BMI calculation",
+"q": "What is the formula for BMI?",
+"a": "BMI = weight (kg) ÷ height (m)². Weight must be in kilograms and height in metres before calculating.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "BMI classification",
+"q": "Which WHO obesity class is a BMI of 40 or above?",
+"a": "Class III obesity (BMI ≥ 40).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Maternal mortality definitions",
+"q": "Define a DIRECT maternal death and give examples.",
+"a": "Death resulting from obstetric complications of pregnancy, labour or the puerperium, or their management. Examples: antepartum/postpartum haemorrhage, pre-eclampsia/eclampsia, amniotic fluid embolism, pulmonary embolism (pregnancy-related).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Maternal mortality definitions",
+"q": "Define an INDIRECT maternal death.",
+"a": "Death from a pre-existing disease, or a disease that developed during pregnancy, which was not due to direct obstetric causes but was aggravated by the physiological effects of pregnancy (e.g. cardiac disease, epilepsy exacerbated by pregnancy).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Maternal mortality definitions",
+"q": "Within what time period after the end of pregnancy is a death classified as a maternal death (vs a late maternal death)?",
+"a": "A maternal death occurs while pregnant or within 42 days of the end of pregnancy. A late maternal death occurs from 42 days up to 1 year after the end of pregnancy.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Maternal mortality definitions",
+"q": "Under which category of maternal death does an ectopic pregnancy death fall?",
+"a": "A direct maternal death (it results directly from a complication of pregnancy/its abnormal location).",
+"ai": true,
+"note": "The lecturer's statements were contradictory/garbled, at points placing ectopic pregnancy under 'coincidental/incidental'. Standard classification: ectopic pregnancy death is a DIRECT maternal death (RCOG/MBRRACE)."
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Maternal mortality definitions",
+"q": "How is a death from a road traffic accident in a pregnant woman classified?",
+"a": "A coincidental (incidental) death – the cause is unrelated to the pregnancy.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Maternal mortality definitions",
+"q": "How is maternal suicide due to pregnancy-related postpartum depression/psychosis classified?",
+"a": "As a direct maternal death (when the psychiatric illness causing it was caused/complicated by the pregnancy or puerperium).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Perinatal mortality rate",
+"q": "What is the general (WHO) formula for the perinatal mortality rate?",
+"a": "PMR = (stillbirths + early neonatal deaths) ÷ total births × 1000. (Total births = live births + stillbirths.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Perinatal mortality rate",
+"q": "When calculating perinatal mortality rate, which neonatal deaths are included – early or all neonatal deaths?",
+"a": "Only EARLY neonatal deaths (deaths in the first 0–6 days / within 7 days of life), not all neonatal deaths (which extend to 28 days).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Perinatal mortality rate",
+"q": "Given 50 stillbirths and 10 early neonatal deaths among 300,000 total births, calculate the perinatal mortality rate.",
+"a": "PMR = (50 + 10) ÷ 300,000 × 1000 = 60 ÷ 300 = 0.2 per 1000 total births.",
+"ai": false,
+"note": "Transcript figures were partly garbled (mentioned 100 then 50/10). Using stated 50 stillbirths + 10 early neonatal deaths / 300,000 births gives 60/300,000 × 1000 = 0.2 per 1000."
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Levels of evidence",
+"q": "In the SIGN/GRADE hierarchy of evidence, what study type provides the highest grade (Grade A) of recommendation?",
+"a": "At least one randomised controlled trial (or meta-analysis/systematic review of RCTs) provides Grade A level evidence.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Levels of evidence",
+"q": "What study type corresponds to Grade B evidence in the SIGN hierarchy?",
+"a": "At least one well-designed, non-randomised (controlled) study – e.g. a high-quality, well-controlled cohort or case-control study.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Bias / study design",
+"q": "Why should the consultant (rather than a resident/layperson) perform the procedure in a comparative interventional study?",
+"a": "To minimise performance/operator bias – a consistent, expert operator ensures the technique itself does not differentially affect the outcome being compared.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "What are the two broad classifications of data?",
+"a": "Categorical (qualitative) data and numerical (quantitative) data.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "What is categorical (qualitative) data?",
+"a": "Data that is divided/arranged into categories based on a quality rather than numbers (e.g., blood type, eye colour).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "What is numerical (quantitative) data?",
+"a": "Data that can be represented by numbers/quantity (e.g., weight, height, IQ, temperature, pH).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "What are the two subtypes of categorical data?",
+"a": "Nominal data and ordinal data.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "What is nominal data?",
+"a": "Categorical data with no inherent/specific order between the categories (e.g., eye colour, sex, blood group, nationality, ethnicity).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "What is the difference between dichotomous and polytomous nominal data?",
+"a": "Dichotomous (binary) data has only two possible categories (e.g., male/female, true/false, 0/1); polytomous data has more than two possible categories (e.g., eye colour with 3-4 options).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "What is ordinal data?",
+"a": "Categorical data that can be arranged in a meaningful order/rank (e.g., agreement scales, satisfaction scales, pain scale, BMI status, blood loss severity).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "Give examples of ordinal scales used clinically.",
+"a": "Agreement/disagreement scales (e.g., strongly disagree to strongly agree), satisfaction scales, pain scales, and status categories such as BMI status (underweight/normal/overweight/obese) or blood loss severity (mild/moderate/severe).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "What are the two subtypes of numerical data?",
+"a": "Discrete and continuous data.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "What is discrete numerical data?",
+"a": "Countable data represented by whole numbers that cannot meaningfully take decimal values (e.g., number of students in a class, number of books, number of caesarean sections per day).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "What is continuous numerical data?",
+"a": "Measured data that can take any value within a range, including decimals, and is effectively infinite/uncountable (e.g., exact age, weight, height, time, gestational age).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "What are the two subtypes of continuous data?",
+"a": "Interval scale and ratio scale.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "What distinguishes a ratio scale from an interval scale?",
+"a": "A ratio scale has a true zero, where zero means the variable is completely absent and values cannot go below zero. An interval scale has no true zero; zero is an arbitrary point and the variable can take negative values.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "What is a 'true zero' on a ratio scale?",
+"a": "A point where a value of zero indicates the complete absence of the variable, and the variable cannot fall below zero (e.g., weight, age, BMI cannot be negative).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "Why are temperature (Celsius) and pH considered interval data?",
+"a": "Because they lack a true zero: 0 does not mean absence of the quantity, and values can go negative (temperature below 0; pH can be negative), so zero is arbitrary rather than absolute.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "What type of data is gestational age, and why?",
+"a": "Continuous ratio data. It is measured with a unit (weeks/days) and recorded with fractional precision (e.g., 5 weeks 4 days), and it has a true zero (age cannot be negative or absent below zero).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "What type of data is BMI as a value versus BMI status?",
+"a": "BMI as a numeric value is continuous ratio data (can be expressed as a decimal; cannot be below zero). BMI status (underweight/normal/overweight/obese) is ordinal data.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "What type of data is ABO blood group?",
+"a": "Nominal data: it has no unit and no inherent order between categories.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "What type of data is sex (male/female)?",
+"a": "Nominal data (specifically dichotomous/binary): no unit and no order, with only two categories.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "What type of data is number of caesarean sections per day in a hospital?",
+"a": "Discrete numerical data: it is a countable whole number.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "What type of data is a pain score / pain scale?",
+"a": "Ordinal data, because it follows an order of severity (e.g., slight, moderate, severe) and should not be treated as discrete numerical.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "What type of data are the Glasgow Coma Scale and Apgar score?",
+"a": "The lecture classifies them as discrete numerical data because they are recorded as whole-number scores with no decimals between values.",
+"ai": true,
+"note": "Conflicts with standard biostatistics. GCS and Apgar are composite ordered scores and are formally treated as ORDINAL (the numbers indicate rank/severity, intervals are not truly equal). Classifying them as discrete numerical is a teaching simplification; standard view is ordinal."
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "What type of data are t-scores and z-scores (e.g., from a DEXA scan)?",
+"a": "Continuous data on an interval scale: they can take decimal values and can be negative (e.g., -1, -2.5), with zero not representing absence, so they are interval rather than ratio.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "What type of data is the probability/chance of an event per unit time (e.g., chance a floor is slippery per day)?",
+"a": "Poisson data (count of events occurring in a fixed time period).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "Stepwise approach: how do you first decide if data is categorical or numerical?",
+"a": "Check for a unit. If the data has no unit (e.g., eye colour, sex, nationality), it is categorical. If it is represented with a unit (e.g., degrees, cm), it is numerical.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "Stepwise approach: how do you distinguish nominal from ordinal categorical data?",
+"a": "Check for order. No order = nominal (N for 'no order'); if it follows some kind of order = ordinal. The word 'status' (e.g., BMI status, blood loss status) usually signals ordinal data.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "Stepwise approach: how do you distinguish discrete from continuous numerical data?",
+"a": "If it can be counted as whole numbers, it is discrete; if it is measured and can be expressed as a decimal, it is continuous.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "If a continuous variable can be expressed as a decimal, how do you decide interval vs ratio?",
+"a": "Check for a true zero. If it has a true zero (cannot be negative; zero means absent), it is a ratio scale; if there is no true zero (can be negative; zero is arbitrary), it is an interval scale.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "Which forms can data be presented in?",
+"a": "Tabulated form and graphical form. Both categorical and numerical data can be tabulated, but certain graphs (e.g., histograms) are used specifically for quantitative/numerical data.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "How is qualitative (categorical) data typically presented graphically?",
+"a": "Bar charts, pictograms, and pie charts (and map diagrams).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "What is the key visual difference between a bar chart and a histogram?",
+"a": "In a bar chart the bars are separated by spaces (not touching), used for categorical data; in a histogram the bars are adjacent/touching, used for continuous quantitative data.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "What type of data does a histogram represent?",
+"a": "Quantitative (numerical) data, specifically continuous variables.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "What is a frequency polygon?",
+"a": "A graph made by representing the tops of histogram bars as connected lines (a line representation of a histogram's frequencies).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "What is the shape of a normal distribution curve, and what is it also called?",
+"a": "A bell-shaped curve, also called a Gaussian curve.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Data Types",
+"q": "What type of data is best displayed by a scatter plot?",
+"a": "Bivariate data — two variables plotted against each other to show correlation (e.g., reading hours vs test scores).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Distributions",
+"q": "What is the shape of a normal (Gaussian) distribution curve?",
+"a": "A symmetrical bell-shaped curve, equal on the left and right of the centre. Also called the Gaussian or bell-shaped curve.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Distributions",
+"q": "In a normal distribution, how do the mean, median, and mode relate to each other?",
+"a": "Mean = median = mode, and all three lie at the centre of the distribution.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Distributions",
+"q": "What is the skewness of a normal distribution?",
+"a": "Zero skew (zero-skewed data). The data is symmetrically/equally distributed around the centre.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Distributions",
+"q": "How is the direction of skew determined from the graph's tail?",
+"a": "By the side the tail lies on: a tail extending to the left = negatively skewed (left-skewed); a tail extending to the right = positively skewed (right-skewed).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Distributions",
+"q": "In a negatively skewed (left-skewed) distribution, how do the mean, median, and mode relate?",
+"a": "Mean < median < mode. The mean is the smallest (pulled toward the left tail) and the mode is the highest peak.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Distributions",
+"q": "In a positively skewed (right-skewed) distribution, how do the mean, median, and mode relate?",
+"a": "Mean > median > mode. The mean is the largest (pulled toward the right tail) and the mode is the lowest.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Distributions",
+"q": "What does the median represent and where does it sit relative to the mean and mode in a skewed distribution?",
+"a": "The median divides the data into two equal halves (left and right). In a skewed distribution it lies between the mean and the mode.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Distributions",
+"q": "What is the mode and where is it located on a distribution curve?",
+"a": "The mode is the most frequently/commonly occurring value. On the graph it corresponds to the highest point (peak) of the curve.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Distributions",
+"q": "In a negatively skewed score distribution (e.g. exam marks), what does it imply about most students' scores?",
+"a": "Because the mode (peak) sits at the higher values, most students scored high marks.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Distributions",
+"q": "In a positively skewed score distribution (e.g. exam marks), what does it imply about most students' scores?",
+"a": "Because the mode (peak) sits at the lower values, most students scored low marks.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Distributions",
+"q": "What is a bimodal distribution?",
+"a": "A distribution with two peaks (two high points), i.e. two modes. The corresponding graph is a bimodal graph.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "What is the fundamental distinction between an experimental study and an observational study in epidemiology?",
+"a": "In an experimental study the investigator applies an intervention (e.g. a new drug or surgical technique) to participants. In an observational study the investigator only observes individuals and derives information from them without applying any intervention.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "How are experimental studies subdivided, and which design is the gold standard?",
+"a": "Experimental studies are either randomized (randomized controlled trial, RCT) or non-randomized (non-randomized controlled trial / quasi-experiment). The randomized controlled trial (RCT) is the gold-standard study design.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "How are observational studies classified based on whether a comparison group is formed?",
+"a": "Without a comparison group they are non-analytical (descriptive) studies: case reports and case series. With a comparison group they are analytical studies: cohort, case-control, and cross-sectional studies.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "What is the difference between a case report and a case series?",
+"a": "A case report is a detailed report of a single individual patient (history, signs/symptoms, diagnosis, treatment, follow-up). A case series combines multiple individual patients with the same disease into one report.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "What is the directionality of a cohort study versus a case-control study?",
+"a": "A cohort study moves from exposure to outcome (group by exposure status, follow up, see who develops disease). A case-control study moves from outcome to exposure (group by disease status, then look back to see who was exposed).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "What defines a cross-sectional study with respect to timing?",
+"a": "A cross-sectional study measures exposure and outcome at a single point (cross-section) in time. There is no follow-up into the future and no looking back into past records.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "Which measure of disease frequency does a cross-sectional study provide, and which does it NOT?",
+"a": "A cross-sectional study provides prevalence (the total existing cases, i.e. the burden of disease) at a point in time. It does NOT provide the incidence of disease, because incidence requires counting new cases over time.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "What are the strengths and key weakness of a cross-sectional study?",
+"a": "Strengths: quick, easy, inexpensive, feasible (no follow-up); gives prevalence and demographic data; useful for hypothesis generation. Key weakness: it cannot establish causality (cannot confirm a risk factor causes the disease); also poor for rare outcomes and subject to refusal bias.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "What is a cohort study, and what are its two types?",
+"a": "A cohort study is a type of longitudinal study in which participants are grouped by exposure status and followed over a period of time to see who develops the outcome. The two types are prospective cohort and retrospective cohort.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "Which study designs are classed as longitudinal studies?",
+"a": "Longitudinal studies follow patients over a period of time. They include the (prospective) cohort study and the randomized controlled trial, both of which involve follow-up over time.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "How does a prospective cohort study differ from a retrospective cohort study?",
+"a": "In a prospective cohort you group people now by exposure status and follow them forward over time to observe outcomes. In a retrospective cohort you use past records to group people by exposure status, then look at the present to see who has developed the outcome. Both move from exposure to outcome.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "What measure of association is calculated from a cohort study, and what does it indicate?",
+"a": "A cohort study allows calculation of relative risk (risk ratio). It can establish a strong causal association: if relative risk is greater than 1 the risk factor is associated with the disease. A cohort can also measure incidence and study one exposure linked to multiple outcomes.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "For which scenario is a cohort study the best design?",
+"a": "A cohort study is the best design for studying rare exposures (and for prognosis / measuring incidence), because grouping is done on the basis of exposure status.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "What are the main disadvantages of a cohort study?",
+"a": "It is time-consuming and expensive due to follow-up. Prospective cohorts are prone to attrition bias (loss to follow-up). Retrospective cohorts are limited by incomplete or defective past records.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "Why is a case-control study always retrospective?",
+"a": "A case-control study groups participants in the present by disease status (a case group with disease and a control group without disease), then looks back into the past to determine exposure to the risk factor. Because it always looks backward from outcome to exposure, it is inherently retrospective.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "For which scenario is a case-control study the most suitable design?",
+"a": "A case-control study is the most suitable design for studying rare diseases / rare outcomes, because grouping is done on the basis of outcome (disease) status. It is also good for cause-and-effect hypothesis generation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "What measure of association is calculated from a case-control study?",
+"a": "A case-control study yields the odds ratio (OR). The OR helps build an association between the risk factor and disease, but case-control studies cannot establish strong causality as well as a cohort study can (because there is no formal follow-up).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "What are the advantages and disadvantages of a case-control study?",
+"a": "Advantages: inexpensive (no follow-up needed), useful for rare diseases, and helps generate hypotheses. Disadvantages: cannot establish strong causality, prone to selection bias and especially recall bias (cases may inaccurately remember past exposures).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "Which type of bias is characteristic of a case-control study versus a cohort study?",
+"a": "Recall bias is characteristic of case-control studies (participants misremember past exposures). Attrition bias (loss to follow-up) is characteristic of prospective cohort studies.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "How do you set up a 2x2 table for a cohort study and define cells A, B, C, D?",
+"a": "Place disease status across the top (disease positive / disease negative) and risk factor status down the side (risk positive / risk negative). A = risk positive & disease positive; B = risk positive & disease negative; C = risk negative & disease positive; D = risk negative & disease negative.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "How is incidence among the exposed and among the non-exposed calculated from a 2x2 table?",
+"a": "Incidence among the exposed = A / (A + B). Incidence among the non-exposed = C / (C + D). These can be multiplied by 100 (or 1000) to express per-population rates.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "How is relative risk (RR) calculated and interpreted?",
+"a": "Relative risk = incidence among the exposed / incidence among the non-exposed = [A/(A+B)] / [C/(C+D)]. RR greater than 1 = risk factor is associated with the disease; RR = 1 = no association; RR less than 1 = the factor is protective (reduces disease incidence).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "How do you interpret a relative risk of 10 (e.g. smokers vs non-smokers for lung cancer)?",
+"a": "A relative risk of 10 means smokers have 10 times the chance of developing lung cancer compared with non-smokers.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "How is attributable risk (attributable risk fraction in the exposed) calculated and interpreted?",
+"a": "Attributable risk fraction = (incidence in exposed - incidence in non-exposed) / incidence in exposed, often multiplied by 100. If it is 90%, then 90% of the cases of disease among the exposed are due to the exposure, so preventing the exposure could prevent ~90% of those cases.",
+"ai": false,
+"note": "Transcript's formula and example (90%) describe the attributable fraction in the exposed (also called attributable proportion). Note that 'attributable risk' is sometimes used to mean the absolute risk difference (incidence exposed minus incidence non-exposed); the transcript uses the divided/fraction version here, which is standard for the attributable fraction."
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "How is the odds ratio (OR) calculated from a 2x2 table in a case-control study?",
+"a": "Odds ratio = (A x D) / (B x C), using A = exposed cases, B = exposed controls, C = unexposed cases, D = unexposed controls. OR greater than 1 = positive association; OR = 1 = no association; OR less than 1 = protective.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "Why is the odds ratio the measure used in case-control studies rather than relative risk?",
+"a": "In a case-control study the investigator fixes the number of cases and controls, so the true incidence (and therefore true relative risk) cannot be calculated. The odds ratio (AD/BC) can be calculated and is the simplest/most commonly examined measure for these studies.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "Under what condition does the odds ratio approximate the relative risk?",
+"a": "The odds ratio approximates the relative (risk) ratio when the disease/outcome is rare (the rare-disease assumption); in that situation the two values are nearly equal.",
+"ai": true,
+"note": "The transcript states OR and RR come out equal but does NOT state the required condition. Standard epidemiology: OR approximates RR only when the disease is rare. The card has been corrected to include this rare-disease assumption."
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "What is a crossover trial?",
+"a": "A crossover trial randomizes participants into two groups; group 1 receives drug A and group 2 receives drug B. After a washout period (to clear the first drug), the groups swap: group 1 then receives drug B and group 2 receives drug A. Each participant thus acts as their own control.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "What is the difference between single-, double-, and triple-blinded studies?",
+"a": "Single-blind: participants do not know whether they receive the drug or placebo. Double-blind: neither participants nor the researcher/assessor know the allocation. Triple-blind: participants, researchers/assessors, and the data analysts are all blinded. Triple-blinding is the most rigorous and reduces bias the most.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "What is the purpose of randomization in a randomized controlled trial?",
+"a": "Randomization allocates participants to the treatment group or control group by chance (not by investigator choice) using a defined random method. This produces two comparable groups so that the effect of the intervention on the outcome can be assessed without selection bias.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "How does the grouping in an RCT correspond to the grouping in a cohort study?",
+"a": "The treatment group in an RCT corresponds to the exposed group in a cohort (exposed to the intervention/new drug), and the placebo/control group corresponds to the non-exposed group. Because the grouping structure is the same, the 2x2 calculations are the same, only the terminology differs.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "What does a Kaplan-Meier (survival) curve plot, and how is it interpreted in an RCT?",
+"a": "A survival curve plots survival probability on the y-axis against time on the x-axis (1 minus the event probability). If the new-drug group maintains higher survival probability than the control/placebo group over time, the drug is beneficial.",
+"ai": false,
+"note": "The transcript names the survival curve only as the plot of survival probability vs time; the standard name for this is the Kaplan-Meier curve, which has been added for completeness."
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "What are experimental event rate (EER) and control event rate (CER) in an RCT 2x2 table?",
+"a": "Experimental event rate = A / (A + B) (event rate in the treatment group; equivalent to incidence in the exposed in a cohort). Control event rate = C / (C + D) (event rate in the placebo/control group; equivalent to incidence in the non-exposed).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "How is relative risk reduction (RRR) calculated?",
+"a": "Relative risk reduction = (CER - EER) / CER, i.e. (control event rate - experimental event rate) / control event rate. Equivalently, RRR = 1 - relative risk.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "How is absolute risk reduction (ARR) calculated?",
+"a": "Absolute risk reduction = control event rate - experimental event rate (CER - EER). It is the difference between the event rate in the control group and the event rate in the treatment group.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "How is the number needed to treat (NNT) calculated?",
+"a": "NNT = 1 / absolute risk reduction (1 / ARR), where ARR = control event rate - experimental event rate. If ARR is given as a percentage, convert it to a proportion first (e.g. NNT = 100 / 20 = 5 when ARR = 20%).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "How is the number needed to harm (NNH) calculated?",
+"a": "NNH = 1 / attributable risk, where attributable risk here is the absolute risk increase = experimental event rate - control event rate (EER - CER).",
+"ai": false,
+"note": "Transcript states NNH = 1 / attributable risk and defines this attributable risk as EER minus CER (the absolute risk increase). This is correct for harmful interventions; the underlying difference must be the absolute risk increase, which the transcript's EER-CER formula provides."
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "Which study design is best for each purpose: prevalence, incidence/prognosis, cause-and-effect?",
+"a": "Cross-sectional study is best for prevalence of disease. Cohort (longitudinal) study is best for incidence and prognosis (and rare exposures). Case-control study is best for cause-and-effect and rare outcomes. If 'longitudinal' is not an option for incidence, choose prospective cohort.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "What is the hierarchy (levels of evidence) of these study designs from strongest to weakest?",
+"a": "Strongest to weakest: randomized controlled trial > cohort study > case-control study > case report/case series.",
+"ai": false,
+"note": "Transcript gives this ordering. Standard evidence hierarchies place systematic reviews/meta-analyses of RCTs above individual RCTs at the top, but among the individual designs listed this ordering (RCT > cohort > case-control > case report/series) is correct."
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "A study collects data from women with shoulder dystocia at delivery along with the baby's birth weight, all at the same time, with no follow-up and no past records. What design is this?",
+"a": "Cross-sectional study, because exposure (birth weight) and outcome (shoulder dystocia) are assessed together at a single point in time, with no follow-up and no retrospective record review.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "A study collects data from maternal records (past records) on women, without forming distinct case and control groups by disease status. What design is this?",
+"a": "Retrospective cohort study. It uses past records (so it is retrospective and not cross-sectional or RCT), but because no case/control grouping by disease status is made, it is a retrospective cohort rather than a case-control study.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiological Studies",
+"q": "A study uses maternal records and compares women who HAD shoulder dystocia against those who did NOT (grouped by outcome), looking back at birth weight. What design is this?",
+"a": "Case-control study, because two groups are formed by outcome status (shoulder dystocia present vs absent) and the exposure (birth weight) is examined retrospectively.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiology",
+"q": "What is the definition of epidemiology?",
+"a": "The study of the distribution and determinants of disease (health-related states or events) in human populations, and the application of this study to control health problems.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiology",
+"q": "In an epidemiological rate, what is the relationship between the numerator and denominator?",
+"a": "The rate = (numerator / denominator) x k. The numerator sits above the line and the denominator below. As a general rule the numerator is a subset (part) of the denominator. (One exception: the WHO perinatal mortality rate, where the stillbirth numerator is not part of the live-birth denominator.) k is a constant multiplier (e.g. 1,000 or 100,000).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiology",
+"q": "What is the difference between incidence and prevalence of a disease?",
+"a": "Incidence = the number of NEW cases of a disease arising in a population at risk over a specified time period. Prevalence = the TOTAL number of cases (old + new) present in a population at a given time. A population's case pool changes as some recover, some die, and new cases are added.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiology",
+"q": "How is the incidence rate of a disease calculated?",
+"a": "Incidence rate = (number of NEW cases of the disease in a defined period / total population at risk of that disease) x k, specified for the same time period and place. k is a chosen constant (per 1,000, 10,000, or 100,000).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiology",
+"q": "How is the prevalence rate of a disease calculated?",
+"a": "Prevalence rate = (total number of cases of the disease, old and new / total population at risk) x k, at a specified place and time. k is a chosen constant (it is not part of the definition).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiology",
+"q": "How is the mortality (death) rate of a disease calculated?",
+"a": "Mortality rate = (number of deaths due to that disease / total population at risk of the disease) x k, at the same time and place. k is commonly 1,000 or 100,000.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiology",
+"q": "What is a 'late fetal loss' versus a 'stillbirth' (UK / MBRRACE definitions)?",
+"a": "Late fetal loss = a baby delivered between 22 and 23 completed weeks of gestation showing no signs of life. Stillbirth = a baby delivered at or after 24 completed weeks of gestation showing no signs of life, irrespective of when the death (in utero) actually occurred. A loss before 24 weeks is a miscarriage.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiology",
+"q": "What is the difference between an antepartum and an intrapartum stillbirth?",
+"a": "Antepartum stillbirth = the baby died before the onset of labour (no signs of life present). Intrapartum stillbirth = signs of life were present at the onset of labour, but the baby died during labour/delivery (between 24 weeks and delivery).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiology",
+"q": "Define neonatal death and distinguish early from late neonatal death.",
+"a": "Neonatal death = death of a live-born baby within the first 28 days of life. Early neonatal death = death within the first 7 days (first week) of life. Late neonatal death = death from day 7 up to 28 days of life. Early + late together = neonatal deaths.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiology",
+"q": "What is perinatal death?",
+"a": "Perinatal death = stillbirths (from 24 completed weeks, UK definition) PLUS early neonatal deaths (deaths within the first week of life) combined.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiology",
+"q": "What is a post-neonatal (infant) death?",
+"a": "Post-neonatal death (also termed infant death in this context) = death of a live-born baby after 28 days and up to 1 year of life. Infant mortality covers deaths from 28 days up to 1 year.",
+"ai": false,
+"note": "Transcript conflates post-neonatal death with infant death. Strictly, infant mortality = ALL deaths under 1 year (including neonatal); post-neonatal death is specifically 28 days to 1 year. The transcript's narrower usage is the source's framing."
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiology",
+"q": "How is the (crude) birth rate calculated?",
+"a": "Birth rate = (number of live births / total population) x 1,000, for a specified time period and place. Expressed as live births per 1,000 population.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiology",
+"q": "How is the stillbirth rate calculated, and what counts as total births?",
+"a": "Stillbirth rate = (number of stillbirths / total births) x 1,000. Total births = live births + stillbirths. Note the denominator is TOTAL births (not live births), because the stillbirth numerator must be part of the denominator.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiology",
+"q": "How is the neonatal mortality rate calculated?",
+"a": "Neonatal mortality rate = (number of neonatal deaths, i.e. deaths in first 28 days / number of live births) x 1,000. The denominator is live births (not total births).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiology",
+"q": "How is the infant mortality rate calculated?",
+"a": "Infant mortality rate = (number of infant deaths / number of live births) x 1,000. In this lecture infant deaths are taken as deaths from 28 days up to 1 year; conventionally IMR is deaths under 1 year per 1,000 live births.",
+"ai": true,
+"note": "Standard infant mortality rate = deaths of live-born infants under 1 year (including neonatal deaths) per 1,000 live births. The transcript's '28 days to 1 year' describes the post-neonatal period, not the full IMR numerator."
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiology",
+"q": "How is the perinatal mortality rate calculated using the UK definition?",
+"a": "UK perinatal mortality rate = (stillbirths [>=24 weeks] + early neonatal deaths [first week] / total births) x 1,000. Total births = live births + stillbirths. Numerator is part of the denominator.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiology",
+"q": "How does the WHO perinatal mortality rate differ from the UK definition?",
+"a": "WHO counts stillbirths from 22 completed weeks of gestation (not 24), and the WHO rate = (stillbirths from 22 weeks + early neonatal deaths) / LIVE births x 1,000. Because the denominator is live births rather than total births, the stillbirth numerator is not a subset of the denominator (the one exception to the numerator-is-part-of-denominator rule).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiology",
+"q": "How is a maternal death defined?",
+"a": "Death of a woman while pregnant or within 42 days (6 weeks) of the end of pregnancy, from any cause related to or aggravated by the pregnancy or its management, but NOT from accidental or incidental causes.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiology",
+"q": "What is a direct maternal death? Give examples.",
+"a": "A direct maternal death results from obstetric complications of pregnancy, labour or the puerperium that did not pre-exist but arose directly as a result of the pregnancy. Examples: eclampsia/pre-eclampsia, postpartum pulmonary embolism (coagulation disorders are markedly increased postpartum), and amniotic fluid embolism.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiology",
+"q": "What is an indirect maternal death? Give an example.",
+"a": "An indirect maternal death results from a previously existing disease, or a disease that developed during pregnancy, which was not due to direct obstetric causes but was AGGRAVATED by the physiological effects of pregnancy. Example: a woman with pre-existing cardiovascular/heart disease that worsens due to the cardiovascular modifications of pregnancy.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiology",
+"q": "What is a coincidental (accidental/incidental) maternal death? Give an example.",
+"a": "A death during pregnancy or the puerperium from a cause neither directly obstetric nor aggravated by pregnancy. Examples: a road traffic accident in a pregnant woman, or death from a natural disaster (flood, earthquake). The cause has no relationship to the pregnancy.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiology",
+"q": "What is a late maternal death?",
+"a": "A death occurring between 42 days and 1 year after the end of pregnancy, from direct or indirect maternal causes.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiology",
+"q": "What is the maternal mortality RATIO and how is it calculated?",
+"a": "Maternal mortality ratio (the WHO measure) = (number of maternal deaths / number of live births) x 100,000. Expressed as maternal deaths per 100,000 live births. e.g. 750 maternal deaths with 250,000 live births = (750/250,000) x 100,000 = 300 per 100,000.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiology",
+"q": "What is the maternal mortality RATE and how does it differ from the ratio?",
+"a": "Maternal mortality rate = (number of direct + indirect maternal deaths / number of maternities) x 100,000. The denominator is maternities (not live births). This is the measure used in the UK. The ratio uses live births as the denominator and is the WHO measure.",
+"ai": false,
+"note": "Standard definition: a maternity is a pregnancy resulting in a live birth or stillbirth (number of women who were pregnant/delivered), so it counts pregnant women rather than babies. The transcript's gloss 'women after reproductive age / women of reproductive age' is a garbled approximation; the correct denominator concept is the number of maternities (pregnancies delivered)."
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Epidemiology",
+"q": "According to the UK (MBRRACE) report, what was the most common cause of maternal death?",
+"a": "Thromboembolic disorders (blood clots / thrombosis and thromboembolism) were the leading cause of direct maternal death, followed by cardiac disease (cardiac causes), with COVID also featuring in the relevant reporting period.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Hypothesis Testing",
+"q": "What is the null hypothesis (H0) in hypothesis testing?",
+"a": "The null hypothesis states that there is no difference (or no association/effect) between the groups being compared - e.g. the treatment has no effect, or the means of the two groups are equal (their difference is zero).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Hypothesis Testing",
+"q": "What is the alternative hypothesis (H1/Ha)?",
+"a": "The alternative hypothesis states that there IS a difference or association between the groups - e.g. the treatment does have an effect, or the mean of one group is not equal to the mean of the other. It is usually the hypothesis the researcher hopes to support.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Hypothesis Testing",
+"q": "What are the possible outcomes when a statistical test is applied to the null hypothesis?",
+"a": "The test either rejects the null hypothesis (equivalent to accepting the alternative) or fails to reject / accepts the null hypothesis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Hypothesis Testing",
+"q": "Give an example of a null and alternative hypothesis for the question 'Is there a difference in exam scores between males and females?'",
+"a": "Null: the difference between the two group means is zero (mean score of males = mean score of females). Alternative: the difference is not zero (mean score of males is not equal to mean score of females).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Hypothesis Testing",
+"q": "What is a Type I error (alpha error)?",
+"a": "A Type I error is incorrectly rejecting a true null hypothesis - i.e. concluding there is a difference/association when in reality there is none. It is also called a false positive.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Hypothesis Testing",
+"q": "What is a Type II error (beta error)?",
+"a": "A Type II error is failing to reject (accepting) a false null hypothesis - i.e. concluding there is no difference when in reality a difference exists. It is also called a false negative.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Hypothesis Testing",
+"q": "Which error is the false positive and which is the false negative?",
+"a": "Type I error = false positive (wrongly accepting the alternative / wrongly rejecting the null). Type II error = false negative (wrongly accepting the null / wrongly rejecting the alternative).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Hypothesis Testing",
+"q": "What is the conventional (acceptable) value of alpha, the probability of a Type I error?",
+"a": "Alpha is conventionally set at 0.05 (5%), meaning there is a 5% chance of committing a Type I error purely by chance.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Hypothesis Testing",
+"q": "What is the conventional value of beta, the probability of a Type II error?",
+"a": "Beta is conventionally set at 0.2 (20%).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Hypothesis Testing",
+"q": "What is the power of a statistical test?",
+"a": "Power is the ability (strength) of a test to correctly detect a true difference between groups when one genuinely exists - i.e. to correctly identify a true positive / reject the null when the alternative is true.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Hypothesis Testing",
+"q": "What is the relationship between power and beta?",
+"a": "Power = 1 - beta. So if power is 90% (0.9), beta = 1 - 0.9 = 0.1 (10%). With the conventional beta of 0.2, power is 0.8 (80%).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Hypothesis Testing",
+"q": "How do power and sample size affect the chance of a Type II error?",
+"a": "The greater the power of a test, the lower the chance of a Type II error. Increasing the sample size increases power and therefore also reduces the chance of a Type II error.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Hypothesis Testing",
+"q": "On what basis does a statistical test decide to accept or reject the null hypothesis?",
+"a": "On the basis of the p-value, compared against the significance level alpha (0.05).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Hypothesis Testing",
+"q": "When is a p-value considered statistically significant, and what does it mean for the null hypothesis?",
+"a": "A p-value less than or equal to 0.05 (i.e. <= alpha) is considered statistically significant: the null hypothesis is rejected and the alternative accepted, indicating a statistically significant difference. A p-value greater than 0.05 is not significant: fail to reject (accept) the null hypothesis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Hypothesis Testing",
+"q": "A low p-value versus a high p-value: how should you respond to each?",
+"a": "Low p-value (<= 0.05) -> reject the null hypothesis (accept the alternative). High p-value (> 0.05) -> fail to reject / accept the null hypothesis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Hypothesis Testing",
+"q": "A study had a power of 90% and reported a p-value of 0.05. What is the probability of committing a Type II error (beta)?",
+"a": "Beta = 1 - power = 1 - 0.90 = 0.10, i.e. a 10% chance of a Type II error.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Hypothesis Testing",
+"q": "Which type of error can occur purely by chance?",
+"a": "A Type I error (alpha error / false positive) can occur purely by chance, and its probability is set at 5% (alpha = 0.05).",
+"ai": true,
+"note": "Transcript states the Type I error 'purely occurs by chance' and is the 'most serious' error. This is a common teaching simplification but is imprecise: BOTH error types arise from sampling variability/chance, and which error is more serious depends on context (a false negative can be equally or more harmful). The alpha = 5% probability figure is correct."
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Hypothesis Testing",
+"q": "What does the p-value assume, by definition?",
+"a": "The p-value is calculated under the assumption that the null hypothesis is true; it represents the probability of obtaining the observed (or more extreme) result if the null hypothesis were true. A small p-value means such a result is unlikely under the null, so the null is rejected.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Hypothesis Testing",
+"q": "When the null hypothesis is falsely accepted, which error has occurred?",
+"a": "A Type II error (false negative) - the null was accepted when it should have been rejected.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Hypothesis Testing",
+"q": "Which statement best describes a Type I error: 'rejecting the null hypothesis when there was no difference in reality'?",
+"a": "Correct - a Type I error is rejecting a true null hypothesis (when in reality there is no difference). This is the false positive.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Central Tendency",
+"q": "What is the difference between descriptive and inferential statistics?",
+"a": "Descriptive statistics organise and summarise data. Inferential statistics draw conclusions (inferences) about a population from sample data (e.g. using standard error, z-scores, confidence intervals).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Central Tendency",
+"q": "What is meant by a measure of central tendency?",
+"a": "A measure of central tendency is a single value that describes the centre of a distribution of data values. The three measures are the mean, median and mode.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Central Tendency",
+"q": "Define the mode.",
+"a": "The mode is the most frequently (most commonly) occurring value in a data set.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Central Tendency",
+"q": "Define the median.",
+"a": "The median is the middle value that divides a ranked data set into two equal halves, with an equal number of data points (50%) on either side.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Central Tendency",
+"q": "Define the mean (arithmetic mean / average).",
+"a": "The mean is the sum of all the values divided by the number of values. It is also called the arithmetic mean or average.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Central Tendency",
+"q": "Before calculating the median, what must you do to the data?",
+"a": "Rank (arrange) the data into ascending or descending order first. The median is then the middle value of the ranked data.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Central Tendency",
+"q": "How do you find the median when there is an even number of data points?",
+"a": "With an even number of values, two middle values remain after ranking. Take the mean of those two values (add them and divide by 2) to obtain the median. E.g. for 2,3,5,6,7,8,9,64 the middle values are 6 and 7, so the median is (6+7)/2 = 6.5.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Central Tendency",
+"q": "How do you find the median when there is an odd number of data points?",
+"a": "With an odd number of ranked values, the median is simply the single middle value that divides the data into equal halves. E.g. for 2,3,5,6,7,8,9 the median is 6.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Central Tendency",
+"q": "Which measure of central tendency is most affected by outliers and skewed data?",
+"a": "The mean. Because it uses every value, a single extreme value distorts it (e.g. adding 64 to a data set changed the mean from 5 to 13). It is also distorted by skewed data.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Central Tendency",
+"q": "Which measure of central tendency is least affected by outliers and skewed data?",
+"a": "The mode is least affected by outliers, and the median is also resistant to outliers and skew (e.g. adding an extreme value of 64 changed the median only from 6 to 6.5). Both the median and mode are not distorted by skewed data.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Central Tendency",
+"q": "What are the main advantages and disadvantages of the mean?",
+"a": "Advantage: it uses (utilises) all the data values and is algebraically defined, so it can be calculated. Disadvantage: it is the most affected by outliers and is distorted by skewed data.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Central Tendency",
+"q": "What are the main advantages and disadvantages of the median?",
+"a": "Advantage: it is not distorted by outliers or skewed data. Disadvantages: it ignores most of the information in the data set (only the centre matters) and it is not algebraically defined, so it sometimes requires more work to calculate.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Central Tendency",
+"q": "What are the main advantages and disadvantages of the mode?",
+"a": "Advantage: it is easily determined for categorical data and can often be read directly off the data or a graph (not algebraically defined). Disadvantages: it ignores most of the information in the data set and is not algebraically defined.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Central Tendency",
+"q": "What is a bimodal data set?",
+"a": "A data set with two modes, i.e. two values that each occur with the same highest frequency (e.g. 3 appears three times and 4 appears three times). A data set can have more than one mode. Bimodal data is uncommon in scientific research.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Central Tendency",
+"q": "Which measure of central tendency can be used for categorical data, and how is the mode found from a bar chart?",
+"a": "The mode is used for categorical data. On a bar chart it is the category with the tallest bar (highest frequency). E.g. if brown eye colour appears in the most patients, the mode is brown.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Central Tendency",
+"q": "Which is the most reliable measure of central tendency when you want to use information from the whole data set?",
+"a": "The mean, because it includes (sums) every data value before dividing by the number of values, so it gives information about the entire data set. The median ignores much of the data, splitting the distribution into two halves.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Central Tendency",
+"q": "Is range a measure of central tendency, and how is it calculated?",
+"a": "No, range is a measure of dispersion, not central tendency. The range is the difference between the highest and lowest value (e.g. 80 - 10 = 70).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Central Tendency",
+"q": "Which statistics measure central tendency and which measure dispersion?",
+"a": "Central tendency is measured by the mean, median and mode. Dispersion is measured by the standard deviation, variance and range.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Dispersion",
+"q": "What does a measure of dispersion describe?",
+"a": "It describes how spread out the data values are, i.e. how far the individual values deviate from the mean (the central tendency). A wide dispersion means values lie far from the mean; a narrow (close) dispersion means they cluster near the mean.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Dispersion",
+"q": "Which statistic best describes the spread of values around the mean?",
+"a": "The standard deviation. The main measures of dispersion are variance, standard deviation, and interquartile range; when comparing them, standard deviation is the preferred/best measure of dispersion around the mean.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Dispersion",
+"q": "How are population and sample parameters symbolised for mean, standard deviation, and variance?",
+"a": "Population mean = mu (mu); sample mean = x-bar. Population SD = sigma; sample SD = s. Population variance = sigma squared; sample variance = s squared.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Dispersion",
+"q": "What is a sample and why is sampling used instead of studying the whole population?",
+"a": "A sample is a smaller part of the population that represents it. Studying an entire population is costly and time-consuming, so a representative sample is studied and the results are extrapolated (applied) to the whole population.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Dispersion",
+"q": "What is the relationship between variance and standard deviation?",
+"a": "Variance is the square of the standard deviation, and standard deviation is the square root of the variance.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Dispersion",
+"q": "What does the second quartile (Q2) of a dataset represent?",
+"a": "Q2 is the overall median of the data; it divides the dataset into a lower half and an upper half (50% below, 50% above).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Dispersion",
+"q": "How are the first quartile (Q1) and third quartile (Q3) determined?",
+"a": "After finding the overall median (Q2), Q1 is the median of the lower half of the data and Q3 is the median of the upper half. Q1 separates the lowest 25% from the upper 75%; Q3 separates the lower 75% from the top 25%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Dispersion",
+"q": "How is the interquartile range (IQR) calculated?",
+"a": "IQR = Q3 - Q1 (third quartile minus first quartile). It is reported as a positive value representing the spread of the middle 50% of the data.",
+"ai": true,
+"note": "Card content is correct (IQR = Q3 - Q1). Flagged because the lecturer at one point stated the formula 'ideally' as Q1 - Q3, which is incorrect/reversed; the standard definition is Q3 - Q1, giving a positive value."
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Dispersion",
+"q": "Before calculating a median, quartiles, or IQR, what must you do to the data first?",
+"a": "Arrange the data in ascending (or descending) order. If the data are not ordered, the median/quartile calculation will be wrong.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Dispersion",
+"q": "How do you find the median when two values fall in the centre of the (ordered) data?",
+"a": "Take the mean (average) of the two central values. The same applies when finding quartiles from the lower or upper halves.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Dispersion",
+"q": "In a normal (Gaussian) distribution, what percentage of data lies within 1, 2, and 3 standard deviations of the mean (the empirical rule)?",
+"a": "Approximately 68% within 1 SD, 95% within 2 SD, and 99.7% within 3 SD of the mean. This is the 68-95-99.7 rule.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Dispersion",
+"q": "In a normal distribution, what proportion of data falls in each successive standard deviation band on one side of the mean?",
+"a": "Per side: about 34% in the 1st SD, 13.5% in the 2nd SD, ~2.1% (2.35%) in the 3rd SD, and ~0.13% (0.15%) in the 4th SD. Doubled across both sides this gives the 68/95/99.7% bands.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Dispersion",
+"q": "If mean = 20 and SD = 4 for normally distributed data, between which values do 68%, 95%, and 99.7% of the data lie?",
+"a": "68% lie within mean +/- 1 SD = 16 to 24; 95% within +/- 2 SD = 12 to 28; 99.7% within +/- 3 SD = 8 to 32.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Dispersion",
+"q": "What does the standard error of the mean (SEM) measure?",
+"a": "It measures how much sample means deviate from the population mean, i.e. the precision with which a sample mean estimates the true population mean.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Dispersion",
+"q": "What is the formula for the standard error of the mean (SEM)?",
+"a": "SEM = standard deviation / square root of the sample size (SD / sqrt(n)).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Dispersion",
+"q": "A sample of 100 has a variance of 1. What is the standard error of the mean?",
+"a": "SD = sqrt(variance) = sqrt(1) = 1. SEM = SD / sqrt(n) = 1 / sqrt(100) = 1/10 = 0.1.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Dispersion",
+"q": "For a sample size of 10,000 with SD = 50, what is the standard error of the mean?",
+"a": "SEM = SD / sqrt(n) = 50 / sqrt(10,000) = 50 / 100 = 0.5.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Dispersion",
+"q": "Given variance = 25, sample size = 30, and SEM = 3, what is the standard deviation?",
+"a": "SD = square root of the variance = sqrt(25) = 5. (Sample size and SEM are distractors not needed for this calculation.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Dispersion",
+"q": "What does a confidence interval represent?",
+"a": "It is the range of values, given with a stated level of confidence (e.g. 95%), within which the true population parameter is expected to lie.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Dispersion",
+"q": "What is the formula for a confidence interval for a mean?",
+"a": "CI = sample mean (x-bar) +/- (z value x standard error), where the standard error = SD / sqrt(sample size) and z is the multiplier for the chosen confidence level.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Dispersion",
+"q": "What z-multipliers are used for 90%, 95%, and 99% confidence intervals?",
+"a": "90% -> 1.645 (often rounded to 1.65); 95% -> 1.96 (often rounded to 2); 99% -> 2.58 (2.576).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Dispersion",
+"q": "A booking weight has mean = 70 kg and SEM = 4. What is the approximate 95% confidence interval?",
+"a": "CI = mean +/- z x SEM = 70 +/- (1.96 x 4) approximately 70 +/- 8 = 62 to 78 kg (using z rounded to 2).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Dispersion",
+"q": "In a box-and-whisker plot, what do the bottom and top of the box represent?",
+"a": "The bottom of the box is the lower quartile (Q1) and the top is the upper quartile (Q3); the box therefore spans the interquartile range.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Dispersion",
+"q": "In a box-and-whisker plot, what does the horizontal line inside the box represent?",
+"a": "The median (Q2).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Dispersion",
+"q": "In a box-and-whisker plot, what do the whiskers (vertical lines with end caps) represent?",
+"a": "They extend to the minimum and maximum values of the data. Any data points beyond the ends of the whiskers are outliers.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Test selection",
+"q": "What is the first thing you check when deciding between a parametric and a non-parametric test?",
+"a": "The distribution of the data. If the data are normally distributed, use a parametric test; if the data are skewed (not normally distributed), use a non-parametric test.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Test selection",
+"q": "If a question does not state whether the data are normally distributed, what determines the choice of test?",
+"a": "Look at the data type. Numerical (interval/ratio, quantitative) data favour a parametric test; nominal/categorical (qualitative) data favour a non-parametric test. Note: if the data are categorical but explicitly stated to be normally distributed, a parametric test may still be used.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Test selection",
+"q": "After distribution and data type, what other features must you consider when choosing a statistical test?",
+"a": "The number of samples (one, two, or more than two), whether the samples are paired/related or unpaired/independent, and the purpose (comparing proportions, comparing means, or assessing relationship/correlation).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Test selection",
+"q": "If one sample is measured at two different times (e.g. blood pressure morning and evening), how is this treated?",
+"a": "As a single sample with paired (repeated) observations, not as two independent samples.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Parametric tests",
+"q": "Name the common parametric tests you should be able to recall for MRCOG.",
+"a": "Student t-test (one-sample and two-sample/paired and unpaired), ANOVA (analysis of variance), Pearson correlation, and linear regression.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Non-parametric tests",
+"q": "Name the common non-parametric tests you should be able to recall for MRCOG.",
+"a": "Wilcoxon signed-rank test and sign test (one sample/paired), Mann-Whitney U test, Kolmogorov-Smirnov test, Fisher's exact test, chi-square test, Kruskal-Wallis test, Friedman test, and Spearman correlation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "One sample",
+"q": "For normally distributed (parametric) data from ONE sample, which test is used?",
+"a": "The one-sample Student t-test (for a single set of observations); if the same sample gives paired/repeated observations, the paired t-test.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "One sample",
+"q": "For ONE sample of non-parametric (non-normally distributed) data, which tests are used?",
+"a": "The Wilcoxon signed-rank test and the sign test.",
+"ai": false,
+"note": "Transcript phonetic garble ('chi-square with cosine rank test and sine test') reconstructed as Wilcoxon signed-rank + sign test, the standard one-sample/paired non-parametric tests."
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Two samples",
+"q": "For TWO independent (unpaired) samples of parametric data, which test is used?",
+"a": "The unpaired (independent samples) Student t-test.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Two samples",
+"q": "For TWO independent (unpaired) samples of non-parametric data, which tests can be used?",
+"a": "The Mann-Whitney U test, the Kolmogorov-Smirnov test, and Fisher's exact test.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Paired data",
+"q": "What does 'paired' data mean, and what is the parametric test for two paired samples?",
+"a": "Paired means the two sets of observations are related (e.g. two measurements from the same population/subjects, such as before-and-after). The parametric test is the paired t-test.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Mann-Whitney U",
+"q": "What is the Mann-Whitney U test used for?",
+"a": "It is a non-parametric test that compares TWO independent (unpaired/unrelated) samples.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Kolmogorov-Smirnov",
+"q": "What is the Kolmogorov-Smirnov test used for?",
+"a": "It is a non-parametric test that compares two independent (non-related) samples.",
+"ai": false,
+"note": "Transcript also implies its use to assess whether data fit a distribution; for MRCOG the lecturer presents it as a two-independent-sample non-parametric test, which is acceptable."
+},
+{
+"topic": "Biostatistics",
+"subtopic": "More than two samples",
+"q": "For MORE THAN TWO independent samples of parametric data, which test is used?",
+"a": "One-way ANOVA (analysis of variance). For paired/dependent designs with more than two related groups, two-way ANOVA.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "More than two samples",
+"q": "For MORE THAN TWO samples of non-parametric data, which tests are used?",
+"a": "Kruskal-Wallis test (for independent groups) and Friedman test (for related/repeated groups).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Comparing proportions",
+"q": "When comparing PROPORTIONS, which tests are used and when?",
+"a": "Chi-square test for large samples (one, two, or more groups); Fisher's exact test for small samples.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Correlation",
+"q": "Which tests assess a relationship/correlation between variables, for parametric and non-parametric data?",
+"a": "Parametric: Pearson correlation (and linear regression). Non-parametric: Spearman correlation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Correlation",
+"q": "How does linear regression differ from Pearson correlation in terms of variables?",
+"a": "Pearson correlation assesses the association between two variables of the same type, whereas linear regression can model the relationship between different types of variables (a dependent variable predicted from one or more independent variables).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Parametric tests",
+"q": "Which statistical tests require a normal population distribution?",
+"a": "Parametric tests, such as the Student t-test and ANOVA.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Test selection",
+"q": "Which non-parametric test would you use to compare the duration of caesarean section (not normally distributed) between two independent groups of women, with and without pre-eclampsia?",
+"a": "The Mann-Whitney U test, because there are two independent (unpaired) samples of non-parametric data being compared (not proportions).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Sensitivity",
+"q": "Define the sensitivity of a test.",
+"a": "The proportion of people WITH the disease who test positive; i.e. the ability of the test to correctly identify those who actually have the disease (the true positive rate).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Specificity",
+"q": "Define the specificity of a test.",
+"a": "The proportion of people WITHOUT the disease who test negative; i.e. the ability of the test to correctly identify those who do not have the disease (the true negative rate).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Sensitivity",
+"q": "In which patients are sensitivity and specificity assessed?",
+"a": "Sensitivity is assessed in people already known to HAVE the disease; specificity is assessed in people known NOT to have the disease.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Sensitivity",
+"q": "A test with 100% sensitivity helps to do what (rule in or rule out disease)?",
+"a": "It helps to RULE OUT disease: a highly sensitive test that is negative reliably excludes the disease (SnNout). It correctly identifies all who have the disease.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Specificity",
+"q": "A test with high specificity is best used to do what when positive?",
+"a": "To RULE IN disease: a highly specific test that is positive reliably confirms the disease (SpPin).",
+"ai": false,
+"note": "The lecturer first correctly states a positive highly specific test rules IN disease, but at one point mis-speaks 'specificity ... ruling out the disease.' Standard rule: SpPin (specific test, positive, rules in). Card uses the correct version."
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Screening vs confirmatory",
+"q": "What test characteristic should be HIGH for a screening test, and which for a confirmatory test?",
+"a": "A screening test should have high SENSITIVITY (to detect true positives and avoid missing disease); a confirmatory test should have high SPECIFICITY (to confirm true negatives/positives and avoid false positives).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Test quality",
+"q": "What is a test with 100% sensitivity AND 100% specificity called?",
+"a": "A perfect test / gold standard test.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Predictive values",
+"q": "Define positive predictive value (PPV).",
+"a": "The probability that a person who tests positive actually has the disease.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Predictive values",
+"q": "Define negative predictive value (NPV).",
+"a": "The probability that a person who tests negative actually does not have the disease.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Predictive values",
+"q": "In which population are predictive values (PPV/NPV) measured, unlike sensitivity/specificity?",
+"a": "In a population in which it is not known in advance who does and does not have the disease (predictive values depend on disease prevalence).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "2x2 table",
+"q": "In a 2x2 diagnostic table, where should disease status and the test/exposure be placed?",
+"a": "Disease status goes across the top (horizontal columns: disease positive / disease negative); the test, exposure, or intervention goes down the left side (vertical rows: test positive / test negative). Keeping this orientation consistent prevents calculation errors.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "2x2 table",
+"q": "In a 2x2 table, define true positive, false negative, false positive, and true negative.",
+"a": "True positive (TP): disease present and test positive. False negative (FN): disease present but test negative. False positive (FP): disease absent but test positive. True negative (TN): disease absent and test negative.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Calculations",
+"q": "Using 2x2 cells a (TP), b (FP), c (FN), d (TN), what is the formula for sensitivity?",
+"a": "Sensitivity = TP / (TP + FN) = a / (a + c). It uses the disease-positive column.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Calculations",
+"q": "What is the formula for specificity in terms of 2x2 cells?",
+"a": "Specificity = TN / (TN + FP) = d / (b + d). It uses the disease-negative column.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Calculations",
+"q": "What is the formula for positive predictive value (PPV) in terms of 2x2 cells?",
+"a": "PPV = TP / (TP + FP) = a / (a + b). It uses the test-positive row.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Calculations",
+"q": "What is the formula for negative predictive value (NPV) in terms of 2x2 cells?",
+"a": "NPV = TN / (TN + FN) = d / (c + d). It uses the test-negative row.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Calculations",
+"q": "Of 600 people, 100 have the disease (90 test positive) and 500 do not (100 test positive). Calculate sensitivity and specificity.",
+"a": "Sensitivity = 90/100 = 90%. Specificity = TN/(TN+FP) = 400/(400+100) = 400/500 = 80%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Sensitivity",
+"q": "Why is 'X% of people with a positive test will have the disease' an incorrect way to state sensitivity?",
+"a": "Because sensitivity describes the test result given the disease, not the disease given the test. The correct statement is 'X% of people WITH the disease will have a positive result' (or the test's ability to identify those with the disease). Statements about people with a positive test having disease describe PPV, not sensitivity.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Likelihood ratios",
+"q": "Define the positive likelihood ratio (LR+) and give its formula.",
+"a": "LR+ = probability of a positive result in a patient WITH the disorder / probability of a positive result in a patient WITHOUT the disorder = true positive rate / false positive rate = sensitivity / (1 - specificity).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Likelihood ratios",
+"q": "Define the negative likelihood ratio (LR-) and give its formula.",
+"a": "LR- = probability of a negative result in a patient WITH the disorder / probability of a negative result in a patient WITHOUT the disorder = false negative rate / true negative rate = (1 - sensitivity) / specificity.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Likelihood ratios",
+"q": "What do a positive likelihood ratio >10 and a negative likelihood ratio <0.1 indicate?",
+"a": "LR+ greater than 10 indicates a highly specific test (strong evidence to rule IN disease); LR- less than 0.1 indicates a highly sensitive test (strong evidence to rule OUT disease). Both cause large, clinically significant changes in disease probability.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "ROC curve",
+"q": "On a receiver operating characteristic (ROC) curve, what is plotted on each axis?",
+"a": "The true positive rate (sensitivity) is plotted on the y-axis (vertical), and the false positive rate (1 - specificity) is plotted on the x-axis (horizontal).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "ROC curve",
+"q": "What does the area under the ROC curve indicate?",
+"a": "The larger the area under the curve (the further the curve bows toward the top-left), the better the test performs. A curve close to the diagonal indicates a poor test.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Calculations",
+"q": "A test has 90% sensitivity and 90% specificity, with disease prevalence 20% in a population of 10,000. Calculate the PPV.",
+"a": "Diseased = 20% x 10,000 = 2000; non-diseased = 8000. TP = 90% x 2000 = 1800, FN = 200. FP = (1 - 0.9) x 8000 = 800, TN = 7200. PPV = TP/(TP+FP) = 1800/(1800+800) = 1800/2600 = 0.69 (about 69%).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Calculations",
+"q": "When only sensitivity (90%) and specificity (90%) are given with no prevalence, what is the false positive rate?",
+"a": "False positive rate = 1 - specificity = 1 - 0.90 = 10%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Calculations",
+"q": "A tumour marker is studied in 60 women with cancer; the confirmatory test shows 40 have carcinoma (test positive) and 20 do not. What is the sensitivity?",
+"a": "Sensitivity = TP/(TP+FN) = 40/(40+20) = 40/60 = 66.7% (about 66%).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Calculations",
+"q": "Of 700 women assessed for preterm labour, 320 tested positive (80 had preterm labour) and 380 tested negative (20 had preterm labour). Calculate the PPV.",
+"a": "PPV = TP/(TP+FP) = 80/(80+240) = 80/320 = 25%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Calculations",
+"q": "In a study, 50 women had preterm labour; 40 of them tested positive and 10 tested negative for fetal fibronectin. What is the sensitivity?",
+"a": "Sensitivity = TP/(TP+FN) = 40/(40+10) = 40/50 = 80%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Calculations",
+"q": "Among 100 women undergoing laparoscopy, 4 had endometriosis; 3 of these 4 were true positive on a screening test. What is the sensitivity?",
+"a": "Sensitivity = TP/(TP+FN) = 3/(3+1) = 3/4 = 75%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Calculations",
+"q": "A tumour marker for endometrial carcinoma: 140 women, 90 had a positive marker but only 30 had endometrial cancer; 5 with cancer had a negative marker. What is the sensitivity?",
+"a": "Diseased = TP + FN = 30 + 5 = 35; TP = 30. Sensitivity = TP/(TP+FN) = 30/35 = 85.7% (about 85%).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Predictive values",
+"q": "Which epidemiological term describes the proportion of individuals with a positive screening test who actually have the disease?",
+"a": "Positive predictive value (PPV) - not sensitivity.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "2x2 table",
+"q": "If a question gives both a gold-standard test and a screening test (without explicitly naming disease status), how do you arrange the 2x2 table?",
+"a": "Place the gold-standard test result across the top (horizontal columns, representing true disease status) and the screening test result down the left side (vertical rows).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Specificity",
+"q": "What does '90% of those WITHOUT endometrial cancer are correctly identified by the test' describe?",
+"a": "Specificity (the ability of the test to correctly identify those without the disease).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Sensitivity",
+"q": "What does '60% of women WITH endometrial cancer are correctly identified by the test' describe?",
+"a": "Sensitivity (the ability of the test to correctly identify those with the disease).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Meta-analysis / Forest plot",
+"q": "On a forest plot, what does the size of each study's box (square) represent?",
+"a": "The weight (weightage) of that study in the overall meta-analysis. A larger box = greater weight (usually reflecting a larger sample size / smaller variance).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Meta-analysis / Forest plot",
+"q": "On a forest plot, what does the horizontal line through each study's box represent?",
+"a": "The 95% confidence interval of that individual study's effect estimate.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Meta-analysis / Forest plot",
+"q": "On a forest plot, what does the diamond represent and what do its lateral (horizontal) points indicate?",
+"a": "The diamond represents the overall (pooled) effect of the meta-analysis. Its lateral points (width) represent the 95% confidence interval of the overall result; its centre is the pooled estimate.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Meta-analysis / Forest plot",
+"q": "On a forest plot, what is the vertical 'line of no effect' and how is it interpreted?",
+"a": "It is the vertical reference line marking no difference between groups (RR/OR = 1, or mean difference = 0). If a study's CI (or the overall diamond) crosses/touches this line, the result is not statistically significant (no demonstrable difference between treatment and control).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Meta-analysis / Forest plot",
+"q": "On a forest plot with the intervention/treatment group on the left and control on the right, how do you tell which group an estimate favours?",
+"a": "If the estimate/diamond lies to the left of the line of no effect (and does not cross it), it favours the treatment group; if it lies to the right (and does not cross it), it favours the control group. Crossing the line = no significant difference.",
+"ai": false,
+"note": "Side interpretation depends on the chosen orientation/outcome; the lecture's left=treatment, right=control convention is plot-specific, not universal."
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Meta-analysis",
+"q": "What is heterogeneity versus homogeneity in a meta-analysis?",
+"a": "Heterogeneity = the study populations, methods and/or results differ substantially from one another. Homogeneity is the opposite: the studies are sufficiently similar/consistent to be pooled.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Types of data",
+"q": "Classify the main types of variable/data.",
+"a": "Categorical (qualitative): nominal (no order, e.g. blood group) or ordinal (ordered, e.g. pain scale). Numerical (quantitative): discrete (whole counts) or continuous (can take decimals); continuous data may be interval or ratio.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Types of data",
+"q": "What type of variable is blood group, and if both 'categorical' and 'nominal' are offered as options which is the better answer?",
+"a": "Blood group is categorical with no inherent order, so it is nominal. When both appear, 'nominal' is the more precise (better) answer because it specifies that there is no order.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Types of data",
+"q": "What is the difference between an interval scale and a ratio scale?",
+"a": "Both are continuous numerical scales with equal intervals. A ratio scale has a true (absolute) zero, where zero means complete absence of the quantity (e.g. weight, height, gestational age, birth weight). An interval scale has no true zero and values can be negative (e.g. degrees Celsius temperature, pH).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Types of data",
+"q": "If a question offers both 'discrete' and 'ordinal' for a clinical score such as the Apgar score or Bishop score, which should you choose?",
+"a": "Choose ordinal. Although these scores are recorded as whole numbers (suggesting discrete), the underlying data are ranked/ordered categories, so ordinal is the more appropriate answer. (Similarly for a pain scale.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Types of data",
+"q": "What type of data is maternal age (exact age) considered to be?",
+"a": "Age is quantitative and continuous; expressed precisely (years, months, days, decimals) it is a ratio scale (it has a true zero). If a 'ratio' option is offered choose it; otherwise choose 'continuous' over 'discrete'.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Standard error / Confidence intervals",
+"q": "What is the formula for the standard error of the mean (SEM)?",
+"a": "SEM = standard deviation / square root of the sample size (s / √n).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Standard error / Confidence intervals",
+"q": "Calculate the SEM when standard deviation = 5 and sample size = 100.",
+"a": "SEM = 5 / √100 = 5 / 10 = 0.5.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Standard error / Confidence intervals",
+"q": "Calculate the SEM when standard deviation = 50 and sample size = 10,000.",
+"a": "SEM = 50 / √10,000 = 50 / 100 = 0.5.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Standard error / Confidence intervals",
+"q": "What is the formula for a 95% confidence interval for a mean, and which z-value is used?",
+"a": "95% CI = mean ± (z × SEM), where z ≈ 1.96 for 95% (often approximated as 2). SEM = SD/√n.",
+"ai": false,
+"note": "The lecture approximates z as ~2 for the worked example; the exact 95% z-value is 1.96."
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Standard error / Confidence intervals",
+"q": "Given mean = 30, SD = 5, n = 100, calculate the (approximate) 95% confidence interval.",
+"a": "SEM = 5/√100 = 0.5; 95% CI ≈ 30 ± (2 × 0.5) = 30 ± 1, i.e. 29 to 31. (Using exact z = 1.96 gives 30 ± 0.98, i.e. ~29.02 to 30.98.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Standard error / Confidence intervals",
+"q": "Distinguish standard deviation from standard error of the mean.",
+"a": "Standard deviation describes how individual data points in a sample vary (spread) around the sample mean. Standard error of the mean describes how close a sample mean is likely to be to the true population mean (the variability of sample means); SEM = SD/√n, so SEM is smaller than SD.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Distributions",
+"q": "What is the relationship between mean, median and mode in a normal (Gaussian) distribution?",
+"a": "In a normal distribution the mean, median and mode are all equal (and the curve is a symmetrical bell shape).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Distributions",
+"q": "In a negatively skewed distribution, what is the order of mean, median and mode?",
+"a": "Mean < median < mode (the mean is pulled toward the lower/left tail, so the mean is the smallest of the three).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Distributions",
+"q": "In a positively skewed distribution, what is the order of mean, median and mode?",
+"a": "Mode < median < mean (the mean is pulled toward the upper/right tail, so the mean is the greatest of the three).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Measures of spread",
+"q": "How is variance related to standard deviation?",
+"a": "Standard deviation = the square root of the variance (equivalently, variance = SD squared).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Box-and-whisker plot",
+"q": "On a box-and-whisker plot, what do the bottom and top of the box represent?",
+"a": "The bottom of the box is the first quartile (Q1, lower quartile) and the top is the third quartile (Q3, upper quartile). The line inside the box is the median (Q2).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Box-and-whisker plot",
+"q": "On a box-and-whisker plot, what do the whiskers represent?",
+"a": "The whiskers extend to the maximum and minimum values of the data (the range).",
+"ai": false,
+"note": "In standard usage whiskers may instead extend to a defined limit (e.g. 1.5×IQR) with outliers plotted separately; the lecture's 'max/min' definition is the simple form."
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Box-and-whisker plot",
+"q": "On a box-and-whisker plot, how does the position of the median line indicate skew?",
+"a": "If the median line sits in the centre of the box, the data are approximately symmetrically (normally) distributed. If the median is shifted toward the top or bottom of the box, the data are skewed (not normally distributed).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Measures of spread",
+"q": "How is the interquartile range (IQR) calculated, and how does it differ from the simple range?",
+"a": "IQR = Q3 − Q1 (upper quartile minus lower quartile). It is found by ordering the data, splitting into lower and upper halves, and taking the medians of those halves. The simple range = largest value − smallest value only; do not confuse the two.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Statistical test selection",
+"q": "Which test compares two independent (unpaired) groups when the data are not normally distributed?",
+"a": "The Mann-Whitney U test (a non-parametric test for comparing two independent/unpaired samples).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Statistical test selection",
+"q": "Which test compares two related (paired) samples when the data are not normally distributed?",
+"a": "The Wilcoxon signed-rank test (a non-parametric test for paired samples, e.g. repeated readings within the same group).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Statistical test selection",
+"q": "Which non-parametric test compares more than two independent (unpaired) groups?",
+"a": "The Kruskal-Wallis test (non-parametric, for comparing >2 independent/unpaired samples).",
+"ai": false,
+"note": "Transcript garbled the name ('setu test'); the standard non-parametric test for >2 unpaired groups is Kruskal-Wallis."
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Statistical test selection",
+"q": "Which non-parametric test compares more than two related (paired) groups?",
+"a": "The Friedman test (non-parametric, for comparing >2 paired/related samples).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Statistical test selection",
+"q": "Which test(s) are used to compare proportions / categorical data between groups?",
+"a": "The chi-squared (χ²) test for larger samples; Fisher's exact test for small samples (or small expected cell counts).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Statistical test selection",
+"q": "A study compares blood pressure readings taken at early, mid and late pregnancy in the same group of 200 women; data are not normally distributed. Which test?",
+"a": "Because it is one group measured at three (>2) time points (related/paired) with non-parametric data, use the Friedman test.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Statistical test selection / Correlation",
+"q": "Which parametric test assesses correlation between two continuous (interval/ratio) variables, e.g. birth weight and blood pressure?",
+"a": "Pearson correlation coefficient (Pearson's r) – the parametric test of correlation. (Its non-parametric equivalent is Spearman's rank correlation.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Statistical test selection",
+"q": "If positively skewed data become normally distributed after logarithmic transformation, what type of test can then be used?",
+"a": "A parametric test (e.g. t-test/ANOVA/Pearson, as appropriate), because the transformed data now meet the normality assumption.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Diagnostic test statistics",
+"q": "What is the formula for positive predictive value (PPV)?",
+"a": "PPV = true positives / (true positives + false positives) – the proportion of people with a positive test who truly have the disease (read across the 'test positive' row).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Diagnostic test statistics",
+"q": "What is the formula for negative predictive value (NPV)?",
+"a": "NPV = true negatives / (true negatives + false negatives) – the proportion of people with a negative test who truly do not have the disease (read across the 'test negative' row).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Diagnostic test statistics",
+"q": "What is the formula for sensitivity?",
+"a": "Sensitivity = true positives / (true positives + false negatives) – the proportion of people WITH the disease who test positive (read down the 'diseased' column).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Diagnostic test statistics",
+"q": "What is the formula for specificity?",
+"a": "Specificity = true negatives / (true negatives + false positives) – the proportion of people WITHOUT the disease who test negative (read down the 'non-diseased' column).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Diagnostic test statistics",
+"q": "What is the formula for the positive likelihood ratio (LR+)?",
+"a": "LR+ = sensitivity / (1 − specificity), equivalently the true-positive rate / false-positive rate.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Diagnostic test statistics",
+"q": "What is the formula for the negative likelihood ratio (LR−)?",
+"a": "LR− = (1 − sensitivity) / specificity, equivalently the false-negative rate / true-negative rate.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Diagnostic test statistics",
+"q": "A laparoscopy/gold-standard study of 100 women finds 4 with endometriosis. MRI correctly identified 3 of these (missing 1) and called 7 disease-free women positive. Calculate NPV.",
+"a": "2×2 table: TP=3, FN=1, FP=7, TN=96−7=89. NPV = TN/(TN+FN) = 89/(89+1) = 89/90 ≈ 0.99 (≈98%).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Diagnostic test statistics / ROC",
+"q": "What does the receiver operating characteristic (ROC) curve plot, and what does the area under the curve (AUC) indicate?",
+"a": "An ROC curve plots the true-positive rate (sensitivity) on the y-axis against the false-positive rate (1 − specificity) on the x-axis. The greater the area under the curve (AUC), the better the test's ability to discriminate between diseased and non-diseased individuals.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Diagnostic test statistics / ROC",
+"q": "On an ROC curve, what does an AUC of 0.5 (the diagonal reference line) mean?",
+"a": "An AUC of 0.5 means the test has no discriminative ability – it performs no better than chance at distinguishing diseased from healthy individuals. Curves above the diagonal (toward the top-left, AUC closer to 1.0) indicate progressively better tests.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Measures of association",
+"q": "What is the formula for the odds ratio in a case-control study, and how is it defined?",
+"a": "Odds ratio = the odds of exposure in cases divided by the odds of exposure in controls. Using a 2×2 table (a=exposed cases, b=exposed controls, c=unexposed cases, d=unexposed controls), OR = (a×d)/(b×c) – the cross-product ('ad/bc').",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Measures of association",
+"q": "Smoking and cervical cancer case-control study: 30 of 60 cases were smokers; 20 of 60 controls were smokers. Calculate the odds ratio.",
+"a": "Cases: 30 smokers, 30 non-smokers. Controls: 20 smokers, 40 non-smokers. OR = (a×d)/(b×c) = (30×40)/(20×30) = 1200/600 = 2.0.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Clinical calculations",
+"q": "What is the formula for body mass index (BMI), and what units must be used?",
+"a": "BMI = weight (kg) / height (m)². Weight must be in kilograms and height in metres; convert centimetres to metres and grams to kilograms before calculating.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Clinical calculations",
+"q": "If a person has a BMI of 40 and a height of 2 m, what is their weight?",
+"a": "Weight = BMI × height² = 40 × (2²) = 40 × 4 = 160 kg.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Vital statistics / Mortality rates",
+"q": "What is the WHO definition of the perinatal mortality rate?",
+"a": "Perinatal mortality rate = (stillbirths + early neonatal deaths) / total births × 1000. WHO defines stillbirths as fetal deaths from ≥28 weeks' gestation and early neonatal deaths as deaths within the first 7 days (days 0–6) of life.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Vital statistics / Mortality rates",
+"q": "Perinatal mortality: total births = 300,000, stillbirths = 50, early neonatal deaths = 10. Calculate the perinatal mortality rate.",
+"a": "PMR = (50 + 10)/300,000 × 1000 = 60/300,000 × 1000 = 0.2 per 1000 total births.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Vital statistics / Mortality rates",
+"q": "When calculating perinatal mortality rate, why must you read the answer options carefully regarding the ×1000 multiplier?",
+"a": "The true rate is expressed per 1000 total births (multiplied by 1000). Some exam options omit the ×1000 and present the simplified fraction (e.g. 60/300,000). Choose the fully calculated 'per 1000' value if offered; otherwise select the un-multiplied/simplified fraction.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Hypothesis testing / Errors",
+"q": "Define a Type I (alpha) statistical error.",
+"a": "A Type I error is rejecting the null hypothesis when it is actually true – concluding there is a difference/effect when in reality there is none (a false positive). Its probability is alpha (α), the significance level.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Hypothesis testing / Errors",
+"q": "Define a Type II (beta) statistical error.",
+"a": "A Type II error is failing to reject the null hypothesis when it is actually false – concluding there is no difference/effect when one truly exists (a false negative). Its probability is beta (β).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Hypothesis testing / Errors",
+"q": "How are statistical power and the Type II error related? If the power of a test is 90%, what is the chance of a Type II error?",
+"a": "Power = 1 − β (the probability of correctly detecting a true effect). If power = 90% (0.9), then β = 1 − 0.9 = 0.1, i.e. a 10% chance of a Type II error.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Measures of effect",
+"q": "How do you calculate the number needed to treat (NNT) from the absolute risk reduction (ARR)?",
+"a": "NNT = 1 / absolute risk reduction. If ARR = 20% (0.2), NNT = 1/0.2 = 5.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Maternal mortality classification",
+"q": "Classify maternal deaths as direct, indirect or incidental, with an example of each.",
+"a": "Direct: death from an obstetric complication of pregnancy/delivery itself (e.g. postpartum haemorrhage). Indirect (coincidental in cause but aggravated): death from a pre-existing or new disease made worse by pregnancy (e.g. asthma exacerbation, cardiac disease). Incidental/coincidental: death unrelated to pregnancy (e.g. road traffic accident, lightning strike, flood).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Maternal mortality classification",
+"q": "A woman dies two weeks after delivery from an exacerbation of asthma. What category of maternal death is this?",
+"a": "An indirect maternal death – death from a pre-existing condition (asthma) that was aggravated by the physiological effects of pregnancy, rather than from a direct obstetric cause.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Evidence-based medicine / Levels of evidence",
+"q": "In the RCOG/SIGN grading of evidence, what underlies a Grade A versus a Grade B recommendation?",
+"a": "Grade A is based on high-quality randomised controlled trials (and meta-analyses/systematic reviews of RCTs). Grade B is based on high-quality observational studies – well-conducted cohort or case-control studies with low risk of bias/confounding.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Evidence-based medicine / Levels of evidence",
+"q": "Which would be a Grade B recommendation: 'a high-quality systematic review of studies that are not randomised'?",
+"a": "Yes – a high-quality systematic review of non-randomised studies (e.g. cohort or case-control/observational studies) supports a Grade B recommendation, because the underlying studies are observational rather than RCTs.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biostatistics",
+"subtopic": "Evidence-based medicine / Levels of evidence",
+"q": "What types of evidence underlie the lower grades (e.g. Grade C and expert opinion) in the RCOG/SIGN system, and how does bias change down the hierarchy?",
+"a": "Grade C relies on lower-quality observational studies (e.g. non-analytic studies such as case series/case reports); the lowest level is expert opinion. As you move down from A to C, the risk of bias and error increases and the strength of evidence decreases.",
+"ai": false,
+"note": ""
+}
+]
+},
+{
 "id": "clinical-management",
 "title": "Clinical Management",
 "cards": [
