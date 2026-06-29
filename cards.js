@@ -9086,6 +9086,1892 @@ window.SECTIONS = [
 ]
 },
 {
+"id": "genetics",
+"title": "Genetics",
+"cards": [
+{
+"topic": "Genetics",
+"subtopic": "Hereditary breast and ovarian cancer (BRCA)",
+"q": "Which three cancers are most commonly associated with BRCA mutations in females, in order of frequency?",
+"a": "Breast cancer (most common), then ovarian cancer, then pancreatic cancer.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Hereditary breast and ovarian cancer (BRCA)",
+"q": "In a male carrying a BRCA mutation, what is the most common associated cancer?",
+"a": "Prostate cancer (males do not develop the breast/ovarian pattern seen in females; pancreatic cancer is also increased).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Hereditary breast and ovarian cancer (BRCA)",
+"q": "What is the most common histological subtype of ovarian cancer associated with BRCA mutations?",
+"a": "High-grade (papillary) serous adenocarcinoma.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Cancer risk / general population",
+"q": "What is the lifetime risk of ovarian cancer in the general female population?",
+"a": "Approximately 1.4-1.5% (around 1 in 70).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Cancer risk / general population",
+"q": "What is the lifetime risk of breast cancer in the general female population?",
+"a": "Approximately 12% (about 1 in 8).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Hereditary breast and ovarian cancer (BRCA)",
+"q": "What is the lifetime risk of ovarian cancer in a BRCA1 mutation carrier?",
+"a": "Approximately 40-60% (mean often quoted ~40-44%).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Hereditary breast and ovarian cancer (BRCA)",
+"q": "What is the lifetime risk of breast cancer in a BRCA1 mutation carrier?",
+"a": "Approximately 60-90% (median quoted ~70-80%).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Hereditary breast and ovarian cancer (BRCA)",
+"q": "What is the lifetime risk of ovarian cancer in a BRCA2 mutation carrier?",
+"a": "Approximately 10-30% (around 17-20%).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Hereditary breast and ovarian cancer (BRCA)",
+"q": "What is the lifetime risk of breast cancer in a BRCA2 mutation carrier?",
+"a": "Approximately 45-85% (median quoted ~60-69%).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Hereditary breast and ovarian cancer (BRCA)",
+"q": "Besides hereditary breast and ovarian cancer, which additional cancer risk is increased in hereditary breast/ovarian cancer (BRCA) syndrome?",
+"a": "Melanoma (and pancreatic cancer) risk is increased.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Lynch syndrome (HNPCC)",
+"q": "Which class of genes is mutated in Lynch syndrome (HNPCC), and which specific genes are involved?",
+"a": "DNA mismatch repair (MMR) genes: MLH1, MSH2, MSH6 and PMS2.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Lynch syndrome (HNPCC)",
+"q": "Which two mismatch repair genes are most commonly involved in Lynch syndrome, and which predominates?",
+"a": "MLH1 and MSH2 are both the most common; if a single answer is required, MSH2 is generally preferred over MLH1.",
+"ai": true,
+"note": "Both MLH1 and MSH2 are the most frequently mutated MMR genes in Lynch syndrome; many sources cite MLH1 as the single most common. 'MSH2 preferred over MLH1' is the lecturer's exam tip rather than a definitive guideline ranking."
+},
+{
+"topic": "Genetics",
+"subtopic": "Lynch syndrome (HNPCC)",
+"q": "What is the approximate lifetime risk of colorectal (colonic) cancer in Lynch syndrome?",
+"a": "Approximately 45% (lecturer mnemonic uses ~47%).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Lynch syndrome (HNPCC)",
+"q": "What is the approximate lifetime risk of endometrial cancer in Lynch syndrome?",
+"a": "Approximately 40-60% (commonly quoted ~57%).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Lynch syndrome (HNPCC)",
+"q": "What is the approximate lifetime risk of ovarian cancer in Lynch syndrome?",
+"a": "Quoted as ~17% in some teaching, but current estimates are lower at approximately 6-12%.",
+"ai": true,
+"note": "Current literature puts Lynch ovarian cancer lifetime risk at roughly 6-12% (often 6-8%), a 2-3 fold/~4% increase over the ~1.4% population baseline. The 17% figure stated in the lecture is outdated/overestimated."
+},
+{
+"topic": "Genetics",
+"subtopic": "Lynch syndrome (HNPCC)",
+"q": "Is breast cancer an established component of Lynch syndrome, and what risk figure is sometimes quoted?",
+"a": "Lecture quotes ~13%, but breast cancer is not an established/confirmed Lynch-associated cancer.",
+"ai": true,
+"note": "Breast cancer is NOT a recognised core Lynch syndrome cancer in current guidance; the association is unproven/controversial. Core Lynch cancers are colorectal, endometrial, ovarian, and others (gastric, urothelial, small bowel). The 13% breast figure should not be relied upon."
+},
+{
+"topic": "Genetics",
+"subtopic": "Lynch syndrome (HNPCC)",
+"q": "What is the most common histological subtype of ovarian cancer in Lynch syndrome?",
+"a": "Endometrioid carcinoma (more common than clear cell carcinoma); these are non-serous, endometriosis-related histotypes.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Ovarian cancer histology",
+"q": "In ovarian cancer associated with endometriosis, which histological subtype predominates?",
+"a": "Clear cell carcinoma (clear cell predominates in endometriosis-associated tumours, whereas endometrioid predominates in Lynch-associated tumours).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Lynch syndrome (HNPCC)",
+"q": "In Lynch syndrome, which MMR gene is most commonly involved in endometrial cancer presenting before age 40?",
+"a": "MLH1.",
+"ai": true,
+"note": "This age-stratified gene-specific breakdown (MLH1 for early endometrial, MSH2 later, MSH6 for early ovarian) is a lecturer teaching scheme not reflected in standard guidelines; gene-specific risk profiles vary and are not defined this rigidly. Treat as exam-recall only."
+},
+{
+"topic": "Genetics",
+"subtopic": "Lynch syndrome (HNPCC)",
+"q": "What genetic syndrome should be suspected when colorectal cancer and endometrial cancer co-occur in a family?",
+"a": "Lynch syndrome (HNPCC).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Cystic fibrosis",
+"q": "What is the inheritance pattern of cystic fibrosis, which gene is affected, and on which chromosome is it located?",
+"a": "Autosomal recessive; mutation in the CFTR gene on the long arm of chromosome 7.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Cystic fibrosis",
+"q": "What is the function of the CFTR protein, and what is the consequence of its disruption?",
+"a": "It is a chloride channel regulating chloride movement across membranes; disruption impairs secretion clearance, causing thick, retained mucus in GI, respiratory and ductal tracts with obstruction and infection.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Cystic fibrosis",
+"q": "What causes male infertility in cystic fibrosis?",
+"a": "Congenital bilateral absence of the vas deferens (CBAVD), causing obstructive azoospermia.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Cystic fibrosis",
+"q": "In what proportion of men with cystic fibrosis is congenital bilateral absence of the vas deferens (CBAVD) found?",
+"a": "Nearly 90-95% of men with cystic fibrosis have CBAVD.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Cystic fibrosis",
+"q": "What proportion of men with infertility have congenital bilateral absence of the vas deferens (CBAVD)?",
+"a": "Approximately 1-2% of men with infertility, and CBAVD accounts for about 6% of obstructive azoospermia.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Cystic fibrosis",
+"q": "What is the diagnostic (gold standard) test for cystic fibrosis, and what is the diagnostic cut-off?",
+"a": "The sweat chloride test; a sweat chloride level greater than 60 mmol/L is diagnostic.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Cystic fibrosis",
+"q": "How is cystic fibrosis screened for in the newborn?",
+"a": "Newborn (Guthrie) bloodspot screening measuring immunoreactive trypsinogen (IRT).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Cystic fibrosis",
+"q": "Which test is used as a confirmatory test for cystic fibrosis after a positive sweat test, and on what samples can it be performed?",
+"a": "PCR-based CFTR mutation analysis, performed on blood smear or buccal smear.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Cystic fibrosis",
+"q": "Why is karyotyping not useful for diagnosing cystic fibrosis?",
+"a": "CF is caused by micro-deletions/point mutations in CFTR, which karyotyping cannot detect; karyotyping only shows whole-chromosome gains/losses.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Cystic fibrosis",
+"q": "What is the carrier frequency of cystic fibrosis in the Caucasian population?",
+"a": "Approximately 1 in 25 (about 4%).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Pedigree analysis",
+"q": "On a pedigree, how are females, males and unspecified gender represented?",
+"a": "Female = circle, male = square, unspecified gender = diamond/rhombus; affected individuals are shaded.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Pedigree analysis",
+"q": "On a pedigree, what does a double horizontal line between two individuals indicate?",
+"a": "A consanguineous (cousin) marriage.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Pedigree analysis",
+"q": "On a pedigree, what does a triangle, and a triangle with a line through it, represent?",
+"a": "A triangle = spontaneous abortion; a triangle with a line through it = terminated pregnancy.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Pedigree analysis",
+"q": "On a pedigree, how are monozygotic versus dizygotic twins distinguished?",
+"a": "Monozygotic twins have a connecting line between them; dizygotic twins do not.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Inheritance concepts",
+"q": "What is the difference between genotype and phenotype in a carrier?",
+"a": "Genotype is the alleles present (a carrier carries the affected/problematic allele); phenotype is what is expressed. A recessive-disease carrier has the mutant allele in the genotype but is phenotypically normal.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Pedigree analysis",
+"q": "How is 'skipping of generations' defined on a pedigree, and what does its presence indicate?",
+"a": "Skipping = phenotypically normal parents with an affected child (or affected parents with normal children, judged phenotypically). Any skipping in a pedigree indicates a recessive inheritance pattern.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Autosomal dominant inheritance",
+"q": "In autosomal dominant inheritance, what pattern is seen across generations and between sexes?",
+"a": "No skipping of generations (each generation affected), and both sexes affected equally; both mothers and fathers transmit equally to sons and daughters.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Autosomal recessive inheritance",
+"q": "In autosomal recessive inheritance, what pedigree features are characteristic?",
+"a": "Skipping of generations is seen; both sexes affected roughly equally; often arises with consanguinity (carrier x carrier) with no prior family history.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Pedigree analysis",
+"q": "If a male appears as a carrier/heterozygote on a pedigree, can the condition be X-linked?",
+"a": "No. A male has only one X chromosome, so he cannot be a heterozygous carrier of an X-linked allele; such a pedigree must be autosomal.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Autosomal recessive inheritance",
+"q": "Give important examples of autosomal recessive conditions.",
+"a": "Sickle cell disease, beta-thalassaemia, cystic fibrosis, phenylketonuria (PKU), alpha-1 antitrypsin deficiency, congenital adrenal hyperplasia.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "X-linked inheritance",
+"q": "In X-linked inheritance, why can a father never transmit the gene to his son?",
+"a": "A father passes his Y chromosome (not his X) to sons; he passes his single X only to daughters. Therefore father-to-son transmission does not occur (no male-to-male transmission).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "X-linked recessive inheritance",
+"q": "Give important examples of X-linked recessive conditions.",
+"a": "Duchenne muscular dystrophy, haemophilia A and B, and glucose-6-phosphate dehydrogenase (G6PD) deficiency.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "X-linked recessive inheritance",
+"q": "In X-linked recessive inheritance, which sex is predominantly affected?",
+"a": "Boys (males) are more commonly affected than girls, because a single mutant X expresses the disease in males.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "X-linked recessive inheritance",
+"q": "What is the mode of inheritance of Duchenne muscular dystrophy?",
+"a": "X-linked recessive.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "X-linked dominant inheritance",
+"q": "Give important examples of X-linked dominant conditions, and how does the affected-sex ratio help identify them?",
+"a": "Alport syndrome, Rett syndrome, and incontinentia pigmenti. Females are affected about twice as often as males, and an affected father transmits to all his daughters but none of his sons.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "X-linked dominant inheritance",
+"q": "What is the inheritance pattern of Rett syndrome?",
+"a": "X-linked dominant.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "X-linked inheritance",
+"q": "What is the inheritance pattern of Alport syndrome?",
+"a": "X-linked (classically X-linked dominant; the most common form is X-linked).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Mitochondrial inheritance",
+"q": "How is mitochondrial inheritance identified on a pedigree?",
+"a": "Mitochondrial DNA is inherited only from the mother; an affected mother transmits to ALL her offspring (both sexes), but affected males transmit to none of their children.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Autosomal dominant inheritance",
+"q": "Give important examples of autosomal dominant conditions.",
+"a": "von Willebrand disease, myotonic dystrophy, Huntington disease, Marfan syndrome, hereditary breast/ovarian cancer (BRCA), HNPCC/Lynch syndrome, and hereditary spherocytosis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Autosomal dominant inheritance",
+"q": "What is the inheritance pattern of Marfan syndrome and which gene is involved?",
+"a": "Autosomal dominant; caused by mutation in the fibrillin-1 (FBN1) gene.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Autosomal dominant inheritance",
+"q": "What is the inheritance pattern of Huntington disease?",
+"a": "Autosomal dominant.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Autosomal dominant inheritance",
+"q": "What is the inheritance pattern of BRCA genes and of the mismatch repair genes (Lynch)?",
+"a": "Both are inherited in an autosomal dominant manner.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Autosomal dominant inheritance",
+"q": "What is the most common inherited bleeding disorder, and what is its inheritance?",
+"a": "von Willebrand disease; autosomal dominant (inheritance can be variable, but classified as autosomal dominant for the exam).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Recurrence risk",
+"q": "If both parents are heterozygous for an autosomal dominant condition, what proportion of offspring are unaffected?",
+"a": "25% normal, 50% heterozygous affected, 25% homozygous affected (i.e. 75% affected, 25% unaffected).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Recurrence risk",
+"q": "If both parents are carriers for an autosomal recessive condition, what are the offspring proportions?",
+"a": "25% affected, 50% carriers, 25% unaffected (non-carrier).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Recurrence risk",
+"q": "If one parent has sickle cell disease and the other is a sickle cell carrier (trait), what proportion of children will have sickle cell disease?",
+"a": "50% will have sickle cell disease and 50% will be carriers (trait).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Congenital adrenal hyperplasia",
+"q": "Which gene is involved in congenital adrenal hyperplasia (21-hydroxylase deficiency) and where is it located?",
+"a": "CYP21A2, located on the short arm of chromosome 6 (6p21).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "De novo mutation",
+"q": "What is a de novo mutation, and how is it recognised on a pedigree?",
+"a": "A new (germline) mutation arising spontaneously: the entire prior family is normal with no carriers and no consanguinity, then a child appears affected suddenly.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "De novo mutation",
+"q": "How is a de novo mutation distinguished from autosomal recessive inheritance on a pedigree?",
+"a": "In autosomal recessive there are carriers in the prior family (often with consanguinity shown as a double line); in a de novo mutation everyone before is genuinely normal with no carriers, and the line of descent is typically single (no double/consanguinity line).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "ABO/Rh blood group inheritance",
+"q": "How many alleles determine the ABO blood group, and what is their dominance relationship?",
+"a": "Three alleles: A, B and O. A and B are co-dominant to each other; both are dominant over the recessive O allele.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "ABO/Rh blood group inheritance",
+"q": "What are the possible genotypes for blood group A, B, AB and O?",
+"a": "A = IAIA (homozygous) or IAIO (heterozygous); B = IBIB or IBIO; AB = IAIB (co-dominant); O = IOIO.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "ABO/Rh blood group inheritance",
+"q": "What proportion of the UK population is Rhesus (RhD) positive versus negative?",
+"a": "Approximately 85% are RhD positive and 15% are RhD negative.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "ABO/Rh blood group inheritance",
+"q": "Determines positive vs negative blood group: how is the Rh genotype simplified, and which is dominant?",
+"a": "Rh is determined by the C, D, E antigens; any dominant (capital) allele present is written as R (Rh positive); all-recessive (lowercase) is written r (Rh negative). R is dominant over r, so RR, Rr are Rh positive and only rr is Rh negative.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "ABO/Rh blood group inheritance",
+"q": "Roughly what proportion of UK babies are O positive versus A positive?",
+"a": "Approximately 48% are O positive and about 42% are A positive (O positive is the most common).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Cancer genetic syndromes",
+"q": "What multisystem tumours characterise Li-Fraumeni syndrome?",
+"a": "Multiple cancers including soft tissue sarcomas, adrenocortical tumours, breast cancer and childhood carcinomas.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Cancer genetic syndromes",
+"q": "What features characterise Cowden disease?",
+"a": "Hamartomas and polyps, together with an increased cancer risk.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Inheritance patterns",
+"q": "In an autosomal dominant pedigree, what features confirm autosomal (not X-linked) inheritance?",
+"a": "Male-to-male (father-to-son) transmission is seen, which is impossible in X-linked inheritance because a father passes his Y (not X) to sons. There is no skipping of generations, and males and females are affected in roughly equal numbers.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Inheritance patterns",
+"q": "Why does a vertical pattern with no generation skipping suggest a dominant rather than recessive inheritance pattern?",
+"a": "In dominant inheritance an affected (heterozygous) parent transmits the trait to each generation, so the condition appears in every generation without skipping. In recessive inheritance, two unaffected carrier parents can have an affected child, producing apparent skipping.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Trinucleotide repeats",
+"q": "What is the inheritance pattern, gene, and chromosome involved in Fragile X syndrome?",
+"a": "X-linked inheritance; caused by a CGG trinucleotide repeat expansion in the FMR1 gene on the X chromosome (Xq27.3).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Trinucleotide repeats",
+"q": "In Fragile X syndrome, which trinucleotide repeat expands and what is the molecular consequence?",
+"a": "Expansion of the CGG repeat (full mutation >200 repeats) silences the FMR1 gene, causing loss of FMRP (Fragile X Mental Retardation Protein). FMRP is needed for synaptic development between neurons, so its loss leads to intellectual disability, autism spectrum features and developmental delay.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Trinucleotide repeats",
+"q": "Name four classic trinucleotide repeat disorders and their repeat sequences.",
+"a": "Fragile X syndrome = CGG; Huntington disease = CAG; Myotonic dystrophy = CTG; Friedreich ataxia = GAA.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Genetic testing",
+"q": "Which technique is used to identify/confirm a trinucleotide repeat expansion mutation?",
+"a": "PCR (polymerase chain reaction) can be used to detect and size the repeat expansion. (Southern blot is also used for very large expansions.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Trinucleotide repeats",
+"q": "What is genetic anticipation, and which class of disorders shows it?",
+"a": "Anticipation is the phenomenon where a disease appears at an earlier age and/or with greater severity in successive generations. It is characteristic of trinucleotide repeat disorders, because the repeat expands further with each transmission.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Trinucleotide repeats",
+"q": "Which clinical features are associated with myotonic dystrophy?",
+"a": "CTG repeat expansion; features include cataracts, frontal balding, gonadal atrophy and progressive myotonia/muscle weakness.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Hereditary cancer",
+"q": "What is the lifetime breast cancer risk with a BRCA1 or BRCA2 mutation by age 70?",
+"a": "Approximately 60-70% (commonly quoted ~65-70%) lifetime risk of breast cancer by age 70 in BRCA1/2 carriers. Breast is the most common cancer in BRCA carriers.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Hereditary cancer",
+"q": "What is the lifetime ovarian cancer risk with BRCA1 versus BRCA2 mutations?",
+"a": "BRCA1: approximately 40% (range ~40-46%) lifetime risk. BRCA2: approximately 10-20% (range ~10-27%).",
+"ai": true,
+"note": "Transcript quoted BRCA1 ovarian risk as 40-60%; the upper bound is too high. Standard quoted lifetime BRCA1 ovarian cancer risk is ~40-46% (not up to 60%). BRCA2 ~10-27% is acceptable."
+},
+{
+"topic": "Genetics",
+"subtopic": "Hereditary cancer",
+"q": "What is the general population lifetime risk of breast and ovarian cancer (baseline for comparison with BRCA)?",
+"a": "Breast cancer ~12% (about 1 in 8). Ovarian cancer ~1.4-2%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Hereditary cancer",
+"q": "Which inheritance pattern do hereditary breast/ovarian cancer (BRCA) syndrome and Lynch syndrome follow?",
+"a": "Both are autosomal dominant.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Hereditary cancer",
+"q": "Which genes are mutated in Lynch syndrome (HNPCC)?",
+"a": "The DNA mismatch repair (MMR) genes: MLH1, MSH2, MSH6 (and PMS2).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Hereditary cancer",
+"q": "What is the most common gynaecological cancer in Lynch syndrome and its approximate lifetime risk?",
+"a": "Endometrial cancer is the most common extracolonic/gynaecological cancer; lifetime risk approximately 40-60% (for MLH1/MSH2 carriers). Median age of diagnosis is ~50 years, about 10 years earlier than the general population.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Hereditary cancer",
+"q": "What is the ovarian cancer risk in Lynch syndrome compared with the general population?",
+"a": "Lifetime ovarian cancer risk in Lynch syndrome is approximately 8-10% (gene-dependent), which is several-fold higher than the general population baseline of ~1.4%.",
+"ai": true,
+"note": "Transcript stated only a '2-3 fold increase' in ovarian cancer risk; this understates it. General population risk ~1.4% rises to ~8-10% in Lynch (roughly a 5-6 fold increase), so '2-3 fold' is inaccurate."
+},
+{
+"topic": "Genetics",
+"subtopic": "Hereditary cancer",
+"q": "What is the most common ovarian cancer subtype seen with BRCA mutations versus with Lynch syndrome?",
+"a": "BRCA-associated ovarian cancer is most commonly high-grade serous carcinoma. Lynch-associated ovarian cancer is most commonly endometrioid (and clear cell) subtype.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Chromosomal abnormalities",
+"q": "What is the underlying mechanism of most chromosomal aneuploidies such as trisomies and monosomies?",
+"a": "Non-disjunction (failure of chromosome pairs to separate) during meiosis I or meiosis II, producing gametes with an extra or missing chromosome.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Chromosomal abnormalities",
+"q": "Name the three common autosomal trisomies and their syndromes.",
+"a": "Trisomy 21 = Down syndrome; Trisomy 18 = Edwards syndrome; Trisomy 13 = Patau syndrome.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Chromosomal abnormalities",
+"q": "Give examples of sex chromosome aneuploidies (trisomy and monosomy).",
+"a": "Trisomies: Triple X (47,XXX) and Klinefelter syndrome (47,XXY). Monosomy: Turner syndrome (45,X).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Screening",
+"q": "How does maternal age affect the risk of Down syndrome (trisomy 21)?",
+"a": "Risk rises with maternal age, increasing significantly after age 40. (Down syndrome risk increases progressively with advancing maternal age due to non-disjunction in meiosis.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Chromosomal abnormalities",
+"q": "Polydactyly (extra digits) is a characteristic feature of which trisomy?",
+"a": "Patau syndrome (trisomy 13).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Chromosomal abnormalities",
+"q": "List characteristic features of Patau syndrome (trisomy 13).",
+"a": "Polydactyly, cleft lip/palate, microphthalmia, holoprosencephaly, and other midline defects.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Chromosomal abnormalities",
+"q": "Which chromosomal deletion causes Cri-du-chat syndrome and what is its hallmark feature?",
+"a": "Deletion of the short arm (p arm) of chromosome 5 (5p-). The hallmark feature is a high-pitched, cat-like cry; also associated with developmental and motor delay.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Genetic testing",
+"q": "Which technique is best for detecting microdeletions (e.g. Cri-du-chat)?",
+"a": "Microarray comparative genomic hybridisation (array CGH / aCGH) is the best technique for detecting microdeletions; FISH can also be used.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Chromosomal abnormalities",
+"q": "What is the difference between a reciprocal translocation and a Robertsonian translocation?",
+"a": "Reciprocal translocation: exchange of segments between two non-homologous chromosomes. Robertsonian translocation: fusion of two acrocentric chromosomes at the centromere (long arms join, short arms are lost). Both are balanced in the carrier.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Chromosomal abnormalities",
+"q": "When a balanced translocation carrier reproduces with a normal partner, what types of offspring can result?",
+"a": "Offspring may be normal, balanced translocation carriers, or have an unbalanced karyotype (with duplicated/deleted genetic material), which may cause miscarriage or an affected child.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Chromosomal abnormalities",
+"q": "What type of chromosomes are involved in Robertsonian translocations?",
+"a": "Acrocentric chromosomes (chromosomes 13, 14, 15, 21, 22), which have very short p arms; the long arms fuse and the short arms are lost.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Inheritance patterns",
+"q": "In a pedigree where father-to-daughter transmission of a disease is NOT possible but mother-to-son transmission IS possible, what is the inheritance pattern?",
+"a": "X-linked recessive. An affected father transmits his X-linked recessive allele to all daughters, but they receive a normal dominant allele from their mother and are unaffected carriers (so the disease itself is not transmitted to daughters); an affected/carrier mother can transmit to sons who become affected.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Inheritance patterns",
+"q": "If a father can transmit a disease to his daughter (100% of daughters affected), which inheritance pattern is it most consistent with?",
+"a": "X-linked dominant. An affected father passes his single X (carrying the dominant disease allele) to all daughters, so all daughters are affected, while no sons are affected from the father.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Inheritance patterns",
+"q": "What is a key distinguishing feature of X-linked dominant inheritance in a pedigree?",
+"a": "Affected females outnumber affected males (roughly double), and there is no male-to-male transmission. Affected fathers pass it to all daughters but no sons.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Inheritance patterns",
+"q": "What is a key distinguishing feature of X-linked recessive inheritance in a pedigree?",
+"a": "Affected individuals are predominantly male; females are usually unaffected carriers. There is no male-to-male transmission, and the trait may pass through carrier females to sons.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Inheritance patterns",
+"q": "Why are there no carriers in autosomal dominant inheritance?",
+"a": "Because a single copy of the dominant disease allele causes the disease. Heterozygotes are affected (the dominant allele overcomes the normal allele), so individuals are either diseased or normal, not silent carriers.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Inheritance patterns",
+"q": "How is autosomal recessive inheritance recognised in a pedigree?",
+"a": "Unaffected (phenotypically normal) parents who are both carriers can have affected children; the trait often skips generations, and males and females are affected equally. An affected child requires both alleles to be the recessive disease allele.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Mutations",
+"q": "Define a frameshift mutation and why it is so damaging.",
+"a": "An insertion or deletion of nucleotides that is not a multiple of three, shifting the reading frame so that all downstream codons are altered, usually producing a non-functional protein.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Mutations",
+"q": "Distinguish a conservative from a non-conservative (missense) amino acid substitution.",
+"a": "Conservative substitution: the new amino acid has a similar structure/properties to the original, so protein function is often preserved. Non-conservative substitution: the new amino acid has different properties, more likely to disrupt protein function.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Mutations",
+"q": "Name conditions associated with frameshift mutations.",
+"a": "Duchenne muscular dystrophy, Crohn's disease, and some hereditary cancers including BRCA1-related hereditary breast/ovarian cancer.",
+"ai": true,
+"note": "The transcript groups these as frameshift-associated. Duchenne muscular dystrophy and BRCA1 commonly involve frameshift (and other) mutations, but Crohn's disease is multifactorial/polygenic (e.g. NOD2 variants) rather than a classic single-gene frameshift disorder; this grouping cannot be reliably verified as standard MRCOG fact."
+},
+{
+"topic": "Genetics",
+"subtopic": "Genetic syndromes",
+"q": "What enzyme deficiency causes the most common form of congenital adrenal hyperplasia (CAH)?",
+"a": "21-hydroxylase deficiency (autosomal recessive), the most common cause of CAH.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Genetic syndromes",
+"q": "In congenital adrenal hyperplasia (21-hydroxylase deficiency), why does virilisation of a 46,XX female occur?",
+"a": "Blocked cortisol (and aldosterone) synthesis leads to ACTH-driven adrenal hyperplasia and shunting of precursors into the androgen pathway. Excess adrenal androgens cause virilisation of the external genitalia in a 46,XX female.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Genetic syndromes",
+"q": "What is the enzyme defect and inheritance in Tay-Sachs disease, and a characteristic clinical sign?",
+"a": "Deficiency of hexosaminidase A (HEXA gene), autosomal recessive. GM2 ganglioside accumulates causing neuronal damage; a characteristic sign is a cherry-red spot on the retina, with progressive intellectual disability and motor decline.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Genetic testing",
+"q": "How can Tay-Sachs disease be diagnosed prenatally and biochemically?",
+"a": "Prenatal sampling by chorionic villus sampling (CVS) or amniocentesis; the sample can be analysed by genetic techniques (PCR for the HEXA mutation) or by measuring hexosaminidase A enzyme levels (enzyme assay/biochemistry).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Genetic syndromes",
+"q": "In Androgen Insensitivity Syndrome, what is the karyotype, the gonadal status, and why is the external phenotype female?",
+"a": "46,XY with testes present (often intra-abdominal/inguinal) that produce testosterone and anti-Mullerian hormone (AMH). The androgen receptor is defective (X-linked), so target tissues cannot respond to androgens; external genitalia develop as female. AMH causes regression of Mullerian structures (no uterus), and the vagina ends as a blind pouch.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Genetic syndromes",
+"q": "What is the role of the SRY gene in sexual differentiation?",
+"a": "SRY (on the Y chromosome) initiates testis development. If SRY is present, gonads develop into testes; if absent, gonads develop into ovaries. It acts at the chromosomal level to determine gonadal sex.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Genetic syndromes",
+"q": "What are the roles of anti-Mullerian hormone (AMH) and testosterone in male genital development?",
+"a": "AMH causes regression of the Mullerian (paramesonephric) ducts. Testosterone stimulates differentiation of the Wolffian (mesonephric) ducts. Dihydrotestosterone (DHT, formed from testosterone by 5-alpha-reductase) differentiates the external genitalia.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Genetic syndromes",
+"q": "What is the enzyme defect in 5-alpha-reductase deficiency and its effect on genitalia?",
+"a": "Deficiency of 5-alpha-reductase prevents conversion of testosterone to dihydrotestosterone (DHT). Internal structures are normal (testes present, normal Wolffian derivatives) but external genitalia are under-virilised/female-appearing at birth because DHT is required for external genital differentiation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Inheritance patterns",
+"q": "In an X-linked versus autosomal pedigree, where does the mutated gene lie, and how does dominant versus recessive expression differ?",
+"a": "X-linked: the affected gene is on the X chromosome; autosomal: the affected gene is on an autosome. In dominant conditions the disease allele is expressed even when heterozygous (it overcomes the normal allele); in recessive conditions both alleles must be the disease allele for the phenotype to appear.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Recurrence risks",
+"q": "What is the recurrence risk of trisomy when both parents have normal karyotypes (de novo non-disjunction)?",
+"a": "Approximately 1% recurrence risk when both parents are karyotypically normal.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Genetic syndromes",
+"q": "What is the chromosomal composition of a complete hydatidiform mole and how does it arise?",
+"a": "A complete mole is typically 46 chromosomes, all paternal (diploid androgenetic) with no maternal genetic contribution. It arises either by monospermy (one sperm fertilises an empty ovum and duplicates its genetic material) or by dispermy (two sperm fertilise an empty ovum). The maternal genetic material is lost/inactivated.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Genetic syndromes",
+"q": "What is the chromosomal composition of a partial hydatidiform mole and how does it arise?",
+"a": "A partial mole is typically triploid (69 chromosomes), with one maternal and two paternal sets, arising from dispermy (two sperm fertilising a normal ovum that retains its genetic material).",
+"ai": true,
+"note": "The transcript repeatedly stated complete moles are '46' which is correct (diploid androgenetic). However for the partial mole the lecturer's wording was garbled; the standard fact is that a partial mole is TRIPLOID (69 chromosomes) from dispermy, not 46 - confirm the chromosome number is taught as 69,XXX/XXY/XYY."
+},
+{
+"topic": "Genetics",
+"subtopic": "Chromosome structure",
+"q": "In a chromosome, what are the short arm and long arm called, and what joins them?",
+"a": "The short arm is the p arm and the long arm is the q arm; they are joined at the centromere.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Chromosome structure",
+"q": "What is the protein core around which DNA is wound to form a nucleosome, and which histones make it up?",
+"a": "DNA is wound around a histone octamer (the nucleosome core), made of two copies each of H2A, H2B, H3 and H4. H1 is the linker histone (not part of the octamer) that links the nucleosome to DNA.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Chromosome structure",
+"q": "What is the overall chemical character of histone proteins, and which amino acids contribute to it?",
+"a": "Histones are basic proteins, owing to a high content of the basic amino acids arginine and lysine.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Cytogenetic techniques",
+"q": "Which stage of the chromosome (cell cycle) is used for karyotyping/studying aneuploidies?",
+"a": "The metaphase chromosome, because the chromosomes are maximally condensed and individually distinguishable at metaphase.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Chromosome structure",
+"q": "Classify chromosomes by centromere position: metacentric, submetacentric and acrocentric.",
+"a": "Metacentric: centromere central, p and q arms roughly equal. Submetacentric: centromere slightly off-centre, p arm a little shorter than q. Acrocentric: centromere near one end, with satellites on the very short p arm. (Telocentric, with the centromere at the very tip and no satellites, is not present in humans.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Chromosome structure",
+"q": "Which human chromosomes are acrocentric?",
+"a": "Chromosomes 13, 14, 15, 21, 22 and the Y chromosome are acrocentric.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Chromosome structure",
+"q": "Is the X chromosome metacentric, submetacentric or acrocentric?",
+"a": "The X chromosome is submetacentric.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Chromosome structure",
+"q": "How many chromosomes are in a normal human somatic cell?",
+"a": "46 chromosomes, arranged as 23 pairs.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Chromosome structure",
+"q": "Which is the smallest human autosome, and which is the smallest sex chromosome?",
+"a": "Chromosome 21 is the smallest autosome (chromosome 22 is the second smallest). The Y chromosome is the smallest sex chromosome and is progressively losing genetic material.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Microdeletion syndromes",
+"q": "Name the chromosome/region involved in: cri-du-chat, Prader-Willi/Angelman, and DiGeorge syndromes.",
+"a": "Cri-du-chat = deletion on chromosome 5 (5p). Prader-Willi/Angelman = chromosome 15. DiGeorge syndrome = chromosome 22 (22q11 microdeletion).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Aneuploidy syndromes",
+"q": "Give the karyotype/trisomy for Down, Edwards and Patau syndromes.",
+"a": "Down syndrome = trisomy 21 (47 chromosomes). Edwards syndrome = trisomy 18. Patau syndrome = trisomy 13.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Aneuploidy syndromes",
+"q": "What is the karyotype of Turner syndrome and what is the underlying mechanism?",
+"a": "Turner syndrome is 45,X (monosomy) - one X chromosome is lost, leaving 45 chromosomes. It is a monosomy of the sex chromosomes affecting females.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Aneuploidy syndromes",
+"q": "What is the karyotype of Klinefelter syndrome?",
+"a": "47,XXY - males with an extra X chromosome (47 chromosomes total).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Nucleic acid structure",
+"q": "Compare the structure of DNA and RNA strands.",
+"a": "DNA is double-stranded (double helix); RNA is single-stranded.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Nucleic acid structure",
+"q": "Which nucleotide bases are pyrimidines (single-ring) and which are purines (double-ring)?",
+"a": "Pyrimidines (single ring) = cytosine, thymine and uracil (CUT). Purines (double ring) = adenine and guanine ('pure as gold'). Thymine is in DNA only; uracil replaces thymine in RNA.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Nucleic acid structure",
+"q": "Which base is found only in DNA, and what replaces it in RNA?",
+"a": "Thymine is found only in DNA; in RNA it is replaced by uracil.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Nucleic acid structure",
+"q": "Which base pairs with adenine, and how many hydrogen bonds form each base pair?",
+"a": "Adenine pairs with thymine via 2 hydrogen bonds; guanine pairs with cytosine via 3 hydrogen bonds. (In RNA adenine pairs with uracil.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "DNA replication",
+"q": "Why is replication/strand separation initiated at AT-rich regions of DNA?",
+"a": "A-T base pairs have only 2 hydrogen bonds (vs 3 for G-C), so AT-rich regions are easier to break apart, making them favourable sites to initiate strand separation/replication.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Nucleic acid structure",
+"q": "How are the two strands of a DNA double helix oriented relative to each other?",
+"a": "They are antiparallel: one strand runs 5' to 3' and the complementary strand runs 3' to 5'.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Nucleic acid structure",
+"q": "Distinguish a nucleoside from a nucleotide.",
+"a": "A nucleoside is a nitrogenous base joined to a (deoxy)ribose sugar. A nucleotide is a nucleoside plus one or more phosphate groups.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Nucleic acid structure",
+"q": "In a nucleotide, what is attached at carbon 1' and at carbon 5' of the sugar, and what type of bond links nucleotides?",
+"a": "The nitrogenous base is attached at carbon 1'; the phosphate group is attached at carbon 5'. Nucleotides are linked by 3'-5' phosphodiester bonds.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Nucleic acid structure",
+"q": "What is the key sugar difference between RNA and DNA?",
+"a": "RNA contains ribose (with a 2'-OH/oxygen); DNA contains deoxyribose, which has lost that oxygen at the 2' carbon.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "DNA replication",
+"q": "What does DNA topoisomerase I versus topoisomerase II do in replication?",
+"a": "Topoisomerase I produces a single-strand break; topoisomerase II produces double-strand breaks and relieves the supercoils of DNA before replication.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "DNA replication",
+"q": "What is the role of helicase and of single-strand binding proteins at the replication fork?",
+"a": "Helicase unwinds and separates the two DNA strands to form the replication fork; single-strand binding proteins attach to the separated strands to prevent them re-annealing.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "DNA replication",
+"q": "In which direction does DNA polymerase synthesise a new strand, and what are leading and lagging strands?",
+"a": "DNA polymerase synthesises only in the 5' to 3' direction. The leading strand is made continuously; the lagging strand is made in short pieces (Okazaki fragments).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "DNA replication",
+"q": "What are Okazaki fragments and which enzyme joins them?",
+"a": "Okazaki fragments are the short segments synthesised on the lagging strand; DNA ligase joins them together into a continuous strand.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "DNA replication",
+"q": "What is the role of the RNA primer and primase in DNA replication?",
+"a": "DNA polymerase cannot start synthesis de novo; primase lays down a short RNA primer to which DNA polymerase then adds nucleotides. The RNA primer is later removed and replaced with DNA.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "DNA replication",
+"q": "What is the primary function of DNA polymerase in replication?",
+"a": "Addition of nucleotides onto the primer/growing strand (it does not synthesise the nucleotides themselves).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "DNA replication",
+"q": "What is the function of telomerase, and why are telomeres important?",
+"a": "Telomerase adds a specific repeated sequence to the ends of chromosomes. Telomeres protect against loss of coding genetic material during replication; when they are exhausted, replication stops and the cell becomes senescent.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Chromosome structure",
+"q": "How many telomeres does a metaphase chromosome have?",
+"a": "Four - one at each of the four chromatid ends of the metaphase (two-chromatid) chromosome.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Transcription",
+"q": "In transcription, which strand is used as the template, and which base replaces thymine in the RNA product?",
+"a": "The template (antisense) strand is used to make mRNA, not the coding (sense) strand. RNA polymerase synthesises 5' to 3', starting at the promoter, and incorporates uracil wherever thymine would have appeared.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Transcription",
+"q": "What is RNA splicing?",
+"a": "After transcription, the primary mRNA contains both introns and exons. Splicing removes the non-coding introns and joins the exons together to form mature mRNA.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Translation",
+"q": "What is a codon and what is an anticodon?",
+"a": "A codon is a sequence of three nucleotides on mRNA that codes for a specific amino acid. The anticodon is the complementary three-nucleotide sequence on tRNA that pairs with the codon.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Translation",
+"q": "Give an example of a start (initiation) codon and the stop (termination) codons.",
+"a": "The start codon is AUG (methionine). The stop codons are UAA, UAG and UGA, which recruit a release factor to terminate translation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Translation",
+"q": "What are the roles of mRNA, tRNA and rRNA in protein synthesis?",
+"a": "mRNA carries the message (codons) from DNA. tRNA reads the codon via its anticodon and brings the specific amino acid. rRNA (in the ribosomal subunits) helps form the peptide bonds of the polypeptide chain.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Translation",
+"q": "Name some post-translational protein modifications and their purposes.",
+"a": "Acetylation (can increase lifespan), phosphorylation (regulates protein activity), and glycosylation (aids secretion and membrane targeting of proteins).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Protein structure",
+"q": "Define the four levels of protein structure with examples.",
+"a": "Primary = single chain (amino acid sequence). Secondary = alpha helix or beta-pleated sheet (hydrogen bonds). Tertiary = 3D folding using disulphide/hydrophobic/ionic bonds (e.g. myoglobin). Quaternary = multiple folded chains (e.g. haemoglobin, 2 alpha + 2 beta chains + haem).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Transcription",
+"q": "What type of RNA does each RNA polymerase (I, II, III) produce?",
+"a": "RNA polymerase I makes ribosomal RNA (rRNA), RNA polymerase II makes messenger RNA (mRNA), and RNA polymerase III makes transfer RNA (tRNA).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Transcription",
+"q": "What is the structural shape of mRNA, tRNA and rRNA?",
+"a": "mRNA is single-stranded (linear), tRNA is clover-leaf shaped, and rRNA is a complex structure found within the ribosomal subunits.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Central dogma",
+"q": "Define transcription, translation and replication.",
+"a": "Transcription = synthesis of RNA from DNA. Translation = synthesis of protein from RNA. Replication = synthesis of DNA from DNA.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Cell cycle",
+"q": "List the phases of the cell cycle.",
+"a": "Interphase (G1, S, G2) followed by mitosis (M phase). A resting cell may exit into G0.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Cell cycle",
+"q": "Which proteins are synthesised in G1 versus G2 phase?",
+"a": "Proteins needed for DNA replication are synthesised in G1 phase (before S phase). Proteins needed for mitosis (e.g. spindle proteins) are synthesised in G2 phase.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Cell cycle",
+"q": "Name the three cell cycle checkpoints.",
+"a": "The G1 checkpoint, the G2 checkpoint, and the metaphase (spindle assembly) checkpoint. The G1 checkpoint is the most important - if DNA damage/mutation is detected there, the whole cycle does not proceed.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Cell cycle",
+"q": "In which phase does DNA replication occur, and which phase prepares the cell for DNA synthesis?",
+"a": "DNA replicates in S phase. G1 phase prepares the cell (synthesises the proteins needed) for DNA synthesis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Cell cycle",
+"q": "Which phase precedes mitosis, and which phase is proceeded by (follows) G1?",
+"a": "G2 phase precedes mitosis (occurs immediately before it). 'Preceded by mitosis' / following mitosis in the cycle is G1. (Trick distinction: precede = comes before; proceed = comes after.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Cell cycle",
+"q": "What is G0, and give examples of labile, stable and permanent cells.",
+"a": "G0 is the resting (quiescent) phase. Labile cells continuously divide (bone marrow, gut epithelium, hair follicles, germ cells). Stable cells rest in G0 but can re-enter G1 when stimulated (hepatocytes, lymphocytes, proximal tubular cells). Permanent cells do not divide again (neurons, skeletal/cardiac muscle, RBCs).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Oncogenetics",
+"q": "Give examples of tumour suppressor genes and oncogenes relevant to MRCOG.",
+"a": "Tumour suppressor genes include TP53 ('guardian of the genome'), BRCA1 and BRCA2 (which encode DNA repair proteins). These produce proteins that prevent cancer; oncogenes promote it.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Oncogenetics",
+"q": "Give examples of pro-apoptotic and anti-apoptotic genes.",
+"a": "Pro-apoptotic genes (promote apoptosis): BAX, BAK, BCL-Xs. Anti-apoptotic genes (inhibit apoptosis): BCL-2, BCL-XL.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Oncogenetics",
+"q": "What does BRCA1 encode and what type of gene is it?",
+"a": "BRCA1 is a tumour suppressor gene that encodes DNA repair proteins; mutations impair DNA repair and increase cancer risk.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Inheritance patterns",
+"q": "Which gene is associated with hereditary breast and ovarian cancer, and what is its inheritance?",
+"a": "BRCA1/BRCA2 - autosomal dominant inheritance.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Cell division",
+"q": "Compare the ploidy outcome of mitosis versus meiosis.",
+"a": "Mitosis (somatic, diploid cells) divides once giving 2 diploid daughter cells with genetic material identical to the parent. Meiosis (germ cells) divides twice (meiosis I and II) giving 4 haploid daughter cells; genetic material is halved after meiosis I, and meiosis II is like mitosis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Cell division",
+"q": "Are gonads diploid or haploid, and what about germ cells?",
+"a": "The gonads themselves are somatic and diploid; only the germ cells (gametes) produced are haploid.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Mitosis",
+"q": "What happens in prophase of mitosis?",
+"a": "The nuclear membrane begins to break down (and nucleolus disappears) and the chromosomes condense and become visible, beginning to pair.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Mitosis",
+"q": "What defines metaphase, anaphase and telophase of mitosis?",
+"a": "Metaphase: chromosomes align on the metaphase/equatorial plate (spindle fibres attach to centromeres via kinetochores). Anaphase: sister chromatids separate and move to opposite poles (A = Anaphase = chromatids Added to poles). Telophase: genetic material at the two poles, followed by cytokinesis to give two daughter cells.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Meiosis",
+"q": "How does prophase I of meiosis differ from other prophases, and what are its sub-stages?",
+"a": "Prophase I is unique because crossing over occurs (producing genetic variation). Its sub-stages are leptotene, zygotene, pachytene, diplotene and diakinesis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Meiosis",
+"q": "In which sub-stages of prophase I do the synaptonemal complex form, crossing over occur, and chiasmata appear?",
+"a": "Synaptonemal complex (synapsis) forms in zygotene; crossing over occurs in pachytene; chiasmata are seen in diplotene.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Chromosomal abnormalities",
+"q": "What is an isochromosome and how is it formed?",
+"a": "An isochromosome results when the centromere divides transversely (horizontally) rather than longitudinally during separation, producing a chromosome with two identical arms (and loss of the other arm).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Cell cycle",
+"q": "What are the relative lengths of the cell cycle phases?",
+"a": "G1 is the longest, then S phase, then G2, then mitosis (the shortest).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Mutations",
+"q": "List the types of point mutation (single nucleotide substitution) and their effects.",
+"a": "Silent (codon still codes the same amino acid - often the 3rd base), missense (codes a different amino acid; conservative if similar structure, non-conservative if different), and nonsense (creates a premature stop codon so no further amino acid is added).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Mutations",
+"q": "Distinguish transition from transversion in point mutations.",
+"a": "Transition: a purine is replaced by a purine (or pyrimidine by pyrimidine), e.g. A to G. Transversion: a purine is replaced by a pyrimidine (or vice versa), e.g. A to T.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Mutations",
+"q": "What is a frameshift mutation and give an example condition.",
+"a": "A frameshift mutation is insertion or deletion of a nucleotide (not a substitution), which shifts the reading frame and disrupts all downstream codons, usually producing a non-functional protein. Seen in e.g. Duchenne muscular dystrophy.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Mutations",
+"q": "What is a splice site mutation and give example conditions.",
+"a": "A splice mutation affects RNA splicing so introns are retained, producing abnormal mRNA. Seen in e.g. beta-thalassaemia, Gaucher disease and Marfan syndrome.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Trinucleotide repeats",
+"q": "What is anticipation in trinucleotide repeat expansion disorders?",
+"a": "Anticipation is the tendency for disease severity to increase and/or onset to become earlier in successive generations, because the trinucleotide repeat expands further with each generation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Trinucleotide repeats",
+"q": "Give the trinucleotide repeat for Huntington disease and its key pathology.",
+"a": "Huntington disease has a CAG repeat, with caudate atrophy and decreased acetylcholine and GABA.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Trinucleotide repeats",
+"q": "Give the trinucleotide repeat and key features for myotonic dystrophy.",
+"a": "Myotonic dystrophy has a CTG repeat; features include cataracts, frontal balding (in males) and generalised muscle atrophy.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Trinucleotide repeats",
+"q": "Give the trinucleotide repeat for Fragile X syndrome and its features.",
+"a": "Fragile X syndrome has a CGG repeat; features include chin protrusion (prominent jaw) and macro-orchidism (large gonads/testes).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Trinucleotide repeats",
+"q": "Give the trinucleotide repeat for Friedreich ataxia.",
+"a": "Friedreich ataxia has a GAA repeat.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Chromosomal abnormalities",
+"q": "What causes aneuploidy, and in which meiotic division is it most common?",
+"a": "Aneuploidy is caused by non-disjunction (failure of chromosomes/chromatids to separate), giving one daughter cell an extra chromosome (trisomy) and the other one fewer (monosomy). It can occur in meiosis I or II but is most common in meiosis I.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Aneuploidy syndromes",
+"q": "Which sex chromosome trisomies and monosomy are caused by non-disjunction?",
+"a": "Sex chromosome trisomies include triple X (47,XXX) and Klinefelter (47,XXY). The sex chromosome monosomy is Turner syndrome (45,X).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Chromosomal abnormalities",
+"q": "Define deletion, duplication, inversion and translocation as structural chromosomal mutations.",
+"a": "Deletion: a part of the chromosome is lost. Duplication: a segment is doubled. Inversion: a segment breaks, rotates 180 degrees and re-joins. Translocation: chromosomes exchange segments (between non-homologous chromosomes).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Chromosomal abnormalities",
+"q": "What is a reciprocal translocation and between which chromosomes does it occur?",
+"a": "A reciprocal translocation is an exchange of segments between two non-homologous chromosomes. If no genetic material is lost it is a balanced translocation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Chromosomal abnormalities",
+"q": "What are the possible outcomes for offspring of a balanced translocation carrier?",
+"a": "Offspring may be normal/balanced (survive normally, pregnancy proceeds) or unbalanced (loss/excess genetic material), leading to miscarriage, congenital deformities, or trisomies/monosomies.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Chromosomal abnormalities",
+"q": "What is a Robertsonian translocation and between which chromosomes does it occur?",
+"a": "A Robertsonian translocation is fusion between two acrocentric chromosomes (13, 14, 15, 21, 22). The most common involves chromosomes 13 and 14.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Chromosomal abnormalities",
+"q": "Robertsonian translocations are most clinically relevant in which syndromes?",
+"a": "Down syndrome (involving chromosome 21) and Patau syndrome (involving chromosome 13).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Aneuploidy syndromes",
+"q": "What proportion of Down syndrome is due to non-disjunction versus Robertsonian translocation?",
+"a": "About 95% is due to non-disjunction (free trisomy 21) and approximately 3-4% (around 1 in 20) is due to Robertsonian translocation; non-disjunction most commonly occurs in meiosis I.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Molecular techniques",
+"q": "What is the best technique for detecting microdeletions and microduplications?",
+"a": "Array comparative genomic hybridisation (array-CGH) is the best technique for microdeletions/microduplications. (FISH, QF-PCR and MLPA can detect aneuploidies and some imbalances but are less suited to microdeletions.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Molecular techniques",
+"q": "What do Southern, Northern and Western blotting detect?",
+"a": "Southern blotting detects DNA, Northern blotting detects RNA, and Western blotting detects protein. (Mnemonic: SNoW DRoP - DNA, RNA, Protein.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Molecular techniques",
+"q": "What is PCR used for, and which enzyme and source are used?",
+"a": "PCR (polymerase chain reaction) amplifies a specific DNA sequence. It uses the heat-stable enzyme Taq polymerase, derived from the bacterium Thermus aquaticus, plus primers and added nucleotides.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Molecular techniques",
+"q": "Which biochemical technique is used for prenatal identification of cystic fibrosis by amplifying a specific DNA sequence?",
+"a": "PCR (the amplification of a specific predetermined DNA sequence). The buzzword 'amplification' points to PCR rather than Southern blotting.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Molecular techniques",
+"q": "What is a DNA microarray used for?",
+"a": "Simultaneous analysis of the expression of thousands of genes / multiple parts of DNA at one time, identified using fluorescence.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Molecular techniques",
+"q": "What is FISH (fluorescent in situ hybridisation) and what can it detect?",
+"a": "FISH uses a fluorescent-labelled probe that hybridises to a specific DNA sequence within the cell. It can detect aneuploidy, translocations, and duplications/deletions, and is good for unbalanced chromosomal rearrangements, but is expensive.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Molecular techniques",
+"q": "What is QF-PCR used for?",
+"a": "Quantitative fluorescence PCR combines PCR amplification with fluorescence. It is cheaper than FISH and provides rapid detection of a limited number of common aneuploidies (e.g. trisomies), but is not good for deletions/duplications.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Molecular techniques",
+"q": "What is next generation sequencing used for?",
+"a": "It determines the order of nucleotides in DNA and RNA by massively parallel sequencing, allowing sequencing of large amounts of DNA/RNA simultaneously.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Cytogenetic techniques",
+"q": "What is the banding (G-banding) technique and what does it show?",
+"a": "A cytogenetic technique: cells are arrested in metaphase (e.g. with colchicine), DNA is denatured and a Giemsa stain is applied, producing light and dark bands. Dark bands represent AT-rich regions and light bands represent GC-rich regions, allowing chromosome number and structure (deletions, inversions) to be assessed.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Cytogenetic techniques",
+"q": "Which staining/banding technique is conventionally used for cytogenetic karyotyping?",
+"a": "G-banding (Giemsa banding).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Molecular techniques",
+"q": "What does CRISPR-Cas9 do in molecular biology?",
+"a": "CRISPR-Cas9 is a gene editing tool: CRISPR sequences (short repeats) guide the Cas9 enzyme to cut out and remove/edit a faulty DNA sequence.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Prenatal screening",
+"q": "List the prenatal aneuploidy screening tests and their timing in the UK.",
+"a": "Combined test: first trimester, offered 11+0 to 13+6 weeks. Quadruple test: second trimester, around 14-20 weeks (about 15 weeks). NIPT (cell-free fetal DNA): from 10 weeks onward.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Prenatal screening",
+"q": "What markers are measured in the combined test and the quadruple test?",
+"a": "Combined test: nuchal translucency, beta-hCG and PAPP-A. Quadruple test: beta-hCG, oestriol (uE3), alpha-fetoprotein (AFP) and inhibin A.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Prenatal screening",
+"q": "What are the approximate detection rates of the combined test, quadruple test and NIPT for Down syndrome?",
+"a": "Combined test ~90%, quadruple test ~70-75%, NIPT ~99%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Prenatal screening",
+"q": "What is the source of cell-free fetal DNA used in NIPT?",
+"a": "Fetal trophoblast is the main source. If trophoblast is not an option, fetal chorionic cells; if that is not available, fetal RBCs. (Order of preference: fetal trophoblast > chorionic cells > fetal RBCs. Note: fetal fibroblasts are a distractor and are NOT the source.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Prenatal screening",
+"q": "How do serum markers change in Down syndrome in the first and second trimester?",
+"a": "First trimester: beta-hCG increased, PAPP-A decreased. Second trimester (quadruple): beta-hCG and inhibin A increased; oestriol and AFP decreased.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Prenatal screening",
+"q": "From which gestation is cell-free fetal DNA reliably present for NIPT?",
+"a": "From 10 weeks onward.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Invasive testing",
+"q": "When is chorionic villus sampling (CVS) performed?",
+"a": "CVS is performed from 11+0 weeks, with the best window 11+0 to 13+6 weeks. It should NOT be performed before 10 weeks due to higher miscarriage risk and risk of limb/oromandibular defects with early CVS.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Invasive testing",
+"q": "When is amniocentesis performed?",
+"a": "Amniocentesis is performed from 15+0 weeks (not before 15+0 weeks); early amniocentesis is avoided due to higher pregnancy loss and risk of talipes.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Invasive testing",
+"q": "What is the procedure-related miscarriage risk of amniocentesis and CVS in a singleton pregnancy (current RCOG guidance)?",
+"a": "Per RCOG Green-top Guideline No. 8, the additional risk of miscarriage following amniocentesis or CVS by a skilled operator is likely to be below 0.5%; in twins the additional risk is around 1%.",
+"ai": true,
+"note": "Lecturer quoted ~1% for amniocentesis and 1-2% for CVS (and offered '0.5% vs 1%, choose 0.5'). Current RCOG GTG No. 8 states the additional procedure-related miscarriage risk for BOTH amniocentesis and CVS is below 0.5% (around 0.5% or less); the older 1%/1-2% figures are outdated. Twin risk ~1%."
+},
+{
+"topic": "Genetics",
+"subtopic": "Invasive testing",
+"q": "From which layer of CVS sample is a rapid result obtained, and why?",
+"a": "The outer cytotrophoblast layer contains dividing cells, so it does not need culturing and gives a rapid result (within ~2-3 days). The inner layer cells are more representative but are non-dividing and must be cultured, so take longer.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Invasive testing",
+"q": "From where is the sample taken in cordocentesis, and what is its miscarriage risk and minimum gestation?",
+"a": "Cordocentesis samples blood from the umbilical vein. It is usually not performed before 18 weeks (the vein is too small earlier), and carries a miscarriage risk of around 1-2%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Prenatal screening",
+"q": "What is the management pathway when a combined/quadruple screening result is high risk versus intermediate risk?",
+"a": "High risk: can offer invasive diagnostic testing directly. Intermediate risk (between 1 in 2 and ~1 in 150): offer NIPT; if NIPT positive offer invasive testing, if negative no further action. (Lower risk: lower than ~1 in 150.)",
+"ai": true,
+"note": "Lecturer used a 'low/intermediate risk' cut-off of around 1 in 150 to 1 in 2500. The current NHS Fetal Anomaly Screening Programme defines a HIGHER chance result as 1 in 2 to 1 in 150, and NIPT is offered for results in this 1 in 2 to 1 in 150 range; below 1 in 150 is lower chance. The transcript's exact numeric cut-offs do not match current FASP thresholds."
+},
+{
+"topic": "Genetics",
+"subtopic": "Single gene disorders",
+"q": "What is the gene defect in congenital adrenal hyperplasia?",
+"a": "21-hydroxylase deficiency, with the gene located at chromosome 6p21.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Inheritance patterns",
+"q": "What is the inheritance of Marfan syndrome, and what is the recurrence risk if one parent (heterozygous) is affected and the other is normal?",
+"a": "Marfan syndrome is autosomal dominant. With one heterozygous affected parent and a normal partner, 50% (1 in 2) of children are affected.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Aneuploidy syndromes",
+"q": "A 20-year-old with primary amenorrhoea, widely spaced nipples, webbed neck and coarctation of the aorta - what is the diagnosis?",
+"a": "Turner syndrome (45,X).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Aneuploidy syndromes",
+"q": "What are the key clinical features of Turner syndrome?",
+"a": "Short stature with normal intelligence, webbed neck, widely spaced nipples, shield chest, coarctation of the aorta/bicuspid aortic valve, streak gonads with decreased fertility (premature ovarian failure), and autoimmune disorders.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Single gene disorders",
+"q": "What test confirms (diagnoses) cystic fibrosis versus which molecular technique detects the mutation?",
+"a": "Diagnostically the sweat test is chosen if offered. If a molecular genetic technique is required, PCR is the answer (an economical test for amplifying the specific sequence).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Inheritance patterns",
+"q": "What is the most common inheritance pattern among single gene disorders?",
+"a": "Autosomal recessive inheritance is the most common.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Haemoglobinopathies",
+"q": "On haemoglobin electrophoresis, what does a band A plus band S pattern indicate?",
+"a": "Sickle cell trait - one normal beta (HbA) chain and one sickle (HbS) chain (heterozygous). HbS plus HbS (no HbA band, thick S band) indicates sickle cell disease/anaemia.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Haemoglobinopathies",
+"q": "What changes are seen on haemoglobin electrophoresis in beta-thalassaemia major?",
+"a": "HbA2 is increased above normal, HbF (fetal haemoglobin) is increased, and HbA is reduced (thin band) due to defective beta-chain production.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Screening",
+"q": "What is the newborn screening test for cystic fibrosis?",
+"a": "The Guthrie heel-prick test measures immunoreactive trypsinogen (IRT) in the blood.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Molar pregnancy",
+"q": "What is the most likely karyotype of a complete hydatidiform mole?",
+"a": "46,XX is the most common (more frequent than 46,XY) - choose 46,XX over 46,XY if both are options. Both are diploid with entirely paternal chromosomes.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Molar pregnancy",
+"q": "What is the karyotype of a partial hydatidiform mole?",
+"a": "Triploid, typically 69,XXX (or 69,XXY) - choose 69,XXY over the rarer triploid forms if asked.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Inheritance patterns",
+"q": "An affected father passing his condition to all his daughters but none of his sons indicates which inheritance pattern?",
+"a": "X-linked dominant inheritance (the father passes his single X to all daughters and his Y to all sons).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Inheritance patterns",
+"q": "In a pedigree where only males are affected, females are carriers, and an affected grandfather's disease reaches a grandson via a carrier daughter, what is the inheritance pattern?",
+"a": "X-linked recessive inheritance.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Inheritance patterns",
+"q": "What is the inheritance of Duchenne muscular dystrophy?",
+"a": "X-linked recessive.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Inheritance patterns",
+"q": "What is the inheritance of the most common bleeding disorder, von Willebrand disease?",
+"a": "Von Willebrand disease (the most common inherited bleeding disorder) is autosomal dominant.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Inheritance patterns",
+"q": "If both mother and father are carriers and a child is affected with two carrier and one normal sibling, what is the inheritance pattern?",
+"a": "Autosomal recessive (carrier x carrier gives 1 normal : 2 carriers : 1 affected, a 1 in 4 risk of affected offspring).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Inheritance patterns",
+"q": "How does achondroplasia affect males versus females, and what is its inheritance?",
+"a": "Achondroplasia is autosomal dominant, so males and females are equally affected.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Aneuploidy syndromes",
+"q": "A neonate with prominent occiput, cleft palate, clenched fists, rocker-bottom feet who has apnoeic episodes - what is the diagnosis?",
+"a": "Edwards syndrome (trisomy 18). Clenched fists are a key buzzword for Edwards; if features overlap between Edwards and Patau, choose Edwards as it is more common.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Aneuploidy syndromes",
+"q": "What are the key features and most common cardiac defect of Edwards syndrome?",
+"a": "Trisomy 18; features include rocker-bottom feet, clenched fists, micrognathia, microcephaly, IUGR, hypoplastic nasal bone, hypoplastic limbs, cleft lip/palate. Most common cardiac defect is ventricular septal defect (VSD). It is the second most common autosomal trisomy; most common cause of death is apnoea; poor prognosis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Aneuploidy syndromes",
+"q": "What are the key features of Patau syndrome?",
+"a": "Trisomy 13; features include aplasia cutis, midline defects, holoprosencephaly, polydactyly, micrognathia, hypotonia, cleft lip/palate. Third most common autosomal trisomy, with poor prognosis. ~25% are due to Robertsonian translocation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Aneuploidy syndromes",
+"q": "What are the key features of Down syndrome?",
+"a": "Trisomy 21; hypotonia, increased nuchal skin fold, single transverse palmar crease, protruding tongue, characteristic facies, with the karyotype showing three copies of chromosome 21.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Aneuploidy syndromes",
+"q": "What are the key features of Klinefelter syndrome?",
+"a": "47,XXY; tall stature, macropenis but small/atrophic testes, gynaecomastia, infertility, and slightly reduced IQ (but not intellectually disabled/retarded).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Genetics",
+"subtopic": "Nucleic acid structure",
+"q": "Given a DNA strand 5'-CGTA-3', what is the complementary strand?",
+"a": "3'-GCAT-5' (written antiparallel): C-G, G-C, T-A, A-T.",
+"ai": false,
+"note": ""
+}
+]
+},
+{
 "id": "immunology",
 "title": "Immunology",
 "cards": [
