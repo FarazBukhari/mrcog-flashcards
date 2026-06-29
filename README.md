@@ -19,6 +19,12 @@ answer shown is the AI's best guideline-aligned correction, with a note explaini
 why. **Always verify flagged cards against the primary guideline.** This is study
 support, not a clinical or exam authority.
 
+## Sections
+The home page lists subjects; pick one to study its cards. Each subject is a
+top-level folder under `flashcards/<Subject>/verified/` in the generator project,
+so adding a new subject is: drop its verified `*.json` card files there, run
+`python build_site.py`, then commit & push the updated `cards.js`.
+
 ## Files
 - `index.html` — the app (vanilla HTML/CSS/JS, no build step)
-- `cards.js` — the card data (`window.CARDS`)
+- `cards.js` — the card data (`window.SECTIONS`, grouped by subject)

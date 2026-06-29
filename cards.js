@@ -1,4 +1,8 @@
-window.CARDS = [
+window.SECTIONS = [
+{
+"id": "clinical-management",
+"title": "Clinical Management",
+"cards": [
 {
 "topic": "Maternal Medicine",
 "subtopic": "Hypertension",
@@ -4190,5 +4194,7 @@ window.CARDS = [
 "a": "Endometritis is usually polymicrobial (mixed organisms including GBS). When endometritis progresses to sepsis it is most commonly E. coli, as E. coli drives the sepsis pathway; some references favour GBS for endometritis itself, but it is broadly equally implicated.",
 "ai": false,
 "note": ""
+}
+]
 }
 ];
