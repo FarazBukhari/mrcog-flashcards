@@ -5104,5 +5104,1363 @@ window.SECTIONS = [
 "note": "Transcript assigned specific subjects rigidly to Paper 1 vs Paper 2 (e.g. anatomy/biochem/embryology/endocrine in Paper 1; biophysics/pharma/micro/clinical management in Paper 2) and gave per-subject question counts (e.g. ~40 anatomy questions). RCOG does not publish a fixed subject-to-paper split or fixed per-subject question counts; both papers sample across the curriculum modules. The subject list itself is correct but the paper allocation/weighting is a course heuristic, not official guidance."
 }
 ]
+},
+{
+"id": "pharmacology",
+"title": "Pharmacology",
+"cards": [
+{
+"topic": "Pharmacology",
+"subtopic": "Drug trials / phases",
+"q": "Which phase of a drug trial primarily assesses the SAFETY of a drug?",
+"a": "Phase 1 (first-in-human, small healthy volunteer group) primarily assesses safety. Phase 0 = initial pharmacokinetics/pharmacodynamics (absorption, distribution, elimination); Phase 2 = efficacy; Phase 3 = effectiveness vs standard drug (pre-approval); Phase 4 = post-marketing long-term/rare side effects. Mnemonic: Safety-1, Efficacy-2, Approval-3, Post-marketing-4.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Teratogenesis / timing",
+"q": "In which period of pregnancy is the embryo MOST susceptible to teratogen-induced congenital malformations?",
+"a": "Weeks 2-8 (organogenesis) is the period of maximum susceptibility to teratogens. The first ~17 days follow an 'all-or-nothing' effect (either the pregnancy is lost or progresses normally). After 8 weeks, effects are on growth and external genitalia rather than major structural malformation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Pregnancy categorisation",
+"q": "What do the FDA pregnancy drug categories A, B, C, D and X represent?",
+"a": "A = controlled human studies show no risk. B = no risk in animals but no adequate human data, OR animal risk not confirmed in humans. C = animal studies show risk, no human data; use only if benefit outweighs risk. D = positive evidence of human risk; use only if benefit outweighs risk. X = contraindicated in pregnancy, never use.",
+"ai": true,
+"note": "The FDA letter categories (A/B/C/D/X) were phased out from 2015 and replaced by the Pregnancy and Lactation Labeling Rule (PLLR), which uses narrative summaries. UK practice (BNF/UKTIS) does not use letter categories. Still appears in older MRCOG material but is an outdated framework; verify against the current source used by your exam."
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Placental transfer",
+"q": "Which properties make a drug more likely to cross the placenta (amphipathic criteria)?",
+"a": "Placental transfer is favoured by: low molecular weight, high lipid solubility, low degree of ionisation, and low protein binding. To keep a drug AWAY from the fetus, choose the opposite (e.g. high ionisation). Diazepam crosses (high lipid solubility) but suxamethonium does not (large molecular size and especially high degree of ionisation).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Antibiotic mechanisms",
+"q": "Classify antibiotics by mechanism: which inhibit cell wall synthesis?",
+"a": "Cell-wall synthesis inhibitors (mnemonic GM C P-C): Glycopeptides (vancomycin), Monobactams (aztreonam), Cephalosporins (all generations 1-5), Penicillins (penicillinase-sensitive, penicillinase-resistant, antipseudomonal). These are largely beta-lactams (except glycopeptides).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Antibiotic mechanisms",
+"q": "Which antibiotics act on the 50S vs 30S ribosomal subunit (protein synthesis inhibitors)?",
+"a": "50S subunit (mnemonic 'MCL/lin-zolid'): Macrolides, Clindamycin, Chloramphenicol, Linezolid. 30S subunit (mnemonic TAG): Tetracyclines, Aminoglycosides, Glycylcyclines (tigecycline). Streptomycin belongs to the aminoglycosides.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Antibiotic mechanisms",
+"q": "Match antibiotic to nucleic-acid target: DNA gyrase, mRNA synthesis, DNA integrity, folate synthesis.",
+"a": "DNA gyrase/topoisomerase inhibitors = quinolones/fluoroquinolones. mRNA (RNA polymerase) inhibitor = rifampicin. DNA integrity disruption via free radicals = metronidazole. Folate synthesis inhibitors = sulfonamides and trimethoprim.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Antibiotic mechanisms",
+"q": "In folate synthesis, which enzymes do sulfonamides and trimethoprim inhibit?",
+"a": "Sulfonamides inhibit dihydropteroate synthase (block PABA -> dihydrofolate). Trimethoprim inhibits dihydrofolate reductase (block dihydrofolate -> tetrahydrofolate). Methotrexate also inhibits dihydrofolate reductase but irreversibly.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Antibiotic mechanisms",
+"q": "What is the mechanism of action of metronidazole?",
+"a": "Metronidazole enters the bacterium and is reduced (via flavoprotein/ferredoxin pathways) to form unstable nitroso free radicals. These bind covalently to DNA, destabilise the helix and inhibit nucleic acid synthesis, leading to cell death. The covalent DNA binding is a commonly examined detail.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Antibiotics in pregnancy",
+"q": "Which antibiotics should be AVOIDED in pregnancy (contraindicated)?",
+"a": "Tetracyclines (cause teeth discolouration and bone effects via calcium chelation) and sulfonamides (folate antagonism -> neural tube defects in 1st trimester; bilirubin displacement -> kernicterus near term). Aminoglycosides carry ototoxicity/nephrotoxicity risk. Penicillins, cephalosporins and macrolides are generally regarded as safer.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Antibiotics in pregnancy",
+"q": "For UTI in pregnancy, which antibiotics are contraindicated in the first vs third trimester?",
+"a": "Trimethoprim is avoided in the FIRST trimester (folate antagonist -> neural tube defect risk). Nitrofurantoin is avoided in the THIRD trimester / near term (risk of neonatal haemolysis). In the second trimester either may be used based on sensitivities.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Antibiotics in pregnancy",
+"q": "Why does sulfonamide cause neonatal jaundice/kernicterus when given near term?",
+"a": "Sulfonamides displace bilirubin from albumin (plasma protein) binding sites, raising free plasma bilirubin. The unbound bilirubin crosses the blood-brain barrier and deposits in the basal ganglia, causing kernicterus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Antifungal mechanisms",
+"q": "What is the mechanism of action of antifungal azoles (e.g. ketoconazole, fluconazole)?",
+"a": "Azoles inhibit the enzyme 14-alpha-demethylase (lanosterol demethylase), blocking conversion of lanosterol to ergosterol, the key fungal cell membrane sterol. Terbinafine acts earlier, inhibiting squalene epoxidase (squalene -> squalene epoxide). Flucytosine inhibits nucleic acid synthesis; nystatin/amphotericin B (polyenes) disrupt membrane integrity by binding ergosterol.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Antiviral mechanisms",
+"q": "What is the mechanism of action of zidovudine and the antiretroviral drug classes?",
+"a": "Zidovudine is a nucleoside reverse transcriptase inhibitor (NRTI). Classes: NRTIs (zidovudine, lamivudine, abacavir), NtRTI (tenofovir), NNRTIs (nevirapine, efavirenz), integrase inhibitors (raltegravir - suffix '-gravir'), entry/fusion inhibitors (maraviroc), protease inhibitors (suffix '-navir'). Aciclovir is a guanosine analogue inhibiting viral DNA synthesis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Anticoagulants / teratogenesis",
+"q": "What is warfarin embryopathy and its critical exposure window?",
+"a": "Warfarin embryopathy (fetal warfarin syndrome) occurs with first-trimester exposure, classically weeks 6-12 (earlier exposure = higher risk). Features: nasal hypoplasia (depressed nasal bridge) - most characteristic, stippling of epiphyses/vertebrae, short limbs/brachydactyly, plus IUGR. Later effects: CNS abnormalities, intraventricular haemorrhage, hydrocephalus. Warfarin is a vitamin K antagonist disrupting bone/cartilage development.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Anticoagulants",
+"q": "What is warfarin's mechanism of action and which clotting factors does it affect?",
+"a": "Warfarin inhibits vitamin K epoxide reductase, preventing regeneration of active vitamin K, so gamma-carboxylation of factors II, VII, IX and X (and proteins C and S) cannot occur, leaving them inactive. It is an oral, indirect-acting anticoagulant (vitamin K antagonist).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Anticoagulants",
+"q": "How can you identify factor Xa inhibitors vs direct thrombin inhibitors by name?",
+"a": "Direct factor Xa inhibitors contain '-xa-' (e.g. apixaban, rivaroxaban) and inhibit factor Xa. Direct thrombin inhibitors contain 'tra/-gatran' (e.g. dabigatran, argatroban) and inhibit thrombin (factor IIa). Note: factor IIa controls factor XIa activation, so XIa may also be a valid exam answer if thrombin/IIa is not an option.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Anticoagulants",
+"q": "What is the mechanism of low molecular weight heparin (LMWH) and the anticoagulant recommended in pregnancy?",
+"a": "LMWH acts indirectly via antithrombin III, primarily inhibiting factor Xa (and to a lesser extent factor IIa/thrombin). Unfractionated heparin inhibits both factor IIa and Xa. LMWH is monitored by anti-Xa levels and is the anticoagulant of choice in pregnancy (warfarin is teratogenic).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Antithyroid drugs / teratogenesis",
+"q": "What is carbimazole/methimazole embryopathy?",
+"a": "Carbimazole/methimazole embryopathy features: choanal atresia and oesophageal atresia (prominent), aplasia cutis (scalp skin defect), ventricular septal defect, dysmorphic facies and other atresias. Carbimazole inhibits thyroid peroxidase (blocks iodide oxidation/organification). Propylthiouracil (PTU) additionally inhibits peripheral T4->T3 conversion.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Antithyroid drugs in pregnancy",
+"q": "Which antithyroid drug is preferred in each trimester of pregnancy and during breastfeeding?",
+"a": "First trimester: propylthiouracil (PTU) preferred (carbimazole is teratogenic). Second/third trimester: switch to carbimazole (PTU carries hepatotoxicity risk). Breastfeeding: PTU is preferred as it is less secreted into milk. Both carry a risk of neutropenia/agranulocytosis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Antiemetics in pregnancy",
+"q": "In a woman at 10 weeks gestation with vomiting, which antiemetic class is least preferred / which is safe?",
+"a": "Doxylamine with pyridoxine (vitamin B6) can be used safely in pregnancy. Corticosteroids (e.g. prednisolone) are reserved for refractory cases only (third-line, not first/second-line) because of a small risk of oral cleft (associated with first-trimester corticosteroids). Cyclizine, promethazine and metoclopramide/domperidone are also used.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Antiemetics",
+"q": "Which antiemetics cause extrapyramidal side effects and which do not?",
+"a": "Metoclopramide, prochlorperazine and promethazine (dopamine antagonists) can cause extrapyramidal side effects (most associated: metoclopramide, then prochlorperazine). Domperidone does NOT cause extrapyramidal effects because it does not readily cross the blood-brain barrier.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Antihypertensives",
+"q": "What is the mechanism of action of hydralazine and its uses in obstetrics?",
+"a": "Hydralazine is a direct-acting smooth muscle relaxant (arterial vasodilator). It is used in hypertensive crises in pregnancy/pre-eclampsia. (Note: it is not a standard tocolytic; established obstetric tocolytics are nifedipine, atosiban, terbutaline and indometacin.)",
+"ai": true,
+"note": "Transcript states hydralazine is used as a tocolytic; this is not standard. Hydralazine is an antihypertensive (vasodilator) for hypertensive crises in pregnancy. Recognised tocolytics are nifedipine, atosiban (oxytocin antagonist), beta-agonists (terbutaline/ritodrine) and indometacin (an NSAID)."
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Tocolytics",
+"q": "What are the tocolytic drug classes and their key mechanisms/side effects?",
+"a": "Beta-2 agonists (terbutaline, ritodrine) - relax myometrium, cause maternal tachycardia/arrhythmia, hypokalaemia, hyperglycaemia. Calcium channel blocker (nifedipine - first-line) blocks Ca entry needed for contraction. NSAIDs (indometacin) reduce prostaglandins but avoid after ~32 weeks (premature ductus arteriosus closure, necrotising enterocolitis). Oxytocin receptor antagonist (atosiban) - safest, most common side effect tachycardia. Magnesium sulfate reduces ACh release and decreases uterine calcium.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Tocolytics",
+"q": "What is the mechanism of action of atosiban?",
+"a": "Atosiban is an oxytocin receptor ANTAGONIST. By blocking oxytocin receptors it prevents oxytocin-induced uterine contraction, acting as a tocolytic. Its most common side effect is tachycardia.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Antihypertensives in pregnancy",
+"q": "Compare ACE inhibitors and ARBs in pregnancy and the trimester-specific fetal effects.",
+"a": "ACE inhibitors and ARBs are CONTRAINDICATED in pregnancy. First-trimester exposure: cardiovascular (most common) and CNS malformations. Second/third trimester: fetal growth restriction, oligohydramnios, renal failure, pulmonary hypoplasia and skull defects. If asked about most common congenital defect without a trimester, choose cardiac/CVS.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Antihypertensives in pregnancy",
+"q": "What are the mechanisms of methyldopa, labetalol and nifedipine, and the first-line antihypertensive in pre-eclampsia?",
+"a": "Methyldopa = centrally acting alpha-2 agonist (in the brain). Labetalol = combined alpha-1 (selective) and non-selective beta blocker. Nifedipine = calcium channel blocker. Labetalol is the typical first-line antihypertensive in pregnancy/pre-eclampsia.",
+"ai": true,
+"note": "Transcript states the first-line drug in pre-eclampsia is enalapril (an ACE inhibitor) - this is WRONG and dangerous. ACE inhibitors are contraindicated in pregnancy. Per NICE NG133, first-line is labetalol, with nifedipine and methyldopa as alternatives."
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Ovulation induction",
+"q": "What is the mechanism of action of clomifene citrate vs letrozole in ovulation induction?",
+"a": "Clomifene citrate is a selective oestrogen receptor modulator (SERM) with anti-oestrogenic action at the hypothalamus/pituitary, increasing FSH to stimulate follicular growth. Letrozole is an aromatase inhibitor: it blocks oestrogen production in granulosa cells, reducing oestrogen and stimulating hypothalamic-pituitary FSH release. Both can cause multiple pregnancy / ovarian hyperstimulation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Chemotherapy / antimetabolites",
+"q": "What is the class and mechanism of methotrexate as an anticancer/ectopic agent?",
+"a": "Methotrexate is an antimetabolite. It IRREVERSIBLY inhibits dihydrofolate reductase (covalent binding), preventing reduction of dihydrofolate to tetrahydrofolate and thus blocking purine/thymidine synthesis. Contrast with trimethoprim, which is a reversible dihydrofolate reductase inhibitor. Folinic acid (not folic acid) is the rescue agent for myelosuppression.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Chemotherapy classes",
+"q": "Give the anticancer drug classes with examples and key toxicities.",
+"a": "Alkylating agents: cyclophosphamide (haemorrhagic cystitis). Antimetabolites: methotrexate, mercaptopurine, 5-fluorouracil. Antitumour antibiotics: doxorubicin (cardiotoxicity), bleomycin (pulmonary fibrosis). Mitotic spindle/vinca alkaloids: vincristine, vinblastine (inhibit microtubule/tubulin assembly). Platinum compounds: cisplatin, carboplatin (nephrotoxic/ototoxic). Cisplatin/ciclosporin cause renal toxicity.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Chemotherapy mechanisms",
+"q": "What is the mechanism of action of vincristine/vinblastine?",
+"a": "Vinca alkaloids (vincristine, vinblastine) bind tubulin protein and inhibit microtubule formation/assembly, disrupting the mitotic spindle and arresting cell division.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Urogynaecology / antimuscarinics",
+"q": "What is the mechanism of action of oxybutynin and a key contraindication?",
+"a": "Oxybutynin is an antimuscarinic (M3 receptor antagonist) that relaxes detrusor smooth muscle; it is first-line for overactive bladder. Most common side effect: dry mouth (also dizziness, constipation, blurred vision). Contraindicated in closed-angle glaucoma and myasthenia gravis. In frail elderly women it can cross into the CNS causing cognitive dysfunction/dementia - avoid.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Urogynaecology",
+"q": "Name an alternative drug class to antimuscarinics for overactive bladder (useful in the elderly).",
+"a": "Mirabegron, a beta-3 adrenoceptor agonist, is used for overactive bladder (a second-line option). It is useful in elderly women in whom antimuscarinics (e.g. oxybutynin) are best avoided due to CNS/cognitive effects.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Urogynaecology",
+"q": "What drug is used for stress urinary incontinence when surgery is declined, and its mechanism?",
+"a": "Duloxetine, a serotonin-noradrenaline reuptake inhibitor (SNRI), is the pharmacological option for stress urinary incontinence when surgery (first-line) is declined.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Neuromuscular pharmacology",
+"q": "What is the mechanism of action of botulinum toxin?",
+"a": "Botulinum toxin inhibits the release of acetylcholine from the presynaptic nerve terminal at the neuromuscular junction, producing muscle relaxation/paralysis. Used in refractory overactive bladder (detrusor injection).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Emergency contraception",
+"q": "What is the most effective emergency contraceptive method?",
+"a": "The copper intrauterine device (Cu-IUD) is the MOST effective emergency contraceptive and is first-line; it can be inserted up to 5 days after unprotected sex (or earliest expected ovulation) and works even after ovulation. Oral options: ulipristal acetate (effective up to 120h/5 days) is more effective than levonorgestrel (up to 72h/3 days); both act by delaying ovulation and are ineffective once ovulation has occurred.",
+"ai": true,
+"note": "Transcript labels ulipristal/EllaOne as the 'most effective' EC (cited 99.9%). Per FSRH Emergency Contraception guidance the Cu-IUD is the most effective method and first-line; ulipristal is the most effective ORAL option. The 99.9% efficacy figure for ulipristal is overstated/unsupported."
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Combined contraception / VTE",
+"q": "What is the venous thromboembolism (VTE) risk by progestogen generation in combined hormonal contraception (CHC)?",
+"a": "Per year (baseline non-user ~2/10,000): levonorgestrel/norethisterone/norgestimate (2nd gen) ~5-7 per 10,000; etonogestrel/norelgestromin ~6-12 per 10,000; drospirenone/gestodene/desogestrel (3rd/4th gen) ~9-12 per 10,000. Rule: greater the progestogen generation, greater the VTE risk; so drospirenone carries the highest risk if compared.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Combined contraception",
+"q": "Classify these progestogens by generation: levonorgestrel, desogestrel, drospirenone.",
+"a": "Levonorgestrel (and norgestrel) = 2nd generation. Desogestrel/gestodene = 3rd generation. Drospirenone = 4th generation (with antiandrogenic and antimineralocorticoid activity).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Combined contraception",
+"q": "What is the unique feature of drospirenone among progestogens?",
+"a": "Drospirenone is unique for its antimineralocorticoid activity (a spironolactone analogue). It also has antiandrogenic activity, but since several other progestogens are antiandrogenic, the antimineralocorticoid effect is its distinguishing/unique feature.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Progestogens",
+"q": "What is the unique feature of medroxyprogesterone acetate among progestogens?",
+"a": "Medroxyprogesterone acetate is distinguished by glucocorticoid activity (unique among the progestogens). It also has some androgenic activity, but if both options appear, glucocorticoid is the more specific/unique answer.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Contraception mechanisms",
+"q": "Summarise mechanisms of contraceptive methods: COC, POP, desogestrel POP, implant, Cu-IUD, LNG-IUS.",
+"a": "COC = inhibits ovulation. Traditional POP = thickens cervical mucus. Desogestrel POP and the etonogestrel implant = inhibit ovulation. Copper IUD = copper is toxic to sperm/ovum, prevents fertilisation and implantation. Levonorgestrel IUS = endometrial atrophy (plus mucus thickening). COC efficacy: ~0.3% failure (perfect use), ~9% (typical use).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Contraception",
+"q": "What is the levonorgestrel content and release rate of the Mirena IUS?",
+"a": "Mirena contains levonorgestrel 52 mg and releases approximately 20 micrograms/24 hours initially, decreasing over time. It is licensed for contraception (up to 8 years), heavy menstrual bleeding (up to 5 years) and endometrial protection during HRT.",
+"ai": false,
+"note": "Transcript phonetically said '20 mg' for the daily release - this is a transcription slip; the correct release rate is 20 micrograms/24h (total reservoir 52 mg)."
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Emergency contraception",
+"q": "How do the oral emergency contraceptives (levonorgestrel, ulipristal) work, and what are their time limits?",
+"a": "Both delay ovulation. Levonorgestrel: up to 72 hours (3 days) and is most effective before ovulation. Ulipristal acetate: up to 120 hours (5 days), active for longer around the LH surge. Neither works once ovulation has occurred - in that situation use the copper IUD (up to 5 days).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Drugs of abuse in pregnancy",
+"q": "Which recreational drug, abused in pregnancy, most increases the risk of placental abruption and MI?",
+"a": "Cocaine - it causes vasoconstriction, increasing the risk of MI, miscarriage, preterm labour and placental abruption (highest priority answer for abruption). Amphetamines can also cause abruption; heroin/opiates cause neonatal abstinence syndrome and low birth weight; alcohol causes fetal alcohol syndrome.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Drugs in breastfeeding",
+"q": "Which analgesics are safe vs contraindicated during breastfeeding?",
+"a": "Safe/first-line: paracetamol. NSAIDs ibuprofen and diclofenac can be used (aspirin NOT recommended). Morphine and dihydrocodeine: use lowest dose for shortest duration. Codeine phosphate: NOT recommended/contraindicated (variable metabolism, neonatal toxicity risk). Tramadol: not contraindicated, short duration only after preferred options. Therefore co-codamol (paracetamol + codeine phosphate) should be avoided; co-dydramol (paracetamol + dihydrocodeine) is acceptable.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Lactation pharmacology",
+"q": "Which drugs SUPPRESS lactation and which PROMOTE it?",
+"a": "Suppress lactation (dopamine agonists - avoid if breastfeeding intended; used to suppress milk e.g. after stillbirth): bromocriptine, cabergoline, quinagolide - cabergoline is preferred. Promote lactation (dopamine antagonists - increase prolactin): domperidone (preferred) and metoclopramide.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Antidepressants in pregnancy",
+"q": "What is the safest antidepressant choice and the main teratogenic risk of SSRIs in pregnancy?",
+"a": "SSRIs (and SNRIs) carry a risk of cardiac defects, most notably ventricular septal defects (cardiac/CVS is the number-one teratogenic concern). Sertraline is regarded as a relatively safe antidepressant in pregnancy and breastfeeding.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Prostaglandins / uterotonics",
+"q": "What is the mechanism of action of misoprostol and carboprost, and which prostaglandin analogues are contraindicated in asthma?",
+"a": "Misoprostol = prostaglandin E1 analogue (used for medical evacuation/PPH). Carboprost = prostaglandin F2-alpha analogue (used for PPH). Dinoprostone = prostaglandin E2. Carboprost is contraindicated in asthma (bronchoconstriction). Misoprostol is preferred after surgical evacuation when uterotonic effect is required.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Prostaglandins / teratogenesis",
+"q": "What teratogenic effects are associated with maternal misoprostol exposure?",
+"a": "Misoprostol exposure in pregnancy (when it fails to terminate) is associated with Mobius sequence and limb defects: hypertelorism, hyperplasia of distal phalanges, limb defects/polydactyly, and possible cranial nerve palsies (e.g. facial). (Standard MRCOG association is Mobius syndrome and limb reduction defects.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Autonomic pharmacology",
+"q": "What is the role of cholinomimetic vs anticholinergic drugs, with examples (neostigmine, atropine)?",
+"a": "Cholinomimetics stimulate cholinergic receptors: direct (act like acetylcholine) or indirect (anticholinesterases inhibiting acetylcholinesterase, e.g. neostigmine). Anticholinergics/antimuscarinics (e.g. atropine) block muscarinic receptors, reducing secretions and GI motility; atropine is a muscarinic antagonist that blocks ACh receptors without producing an effect.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Autonomic pharmacology",
+"q": "What is the function of beta-2 adrenoceptors and the relevance to asthma?",
+"a": "Beta-2 receptor activation causes bronchodilation and vasodilation. This is why beta-2 agonists (e.g. salbutamol, terbutaline) relieve asthma and why beta-2 antagonists/non-selective beta-blockers are avoided in asthma (they cause bronchoconstriction). Terbutaline is a beta-2 agonist; the indirect sympathomimetic cocaine causes vasoconstriction and raises MI risk.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Menstrual disorders",
+"q": "What is the mechanism of action of tranexamic acid in heavy menstrual bleeding?",
+"a": "Tranexamic acid is an antifibrinolytic: it inhibits the activation of plasminogen to plasmin, stabilising the clot and reducing its degradation. It reduces menstrual blood loss by roughly 40-50%. Used as part of the medical management of heavy menstrual bleeding.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Menstrual disorders",
+"q": "How do NSAIDs reduce menstrual blood loss and pain, and when are they preferred over tranexamic acid?",
+"a": "NSAIDs (e.g. mefenamic acid) inhibit prostaglandin production, reducing menstrual blood loss by around 30% and also relieving dysmenorrhoea. NSAIDs are preferred where both heavy bleeding AND dysmenorrhoea/pain coexist (they treat pain, which tranexamic acid does not). The LNG-IUS is first-line for HMB overall.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Menstrual disorders",
+"q": "What is the medical management ladder for heavy menstrual bleeding (HMB)?",
+"a": "First-line: LNG-IUS (Mirena - causes endometrial atrophy). Then non-hormonal options tranexamic acid (antifibrinolytic) and NSAIDs (for pain). Second-line: combined oral contraceptives (inhibit ovulation). Third-line: oral or injectable progesterone (e.g. norethisterone 15 mg, days 5-26). Most common side effect of progestogens = erratic/irregular bleeding.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "UKMEC / contraception eligibility",
+"q": "What does UKMEC category mean for contraceptive use, and how is the COC categorised for breastfeeding at 6 weeks postpartum, SLE, VTE family history and breast cancer?",
+"a": "UKMEC 1-2 = generally safe to use; UKMEC 3 = risks usually outweigh benefits (use only if no alternative); UKMEC 4 = unacceptable risk (do not use). For COC: breastfeeding at >=6 weeks postpartum = UKMEC 2 (was 4 if <6 weeks); SLE with negative/unknown antiphospholipid antibodies = UKMEC 2; family history of VTE = UKMEC 3 if relative aged <45, UKMEC 2 if >=45; current breast cancer = UKMEC 4, past breast cancer = UKMEC 3.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Antiviral mechanisms",
+"q": "What is the mechanism of action of aciclovir for genital herpes?",
+"a": "Aciclovir is a guanosine analogue; after phosphorylation it inhibits viral DNA polymerase, blocking viral DNA synthesis. It is the antiviral of choice for genital herpes.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Bladder pharmacology",
+"q": "What class of drug is oxybutynin and what is its mechanism in the bladder?",
+"a": "Oxybutynin is an antimuscarinic (anticholinergic) drug. It blocks muscarinic M3 receptors (and also M1/M2) on the detrusor muscle, abolishing the parasympathetic (acetylcholine-mediated) contraction of the detrusor. This is its action in overactive bladder.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Bladder pharmacology",
+"q": "What is the most common side effect of oxybutynin, and what other antimuscarinic side effects occur?",
+"a": "Dry mouth is the most common side effect. Other common antimuscarinic effects include constipation and dizziness/blurred vision. (Mnemonic for high-frequency effects: dry mouth, dizziness, constipation.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Bladder pharmacology",
+"q": "Why is oxybutynin contraindicated in closed (narrow) angle glaucoma and in myasthenia gravis?",
+"a": "In closed-angle glaucoma, the antimuscarinic effect causes mydriasis/reduced aqueous drainage and raises intra-ocular pressure, worsening the condition. In myasthenia gravis (already a state of reduced acetylcholine action at the neuromuscular junction), an anticholinergic drug further antagonises cholinergic transmission and worsens weakness.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Autonomic bladder control",
+"q": "Which receptors are present on the bladder and urethral sphincter, and which autonomic systems act on them?",
+"a": "Detrusor muscle: M3 muscarinic receptors (parasympathetic, acetylcholine -> contraction/voiding) and beta-3 adrenergic receptors (sympathetic -> relaxation/storage). Internal urethral sphincter/bladder neck and prostate: alpha-1 adrenergic receptors (sympathetic -> contraction/continence). Sympathetic action stores urine; parasympathetic action voids urine.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Bladder pharmacology",
+"q": "What is mirabegron and how is it used in overactive bladder?",
+"a": "Mirabegron is a beta-3 adrenergic receptor agonist. By stimulating beta-3 receptors on the detrusor it promotes detrusor relaxation and urine storage, reducing overactive bladder symptoms. It is a second-line agent (after/instead of antimuscarinics such as oxybutynin), and is preferred in frail elderly patients because oxybutynin crosses the blood-brain barrier and can cause cognitive impairment.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Bladder pharmacology",
+"q": "Why is oxybutynin avoided in frail elderly patients with overactive bladder?",
+"a": "Oxybutynin crosses the blood-brain barrier and has central antimuscarinic effects; in the elderly (who already have impaired neurotransmission/cognition) it increases the risk of confusion and cognitive impairment. A beta-3 agonist (mirabegron) or another agent is preferred.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Bladder pharmacology",
+"q": "Which drug class is used for stress urinary incontinence and what is its mechanism?",
+"a": "Duloxetine, a serotonin-noradrenaline reuptake inhibitor (SNRI). It inhibits reuptake of serotonin and noradrenaline, increasing pudendal nerve activity and urethral sphincter tone. (It is an option when surgery is declined or unsuitable.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Bladder pharmacology",
+"q": "Why are alpha-1 blockers (e.g. tamsulosin) used for urinary retention in men with prostatic enlargement?",
+"a": "The internal urethral sphincter/bladder neck and prostate are rich in alpha-1 adrenergic receptors, which contract and obstruct urine outflow. Alpha-1 blockers (e.g. tamsulosin) inhibit this contraction, relaxing the bladder neck and improving urine flow.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Bladder pharmacology",
+"q": "How is botulinum toxin used in neurogenic/overactive bladder?",
+"a": "Botulinum toxin (intradetrusor injection) decreases release of acetylcholine at the neuromuscular (parasympathetic) junction of the detrusor, reducing detrusor overactivity and contraction.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Adrenergic drugs / tocolytics",
+"q": "Why can terbutaline cause maternal (and fetal) tachycardia?",
+"a": "Terbutaline is a beta-adrenergic agonist that, although intended as a beta-2 agonist, is not fully beta-2 selective and also stimulates beta-1 receptors (predominant in the heart), producing maternal tachycardia. It can cross the placenta and cause fetal tachycardia, but maternal tachycardia is more significant and appears earlier.",
+"ai": true,
+"note": "Terbutaline is conventionally classed as a selective beta-2 agonist; its tachycardia is usually attributed to partial beta-2 selectivity (and reflex effects) at higher doses rather than primary beta-1 action. The transcript's claim that its action is 'mainly on beta-1' is an oversimplification/error."
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Tocolytics",
+"q": "How is terbutaline used to reverse uterine hyperstimulation, and at what dose?",
+"a": "Beta-2 receptors on uterine smooth muscle cause relaxation, so terbutaline is used as acute tocolysis to reverse uterine hyperstimulation/tachysystole (e.g. excessive contractions on oxytocin). The dose is 250 micrograms (0.25 mg) subcutaneously; it may be repeated (up to 3 doses ~15 minutes apart) if hyperstimulation persists, e.g. when contractions exceed 4-5 in 10 minutes.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Cholinergic / anticholinergic drugs",
+"q": "What is the mechanism of action of atropine?",
+"a": "Atropine is a muscarinic antagonist (anticholinergic): it inhibits/blocks acetylcholine at muscarinic acetylcholine receptors.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Cholinergic / anticholinergic drugs",
+"q": "What is the mechanism of action of neostigmine?",
+"a": "Neostigmine is an indirect cholinergic (cholinomimetic) drug: it inhibits acetylcholinesterase, preventing breakdown of acetylcholine and thereby increasing acetylcholine availability at the synapse.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Autonomic nervous system",
+"q": "Which neurotransmitter and receptor are found at all autonomic ganglia?",
+"a": "At all autonomic ganglia (both sympathetic and parasympathetic), the preganglionic neuron releases acetylcholine acting on nicotinic acetylcholine receptors.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Autonomic nervous system",
+"q": "What neurotransmitter and receptor act at the parasympathetic effector (postganglionic) junction on smooth muscle, glands and cardiac muscle?",
+"a": "Parasympathetic postganglionic fibres are cholinergic: they release acetylcholine, which acts on muscarinic receptors of smooth muscle, glands and cardiac muscle. (Parasympathetic postganglionic fibres are short; the postganglionic neuron is near the organ.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Autonomic nervous system",
+"q": "What neurotransmitter do most sympathetic postganglionic fibres release, and what are the two cholinergic exceptions?",
+"a": "Most sympathetic postganglionic fibres are adrenergic and release noradrenaline. Exceptions that use acetylcholine (acting on muscarinic receptors) are sweat glands and the adrenal medulla pathway is via nicotinic stimulation. Sympathetic fibres to the kidney can release dopamine acting on renal vascular smooth muscle.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Autonomic nervous system",
+"q": "Which catecholamines does the adrenal medulla secrete?",
+"a": "The adrenal medulla secretes adrenaline (epinephrine), noradrenaline (norepinephrine) and dopamine. (Adrenaline predominates.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Adrenergic receptors",
+"q": "Which adrenergic receptor predominates in cardiac muscle, bronchial smooth muscle and liver?",
+"a": "Cardiac muscle: predominantly beta-1 receptors. Bronchial smooth muscle: beta-2 receptors. Liver: beta-2 receptors.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Adrenergic receptors",
+"q": "Which adrenergic receptor predominates in adipose tissue?",
+"a": "Beta-3 adrenergic receptors predominate in adipose tissue (and on the detrusor of the bladder).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Sympathomimetics / drug abuse",
+"q": "In a drug-abuse exam scenario producing vasoconstriction (and possible myocardial infarction or IUGR), which drug should be chosen?",
+"a": "Cocaine. It blocks reuptake of noradrenaline producing strong sympathetic effects including vasoconstriction (and can cause MI, placental abruption/IUGR). If cocaine is not an option, amphetamine is the next choice.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Antimicrobials / antifolates",
+"q": "What is the mechanism of action of trimethoprim and of methotrexate at dihydrofolate reductase?",
+"a": "Both inhibit dihydrofolate reductase (DHFR), reducing conversion of dihydrofolate to tetrahydrofolate. Methotrexate binds DHFR essentially irreversibly (it binds with very high affinity/covalent-like, strong binding), whereas trimethoprim is a reversible inhibitor with selectivity for the bacterial enzyme.",
+"ai": true,
+"note": "Methotrexate inhibition of DHFR is competitive/reversible (very high affinity, not truly covalent). The transcript's statement that methotrexate 'covalently binds' DHFR is incorrect; trimethoprim being reversible is correct."
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Antimicrobials / antifolates",
+"q": "Which enzyme do sulfonamides inhibit, and where does this act in folate synthesis?",
+"a": "Sulfonamides inhibit dihydropteroate synthase (also called dihydrofolate synthetase in some texts), the enzyme that incorporates para-aminobenzoic acid (PABA) into dihydrofolate (folate) synthesis in bacteria. Sulfonamides are PABA analogues.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Antimicrobials / toxicity",
+"q": "Which antibiotics are toxic to a cranial nerve, and which component is affected?",
+"a": "Aminoglycosides (e.g. gentamicin) are ototoxic, affecting the vestibulocochlear nerve (CN VIII). The vestibular component is characteristically involved, producing balance-related side effects (vertigo/imbalance); cochlear toxicity causes hearing loss/tinnitus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Antimicrobials / pregnancy safety",
+"q": "Why are tetracyclines avoided in children and pregnancy?",
+"a": "Tetracyclines chelate calcium and are deposited in developing teeth and bone, causing tooth discolouration/staining and effects on bone growth. They are therefore avoided in children (and in pregnancy).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Antimicrobials / pregnancy safety",
+"q": "Why are sulfonamides avoided in the neonate / late pregnancy (kernicterus risk)?",
+"a": "Sulfonamides displace bilirubin from plasma protein-binding sites, increasing free bilirubin which can cross into the neonatal brain and deposit, causing kernicterus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Antimicrobials / pregnancy safety",
+"q": "Which antimicrobials are preferentially chosen as absolutely contraindicated/avoided in pregnancy in MRCOG questions?",
+"a": "If present as options, tetracyclines and sulfonamides are the preferred answers for drugs to avoid in pregnancy. Nitrofurantoin should be avoided in the third trimester (risk of neonatal haemolysis); trimethoprim (a folate antagonist) should be avoided in the first trimester.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Antimicrobials / pregnancy safety",
+"q": "Why is nitrofurantoin avoided in the third trimester of pregnancy?",
+"a": "Nitrofurantoin is avoided at term/third trimester because of the risk of neonatal haemolysis (haemolytic anaemia) owing to immature neonatal erythrocyte enzyme systems. ('Avoided' is preferred terminology over absolutely 'contraindicated'.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Contraception / UKMEC",
+"q": "What is the UKMEC category for combined oral contraceptives in a woman with a history of pulmonary embolism / VTE?",
+"a": "UKMEC category 4 (unacceptable health risk) - combined hormonal contraception is contraindicated because the oestrogen component is prothrombotic and adds to the existing VTE risk. Progestogen-only methods are appropriate instead.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Contraception / UKMEC",
+"q": "How does smoking and age affect UKMEC categorisation of combined oral contraceptives?",
+"a": "For a woman aged 35 or over who smokes: UKMEC 3 if smoking <15 cigarettes/day, and UKMEC 4 if smoking >=15 cigarettes/day. Smoking under age 35, or stopping smoking >1 year ago, is UKMEC 2-3 depending on amount. (Age >=35 combined with heavy smoking moves COC to category 4.)",
+"ai": true,
+"note": "The transcript's age cut-off and 2/3 grading were garbled. Correct UKMEC: age >=35 + smoking <15/day = category 3; age >=35 + smoking >=15/day = category 4; stopped smoking >1 year ago = category 3 (was a smoker) reducing over time. Verify exact figures against current FSRH UKMEC."
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Contraception",
+"q": "Can combined oral contraceptives be used in gestational trophoblastic disease?",
+"a": "Combined hormonal contraception (and IUD) should be avoided while hCG (beta-hCG) levels remain elevated/abnormal in gestational trophoblastic disease. Once hCG levels have normalised/declined, hormonal contraception can be used.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Endocrine / puberty",
+"q": "What defines precocious puberty, and what distinguishes central (true) precocious puberty?",
+"a": "Precocious puberty is onset of pubertal development before age 8 in girls and before age 9 in boys. Central (true) precocious puberty arises from premature activation of the hypothalamic-pituitary-gonadal axis (problem at or above the GnRH/hypothalamic level), with high sex hormone levels driven by GnRH.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Endocrine / puberty",
+"q": "Why are GnRH agonists (not antagonists) used to treat central precocious puberty?",
+"a": "Continuous GnRH agonist exposure first causes an initial flare (rise in gonadotrophins) but then desensitises/downregulates pituitary GnRH receptors, suppressing LH/FSH and thus sex steroids - halting precocious puberty. GnRH agonists are chosen because long-acting depot paediatric formulations are available; long-acting depot GnRH antagonist formulations for children are not established/recommended.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Anticoagulants",
+"q": "What is the mechanism of apixaban?",
+"a": "Apixaban is a direct oral anticoagulant that directly inhibits activated factor X (factor Xa). (The 'x' in the name and the '-xaban' suffix denote factor Xa inhibition.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Anticoagulants",
+"q": "How does warfarin work?",
+"a": "Warfarin inhibits vitamin K epoxide reductase, preventing regeneration of active (reduced) vitamin K. This blocks vitamin K-dependent gamma-carboxylation and therefore activation of clotting factors II, VII, IX and X (and proteins C and S).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Anticoagulants",
+"q": "What is the mechanism of heparin?",
+"a": "Heparin is an indirect anticoagulant that activates/potentiates antithrombin III. Unfractionated heparin inactivates both thrombin (factor IIa) and factor Xa, whereas low molecular weight heparin acts predominantly on factor Xa (with relatively less effect on IIa).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Anticoagulants",
+"q": "Which anticoagulants are direct thrombin (factor IIa) inhibitors and which are direct factor Xa inhibitors?",
+"a": "Direct thrombin (factor IIa) inhibitors include dabigatran (and parenteral agents such as argatroban/bivalirudin). Direct factor Xa inhibitors are the '-xabans': apixaban, rivaroxaban, edoxaban (the transcript lists endoxaban/edoxaban and rivaroxaban).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Anticoagulants",
+"q": "What is the chemical structure of heparin?",
+"a": "Heparin is a mucopolysaccharide (glycosaminoglycan) and is highly acidic (strongly negatively charged).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Anticoagulants / antidotes",
+"q": "What are the antidotes (reversal agents) for heparin and for warfarin?",
+"a": "Heparin is reversed by protamine sulfate. Warfarin is reversed by vitamin K (phytomenadione), with prothrombin complex concentrate / fresh frozen plasma for urgent reversal.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Anticoagulants / pregnancy safety",
+"q": "What are the features of fetal warfarin syndrome (warfarin embryopathy)?",
+"a": "First-trimester warfarin exposure (greatest risk ~6-9 weeks, generally within ~6-12 weeks) can cause nasal hypoplasia and stippled epiphyses (chondrodysplasia punctata), plus skeletal defects/short stature. Warfarin is therefore avoided in the first trimester (and near delivery because of fetal/neonatal haemorrhage risk).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Antifibrinolytics",
+"q": "What is the mechanism of action of antifibrinolytics such as tranexamic acid?",
+"a": "They inhibit fibrinolysis by blocking plasminogen activation/plasmin (tranexamic acid inhibits the lysine-binding of plasminogen), so the fibrin clot is stabilised and not broken down. Used to reduce bleeding (e.g. heavy menstrual bleeding, PPH).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Antiplatelets / NSAIDs",
+"q": "What is the mechanism of action of aspirin on platelets?",
+"a": "Aspirin irreversibly inhibits cyclo-oxygenase (COX), a non-selective inhibition of both COX-1 and COX-2. In platelets this blocks thromboxane A2 production, reducing platelet aggregation, so aspirin acts as an antiplatelet (anti-clotting) agent.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Prostaglandins",
+"q": "What is misoprostol and what is its characteristic dose-related side effect?",
+"a": "Misoprostol is a prostaglandin E1 (PGE1) analogue. Its characteristic dose-related side effects are gastrointestinal - especially diarrhoea and abdominal pain, plus nausea, and fever/chills (a prostaglandin effect on the hypothalamus).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Prostaglandins / pharmacokinetics",
+"q": "Which route gives the fastest onset of action for misoprostol?",
+"a": "Oral administration gives the fastest onset, with action within minutes; other routes (vaginal, rectal, sublingual) have a slower onset to peak but longer duration. (Sublingual is also rapid; the transcript emphasises the oral route as fastest.)",
+"ai": true,
+"note": "Pharmacokinetic data show sublingual misoprostol reaches peak plasma concentration fastest, while oral is rapid but lower peak; the simple claim that oral is unequivocally the fastest route is debatable. Confirm against current pharmacokinetic/FIGO misoprostol dosing references."
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Antimicrobials",
+"q": "What is the mechanism of action of metronidazole?",
+"a": "Metronidazole is reduced intracellularly (in anaerobes/protozoa) to produce cytotoxic free radicals/reactive intermediates that disrupt DNA structure, causing strand breakage and inhibition of DNA-dependent nucleic acid synthesis, leading to cell death.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Antimicrobials",
+"q": "Trimethoprim inhibits which enzyme, and what is the resulting effect?",
+"a": "Trimethoprim inhibits dihydrofolate reductase (DHFR), blocking conversion of dihydrofolate to tetrahydrofolate and thus inhibiting folate-dependent synthesis of nucleic acids/proteins. It is classed as an antimetabolite/antifolate.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Fertility / Ovulation induction",
+"q": "What class of drug is clomifene citrate and what is its pharmacological mechanism in ovulation induction?",
+"a": "Clomifene citrate is a selective oestrogen receptor modulator (SERM) with anti-oestrogenic action at the hypothalamus. By blocking oestrogen-negative feedback it increases pulsatile GnRH and hence FSH/LH release, stimulating follicular development and ovulation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Fertility / Ovulation induction",
+"q": "What is the mechanism of action of letrozole in ovulation induction?",
+"a": "Letrozole is an aromatase inhibitor. By blocking aromatase it reduces conversion of androgens to oestrogen; the resulting fall in oestrogen reduces negative feedback, stimulating the hypothalamus/pituitary to increase FSH secretion and drive follicular development.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Fertility / Ovulation induction",
+"q": "Why may letrozole be preferred over clomifene citrate for ovulation induction?",
+"a": "Letrozole avoids the peripheral anti-oestrogenic effects of clomifene (endometrial thinning/atrophy and reduced cervical mucus) that can impair implantation, and in PCOS it is associated with higher live birth rates, making it a preferred first-line agent.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Contraception",
+"q": "What is the primary mechanism of action of etonogestrel (e.g. the Nexplanon implant)?",
+"a": "Inhibition of ovulation (suppression of the LH surge). Secondary effects include thickening of cervical mucus and endometrial changes.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Contraception",
+"q": "What is the primary mechanism of action of progestogen-only implants, injectables (DMPA) and combined hormonal contraceptives?",
+"a": "Inhibition of ovulation. Combined hormonal contraceptives, the progestogen implant and the injectable (DMPA) all work primarily by preventing ovulation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Contraception",
+"q": "What is the primary mechanism of action of the traditional progestogen-only pill (POP)?",
+"a": "Thickening of cervical mucus to prevent sperm penetration is the primary mechanism of traditional POPs (older POPs do not reliably inhibit ovulation, unlike the desogestrel/drospirenone POPs).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Contraception",
+"q": "What is the primary mechanism of action of the levonorgestrel intrauterine system (e.g. Mirena)?",
+"a": "Endometrial atrophy/suppression (prevention of endometrial proliferation), with thickening of cervical mucus as a secondary effect. It does not work primarily by inhibiting ovulation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Emergency contraception",
+"q": "What is the mechanism of action of levonorgestrel when used for emergency contraception?",
+"a": "It delays/inhibits ovulation by suppressing the LH surge. It is only effective if given before the LH surge has begun and is ineffective once ovulation has occurred; ovulation is delayed by up to about 5 days.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Emergency contraception",
+"q": "What is the mechanism of action of the copper intrauterine device (including as emergency contraception)?",
+"a": "Copper produces a local sterile inflammatory/foreign-body reaction in the endometrium that is toxic to sperm and ova, disrupting fertilization, and impairs implantation. It is the most effective emergency contraceptive (failure rate <1%).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Contraception",
+"q": "Which contraceptive method has the lowest perfect-use failure rate?",
+"a": "The progestogen-only implant (and vasectomy/sterilisation) have the lowest failure rates; the implant is the most effective reversible method, followed by the LNG-IUS and the progestogen-only injectable, then the copper IUD.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Antiretrovirals",
+"q": "What class of antiretroviral is nevirapine, and what suffix identifies this class?",
+"a": "Nevirapine is a non-nucleoside reverse transcriptase inhibitor (NNRTI); drugs in this class commonly end in '-vir' within names such as efavirenz/nevirapine, but the NNRTI examples to recognise include nevirapine and efavirenz.",
+"ai": true,
+"note": "Suffix cue is unreliable as stated. NNRTIs (e.g. nevirapine, efavirenz) do NOT share a clean suffix. The '-vir' suffix is generic to many antivirals. Useful naming cues: integrase inhibitors end in '-tegravir' (e.g. dolutegravir, raltegravir); protease inhibitors end in '-navir'; NRTIs include zidovudine/tenofovir. Recognise nevirapine specifically as an NNRTI."
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Anticoagulants",
+"q": "Among oral/parenteral anticoagulants, what naming cue identifies direct factor Xa inhibitors versus direct thrombin inhibitors?",
+"a": "Direct factor Xa inhibitors end in '-xaban' (rivaroxaban, apixaban, edoxaban). The direct thrombin (factor IIa) inhibitor is dabigatran (oral) / argatroban (parenteral). Cue: factor Xa = '-xaban'.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Anticoagulants",
+"q": "How does warfarin work, and which clotting factors does it affect?",
+"a": "Warfarin inhibits vitamin K epoxide reductase, blocking the recycling/activation of vitamin K and so reducing synthesis of the vitamin K-dependent clotting factors II, VII, IX and X (and proteins C and S). It acts indirectly, not by directly inhibiting these factors.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Tocolytics",
+"q": "What is the mechanism of action of terbutaline as a tocolytic?",
+"a": "Terbutaline is a beta-2 adrenergic agonist (beta-mimetic). Stimulation of myometrial beta-2 receptors raises cAMP, causing smooth muscle relaxation and uterine relaxation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Tocolytics",
+"q": "What are the important side effects of beta-agonist (beta-mimetic) tocolytics such as terbutaline?",
+"a": "Cardiac arrhythmias, tachycardia, palpitations, and hyperglycaemia (beta-agonists impair insulin sensitivity and increase hepatic gluconeogenesis). These are class effects of beta-mimetics.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Tocolytics",
+"q": "What is the mechanism of action of atosiban as a tocolytic, and which is its commonest side effect group?",
+"a": "Atosiban is an oxytocin receptor antagonist, licensed for tocolysis. Compared with beta-agonists it has a better maternal cardiovascular safety profile.",
+"ai": true,
+"note": "The transcript attributes tachycardia/palpitation/chest pain as the commonest side effects 'with this drug' but these are characteristic of beta-agonists (terbutaline), NOT atosiban. Atosiban is notable for FEW maternal cardiovascular side effects; this is one of its advantages over terbutaline. Treat tachycardia/palpitations/chest pain as beta-agonist effects."
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Tocolytics / Antihypertensives",
+"q": "What is the mechanism of action of nifedipine, and how does it lower blood pressure / act as a tocolytic?",
+"a": "Nifedipine is a calcium channel blocker; it blocks L-type calcium channels, reducing calcium influx into smooth muscle. This causes vasodilatation and reduced peripheral vascular resistance (lowering BP) and reduces myometrial contractility (tocolysis). Common side effects: headache and peripheral oedema.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Tocolytics",
+"q": "Why should NSAIDs (e.g. indometacin) be avoided as tocolytics after 32 weeks' gestation?",
+"a": "NSAIDs inhibit prostaglandin synthesis and can cause premature constriction/closure of the fetal ductus arteriosus (and oligohydramnios), a risk that increases after about 32 weeks. Use is therefore limited to <32 weeks and short courses (max ~48 hours).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Uterotonics / Prostaglandins",
+"q": "What prostaglandins are misoprostol and carboprost (Hemabate)?",
+"a": "Misoprostol is a synthetic prostaglandin E1 (PGE1) analogue. Carboprost is a synthetic prostaglandin F2-alpha (PGF2-alpha) analogue.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Uterotonics / Prostaglandins",
+"q": "What are the characteristic dose-related GI side effects of the different prostaglandins (PGE versus PGF2-alpha)?",
+"a": "Prostaglandin E agents (misoprostol/PGE) most commonly cause diarrhoea (and may cause pyrexia/fever); PGF2-alpha (carboprost) characteristically causes vomiting (and also diarrhoea/bronchospasm). For misoprostol the commonest dose-related effect is diarrhoea.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Uterotonics / Prostaglandins",
+"q": "Which route of misoprostol gives the shortest onset of action?",
+"a": "Oral misoprostol has the most rapid onset of action; sublingual is also rapid, whereas vaginal/rectal administration has a slower onset but more prolonged effect.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Chemotherapy / Antimetabolites",
+"q": "What is the mechanism of action of methotrexate, and what class of drug is it?",
+"a": "Methotrexate inhibits dihydrofolate reductase (DHFR), preventing formation of tetrahydrofolate and thereby DNA/nucleic acid synthesis. It is classed as an antimetabolite. Folinic acid (activated folate) rescue bypasses the block.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Chemotherapy",
+"q": "What is the mechanism of action of vinca alkaloids (e.g. vincristine, vinblastine)?",
+"a": "Vinca alkaloids inhibit microtubule formation by preventing tubulin polymerisation/assembly into the microtubule (mitotic spindle), arresting cells in metaphase. They are plant-derived alkaloids.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Chemotherapy",
+"q": "What is the mechanism of action of etoposide?",
+"a": "Etoposide inhibits topoisomerase II, preventing DNA strand re-ligation and causing DNA strand breaks. It is a plant-derived (podophyllotoxin) agent.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Chemotherapy",
+"q": "What class of chemotherapy agent is cyclophosphamide and how does it act?",
+"a": "Cyclophosphamide is an alkylating agent; it cross-links DNA strands, preventing DNA replication and transcription, leading to cell death.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Prolactin / Lactation",
+"q": "Which drug is preferred to suppress lactation, and what is its mechanism?",
+"a": "Cabergoline is the preferred (first-line) agent for lactation suppression. It is a dopamine D2 receptor agonist that inhibits prolactin secretion. It is preferred over bromocriptine (which is no longer recommended due to serious cardiovascular/neurological/psychiatric adverse effects).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Prolactin / Lactation",
+"q": "Which drug is preferred when a galactogogue (to increase milk production) is required, and what is its mechanism?",
+"a": "Domperidone is preferred over metoclopramide to promote lactation. Both are dopamine antagonists that increase prolactin; domperidone is favoured because it does not readily cross the blood-brain barrier, reducing central side effects.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Autonomic pharmacology",
+"q": "In the autonomic supply to the bladder, what neurotransmitters act at the postganglionic (post-synaptic) nerve endings of the sympathetic and parasympathetic systems?",
+"a": "Parasympathetic postganglionic neurons release acetylcholine (causing detrusor contraction via M3 receptors); sympathetic postganglionic neurons release noradrenaline (norepinephrine), causing detrusor relaxation via beta-3 receptors. Preganglionic transmission in both is acetylcholine (nicotinic).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Autonomic pharmacology",
+"q": "Which receptors cause detrusor contraction and which cause detrusor relaxation in the bladder?",
+"a": "M3 muscarinic (cholinergic) receptors cause detrusor contraction (parasympathetic); beta-3 adrenergic receptors cause detrusor relaxation (sympathetic). Beta-3 is the most abundant adrenoceptor in the detrusor.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Diuretics / Anti-androgens",
+"q": "What is the pharmacological classification of spironolactone, and what is a key contraindication?",
+"a": "Spironolactone is a potassium-sparing diuretic (aldosterone receptor antagonist) and an anti-androgen (not merely 'less androgenic'). It can cause hyperkalaemia, so it is contraindicated in patients at risk of high potassium. Eplerenone is a related derivative.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Analgesia in lactation",
+"q": "Why is codeine phosphate contraindicated/avoided during breastfeeding?",
+"a": "Codeine is metabolised to morphine by CYP2D6; ultra-rapid metabolisers produce excess morphine, which transfers into breast milk and has caused fatal infant morphine toxicity (sedation, respiratory depression). Co-codamol contains codeine and should be avoided. Morphine sulphate and dihydrocodeine are preferred, and opioids should be used at low doses for short durations.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Placental drug transfer",
+"q": "Why does diazepam readily cross the placenta whereas a quaternary muscle relaxant (e.g. a non-depolarising neuromuscular blocker) does not?",
+"a": "Diazepam is highly lipid-soluble and non-ionised, so it crosses the placenta readily. Quaternary ammonium compounds (e.g. many neuromuscular blockers) are highly ionised and poorly lipid-soluble, so they cross the placenta poorly. Placental drug transfer is favoured by high lipid solubility, low ionisation, low molecular weight and low protein binding.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Drug interactions / Enzyme induction",
+"q": "Which antiepileptic drugs are enzyme inducers that reduce hormonal contraceptive efficacy?",
+"a": "Phenytoin, carbamazepine and phenobarbital (phenobarbitone) are enzyme-inducing antiepileptics; rifampicin is also a potent inducer. In a woman needing both contraception and an enzyme-inducing AED, a method unaffected by enzyme induction (e.g. copper IUD, LNG-IUS, or DMPA) is preferred over COCP/POP/implant.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Drug interactions / Enzyme induction",
+"q": "How do cytochrome P450 enzyme inducers and inhibitors affect substrate drugs?",
+"a": "Enzyme inducers (e.g. phenytoin, carbamazepine, phenobarbital, rifampicin) increase metabolism/elimination of substrate drugs, reducing their effect. Enzyme inhibitors decrease metabolism, increasing substrate levels/effect. Dose modification may be needed.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Drug interactions",
+"q": "How do combined oral contraceptives (oestrogen) interact with warfarin?",
+"a": "Oestrogen increases hepatic synthesis of clotting factors, which opposes warfarin's anticoagulant effect (a pharmacodynamic interaction), potentially reducing warfarin efficacy. (An enzyme-inducing drug, by contrast, increases warfarin elimination.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Pharmacokinetics in pregnancy",
+"q": "How does pregnancy affect renal drug excretion, and what factor can reduce drug excretion?",
+"a": "Pregnancy increases GFR, which increases renal excretion of renally-cleared drugs. Delayed gastric emptying in pregnancy slows/extends drug absorption so the drug remains in the body longer, which can reduce the rate at which a drug is excreted over a given time.",
+"ai": true,
+"note": "The transcript's logic that delayed gastric emptying 'decreases drug excretion' is an exam-answer rationalisation, not a robust pharmacokinetic principle. The well-established pregnancy change is INCREASED GFR raising renal clearance/excretion of many drugs. Delayed gastric emptying mainly slows oral drug ABSORPTION (delayed/lower peak), not excretion per se. Treat the dominant, verifiable fact as: increased GFR increases drug excretion in pregnancy."
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Autonomic pharmacology",
+"q": "What are the two key acetylcholine-related drugs to know, and their mechanisms?",
+"a": "Neostigmine is an indirect cholinomimetic (acetylcholinesterase inhibitor) that increases acetylcholine to stimulate the parasympathetic system. Atropine is a muscarinic (anticholinergic) antagonist that blocks acetylcholine at muscarinic receptors.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Autonomic pharmacology",
+"q": "What is the most abundant adrenoceptor in the respiratory tract (bronchial smooth muscle) and what effect does it mediate?",
+"a": "Beta-2 adrenoceptors predominate in bronchial smooth muscle; sympathetic stimulation (beta-2 activation) causes bronchodilatation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Placental drug transfer",
+"q": "What four physicochemical factors determine how readily a drug crosses the placenta, and in which direction does each favour transfer?",
+"a": "Low molecular weight (favoured if <500 Da), high lipid solubility, low degree of ionisation, and low protein binding all favour placental transfer. A drug that is small, highly lipid-soluble, largely un-ionised and minimally protein-bound crosses readily.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Placental drug transfer",
+"q": "Why does diazepam readily cross the placenta whereas suxamethonium (succinylcholine) does not?",
+"a": "Diazepam crosses easily because of its high lipid solubility (and low ionisation). Suxamethonium does not cross because it is highly ionised (a quaternary ammonium compound), so it stays in the maternal circulation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Drugs in pregnancy",
+"q": "Which class of antibiotic is contraindicated near term in pregnancy because it can cause neonatal kernicterus/jaundice, and by what mechanism?",
+"a": "Sulfonamides. They displace unconjugated bilirubin from plasma albumin, raising free unconjugated bilirubin and risking kernicterus in the neonate; therefore avoided near term and in breastfeeding of premature/ill/G6PD-deficient infants.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Drugs in pregnancy",
+"q": "Which drug class can cause premature closure of the fetal ductus arteriosus, and what is the mechanism?",
+"a": "NSAIDs (e.g. indometacin, ibuprofen). They inhibit cyclo-oxygenase, reducing prostaglandins (PGE1/PGE2) that maintain ductal patency, leading to premature constriction/closure. Avoided in the third trimester / as term approaches.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Prostaglandins",
+"q": "Which prostaglandin maintains patency of the ductus arteriosus, and which drug is used to keep it open?",
+"a": "Prostaglandin E1/E2 maintain ductal patency. Prostaglandin E1 (alprostadil) is used as an infusion to keep the ductus arteriosus open in duct-dependent congenital heart disease.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Anti-cancer drugs",
+"q": "How do the vinca alkaloids (vincristine, vinblastine) and the taxanes act on microtubules?",
+"a": "Vinca alkaloids bind tubulin and prevent microtubule assembly (inhibit polymerisation), arresting the cell in metaphase. Taxanes (paclitaxel, docetaxel) stabilise microtubules and prevent their disassembly, so the mitotic spindle cannot break down. Both disrupt the mitotic spindle and arrest cell division.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Anti-cancer drugs",
+"q": "Name the four classes of plant-derived (plant alkaloid) anti-cancer drugs and give an example of each.",
+"a": "Vinca alkaloids (vincristine, vinblastine); taxanes (paclitaxel, docetaxel); camptothecins/topoisomerase I inhibitors (topotecan, irinotecan); and podophyllotoxins/epipodophyllotoxins (etoposide, teniposide).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Anaesthetic agents",
+"q": "What are the consequences of nitrous oxide toxicity at the level of vitamin B12 and methionine metabolism?",
+"a": "Nitrous oxide irreversibly oxidises the cobalt of vitamin B12, inactivating methionine synthase. This produces a functional B12 deficiency causing neurological symptoms (e.g. subacute combined degeneration / myelin disruption) and raised homocysteine levels. (B12 deficiency causes homocysteine to rise, not fall.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Anaesthetic agents",
+"q": "In suspected nitrous oxide toxicity, what biochemical changes confirm functional vitamin B12 deficiency?",
+"a": "Decreased functional vitamin B12 (inactivated methionine synthase) with increased homocysteine levels, plus neurological signs. Megaloblastic/myelin changes follow.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Tocolytics",
+"q": "What is the mechanism and main obstetric use of terbutaline (a beta-2 agonist) in pregnancy?",
+"a": "Terbutaline is a beta-2 adrenoceptor agonist used for acute tocolysis and to relieve uterine hyperstimulation (e.g. oxytocin-induced). It relaxes uterine smooth muscle.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Tocolytics",
+"q": "What is the first sign of beta-2 agonist (e.g. terbutaline) toxicity in the mother versus the fetus during tocolysis?",
+"a": "Maternal tachycardia appears first (the expected first sign). With higher doses and placental transfer, fetal tachycardia can also occur. In an exam, choose maternal tachycardia as the earliest sign (or an option that includes both).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Antihypertensives",
+"q": "What is the mechanism of action of hydralazine?",
+"a": "Hydralazine is a direct-acting arteriolar smooth muscle relaxant (vasodilator). It reduces peripheral vascular resistance, lowering blood pressure. Used for severe hypertension/pre-eclampsia.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Anticoagulants",
+"q": "Coumarin anticoagulants antagonise which vitamin, and which clotting factors/proteins are affected?",
+"a": "They antagonise vitamin K, inhibiting vitamin K epoxide reductase. This reduces the vitamin K-dependent clotting factors II, VII, IX and X, plus proteins C and S.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Anticoagulants",
+"q": "From what natural source is coumarin derived, and what anticoagulant prototype is produced from it?",
+"a": "Coumarin is a plant compound found in sweet clover, tonka beans, cinnamon and other plants. Spoiled sweet clover yields dicoumarol, the prototype coumarin anticoagulant from which warfarin is derived.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Anticoagulants",
+"q": "Contrast the chemistry and placental transfer of heparin and warfarin.",
+"a": "Heparin is a highly acidic mucopolysaccharide (glycosaminoglycan); it is large and does NOT cross the placenta, so it is safe in pregnancy. Warfarin is a small lipid-soluble coumarin derivative that crosses the placenta and is teratogenic.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Anticoagulants",
+"q": "What is the antidote to heparin and to warfarin, respectively?",
+"a": "Heparin is reversed by protamine sulfate. Warfarin is reversed by vitamin K (and, for major bleeding, prothrombin complex concentrate).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Anticoagulants",
+"q": "What is the mechanism of action of unfractionated heparin?",
+"a": "Heparin potentiates antithrombin, which inactivates thrombin (factor IIa) and factor Xa (and also factors IXa, XIa, XIIa). This blocks the clotting cascade.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Anticoagulants",
+"q": "A serious immune-mediated side effect of heparin to remember is what?",
+"a": "Heparin-induced thrombocytopenia (HIT) - an immune-mediated fall in platelets that paradoxically causes thrombosis. Heparin is otherwise relatively safe in pregnancy as it does not cross the placenta.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Anticoagulants",
+"q": "Why is warfarin avoided in early pregnancy, and during which weeks is the risk of warfarin embryopathy greatest?",
+"a": "Warfarin crosses the placenta and is teratogenic, causing fetal warfarin (Di Sala / coumarin embryopathy) syndrome - nasal hypoplasia and stippled epiphyses. The critical period of greatest risk is approximately 6-12 weeks' gestation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Contraception",
+"q": "How does the generation of progestogen in combined hormonal contraception relate to venous thromboembolism risk? Give a second-generation example.",
+"a": "Higher-generation progestogens carry higher VTE risk: third/fourth-generation progestogens (desogestrel, gestodene, drospirenone) have about 50-80% higher VTE risk than the second-generation progestogen levonorgestrel. Second-generation examples: levonorgestrel and norgestrel.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Urogynaecology drugs",
+"q": "Which adrenergic receptor does mirabegron act on to relax the detrusor in overactive bladder?",
+"a": "Mirabegron is a beta-3 adrenoceptor agonist; stimulating beta-3 receptors relaxes the detrusor smooth muscle, increasing bladder storage capacity in overactive bladder.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Urogynaecology drugs",
+"q": "Which autonomic receptors mediate detrusor contraction versus relaxation, and which receptor controls the internal urethral sphincter?",
+"a": "Detrusor contraction is mediated by M3 (muscarinic, parasympathetic, acetylcholine). Detrusor relaxation is mediated by beta-3 (sympathetic, noradrenaline). The internal urethral sphincter is controlled by alpha-1 adrenergic receptors (noradrenaline).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Urogynaecology drugs",
+"q": "What is the most common side effect of oxybutynin, and in which condition is it contraindicated?",
+"a": "Oxybutynin is an antimuscarinic; its most common side effect is dry mouth. It is contraindicated in closed (narrow) angle glaucoma.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Urogynaecology drugs",
+"q": "Which neurotransmitter and receptor type operate at the neuromuscular junction of the external urethral sphincter, and what toxin acts there?",
+"a": "The external urethral sphincter is skeletal muscle supplied via the neuromuscular junction, where acetylcholine acts on nicotinic receptors. Botulinum toxin acts here, decreasing acetylcholine release.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Autonomic drugs",
+"q": "What is the mechanism of action of atropine, and how is its action on the acetylcholine receptor classified?",
+"a": "Atropine is a competitive, reversible antagonist at muscarinic acetylcholine receptors (antimuscarinic). It is used to treat bradycardia by blocking vagal (parasympathetic) tone on the heart.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Psychotropics in pregnancy",
+"q": "For a mother with anxiety/agitation, which antidepressants are considered safe, and why should diazepam not be used long-term?",
+"a": "Fluoxetine and venlafaxine can be used and are considered relatively safe; sertraline is preferred during breastfeeding. Diazepam should not be used long-term in pregnancy because it can cause neonatal floppy infant syndrome and neonatal dependence/withdrawal.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Psychotropics in pregnancy",
+"q": "Classify fluoxetine, venlafaxine and diazepam by drug class.",
+"a": "Fluoxetine is an SSRI (selective serotonin reuptake inhibitor). Venlafaxine is an SNRI (serotonin-noradrenaline reuptake inhibitor). Diazepam is a benzodiazepine.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Antiprogestogens",
+"q": "What is the half-life, receptor action and route of mifepristone?",
+"a": "Mifepristone is a progesterone receptor antagonist (antiprogestogen) with a half-life of about 25-30 hours, given orally. It is combined with misoprostol for medical abortion/miscarriage management.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Uterotonics",
+"q": "What is carbetocin, and what is its half-life compared with oxytocin?",
+"a": "Carbetocin is a long-acting synthetic analogue of oxytocin used to prevent postpartum haemorrhage. Its half-life is about 40 minutes (roughly 4-10 times longer than oxytocin), giving a sustained uterotonic effect without the need for infusion.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pharmacology",
+"subtopic": "Uterotonics",
+"q": "What is the plasma half-life of oxytocin, and how quickly does the uterus respond after IV versus IM administration?",
+"a": "Oxytocin has a very short plasma half-life of about 1-6 minutes. After IV administration uterine response is almost immediate; after IM injection response occurs within about 3-5 minutes and lasts 2-3 hours.",
+"ai": true,
+"note": "Transcript stated oxytocin IV onset 'around (a)' minute and IM '5 minutes'; standard sources give plasma half-life 1-6 min, IV onset near-immediate and IM uterine response in 3-5 min. Card corrected to reflect this; the transcript's exact figures were garbled."
+}
+]
 }
 ];
