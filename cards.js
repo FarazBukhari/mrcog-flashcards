@@ -6834,6 +6834,2196 @@ window.SECTIONS = [
 ]
 },
 {
+"id": "endocrinology",
+"title": "Endocrinology",
+"cards": [
+{
+"topic": "Endocrinology",
+"subtopic": "Estrogen physiology",
+"q": "What is the most abundant form of estrogen in postmenopausal women, and what is its source?",
+"a": "Estrone (E1) is the most abundant estrogen after menopause. It is produced mainly by peripheral aromatisation of androgens (androstenedione) in adipose tissue.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Estrogen physiology",
+"q": "What is the predominant estrogen and its main source in (a) reproductive-age women and (b) pregnancy?",
+"a": "(a) Reproductive age: estradiol (E2), produced by ovarian granulosa cells. (b) Pregnancy: estriol (E3) is the predominant estrogen; it is produced by the placenta using fetal adrenal DHEA precursors.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Estrogen physiology",
+"q": "Rank the three classical estrogens (estradiol, estrone, estriol) in order of biological potency, strongest to weakest.",
+"a": "Estradiol (E2) > estrone (E1) > estriol (E3). Estradiol is roughly 10x more potent than estrone and ~80-100x more potent than estriol.",
+"ai": true,
+"note": "The transcript states the potency order as estradiol > estriol > estrone, which is incorrect. Standard pharmacology: estradiol > estrone > estriol. Estriol is the WEAKEST of the three."
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Thyroid physiology",
+"q": "What is the approximate ratio of T4 to T3 secreted by the thyroid gland?",
+"a": "Approximately 14:1 (T4:T3). The thyroid secretes far more T4 than T3; most active T3 is generated peripherally by deiodination of T4.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Thyroid physiology",
+"q": "What proportion of circulating T4 and T3 is in the free (unbound) active form?",
+"a": "Only about 0.03% of T4 and about 0.3% of T3 circulate free; the remainder is protein-bound. Free T3 is roughly 10x higher in fraction than free T4.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Thyroid physiology",
+"q": "Which plasma protein binds the majority of circulating thyroid hormone, and what are the other binding proteins?",
+"a": "Thyroxine-binding globulin (TBG) carries ~70% of thyroid hormone. The remainder is bound to transthyretin (thyroxine-binding prealbumin) and albumin.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Thyroid disorders",
+"q": "A patient has a raised TSH with normal free T4 and free T3. What is the diagnosis?",
+"a": "Subclinical hypothyroidism (raised TSH with normal thyroid hormone levels). It reflects reduced thyroid output with compensatory TSH rise via negative feedback.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Pancreatic islets",
+"q": "Which cells of the pancreatic islets produce insulin, glucagon, and somatostatin, and where are they located?",
+"a": "Beta cells produce insulin (centrally located in the islet); alpha cells produce glucagon (peripheral); delta cells produce somatostatin (interspersed). PP cells produce pancreatic polypeptide.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Calcium regulation",
+"q": "Which gland and which cells produce calcitonin?",
+"a": "Calcitonin is produced by the parafollicular (C) cells of the thyroid gland.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Growth hormone",
+"q": "Which hormone promotes cartilage mitosis/deposition at the epiphyseal growth plate, and via what mediator?",
+"a": "Growth hormone promotes cartilage mitosis at the epiphyseal plate, acting largely via insulin-like growth factor 1 (IGF-1).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Calcium regulation",
+"q": "Which hormone promotes calcium deposition in cartilage/bone (as opposed to cartilage growth)?",
+"a": "Calcitonin promotes calcium deposition into bone (lowering serum calcium), distinct from growth hormone which drives cartilage growth.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Puberty",
+"q": "What is the most common cause of delayed puberty in both males and females?",
+"a": "Constitutional delay of growth and puberty, accounting for ~90% of cases.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "PCOS",
+"q": "By what mechanism does PCOS cause hyperprolactinaemia?",
+"a": "Increased estrogen (from the enlarged follicular mass) inhibits hypothalamic dopamine (prolactin-inhibiting factor); reduced dopamine inhibition leads to increased prolactin release.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Adrenal / cortisol",
+"q": "Which hormone is responsible for striae (stretch marks) formation, e.g. in Cushing's syndrome?",
+"a": "Cortisol. Excess cortisol breaks down collagen fibres in the dermis, producing striae.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Hypothalamus / posterior pituitary",
+"q": "Where is antidiuretic hormone (ADH/vasopressin) synthesised?",
+"a": "ADH is synthesised mainly in the supraoptic nucleus (and to a lesser extent the paraventricular nucleus) of the hypothalamus, then transported to the posterior pituitary for release.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Hypothalamus / posterior pituitary",
+"q": "Where is oxytocin synthesised?",
+"a": "Oxytocin is synthesised mainly in the paraventricular nucleus (and to a lesser extent the supraoptic nucleus) of the hypothalamus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Adrenal / Cushing's",
+"q": "In Cushing's disease, what happens to ACTH, cortisol, and growth hormone?",
+"a": "ACTH is raised (pituitary adenoma), driving raised cortisol. Growth hormone is decreased: excess cortisol suppresses GH/IGF-1 and the hypothalamic-pituitary axis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Adrenal / Cushing's",
+"q": "Define Cushing's disease versus Cushing's syndrome.",
+"a": "Cushing's syndrome is the clinical state of cortisol excess from any cause. Cushing's disease specifically refers to an ACTH-secreting pituitary adenoma causing the cortisol excess.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Adrenal / Cushing's",
+"q": "What is the most common cause of Cushing's syndrome overall, and the most common endogenous cause?",
+"a": "Most common cause overall is exogenous/iatrogenic glucocorticoid administration. The most common endogenous cause is an ACTH-secreting pituitary adenoma (Cushing's disease).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Ovarian function",
+"q": "A woman with no menstrual history and no hormonal medication has raised LH, FSH and TSH with normal thyroid hormones. What is the diagnosis?",
+"a": "Premature ovarian insufficiency/failure. Raised LH and FSH (hypergonadotrophic hypogonadism) indicate ovarian failure; a coincidental raised TSH alone (normal T4) would not explain the gonadotrophin rise.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Thyroid disorders",
+"q": "What is the most common cause of hyperthyroidism in reproductive-age women and in pregnancy?",
+"a": "Graves' disease (autoimmune) is the most common cause of hyperthyroidism in young/reproductive-age women and in pregnancy.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Thyroid disorders",
+"q": "What is the most common cause of hypothyroidism worldwide versus in the UK?",
+"a": "Worldwide: iodine deficiency. In the UK (iodine-sufficient): autoimmune (Hashimoto's) thyroiditis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Prolactin",
+"q": "A woman has irregular periods, normal LH/FSH, and prolactin of ~5 IU/L (not raised), progesterone 5. What does this exclude, and what high prolactin level suggests an adenoma?",
+"a": "A low prolactin excludes hyperprolactinaemia. A prolactin level >1000 mU/L (in the absence of other cause) strongly suggests a pituitary (prolactin-secreting) adenoma; PCOS typically causes only mild elevation.",
+"ai": false,
+"note": "Transcript said 'thousand'; the meaningful adenoma threshold is ~1000 mU/L (not ng/mL). Very high levels (>5000 mU/L) suggest macroprolactinoma."
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Ovarian function",
+"q": "Which marker is most useful for assessing ovarian reserve, and what does a low level indicate?",
+"a": "Anti-Mullerian hormone (AMH). A low AMH indicates reduced ovarian reserve; it is best combined with antral follicle count on ultrasound.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Menopause",
+"q": "According to NICE, when can FSH be used to help diagnose menopause, and what level supports it?",
+"a": "In women over 45, menopause is diagnosed on symptoms alone (no FSH needed). FSH is considered in women under 40-45 with symptoms; a raised FSH (e.g. >25-30 IU/L) on two samples 4-6 weeks apart supports menopause.",
+"ai": false,
+"note": "NICE NG23: do not use FSH in women >45. FSH fluctuates; two measurements needed. Cut-offs ~25 IU/L (with no contraception) are guides, not absolute."
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Male reproductive endocrinology",
+"q": "Which cells produce androgens (testosterone) in the male testis, and which hormone stimulates them?",
+"a": "Leydig cells produce testosterone, stimulated by luteinising hormone (LH). Sertoli cells (stimulated by FSH) support spermatogenesis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Male reproductive endocrinology",
+"q": "What do Sertoli cells produce, and which hormones act on them?",
+"a": "Sertoli cells produce androgen-binding protein, inhibin, and anti-Mullerian hormone (in the fetus). They are stimulated by FSH (and testosterone) to support spermatogenesis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Female reproductive endocrinology",
+"q": "In the female, what do LH and FSH act on, and what do they produce?",
+"a": "LH acts on theca cells to produce androgens; FSH acts on granulosa cells, stimulating aromatase activity to convert androgens to estrogen.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Placental hormones",
+"q": "Which placental hormone is responsible for glucose metabolism/insulin resistance and fat storage in pregnancy?",
+"a": "Human placental lactogen (hPL). It is diabetogenic, promoting insulin resistance and mobilising/storing maternal energy substrates.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Hypothalamic hormones",
+"q": "What type of biochemical molecule is GnRH, and how many amino acids does it contain?",
+"a": "GnRH is a decapeptide (10 amino acids).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Hypothalamic / pituitary hormones",
+"q": "Classify TRH, the posterior pituitary hormones, and GnRH by peptide length.",
+"a": "TRH is a tripeptide (3 aa); posterior pituitary hormones (ADH, oxytocin) are nonapeptides (9 aa); GnRH is a decapeptide (10 aa).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Hypothalamic hormones",
+"q": "Besides the hypothalamus and pituitary, where else can GnRH be found?",
+"a": "GnRH-producing neurons are also found in the enteric nervous system (myenteric/Auerbach's plexus) of the gut.",
+"ai": true,
+"note": "The transcript claims GnRH is produced in the gut myenteric plexus. This is not a standard, well-established MRCOG teaching point and could not be reliably verified against UK guidance; treat with caution."
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Hormone biochemistry",
+"q": "What is the chemical structure of renin, LH, FSH and hCG?",
+"a": "LH, FSH and hCG are glycoproteins. (Renin is an enzyme/protein.) The glycoprotein hormones share a common alpha subunit with a hormone-specific beta subunit.",
+"ai": true,
+"note": "LH/FSH/hCG as glycoproteins is correct. The transcript grouped renin here; renin is a proteolytic enzyme, not a glycoprotein hormone - do not classify renin as a glycoprotein hormone."
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Hormone biochemistry",
+"q": "From which amino acids are the catecholamines/thyroid hormones and melatonin derived?",
+"a": "Thyroid hormones and catecholamines are amine hormones derived from tyrosine; melatonin (and serotonin) are derived from tryptophan.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Hormone signalling",
+"q": "How do steroid hormones, vitamin D, and thyroid hormone exert their action at the cellular level?",
+"a": "Steroid hormones, vitamin D and thyroid hormone are lipophilic and act via intracellular (cytoplasmic/nuclear) receptors to alter gene transcription. Aldosterone and cortisol also act through intracellular receptors.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Growth hormone",
+"q": "At what time of the sleep/circadian cycle is growth hormone secretion at its peak?",
+"a": "GH peaks during deep (slow-wave) sleep, with the largest burst shortly after sleep onset (within the first ~90 minutes). If 'deep sleep' is not an option, choose 'at the onset of sleep'.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Adrenal cortex",
+"q": "From which zones of the adrenal cortex are aldosterone, cortisol, and androgens produced?",
+"a": "Zona glomerulosa - aldosterone (mineralocorticoids); zona fasciculata - cortisol (glucocorticoids); zona reticularis - androgens.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Adrenal cortex",
+"q": "What is the primary regulator of mineralocorticoid (aldosterone) production?",
+"a": "Angiotensin II is the primary regulator of aldosterone secretion (with potassium); ACTH plays only a minor role. ~90% of mineralocorticoid activity is from aldosterone.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Sex chromosome disorders",
+"q": "What is the hormone profile of Klinefelter syndrome?",
+"a": "Hypergonadotrophic hypogonadism: low testosterone, raised LH and FSH, with raised sex hormone-binding globulin (due to relative estrogen effect).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Sex chromosome disorders",
+"q": "What is the hormone profile of Turner syndrome?",
+"a": "Hypergonadotrophic hypogonadism: low estrogen with raised LH and FSH (ovarian failure). SHBG is low-to-normal due to low estrogen.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "PCOS",
+"q": "How does PCOS affect estrogen and progesterone, and by what receptor mechanism?",
+"a": "PCOS is characterised by relatively low/absent progesterone (anovulation) and unopposed estrogen, which downregulates its own receptors; raised androgens are typical.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Anterior pituitary",
+"q": "Which pituitary cell types are acidophils versus basophils, and what do they secrete?",
+"a": "Acidophils: somatotrophs (GH) and lactotrophs (prolactin). Basophils: thyrotrophs (TSH), gonadotrophs (LH/FSH) and corticotrophs (ACTH).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Anterior pituitary",
+"q": "What are the approximate proportions of the anterior pituitary cell types?",
+"a": "Somatotrophs ~40-50%, lactotrophs ~10-25%, corticotrophs ~15-20%, thyrotrophs ~3-5%, gonadotrophs ~10-15%.",
+"ai": false,
+"note": "Transcript gave rough figures (somatotrophs 40-50%, thyrotrophs ~3-5%, gonadotrophs ~20%). Standard ranges used here; gonadotrophs ~10-15%, lactotrophs ~10-25%."
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Pituitary",
+"q": "Which hormone is produced by the pars intermedia of the pituitary?",
+"a": "Melanocyte-stimulating hormone (MSH), derived from the POMC precursor.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Steroid biochemistry",
+"q": "How many carbon atoms are in estrogens, and in progesterone/aldosterone?",
+"a": "Estrogens are C18 steroids; progesterone and aldosterone (and other progestogens/corticosteroids) are C21 steroids; androgens are C19.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Adrenal / cortisol",
+"q": "At what time of day is cortisol at its highest and lowest in a healthy person?",
+"a": "Cortisol peaks in the early morning (around 8-9 am) and is lowest around midnight. In Cushing's syndrome this diurnal rhythm is lost (persistently raised).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Adrenal / Addison's",
+"q": "What electrolyte and metabolic picture is typical of Addison's disease (primary hypoadrenalism)?",
+"a": "Hyponatraemia, hyperkalaemia, hypoglycaemia and hypercalcaemia. Both cortisol and aldosterone are deficient; raised potassium reflects aldosterone loss.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Calcium regulation",
+"q": "What is the functional role of parathyroid hormone (PTH) on calcium and phosphate?",
+"a": "PTH raises serum calcium (decreases urinary calcium excretion, increases bone resorption and renal 1,25-vitamin D activation) and lowers serum phosphate by increasing renal phosphate excretion. PTH is secreted by parathyroid chief cells.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Calcium regulation",
+"q": "How does calcitonin affect calcium handling compared with PTH?",
+"a": "Calcitonin lowers serum calcium by increasing urinary calcium excretion and inhibiting bone resorption - opposite to PTH, which decreases urinary calcium excretion and raises serum calcium.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Appetite regulation",
+"q": "Which hormones regulate appetite, and what are their effects?",
+"a": "Leptin (from adipose tissue) promotes satiety/suppresses appetite; ghrelin (from the stomach) stimulates hunger ('growling'). A leptin gene mutation causes increased appetite/obesity.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Thyroid physiology",
+"q": "Which thyroid follicular cell transporters move iodide into the cell and into the colloid/lumen?",
+"a": "Iodide enters the follicular cell via the sodium-iodide symporter (NIS, a co-transporter with Na+). It exits into the colloid via pendrin (a chloride/iodide exchanger).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Menopause",
+"q": "Which test best confirms a postmenopausal state, and how is it interpreted in younger women?",
+"a": "FSH. A persistently raised FSH supports menopause. In women under 45 (or 40-45) with symptoms, a raised FSH (e.g. >25 IU/L) on two samples ~4-6 weeks apart is used; in women over 45 diagnosis is clinical.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Thyroid physiology",
+"q": "How does negative feedback explain the TSH rise in primary hypothyroidism?",
+"a": "Low circulating T3/T4 removes negative feedback on the hypothalamus and pituitary, so TRH and TSH secretion increase - producing the characteristically raised TSH in primary hypothyroidism.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Pituitary physiology",
+"q": "Which is the most abundant cell type in the anterior pituitary, and what is its approximate proportion?",
+"a": "Somatotrophs (growth hormone-producing cells) are the most abundant, making up approximately 40-50% of anterior pituitary cells.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Pituitary physiology",
+"q": "What proportion of anterior pituitary cells are lactotrophs (prolactin-producing)?",
+"a": "Approximately 10-15% of anterior pituitary cells are lactotrophs.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Pituitary physiology",
+"q": "What approximate proportion of anterior pituitary cells are corticotrophs (ACTH-producing)?",
+"a": "Approximately 15-20% of anterior pituitary cells are corticotrophs.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Pituitary physiology",
+"q": "Which anterior pituitary cell type is the LEAST abundant?",
+"a": "Thyrotrophs (TSH-producing cells) are the least abundant, comprising roughly 5% of anterior pituitary cells.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Pituitary physiology",
+"q": "By which cell type, and under which staining property, are growth hormone and prolactin produced in the anterior pituitary?",
+"a": "Both growth hormone (from somatotrophs) and prolactin (from lactotrophs) are produced by acidophil cells of the anterior pituitary.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Gonadotrophins",
+"q": "What is the approximate circulating half-life of luteinising hormone (LH)?",
+"a": "About 20 minutes (classically quoted as ~20-30 minutes), making it short compared with FSH.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Gonadotrophins",
+"q": "What is the approximate circulating half-life of follicle-stimulating hormone (FSH)?",
+"a": "Approximately 3-4 hours, considerably longer than LH.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Growth hormone",
+"q": "During which phase of sleep does the highest peak of growth hormone secretion occur?",
+"a": "During deep (slow-wave / stage N3) sleep, typically shortly after the onset of sleep. Smaller peaks also occur after meals and after exercise.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Growth hormone",
+"q": "At what point in life is the highest physiological peak of growth hormone seen?",
+"a": "The highest peak occurs in fetal life, around 20 weeks of gestation; a further high peak occurs at puberty.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Thyroid physiology",
+"q": "What is the normal serum T4:T3 ratio?",
+"a": "Approximately 14:1 (T4 to T3).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Thyroid physiology",
+"q": "What percentage of total circulating T4 and T3 exists in the free (unbound) form?",
+"a": "Only about 0.03% of total T4 and about 0.3% of total T3 circulate free; the remainder is protein-bound.",
+"ai": true,
+"note": "Transcript stated free T4 = 0.1% and free T3 = 1%, which is incorrect. Standard values are free T4 ~0.03% and free T3 ~0.3%."
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Thyroid physiology",
+"q": "What proportion of circulating T4 is bound to thyroxine-binding globulin (TBG)?",
+"a": "Approximately 70-75% of T4 is bound to TBG; the rest is bound to transthyretin (~15%) and albumin (~10%).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Thyroid physiology",
+"q": "Which thyroid cells produce thyroxine (T4) and triiodothyronine (T3), and which produce calcitonin?",
+"a": "Follicular cells produce T4 and T3; parafollicular (C) cells produce calcitonin.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Thyroid physiology",
+"q": "Where is the sodium-iodide symporter (NIS) located in the thyroid follicular cell, and what does it co-transport?",
+"a": "It is located on the basolateral membrane and co-transports sodium and iodide into the follicular cell (secondary active transport driven by the Na+ gradient).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Thyroid physiology",
+"q": "Which transporter moves iodide across the apical membrane into the colloid, and which ion does it counter-transport?",
+"a": "Pendrin transports iodide out of the follicular cell into the colloid at the apical membrane, in exchange for chloride (a chloride/iodide counter-transporter).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Adrenal - hyperaldosteronism",
+"q": "What is the most common cause of primary hyperaldosteronism (Conn's syndrome) historically taught, and what acid-base disturbance does it cause?",
+"a": "Classically taught as an aldosterone-producing adrenal adenoma; excess aldosterone causes hypernatraemia, hypokalaemia, hypertension and a metabolic alkalosis (via increased H+ and K+ loss).",
+"ai": true,
+"note": "Transcript said the most common cause is 'bilateral adrenal adenoma' in ~80%. This is inaccurate: bilateral adrenal (idiopathic) hyperplasia and a unilateral aldosterone-producing adenoma each account for a substantial share; current data attribute roughly 60-70% to bilateral hyperplasia and ~30% to a unilateral adenoma. Aldosterone-producing adenoma is the classic single 'lesion' answer."
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Adrenal - hyperaldosteronism",
+"q": "How are the renin and aldosterone levels used to distinguish primary from secondary hyperaldosteronism?",
+"a": "Primary hyperaldosteronism: HIGH aldosterone with LOW (suppressed) renin (problem is in the adrenal gland). Secondary hyperaldosteronism: HIGH aldosterone with HIGH renin (e.g. increased sympathetic drive or a renin-secreting tumour).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Adrenal - hyperaldosteronism",
+"q": "In primary hyperaldosteronism, why does the fludrocortisone suppression test fail to suppress aldosterone?",
+"a": "Fludrocortisone plus a high-salt diet should suppress aldosterone via negative feedback in a normal person; in Conn's syndrome the autonomous aldosterone-secreting tumour does not suppress, so aldosterone remains elevated. A saline infusion test works on the same principle.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Adrenal - hyperaldosteronism",
+"q": "On the actions of aldosterone: which two renal transporters does it stimulate, and what is the net electrolyte effect?",
+"a": "Aldosterone increases activity of the Na+/H+ exchanger and the Na+/K+ exchanger in the distal nephron, promoting sodium reabsorption while excreting hydrogen ions and potassium - hence hypokalaemia and metabolic alkalosis in excess.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Adrenal - phaeochromocytoma",
+"q": "What proportion of phaeochromocytomas are intra-adrenal versus extra-adrenal?",
+"a": "About 90% are intra-adrenal (arising from the adrenal medulla) and about 10% are extra-adrenal (paragangliomas elsewhere in sympathetic tissue).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Adrenal - phaeochromocytoma",
+"q": "State the classic 'rule of 10s' for phaeochromocytoma.",
+"a": "Approximately 10% extra-adrenal, 10% bilateral, 10% malignant, 10% in children, 10% not associated with hypertension, 10% contain calcification (and ~10% familial).",
+"ai": true,
+"note": "The 'rule of 10s' is still taught for MRCOG but is increasingly regarded as outdated: ~25-40% of phaeochromocytomas/paragangliomas are now known to be hereditary, so the '10% familial' figure understates true genetic involvement."
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Adrenal - phaeochromocytoma",
+"q": "What is the approximate incidence of phaeochromocytoma in pregnancy?",
+"a": "Quoted classically as roughly 1 in 54,000 pregnancies (i.e. rare).",
+"ai": true,
+"note": "Figure comes only from the lecture and varies widely in the literature; more recent estimates are around 7 per 100,000 (~1 in 14,000-15,000) pregnancies. Treat the exact number as uncertain."
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Adrenal - phaeochromocytoma",
+"q": "Which neurotransmitters/catecholamines are secreted by the adrenal medulla, and what urinary/plasma metabolite is measured in phaeochromocytoma?",
+"a": "The adrenal medulla (a modified sympathetic ganglion) secretes dopamine, noradrenaline (norepinephrine) and adrenaline (epinephrine). Investigation shows raised plasma/urinary metanephrines, catecholamines and vanillylmandelic acid (VMA).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Adrenal - phaeochromocytoma",
+"q": "Which inherited syndromes are associated with phaeochromocytoma?",
+"a": "Multiple endocrine neoplasia type 2 (MEN 2A and 2B), von Hippel-Lindau syndrome and neurofibromatosis type 1; it is most strongly associated with MEN 2.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Adrenal - Cushing's",
+"q": "What is the most common cause of Cushing's SYNDROME overall (including exogenous causes)?",
+"a": "Exogenous (iatrogenic) glucocorticoid administration is the most common overall cause of Cushing's syndrome.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Adrenal - Cushing's",
+"q": "What is the most common ENDOGENOUS cause of Cushing's syndrome (Cushing's disease)?",
+"a": "An ACTH-secreting pituitary adenoma (Cushing's disease) is the most common endogenous cause, accounting for the majority of endogenous cases.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Adrenal - Cushing's",
+"q": "What are the typical metabolic and electrolyte effects of cortisol excess (Cushing's syndrome)?",
+"a": "Hyperglycaemia (cortisol is gluconeogenic/diabetogenic), and via mineralocorticoid activity at high concentrations: hypernatraemia, hypokalaemia and metabolic alkalosis. Hypertension is common.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Adrenal - Cushing's",
+"q": "What white blood cell changes are seen with cortisol excess (Cushing's syndrome)?",
+"a": "Neutrophilia with eosinopenia and lymphopenia. The opposite pattern (eosinophilia/lymphocytosis) is seen in Addison's disease.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Adrenal - Cushing's",
+"q": "How does cortisol excess affect growth hormone levels?",
+"a": "Growth hormone is DECREASED. High cortisol suppresses the hypothalamic-pituitary axis, inhibiting GHRH and GH release - so GH levels are low in Cushing's syndrome/disease.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Adrenal - Cushing's",
+"q": "What is the normal circadian rhythm of cortisol, and what happens to it in Cushing's syndrome?",
+"a": "Cortisol normally peaks in the early morning and is lowest late at night (diurnal rhythm). In Cushing's syndrome this rhythm is lost - the late-night nadir disappears and late-night/midnight cortisol remains elevated.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Adrenal - Cushing's",
+"q": "Which tests are used to confirm/screen for Cushing's syndrome?",
+"a": "24-hour urinary free cortisol, late-night (midnight) salivary cortisol, and the dexamethasone suppression test.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Adrenal - Addison's",
+"q": "What biochemical picture is seen in Addison's disease (primary adrenal insufficiency)?",
+"a": "Hyponatraemia, hyperkalaemia, hypoglycaemia and hypercalcaemia (low cortisol and low aldosterone).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Adrenal physiology",
+"q": "From which zone of the adrenal cortex is each steroid class produced?",
+"a": "Zona glomerulosa - mineralocorticoids (aldosterone); zona fasciculata - glucocorticoids (cortisol); zona reticularis - androgens (and oestrogen precursors).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Sex steroids - metabolism",
+"q": "What is the effect of oestrogen on the lipid profile?",
+"a": "Oestrogen increases HDL (good cholesterol) and decreases LDL/VLDL, but increases triglycerides - overall cardioprotective. Testosterone has the opposite effect (raises LDL, lowers HDL).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Sex steroids - binding proteins",
+"q": "What is the effect of oestrogen and testosterone on binding globulins (SHBG, TBG, CBG)?",
+"a": "Oestrogen increases sex hormone-binding globulin (SHBG), thyroxine-binding globulin (TBG) and cortisol-binding globulin (CBG). Testosterone tends to decrease SHBG.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "PCOS",
+"q": "In PCOS, what happens to sex hormone-binding globulin (SHBG) and why?",
+"a": "SHBG is decreased because the raised androgens (and associated hyperinsulinaemia) lower SHBG, which in turn raises free androgen levels.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Sex steroids - binding proteins",
+"q": "Approximately what percentage of circulating testosterone, oestradiol and the free fraction are bound to SHBG (standard MRCOG teaching)?",
+"a": "Classic teaching: testosterone ~80% SHBG-bound, oestradiol ~40% SHBG-bound (the remainder largely albumin-bound), with only ~1-3% circulating free. Cortisol binds cortisol-binding globulin, not SHBG.",
+"ai": true,
+"note": "These are the commonly quoted MRCOG figures but are simplified. Detailed literature gives testosterone ~44% SHBG / ~50% albumin and oestradiol with much lower SHBG affinity (~33-50% of testosterone's). Use the exam-style figures with caution."
+},
+{
+"topic": "Endocrinology",
+"subtopic": "PCOS",
+"q": "How does hyperandrogenism in PCOS contribute to elevated prolactin (hyperprolactinaemia)?",
+"a": "Unopposed oestrogen (from follicles producing oestrogen without progesterone) plus excess androgen disrupt dopaminergic (prolactin-inhibitory) regulation, which can elevate prolactin levels.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Hypothalamic-pituitary hormones",
+"q": "Classify GnRH, TRH, ADH and oxytocin by peptide length.",
+"a": "GnRH (GnRH/LHRH) is a decapeptide (10 amino acids); TRH is a tripeptide (3 amino acids); ADH (vasopressin) and oxytocin are each nonapeptides (9 amino acids).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Reproductive pharmacology / IVF",
+"q": "In IVF, what is the effect of giving GnRH agonist in a PULSATILE manner versus CONTINUOUSLY?",
+"a": "Pulsatile GnRH stimulates (mimics physiology), increasing FSH/LH release and supporting follicular growth. Continuous GnRH agonist causes receptor downregulation/desensitisation, suppressing FSH/LH - used to prevent a premature LH surge.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Sexual differentiation",
+"q": "In male sexual differentiation, what is the role of anti-Mullerian hormone (AMH)?",
+"a": "AMH, produced by Sertoli cells, causes regression of the Mullerian (paramesonephric) ducts (which would otherwise form the uterus and fallopian tubes).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Sexual differentiation",
+"q": "Which hormone drives Wolffian (mesonephric) duct development, and which drives external male genitalia development?",
+"a": "Testosterone stimulates Wolffian (mesonephric) duct development; dihydrotestosterone (DHT), produced from testosterone by 5-alpha-reductase, drives development of the external male genitalia.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Sexual differentiation",
+"q": "What is the consequence of 5-alpha-reductase deficiency on male genital development?",
+"a": "DHT is not produced, so the external genitalia fail to virilise normally, while testosterone-dependent internal (Wolffian) structures still develop.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Gonadal physiology",
+"q": "Which cells do LH and FSH act on in the male testis?",
+"a": "LH acts on Leydig cells (interstitial cells) to produce testosterone; FSH acts on Sertoli cells (which line the seminiferous tubules and form the blood-testis barrier).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Gonadal physiology",
+"q": "Which ovarian cells are the homologues of testicular Leydig and Sertoli cells, and what does each produce?",
+"a": "Theca cells are the homologue of Leydig cells (LH-driven, produce androgens); granulosa cells are the homologue of Sertoli cells (FSH-driven, aromatise androgens to oestrogen and produce AMH).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Gonadal physiology",
+"q": "Describe the two-cell, two-gonadotrophin model of ovarian oestrogen synthesis.",
+"a": "LH stimulates theca cells to produce androgens (androstenedione/testosterone); these diffuse to granulosa cells where FSH-stimulated aromatase converts them to oestradiol.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Sex steroids",
+"q": "Rank the relative potency of the main androgens.",
+"a": "Dihydrotestosterone (DHT) is the most potent, followed by testosterone, then androstenedione (the weakest of these).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Ovarian function",
+"q": "In which conditions can premature ovarian failure (insufficiency) be seen?",
+"a": "Autoimmune conditions (e.g. autoimmune thyroiditis), Turner syndrome (gonadal dysgenesis/atrophy) and Fragile X syndrome. It is NOT a feature of Mayer-Rokitansky-Kuster-Hauser (normal ovaries, hypoplastic/absent uterus) or Addison's disease per se.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Pituitary tumours",
+"q": "Which pituitary tumour type most commonly causes acromegaly/GH excess?",
+"a": "A growth hormone-secreting pituitary macroadenoma (in ~99% of cases the GH excess is from a pituitary adenoma, usually a macroadenoma).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Placental endocrinology",
+"q": "Which placental hormone ensures adequate fetal nutrition (provision of glucose) and is diabetogenic?",
+"a": "Human placental lactogen (hPL) - it antagonises insulin to maintain maternal-to-fetal glucose supply and is diabetogenic. (Leptin is the answer if the question instead asks about energy storage.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Appetite regulation",
+"q": "Which hormone decreases appetite and which increases it?",
+"a": "Leptin is a satiety hormone that decreases appetite; ghrelin increases appetite (hunger hormone).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Calcium homeostasis",
+"q": "What is the primary function of parathyroid hormone (PTH)?",
+"a": "PTH raises serum calcium and lowers serum phosphate: it increases renal calcium reabsorption, increases renal phosphate excretion, activates vitamin D (increasing gut calcium absorption) and increases bone resorption.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Placental hormones",
+"q": "Which hormone maintains the maternal supply of nutrition (glucose) to the fetus?",
+"a": "Human placental lactogen (hPL, also called human chorionic somatomammotropin / HCS). It causes maternal insulin resistance and lipolysis, sparing glucose and amino acids for fetal supply.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Placental hormones",
+"q": "Which hormone is primarily responsible for maternal STORAGE of nutrition (energy) in pregnancy?",
+"a": "Leptin. (Distinguish from hPL, which governs nutrient SUPPLY to the fetus — exam tests the supply vs storage wording.)",
+"ai": true,
+"note": "Transcript's supply=hPL/storage=leptin dichotomy is an exam mnemonic, not a standard guideline-defined fact. Leptin is an adipocyte satiety hormone (elevated in pregnancy) rather than a recognised 'nutrient-storage' hormone; treat with caution."
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Placental hormones",
+"q": "Which hormone is mainly responsible for the diabetogenic effect of pregnancy?",
+"a": "Human placental lactogen (hPL) — it antagonises insulin (increases maternal insulin resistance) and increases lipolysis/fatty-acid oxidation, sparing glucose for the fetus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Placental hormones",
+"q": "When does hCG peak in pregnancy, and which pituitary hormones share its structure/function?",
+"a": "hCG peaks at about 8-10 weeks' gestation, then declines. It is a glycoprotein hormone (alpha/beta subunits) sharing structural and functional homology with LH (same receptor) and, to a lesser degree, TSH; the alpha subunit is common to FSH/LH/TSH/hCG.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Placental hormones",
+"q": "When does human placental lactogen (hPL) peak in pregnancy?",
+"a": "hPL rises throughout gestation and peaks in the third trimester (~after 35 weeks / near term), then falls after delivery. It can also be written as HCS (human chorionic somatomammotropin).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Pregnancy hormone changes",
+"q": "By how much do estriol, estradiol/estrone, progesterone, hPL and cortisol increase in pregnancy (approximate fold rise)?",
+"a": "Estriol rises ~1000-fold (main estrogen of pregnancy); estradiol and estrone rise ~100-fold; progesterone ~10-fold (commonly quoted); hPL rises markedly through gestation; cortisol increases roughly 3-4 fold.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Estrogens",
+"q": "What is the relative potency of the three main estrogens?",
+"a": "Estradiol is the most potent: ~10x more potent than estrone and ~80-100x more potent than estriol. Estrone is ~10x more potent than estriol.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Estrogens",
+"q": "Which estrogen predominates in pregnancy, premenopause, and postmenopause, and what is the source in each reproductive stage?",
+"a": "Pregnancy: estriol (source = placenta). Reproductive years/premenopause: estradiol (source = ovarian granulosa cells). Postmenopause: estrone (source = adipose tissue, via peripheral aromatisation of androgens).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Androgens",
+"q": "Rank the androgens from most to least potent.",
+"a": "Dihydrotestosterone (DHT) > testosterone > androstenedione > dehydroepiandrosterone (DHEA). Testosterone is converted to DHT by 5-alpha-reductase.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Thyroid physiology",
+"q": "What are the free (unbound) fractions of T4 and T3, and to which protein is most thyroid hormone bound?",
+"a": "Free T4 is ~0.03% and free T3 is ~0.3% of total (only the free fraction is biologically active). The major carrier is thyroxine-binding globulin (TBG), which carries ~75% of T4; the rest is bound to transthyretin and albumin.",
+"ai": true,
+"note": "Transcript quotes free T4 0.1% and free T3 1%. Standard values are free T4 ~0.03% (≈99.97% bound) and free T3 ~0.3% (≈99.7% bound); transcript figures are ~3x too high."
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Thyroid physiology",
+"q": "Which thyroid cells make which hormones, and what is the T4:T3 secretion ratio?",
+"a": "Follicular cells produce T4 and T3; parafollicular (C) cells produce calcitonin. The thyroid secretes far more T4 than T3 (roughly 10-20:1 ratio), and T4 is the major circulating thyroid hormone bound largely to TBG.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Thyroid physiology",
+"q": "Which transporters move iodide across the thyroid follicular cell membranes?",
+"a": "Basolateral membrane: sodium-iodide symporter (NIS) co-transports Na+ and iodide INTO the cell. Apical membrane: pendrin, a chloride/iodide antiporter (transporter), moves iodide OUT into the colloid/lumen in exchange for chloride.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Sex steroid transport",
+"q": "To which proteins do estradiol and testosterone predominantly bind in plasma?",
+"a": "Estradiol binds mostly to albumin (lower fraction to SHBG). Testosterone is the opposite — it binds mostly to sex hormone-binding globulin (SHBG), less to albumin. The free fraction of each is ~1-3%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Sex steroid transport",
+"q": "How is progesterone transported in plasma?",
+"a": "Progesterone binds to cortisol-binding globulin (CBG/transcortin), but the majority binds to albumin (like estrogen). Only a small fraction is free.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Calcium regulation",
+"q": "Where is calcitonin produced, and where is parathyroid hormone produced?",
+"a": "Calcitonin is produced by the parafollicular (C) cells of the thyroid gland. PTH is produced by the chief cells of the parathyroid glands (a separate gland — do not confuse). Calcitonin lowers serum calcium.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Adrenal/pituitary disorders",
+"q": "In Cushing DISEASE, what are the ACTH, cortisol and growth hormone levels, and which adrenal zone is involved?",
+"a": "Cushing disease = pituitary ACTH-secreting adenoma. ACTH is HIGH and cortisol is HIGH. The zona fasciculata of the adrenal cortex produces the excess cortisol. Growth hormone is suppressed (low).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Adrenal/pituitary disorders",
+"q": "What is the difference between Cushing syndrome and Cushing disease?",
+"a": "Cushing syndrome = any state of cortisol excess (exogenous steroids, adrenal tumour, ectopic ACTH, or pituitary cause). Cushing DISEASE specifically = cortisol excess caused by a pituitary ACTH-secreting adenoma.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Sexual differentiation",
+"q": "Which duct gives rise to male internal genitalia and which to female, and what determines each pathway?",
+"a": "The mesonephric (Wolffian) duct forms male internal structures (epididymis, vas deferens, seminal vesicles). The paramesonephric (Mullerian) duct forms the uterus, fallopian tubes and upper vagina. Anti-Mullerian hormone (AMH) regresses the Mullerian duct; testosterone maintains the Wolffian duct.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Sexual differentiation",
+"q": "What does the SRY gene determine, and which cells produce AMH?",
+"a": "SRY (on the Y chromosome) drives testis development; if SRY is absent, an ovary develops. AMH is produced by Sertoli cells in the male (and granulosa cells in the female). AMH causes regression of the Mullerian ducts.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Sexual differentiation",
+"q": "What roles do testosterone and DHT play in male genital development?",
+"a": "Testosterone maintains/develops the internal Wolffian-derived structures (epididymis, vas, seminal vesicles). Dihydrotestosterone (DHT), formed by 5-alpha-reductase, develops the external genitalia (penis, scrotum) and prostate.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Adrenal disorders",
+"q": "What is the biochemical picture of Conn syndrome (primary hyperaldosteronism)?",
+"a": "Aldosterone excess causes hypokalaemia, hypernatraemia and hypertension. In PRIMARY hyperaldosteronism (Conn) renin is SUPPRESSED (low). Addison disease (adrenal insufficiency) shows the opposite: hyperkalaemia, hyponatraemia and hypotension.",
+"ai": true,
+"note": "Transcript states renin activity increases in Conn syndrome. In PRIMARY hyperaldosteronism plasma renin is low/suppressed (low renin, high aldosterone, high aldosterone:renin ratio). Renin rises only in SECONDARY hyperaldosteronism."
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Growth hormone",
+"q": "At what life stage and during sleep does growth hormone secretion peak?",
+"a": "GH secretion peaks at puberty (highest lifetime levels) and declines in adulthood. Within a 24-hour cycle the largest GH surge occurs during deep (slow-wave) sleep, shortly after sleep onset. GH is also released ~hours after exercise, not before a meal.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Growth hormone",
+"q": "Which hormone drives mitosis at the epiphyseal growth plate, and which drives bone calcium deposition?",
+"a": "Growth hormone (via IGF-1) drives chondrocyte proliferation/mitosis at the epiphyseal plate, increasing bone length and muscle mass. If the question adds 'and causes calcium deposition in bone', the answer becomes calcitonin (which promotes calcium deposition into bone).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Growth hormone",
+"q": "What are the metabolic actions of growth hormone?",
+"a": "GH increases muscle mass and bone length, increases lipolysis/fat metabolism (uses fat for energy), increases blood glucose (diabetogenic, anti-insulin), and is anabolic for protein (reduces protein oxidation/breakdown).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Hormone kinetics",
+"q": "What is the duration of action / half-life of oxytocin by different routes, and how does it compare to nitric oxide?",
+"a": "Oxytocin acts very briefly: IV onset within ~1 minute, intramuscular ~3-5 minutes. Nitric oxide has an even shorter duration (~seconds, ~10 s). LH and FSH have characteristically short plasma half-lives often tested in MRCOG.",
+"ai": true,
+"note": "Routes describe onset/duration, not true half-life. Oxytocin plasma half-life is ~1-6 minutes (commonly ~3-5 min). The transcript values are reasonable approximations of onset but should not be quoted as a precise half-life."
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Hormone chemistry",
+"q": "What is the biochemical structure of the major hypothalamic/pituitary peptide hormones (GnRH, TRH, posterior pituitary hormones)?",
+"a": "GnRH is a decapeptide (10 amino acids). TRH is a tripeptide (3 amino acids). Oxytocin and ADH (posterior pituitary) are nonapeptides (9 amino acids). All are peptides/proteins, not glycoproteins or steroids.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Hormone chemistry",
+"q": "Which anterior pituitary hormone is a glycoprotein versus a simple peptide?",
+"a": "Glycoprotein hormones: FSH, LH, TSH (and placental hCG) — all share a common alpha subunit. Simple polypeptide/protein hormones: GH, prolactin, ACTH. (GnRH/TRH are small peptides, not glycoproteins.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Pituitary",
+"q": "What are the approximate percentages of each anterior pituitary cell type?",
+"a": "Somatotrophs (GH) ~40-50%; corticotrophs (ACTH) ~15-20%; lactotrophs (prolactin) ~10-15%; gonadotrophs (FSH/LH) ~10-15%; thyrotrophs (TSH) lowest at ~3-5%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Appetite regulation",
+"q": "In a morbidly obese patient, which hormone decreases appetite and which increases hunger?",
+"a": "Leptin (from adipose tissue) is the satiety hormone — it decreases appetite. Ghrelin is the hunger hormone — it stimulates appetite. A leptin gene mutation abolishes satiety signalling, causing hyperphagia and obesity.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Congenital adrenal hyperplasia",
+"q": "What enzyme deficiency causes most congenital adrenal hyperplasia (CAH), and what is the rate-limiting enzyme of adrenal steroidogenesis?",
+"a": "21-hydroxylase deficiency causes ~90% of CAH (gene CYP21A2/P450c21); 11-beta-hydroxylase deficiency causes ~5%. The rate-limiting step of steroidogenesis is cholesterol desmolase (cholesterol side-chain cleavage, CYP11A1/StAR-dependent).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Adrenal physiology",
+"q": "What hormones do the three adrenal cortical zones produce?",
+"a": "Zona Glomerulosa -> mineralocorticoids (aldosterone). Zona Fasciculata -> glucocorticoids (cortisol). Zona Reticularis -> androgens (DHEA, androstenedione). Mnemonic: GFR / 'salt, sugar, sex'.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Congenital adrenal hyperplasia",
+"q": "What is the biochemical and clinical picture of 21-hydroxylase deficiency CAH?",
+"a": "Aldosterone and cortisol are both deficient; the pathway shunts to androgens. Result: salt-wasting (hyponatraemia, hyperkalaemia), low blood pressure, raised renin, and androgen excess causing virilisation/ambiguous genitalia in females.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Congenital adrenal hyperplasia",
+"q": "What is the biochemical and clinical picture of 11-beta-hydroxylase deficiency CAH?",
+"a": "Cortisol and aldosterone are low, but 11-deoxycorticosterone (DOC) accumulates and acts as a mineralocorticoid -> hypokalaemia, hypernatraemia, HYPERTENSION (suppressed renin). Androgens are also raised, causing virilisation. NO salt-wasting (unlike 21-hydroxylase).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Congenital adrenal hyperplasia",
+"q": "What is the biochemical and clinical picture of 17-alpha-hydroxylase deficiency CAH?",
+"a": "Cortisol and sex steroids (androgens AND estrogens) are deficient; mineralocorticoid precursors (DOC) accumulate -> hypertension, hypokalaemia, suppressed renin. Result: no virilisation; phenotypic females / undervirilised males and absent puberty (no pubic/axillary hair, no breast development).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Congenital adrenal hyperplasia",
+"q": "Mnemonic for the three hypertensive vs salt-wasting CAH enzyme deficiencies?",
+"a": "Hypertensive CAH (mineralocorticoid/DOC excess, suppressed renin): 11-beta-hydroxylase (androgens HIGH -> virilisation) and 17-alpha-hydroxylase (androgens LOW -> no virilisation). Salt-wasting CAH with low BP and high renin: 21-hydroxylase (androgens HIGH).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Steroid metabolism",
+"q": "Where does conversion of testosterone to DHT occur, and which enzyme converts androgens to estrogens?",
+"a": "Testosterone is converted to dihydrotestosterone (DHT) in peripheral tissues by 5-alpha-reductase. Aromatase converts androgens (testosterone -> estradiol, androstenedione -> estrone) to estrogens, e.g. in granulosa cells, placenta and adipose tissue.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Ovulatory disorders",
+"q": "What classification of ovulatory/anovulatory disorders is preferred for MRCOG, and what are its three groups?",
+"a": "The WHO classification is preferred. Group 1: hypothalamic-pituitary failure (hypogonadotrophic hypogonadism, e.g. Kallmann syndrome, Sheehan syndrome, excessive exercise/marathon runners, severe weight loss, pituitary tumours). Group 2: hypothalamic-pituitary dysfunction (normogonadotrophic, e.g. PCOS). Group 3: ovarian failure (hypergonadotrophic hypogonadism, e.g. premature ovarian failure, gonadal dysgenesis, Turner syndrome).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Ovulatory disorders",
+"q": "In the WHO classification of ovulatory disorders, which group is most common and which is least common?",
+"a": "Group 2 (which includes PCOS) is the most common, accounting for about 80% of cases. Group 3 (ovarian failure) is the least common.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "PCOS",
+"q": "Under the WHO classification, which WHO group does PCOS belong to (and the FIGO equivalent)?",
+"a": "PCOS is WHO Group 2. In the FIGO classification it corresponds to type 4.",
+"ai": true,
+"note": "PCOS as WHO Group 2 is correct and well established. The FIGO 'type 4' mapping stated in the lecture could not be verified against a standard ovulatory-disorder classification (FIGO's known systems are PALM-COEIN for AUB and the FIGO ovulatory-disorder/HyPO-P system, neither of which numbers PCOS as 'type 4'); treat the FIGO number as unverified."
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Ovulatory disorders",
+"q": "Hormonal profile in hypergonadotrophic hypogonadism (e.g. Turner syndrome, premature ovarian failure)?",
+"a": "FSH and LH are high (raised); estrogen/estradiol is low. This reflects primary ovarian/gonadal failure with loss of negative feedback on the pituitary.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Puberty",
+"q": "What is the first physical sign of puberty in boys, and the threshold value?",
+"a": "Increase in testicular volume: volume greater than 4 mL (orchidometer), or testicular length greater than 2.5 cm.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Puberty",
+"q": "What is the first physical sign of puberty in girls?",
+"a": "Breast development (thelarche).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Puberty",
+"q": "What is the normal age range for the onset of puberty in girls and in boys?",
+"a": "Girls: 8 to 13 years. Boys: 9 to 14 years.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Puberty",
+"q": "Define delayed puberty and precocious puberty by age (girls and boys).",
+"a": "Delayed puberty: no signs of puberty by 13 years in girls and by 14 years in boys. Precocious puberty: secondary sexual characteristics appearing before 8 years in girls and before 9 years in boys.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Puberty",
+"q": "Give the formal statistical definition of delayed puberty.",
+"a": "Failure to begin sexual maturation at an age that is more than 2.5 standard deviations above the normal mean age for that population.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Puberty",
+"q": "What proportion of children are affected by delayed puberty, and what is the most common cause?",
+"a": "About 3% of children are affected (more commonly boys). Constitutional delay of growth and puberty is the most common cause, accounting for ~90% of cases (in both sexes).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Puberty",
+"q": "Hormonal profile in Klinefelter syndrome?",
+"a": "It is a hypergonadotrophic hypogonadism: FSH and LH are high, testosterone is low, estrogen is high, and sex hormone-binding globulin (SHBG) is high. The raised SHBG (driven by high estrogen and low androgen) is a commonly forgotten exam point.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Puberty",
+"q": "What is the typical sequence of pubertal changes in girls?",
+"a": "Growth spurt/acceleration (early/peripubertal) > thelarche (breast development, the first true sign of puberty) > adrenarche/pubarche (adrenal androgen-driven pubic and axillary hair) > gonadarche > menarche.",
+"ai": true,
+"note": "Lecture's ordering is partly misleading. In girls the recognised first sign of puberty is thelarche; peak height velocity (growth spurt) occurs MID-puberty (around Tanner stage 2-3), NOT as a discrete first stage before thelarche. The growth spurt is also earlier/more prominent in girls than boys. Use: thelarche -> pubarche/adrenarche -> peak height velocity -> menarche."
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Puberty",
+"q": "What is the average age of menarche?",
+"a": "Approximately 13 years (average quoted in the lecture ~13.3 years; commonly cited around 12.5-13 years).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Puberty",
+"q": "Give the clinical definition of delayed puberty in girls and in boys.",
+"a": "Girls: absence of breast development beyond 13 years. Boys: absence of testicular enlargement (testicular volume >4 mL) beyond 14 years.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "PCOS",
+"q": "What is PCOS and how common is it in reproductive-age women?",
+"a": "PCOS is the most common endocrine disorder of reproductive-age women. Its prevalence is about 10-15%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "PCOS",
+"q": "State the Rotterdam criteria for diagnosing PCOS.",
+"a": "PCOS is diagnosed when 2 of the following 3 are present (after exclusion of other causes): (1) clinical or biochemical hyperandrogenism (e.g. hirsutism, acne, alopecia); (2) oligo-/anovulation; (3) polycystic ovarian morphology on ultrasound.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "PCOS",
+"q": "What are the ultrasound criteria for polycystic ovarian morphology in PCOS?",
+"a": "12 or more follicles measuring 2-9 mm in diameter in an ovary, OR increased ovarian volume greater than 10 cm3 (10 mL).",
+"ai": true,
+"note": "The '12 or more follicles' figure is the older 2003 Rotterdam threshold and is now outdated. The 2023 International Evidence-based PCOS Guideline raised the follicle cut-off to >=20 follicles per ovary (2-9 mm) when using modern high-frequency transducers (>=8 MHz). Ovarian volume >=10 mL is unchanged. AMH is now an accepted alternative to ultrasound in adults, and ultrasound/AMH should not be used within 8 years of menarche."
+},
+{
+"topic": "Endocrinology",
+"subtopic": "PCOS",
+"q": "Is hormonal profile used to diagnose PCOS?",
+"a": "No. PCOS is diagnosed clinically using the Rotterdam criteria; hormonal profile is not used to make the diagnosis (though it may support it).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "PCOS",
+"q": "PCOS is a syndrome, not a disease. What long-term metabolic risks is it associated with?",
+"a": "Increased risk of type 2 diabetes mellitus, dyslipidaemia, hypertension, cardiovascular disease, and endometrial carcinoma. It is associated with metabolic syndrome.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "PCOS",
+"q": "Describe the typical hormonal profile in PCOS.",
+"a": "LH is raised (typically >2x FSH, giving an LH:FSH ratio commonly ~3:1 versus ~1:1 normally); FSH is normal or low; SHBG is decreased (raising free androgens); androgens (testosterone) are increased; estrogen is normal or raised; AMH is raised; insulin is raised (insulin resistance/obesity); prolactin may be raised due to unopposed estrogen.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "PCOS",
+"q": "Why may prolactin be mildly raised in PCOS?",
+"a": "Due to unopposed estrogen, which stimulates prolactin secretion. If estrogen levels are normal, prolactin need not be raised.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "PCOS",
+"q": "Outline first-line management of PCOS (including weight targets).",
+"a": "Lifestyle modification with weight loss of 5-10% of body weight (target BMI <35 kg/m2 mentioned in the lecture; general aim is a healthy BMI). Ovulation induction medications for fertility; insulin-sensitising agents (e.g. metformin) may be used, particularly in obese patients.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Menopause",
+"q": "What is the most common endocrine disorder in post-menopausal women, and why?",
+"a": "Hyperparathyroidism. After menopause, estrogen deficiency reduces calcium deposition in bone (osteoporosis); parathyroid function increases to maintain calcium, causing hyperparathyroidism.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Ovarian disorders",
+"q": "How do combined oral contraceptives (COCs) affect estradiol, FSH, LH and AMH?",
+"a": "Progestogen exerts negative feedback reducing GnRH release, so FSH and LH drop; with low FSH the ovary produces less estradiol (estradiol falls); the estrogen component also adds negative feedback further suppressing FSH. AMH is not significantly affected.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "PCOS",
+"q": "27-year-old with 12 months amenorrhoea, increased facial hair and weight gain; FSH 5, LH 15, normal prolactin and normal estradiol. Most likely diagnosis?",
+"a": "PCOS. The LH:FSH ratio is 15/5 = 3:1, with hyperandrogenic features (facial hair) and normal prolactin/estradiol.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Amenorrhoea",
+"q": "How is primary amenorrhoea defined (and at what ages)?",
+"a": "Diagnose by age 16 if secondary sexual characteristics have developed (or if menarche has not occurred despite normal development); diagnose by age 13-14 if there are no secondary sexual characteristics.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Amenorrhoea",
+"q": "What is the most common cause of primary amenorrhoea, and what are the next commonest categories?",
+"a": "The most common cause is chromosomal/genetic (gonadal dysgenesis). Other categories in order: hypothalamic problems, then Mullerian/outflow tract anomalies, then pituitary causes.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Amenorrhoea",
+"q": "Define secondary amenorrhoea and give its most common cause.",
+"a": "Absence of menstruation for at least 3 (some say 6) months in a previously menstruating woman of reproductive age. Most common cause is pregnancy (or lactation), followed by hypogonadotrophic hypogonadism, PCOS, and hyperprolactinaemia.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Menopause",
+"q": "How is menopause diagnosed clinically, and what is the normal age range?",
+"a": "Menopause is the permanent cessation of menstruation, diagnosed clinically after 12 months of amenorrhoea. Normal age range is 45-55 years. Before 45 = early menopause; after 55 = late menopause; before 40 = premature menopause / premature ovarian insufficiency.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Menopause",
+"q": "When is FSH testing needed to diagnose menopause/perimenopause, and what FSH level is used?",
+"a": "In a woman over 45 with typical menopausal symptoms, no FSH testing is needed. Under 45, check FSH: an FSH above ~25-30 IU/L suggests menopausal (postmenopausal) status. Confirm with two raised readings 4-6 weeks apart.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Premature ovarian insufficiency",
+"q": "Define premature ovarian insufficiency/failure (POI) and its diagnostic FSH criteria.",
+"a": "Loss of ovarian function before age 40, with menstrual disturbance (oligo-/amenorrhoea for at least ~4 months) plus biochemical confirmation: FSH greater than 25 IU/L on two samples taken 4-6 weeks apart.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Premature ovarian insufficiency",
+"q": "What is the most common cause of premature ovarian insufficiency / premature menopause?",
+"a": "Idiopathic (~90% of cases). Other causes include genetic (e.g. Turner syndrome, Fragile X), iatrogenic (chemo/radiotherapy/surgery), and autoimmune.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Premature ovarian insufficiency",
+"q": "What proportion of women are affected by POI under age 40 and under age 30?",
+"a": "About 1% of women under 40 and about 0.1% of women under 30.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Amenorrhoea",
+"q": "What proportion of primary amenorrhoea is due to Turner syndrome?",
+"a": "About 20-30% of cases of primary amenorrhoea are due to Turner syndrome.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Menopause",
+"q": "What symptoms result from the estrogen decline of menopause?",
+"a": "Vasomotor symptoms (hot flushes, night sweats), vaginal dryness, and short-term memory disturbance. Longer-term: osteoporosis, cardiovascular disease, and increased Alzheimer's risk.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Ovarian disorders",
+"q": "What is the best test for assessing ovarian reserve?",
+"a": "Antral follicle count (AFC) and anti-Mullerian hormone (AMH); combined they are best. AMH can be measured on any day of the cycle.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Premature ovarian insufficiency",
+"q": "Woman <40 with 6 months amenorrhoea: FSH 50, LH 33, prolactin and TSH/T3/T4 normal, estradiol low (70). Diagnosis?",
+"a": "Premature ovarian insufficiency (hypergonadotrophic hypogonadism): raised FSH/LH (>25), low estrogen, age <40. Note POI may coexist with autoimmune thyroid disease, so thyroid function should be checked.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Ovarian disorders",
+"q": "In a fertile woman with regular cycles, what causes simultaneously raised LH, FSH and estradiol?",
+"a": "The mid-cycle surge. At high concentration, estradiol (rising above ~30) exerts positive feedback, triggering the LH peak (and a smaller FSH peak) at mid-cycle.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Placental endocrinology",
+"q": "Which two protein hormones are secreted by the placental syncytiotrophoblast, and what cells produce them?",
+"a": "hCG (human chorionic gonadotrophin) and hPL (human placental lactogen), both secreted by the syncytiotrophoblast.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Placental endocrinology",
+"q": "What is the function of hCG in early pregnancy and when does it peak?",
+"a": "hCG maintains the corpus luteum (so it continues producing progesterone) through about 8-12 weeks (first trimester). hCG peaks around 8-12 weeks (commonly cited ~10 weeks).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Placental endocrinology",
+"q": "Which hormone does hCG structurally and functionally resemble, and which does hPL resemble?",
+"a": "hCG structurally and functionally resembles LH/TSH/FSH (glycoprotein hormones sharing the alpha subunit). hPL structurally resembles prolactin and growth hormone.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Placental endocrinology",
+"q": "What are the metabolic functions of human placental lactogen (hPL) and when does it peak?",
+"a": "hPL increases maternal fat breakdown and fatty-acid release, and spares glucose for the fetus (a diabetogenic effect, providing fetal nutrition). It peaks around 35 weeks then plateaus to term.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Placental endocrinology",
+"q": "In pregnancy, which hormone maintains uterine quiescence and which stimulates uterine contractions?",
+"a": "Progesterone maintains uterine quiescence; estrogen stimulates uterine contractions (it increases oxytocin production and oxytocin receptors).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Placental endocrinology",
+"q": "Which hormones drive breast alveolar versus ductal development in pregnancy?",
+"a": "Progesterone (with prolactin and estrogen) drives alveolar (lobuloalveolar) development; estrogen drives ductal development of the mammary gland.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "Placental endocrinology",
+"q": "By how many fold do key hormones increase in pregnancy (progesterone, prolactin, cortisol, estrone/estradiol, estriol, hPL)?",
+"a": "Progesterone ~10-fold (peaks at term); prolactin ~10-fold; cortisol ~3-fold; estrone and estradiol ~100-fold; estriol ~1000-fold; hPL ~30-fold (plateaus after ~35 weeks).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "hypothalamus",
+"q": "Through what vascular system do hypothalamic releasing/inhibiting hormones reach the anterior pituitary?",
+"a": "The hypothalamo-hypophyseal portal system. Hypothalamic neurones secrete releasing/inhibiting factors that travel via this portal circulation to act on anterior pituitary cells.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "pituitary",
+"q": "What is the key difference in origin between posterior and anterior pituitary hormones?",
+"a": "Anterior pituitary hormones are synthesised by the anterior pituitary itself. Posterior pituitary hormones (ADH/vasopressin and oxytocin) are synthesised in hypothalamic nuclei and only stored/released by the posterior pituitary.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "hypothalamus",
+"q": "Name the hypothalamic releasing hormones.",
+"a": "Corticotrophin-releasing hormone (CRH), thyrotrophin-releasing hormone (TRH), growth hormone-releasing hormone (GHRH), gonadotrophin-releasing hormone (GnRH), and prolactin-releasing factor.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "hypothalamus",
+"q": "Name the hypothalamic inhibiting hormones and their alternative names.",
+"a": "Growth hormone-inhibiting hormone = somatostatin (GHIH). Prolactin-inhibiting hormone = dopamine.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "hypothalamus",
+"q": "Which hypothalamic nuclei synthesise ADH and oxytocin, and what is the preference rule?",
+"a": "Both the supraoptic and paraventricular nuclei synthesise both hormones. By convention: supraoptic nucleus is preferentially associated with ADH, paraventricular nucleus with oxytocin.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "pituitary",
+"q": "Which pituitary hormone is produced by the intermediate lobe, and what is its action?",
+"a": "Melanocyte-stimulating hormone (MSH), which drives pigmentation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "hypothalamus",
+"q": "Which gland produces melatonin and what does it regulate?",
+"a": "The pineal gland produces melatonin, which controls the circadian rhythm and sleep patterns.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "pituitary",
+"q": "What proportion of anterior pituitary cells are somatotrophs and what do they secrete?",
+"a": "Somatotrophs make up about 40-50% of anterior pituitary cells and secrete growth hormone (GH).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "pituitary",
+"q": "What proportion of anterior pituitary cells are corticotrophs, thyrotrophs, gonadotrophs and lactotrophs?",
+"a": "Corticotrophs ~20% (ACTH), gonadotrophs ~10% (FSH/LH), lactotrophs ~10-15% (prolactin), thyrotrophs ~5% (TSH).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "pituitary",
+"q": "How does growth hormone exert most of its effects on the body?",
+"a": "GH acts on the liver to produce somatomedins / insulin-like growth factors (IGF-1, IGF-2), which mediate most of GH's peripheral actions.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "adrenals",
+"q": "Which adrenal cortical zone produces which hormone, and what regulates each?",
+"a": "Zona glomerulosa -> aldosterone (regulated by angiotensin II, not ACTH); zona fasciculata -> cortisol (ACTH); zona reticularis -> androgens (ACTH).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "adrenals",
+"q": "What does the adrenal medulla secrete and what controls it?",
+"a": "Chromaffin cells of the adrenal medulla secrete catecholamines (adrenaline, noradrenaline) and dopamine, under control of preganglionic sympathetic fibres (not ACTH).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "pituitary",
+"q": "In the male gonad, what do FSH and LH act on and produce?",
+"a": "FSH acts on Sertoli cells (producing inhibin and androgen-binding protein); LH acts on Leydig cells (producing testosterone). Sertoli cells also produce anti-Mullerian hormone in the fetus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "pituitary",
+"q": "What are the two posterior pituitary hormones and the actions of oxytocin?",
+"a": "Oxytocin and ADH (vasopressin/antidiuretic hormone). Oxytocin causes uterine contraction and milk ejection from mammary glands; in males it acts on smooth muscle of the prostate and vas deferens.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "pituitary",
+"q": "What is the action of ADH and where does it act?",
+"a": "ADH (vasopressin) causes water retention/reabsorption, acting on the collecting duct of the nephron, reducing urine output.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "thyroid",
+"q": "Which thyroid cells produce which hormones?",
+"a": "Follicular (epithelial) cells produce T3 and T4; parafollicular (C) cells produce calcitonin.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "thyroid",
+"q": "How is parathyroid hormone (PTH) secretion regulated?",
+"a": "PTH is secreted by the chief cells of the parathyroid gland. There is no hypothalamic releasing factor; PTH is regulated by serum calcium and phosphate levels.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "adrenals",
+"q": "Which pancreatic islet cells produce which hormones?",
+"a": "Alpha cells -> glucagon; beta cells -> insulin; delta cells -> somatostatin; gamma (PP/F) cells -> pancreatic polypeptide; epsilon cells -> ghrelin.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "adrenals",
+"q": "Which adipose-derived hormone is the satiety hormone and which is the hunger hormone?",
+"a": "Leptin (from adipose tissue) is the satiety hormone. Ghrelin (mainly from stomach/GIT) is the hunger hormone that stimulates appetite.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "pituitary",
+"q": "Classify pituitary/related hormones as glycoproteins.",
+"a": "Glycoprotein hormones: FSH, LH, TSH and hCG. They share a common alpha subunit; biological specificity is determined by the beta subunit.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "pituitary",
+"q": "How many amino acids are in ADH and oxytocin, and what is their structural class?",
+"a": "Both are nonapeptides (9 amino acids).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "hypothalamus",
+"q": "What is the peptide length of TRH and GnRH?",
+"a": "TRH is a tripeptide (3 amino acids). GnRH is a decapeptide (10 amino acids).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "pituitary",
+"q": "Which three hormones share a similar structure?",
+"a": "Growth hormone, prolactin and human placental lactogen (hPL) have similar structures.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "pituitary",
+"q": "What is the approximate half-life of FSH, LH and growth hormone?",
+"a": "FSH ~3-5 hours (longest); LH ~20 minutes (shorter); growth hormone ~20 minutes.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "pituitary",
+"q": "What factors stimulate growth hormone release?",
+"a": "Hypoglycaemia, stress, puberty, exercise and sleep (especially deep sleep) all stimulate GH (via hypothalamic GHRH). Hyperglycaemia suppresses GH via negative feedback.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "pituitary",
+"q": "During which phase of sleep does the highest peak of GH secretion occur?",
+"a": "The largest/highest GH peak occurs during deep sleep (slow-wave sleep, stages 3 and 4), even though there is also a peak just after falling asleep.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "pituitary",
+"q": "What are the metabolic effects of growth hormone on carbohydrate, fat and protein?",
+"a": "GH increases amino acid uptake and protein synthesis (anabolic on protein); increases lipolysis in adipose tissue; reduces insulin-mediated glucose uptake causing a diabetogenic (hyperglycaemic) effect with insulin resistance.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "pituitary",
+"q": "What is the most common cause of acromegaly?",
+"a": "A pituitary adenoma (somatotroph adenoma), responsible for ~99% of cases; most are macroadenomas. Less common causes include hypothalamic tumour or ectopic GHRH/GH production.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "pituitary",
+"q": "What is the difference between acromegaly and gigantism?",
+"a": "Both result from excess GH. In adults (epiphyseal/ossification centres closed) it causes acromegaly - enlargement of hands, feet and soft tissues. In children (centres open) it causes gigantism - excessive linear growth.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "pituitary",
+"q": "What is the diagnostic test for acromegaly and the principle behind it?",
+"a": "The oral glucose tolerance test (glucose challenge). Normally a glucose load suppresses GH; in acromegaly GH fails to suppress because secretion is autonomous (tumour/ectopic).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "pituitary",
+"q": "Which sign do you NOT see in acromegaly: hyperglycaemia or hypoglycaemia?",
+"a": "Hypoglycaemia is NOT seen. Acromegaly causes hyperglycaemia because excess GH is diabetogenic. Features include large hands, prognathism, organomegaly, carpal tunnel, arthralgia/osteoarthritis, excessive sweating.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "pituitary",
+"q": "What is the diagnostic test for GH deficiency and its principle?",
+"a": "The insulin tolerance test. Insulin induces hypoglycaemia, which should stimulate GH release; failure of GH to rise confirms GH deficiency. Treatment is GH replacement.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "pituitary",
+"q": "Which hormones inhibit and stimulate prolactin secretion?",
+"a": "Inhibited by dopamine (main) and somatostatin. Stimulated by TRH, pregnancy/lactation, oestrogen, opioids, dopamine antagonists and sleep.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "pituitary",
+"q": "What is the most common exogenous (drug) cause of hyperprolactinaemia?",
+"a": "Drugs are the most common exogenous cause, most commonly antipsychotics (e.g. phenothiazines); also dopamine antagonists such as metoclopramide and SSRIs.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "pituitary",
+"q": "What is the most common endogenous (pathological) cause of hyperprolactinaemia?",
+"a": "Primary hypothyroidism (raised TRH stimulates prolactin). Other endogenous causes include prolactinoma (micro/macro), and stalk effect from pituitary tumours.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "pituitary",
+"q": "How does prolactin level help distinguish microprolactinoma from macroprolactinoma?",
+"a": "A microprolactinoma is <10 mm; a macroprolactinoma is >=10 mm. Very high prolactin levels (e.g. several thousand) are typically due to a macroprolactinoma.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "pituitary",
+"q": "What are the biochemical findings in SIADH?",
+"a": "Excess ADH causes water retention -> dilutional hyponatraemia, low plasma osmolality and inappropriately high (concentrated) urine osmolality. Treatment: fluid restriction, then consider hypertonic saline and ADH antagonists (e.g. demeclocycline, tolvaptan).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "pituitary",
+"q": "Which malignancy is the classic cause of paraneoplastic SIADH?",
+"a": "Small cell carcinoma of the lung (which may also cause ectopic ACTH/Cushing's). Squamous cell lung carcinoma is classically associated with ectopic PTH/PTHrP.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "pituitary",
+"q": "Distinguish central from nephrogenic diabetes insipidus.",
+"a": "Central DI: ADH is not produced (hypothalamic/pituitary problem). Nephrogenic DI: ADH is produced normally but renal receptors are unresponsive (receptor mutation). Both give polyuria, dilute urine, raised serum osmolality and hypernatraemia.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "pituitary",
+"q": "What causes gestational diabetes insipidus?",
+"a": "Excess placental vasopressinase (oxytocinase) breaking down ADH/vasopressin in pregnancy, leading to water loss. It is typically treated with the desmopressin (DDAVP) analogue, which resists vasopressinase.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "pituitary",
+"q": "What is the biochemistry of diabetes insipidus (serum and urine)?",
+"a": "Water loss -> raised serum osmolality, hypernatraemia, and inappropriately low (dilute) urine osmolality with high urine output. Treatment of central DI is desmopressin.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "pituitary",
+"q": "What is Sheehan's syndrome and its earliest sign?",
+"a": "Postpartum pituitary necrosis from severe haemorrhage causing panhypopituitarism. The earliest sign is failure to lactate (no prolactin). Treatment is replacement of all deficient hormones.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "thyroid",
+"q": "Outline the steps of thyroid hormone synthesis.",
+"a": "1) Iodide trapping via the basal sodium-iodide symporter; 2) Oxidation of iodide to iodine by thyroid peroxidase; 3) Transport into follicle lumen via pendrin (exchanges iodide for chloride); 4) Organification onto thyroglobulin tyrosines (MIT/DIT); 5) Coupling; 6) Endocytosis and proteolysis releasing T3/T4.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "thyroid",
+"q": "What does the pendrin protein transport in thyroid hormone synthesis?",
+"a": "Pendrin exchanges iodide for chloride, transporting iodide into the follicular lumen across the apical membrane.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "thyroid",
+"q": "Which is the active thyroid hormone in tissues and how is it produced?",
+"a": "T3 is the active hormone. More T4 is produced by the thyroid, but in peripheral tissues T4 is converted to T3 by 5'-deiodinase. Small amounts of inactive reverse T3 are also formed.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "thyroid",
+"q": "What is the approximate thyroid secretion ratio of T4 to T3?",
+"a": "Approximately 14:1 (T4:T3); the thyroid secretes far more T4 than T3.",
+"ai": false,
+"note": "Verified: textbook T4:T3 secretion ratio is ~13-16:1, so 14:1 is acceptable."
+},
+{
+"topic": "Endocrinology",
+"subtopic": "thyroid",
+"q": "What fractions of T4 and T3 circulate in the free (unbound) form?",
+"a": "Free T4 is the smaller fraction and free T3 the larger; T3 has roughly a 10-fold higher free fraction than T4. Most circulating hormone is protein-bound (mainly to thyroxine-binding globulin).",
+"ai": true,
+"note": "Transcript quotes free T4 = 0.1% and free T3 = 1%. Standard values are free T4 ~0.03% and free T3 ~0.3% of total. The transcript figures overstate by ~3x; only the ~10:1 relationship between the free fractions is reliably correct."
+},
+{
+"topic": "Endocrinology",
+"subtopic": "thyroid",
+"q": "What thyroid changes occur in normal pregnancy?",
+"a": "Oestrogen raises thyroxine-binding globulin, increasing total T4; hCG (high in first trimester) has weak TSH-like activity and can lower TSH; renal iodide clearance and placental transport increase iodine demand. Free T4 is used to assess thyroid status.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "thyroid",
+"q": "What is the most common cause of hyperthyroidism, and the second most common?",
+"a": "Graves' disease (diffuse enlargement of the gland) is most common; toxic multinodular goitre is the next most common, followed by toxic adenoma.",
+"ai": false,
+"note": "Graves' is correctly the most common cause; the transcript's ~80% figure is the conventional teaching figure for young women but population-wide estimates vary (~40-80%)."
+},
+{
+"topic": "Endocrinology",
+"subtopic": "thyroid",
+"q": "What are the clinical features of hyperthyroidism?",
+"a": "Raised basal metabolic rate: weight loss, sweating, heat intolerance, warm moist skin, goitre, tachycardia, palpitations/arrhythmia (risk of heart failure), and diarrhoea (increased bowel frequency).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "thyroid",
+"q": "What are the clinical features of hypothyroidism?",
+"a": "Reduced metabolic rate: weight gain, dry skin, brittle hair/nails, cold intolerance, fatigue, depression, hoarse voice, constipation, and carpal tunnel syndrome.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "thyroid",
+"q": "What is the most common cause of hypothyroidism worldwide versus in developed countries (UK)?",
+"a": "Worldwide: iodine deficiency. In developed countries/UK: autoimmune (Hashimoto's) thyroiditis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "thyroid",
+"q": "What are the biochemical findings in primary versus secondary hypothyroidism?",
+"a": "Primary (thyroid problem): low T3/T4, high TSH and TRH. Secondary (pituitary problem): low T3/T4, low TSH, raised TRH. Tertiary (hypothalamic): low TRH, low TSH, low T3/T4.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "thyroid",
+"q": "What are the biochemical findings in subclinical hypothyroidism?",
+"a": "Normal T3 and T4 with a raised TSH.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "thyroid",
+"q": "What antibodies are found in Hashimoto's thyroiditis and in Graves' disease?",
+"a": "Hashimoto's: anti-thyroid peroxidase (anti-TPO) and anti-thyroglobulin antibodies. Graves': TSH-receptor (thyroid-stimulating) antibodies.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "thyroid",
+"q": "Why can thyroiditis (e.g. Hashimoto's, De Quervain's) cause transient hyperthyroidism initially?",
+"a": "Destruction of follicular cells releases stored preformed thyroid hormone into the circulation, causing a brief hyperthyroid phase, followed by hypothyroidism once stores are depleted.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "thyroid",
+"q": "What is sick euthyroid syndrome?",
+"a": "In acutely/chronically ill patients, peripheral conversion shifts to inactive reverse T3. There is low T3/T4 with raised reverse T3; TSH may be variable. It reflects systemic illness rather than primary thyroid disease.",
+"ai": true,
+"note": "Transcript states TSH is raised in sick euthyroid; in classic sick euthyroid (non-thyroidal illness) TSH is usually normal or low (and may rise transiently in recovery). The defining feature is low T3 with raised reverse T3."
+},
+{
+"topic": "Endocrinology",
+"subtopic": "adrenals",
+"q": "Which adrenal hormone is the major mineralocorticoid and which the major glucocorticoid?",
+"a": "Aldosterone is the major mineralocorticoid (~90% of mineralocorticoid activity); cortisol is the major glucocorticoid. Cortisol and 11-deoxycorticosterone provide minor mineralocorticoid activity.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "adrenals",
+"q": "What are the actions of aldosterone on the kidney?",
+"a": "Aldosterone promotes sodium reabsorption and potassium (and H+) loss. Excess causes hypernatraemia and hypokalaemia; deficiency (Addison's) causes hyponatraemia and hyperkalaemia.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "adrenals",
+"q": "What is the most common enzyme deficiency causing congenital adrenal hyperplasia, and the gene?",
+"a": "21-hydroxylase deficiency causes ~90% of CAH, due to mutations in the CYP21A2 gene.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "adrenals",
+"q": "What is the second most common enzyme deficiency in CAH, and the gene?",
+"a": "11-beta-hydroxylase deficiency (~5% of cases), due to mutations in the CYP11B1 gene.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "adrenals",
+"q": "What is the biochemical picture in 21-hydroxylase deficiency CAH?",
+"a": "Cortisol and aldosterone cannot be made; the pathway shunts to androgens causing virilisation/precocious puberty. Aldosterone deficiency gives hyponatraemia, hyperkalaemia, hypotension (salt-wasting) and raised renin.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "adrenals",
+"q": "Why does 11-beta-hydroxylase deficiency CAH cause hypertension?",
+"a": "The block allows accumulation of 11-deoxycorticosterone, which has mineralocorticoid activity, causing sodium retention, hypernatraemia, hypokalaemia, hypertension and suppressed renin (despite low aldosterone). Excess androgens cause virilisation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "adrenals",
+"q": "Which enzymes convert testosterone to DHT and androgens to oestrogens?",
+"a": "5-alpha-reductase converts testosterone to dihydrotestosterone (DHT). Aromatase converts androgens to oestrogens (testosterone to oestradiol; androstenedione to oestrone).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "adrenals",
+"q": "From which precursor protein is ACTH derived, and what is co-secreted?",
+"a": "ACTH is cleaved from pro-opiomelanocortin (POMC), which also yields melanocyte-stimulating hormone (MSH) and endorphins. This explains hyperpigmentation when ACTH is high.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "adrenals",
+"q": "What are the metabolic and immune effects of cortisol?",
+"a": "Cortisol is diabetogenic: increases gluconeogenesis and insulin resistance, raising plasma glucose; increases appetite and blood pressure; reduces collagen/bone formation (osteoporosis, striae, poor wound healing). On WBCs: neutrophilia, eosinopenia and lymphopenia.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "adrenals",
+"q": "What is the most common cause of Cushing's syndrome overall, and the most common endogenous cause?",
+"a": "Most common cause overall is exogenous (iatrogenic) steroids. The most common endogenous cause is a pituitary adenoma (Cushing's disease), followed by ectopic ACTH production, then adrenal adenoma.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "adrenals",
+"q": "What distinguishes Cushing's disease from Cushing's syndrome?",
+"a": "Cushing's syndrome is any cause of excess cortisol; Cushing's disease specifically refers to an ACTH-secreting pituitary adenoma. The most common cause of Cushing's disease is therefore the pituitary adenoma.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "adrenals",
+"q": "What are the clinical features of Cushing's syndrome?",
+"a": "Weight gain, central obesity, buffalo hump, hypertension, impaired glucose tolerance, acne, striae, poor wound healing, osteopenia/osteoporosis (e.g. codfish vertebrae).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "adrenals",
+"q": "What investigations confirm Cushing's syndrome?",
+"a": "24-hour urinary free cortisol, late-night salivary cortisol (loss of normal circadian decline), and the dexamethasone suppression test (failure of cortisol suppression). Imaging (MRI/CT) localises pituitary or adrenal lesions.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "adrenals",
+"q": "What is the principle of the dexamethasone suppression test?",
+"a": "Dexamethasone (a glucocorticoid) normally suppresses ACTH via negative feedback, lowering cortisol. Failure of cortisol to suppress indicates autonomous (non-suppressible) cortisol production, i.e. Cushing's.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "adrenals",
+"q": "What are the most common causes of primary adrenal insufficiency (Addison's disease)?",
+"a": "In developed countries autoimmune adrenalitis is most common, then tuberculosis, then adrenal haemorrhage. Abrupt cessation of long-term steroids is a key precipitant of an adrenal crisis (steroids should be tapered).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "adrenals",
+"q": "What are the electrolyte and biochemical findings in Addison's disease?",
+"a": "Aldosterone deficiency: hyponatraemia, hyperkalaemia, hypotension. Cortisol deficiency: hypoglycaemia. ACTH is high (raised MSH causing pigmentation). On FBC: neutropenia, lymphocytosis and eosinophilia.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "adrenals",
+"q": "Why is hyperpigmentation absent in secondary adrenal insufficiency?",
+"a": "In secondary (pituitary) insufficiency ACTH is low, so MSH is not co-secreted and no pigmentation occurs. In primary adrenal insufficiency (Addison's) ACTH is high, causing pigmentation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "adrenals",
+"q": "How is the 9am cortisol used to investigate adrenal insufficiency?",
+"a": "A low 9am cortisol (e.g. <100 nmol/L) supports adrenal insufficiency; an intermediate level prompts a short Synacthen test; a high level (e.g. >500 nmol/L) effectively excludes it. Cut-offs are assay-dependent.",
+"ai": true,
+"note": "Cut-offs are assay-specific and vary between labs. Many UK labs use ~<100 nmol/L to confirm and >300-450 nmol/L to exclude (not a universal >500). The exact numbers should not be treated as fixed thresholds."
+},
+{
+"topic": "Endocrinology",
+"subtopic": "adrenals",
+"q": "What is the Synacthen (short ACTH stimulation) test and its result in Addison's?",
+"a": "Synacthen (tetracosactide) is a synthetic ACTH analogue. It normally stimulates the adrenals to produce cortisol; in primary adrenal insufficiency the cortisol fails to rise adequately.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "adrenals",
+"q": "What is the biochemistry of primary versus secondary hyperaldosteronism?",
+"a": "Primary (Conn's, adrenal problem): high aldosterone, low renin. Secondary: high aldosterone and high renin. Primary causes hypertension, hypernatraemia, hypokalaemia and metabolic alkalosis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "adrenals",
+"q": "How is primary hyperaldosteronism (Conn's syndrome) investigated?",
+"a": "Screen with the aldosterone-to-renin ratio (raised in primary). Confirm with a salt/saline suppression test or fludrocortisone suppression test (aldosterone fails to suppress). Imaging (CT) localises an adenoma.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "adrenals",
+"q": "What is phaeochromocytoma and which cells give rise to it?",
+"a": "A catecholamine-secreting tumour arising from chromaffin cells of the adrenal medulla. About 90% are adrenal; ~10% are extra-adrenal (paragangliomas).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "adrenals",
+"q": "What proportion of hypertension is due to phaeochromocytoma, and what is its incidence in pregnancy?",
+"a": "Phaeochromocytoma accounts for ~0.1% of hypertension cases. Incidence in pregnancy is ~1 in 54,000.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "adrenals",
+"q": "What is the maternal mortality of phaeochromocytoma by timing of diagnosis?",
+"a": "If diagnosed antenatally, maternal mortality is ~2-4%; if only diagnosed intrapartum or postpartum, mortality rises to ~15-25%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "adrenals",
+"q": "What is the clinical presentation and key biochemical test for phaeochromocytoma?",
+"a": "Episodic headache, sweating, palpitations/tachycardia and hypertension (fight-or-flight). Diagnosed by raised plasma/urinary metanephrines and catecholamine metabolites (e.g. VMA).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "adrenals",
+"q": "Which familial syndromes are associated with phaeochromocytoma?",
+"a": "MEN type 2, von Hippel-Lindau disease, neurofibromatosis type 1, and hereditary paraganglioma syndromes. It is NOT a feature of MEN type 1.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "hypothalamus",
+"q": "Which placental/decidual hormones are NOT under hypothalamic control, and what are the major ones?",
+"a": "Placental and maternal decidual hormones are not regulated by the hypothalamus. Placenta produces oestriol (major oestrogen of pregnancy), progesterone, hCG and hPL; syncytiotrophoblast also makes vasopressinase.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "adrenals",
+"q": "Which is the most and least potent oestrogen?",
+"a": "Most potent: oestradiol. Least potent: oestriol. Oestrone is intermediate. (Oestriol is the major oestrogen produced in pregnancy despite being least potent.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "adrenals",
+"q": "How do oestrogen and testosterone differ in plasma protein binding?",
+"a": "Oestrogen binds mainly to albumin (~60%) and SHBG (~30-40%), ~1-3% free. Testosterone binds mainly to SHBG (~70-80%) and albumin (~20-30%), ~1% free.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Endocrinology",
+"subtopic": "adrenals",
+"q": "What is removed from proinsulin to form active insulin, and its clinical use?",
+"a": "C-peptide is cleaved from proinsulin, leaving the A and B chains. Measuring C-peptide helps confirm endogenous insulin excess (e.g. insulinoma) versus exogenous insulin.",
+"ai": false,
+"note": ""
+}
+]
+},
+{
 "id": "general",
 "title": "General",
 "cards": [
