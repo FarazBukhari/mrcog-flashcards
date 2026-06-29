@@ -148,7 +148,7 @@
   function showHome(){
     section=null; location.hash='';
     $('#sectionView').style.display='none';
-    $('#home').style.display='';
+    $('#home').style.display='block';
     window.scrollTo(0,0);
   }
 
@@ -156,7 +156,7 @@
   function openSection(sec){
     section=sec; location.hash=sec.id;
     $('#home').style.display='none';
-    $('#sectionView').style.display='';
+    $('#sectionView').style.display='block';
     $('#secTitle').textContent=sec.title;
     const topics=[...new Set(sec.cards.map(c=>c.topic))];
     $('#topic').innerHTML='<option value="all">All topics</option>'+
