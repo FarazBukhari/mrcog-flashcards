@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MRCOG-1 Clinical Management Flashcards</title>
+<style>
+  :root{
+    --bg:#0f172a; --panel:#1e293b; --panel2:#273449; --text:#e2e8f0; --muted:#94a3b8;
+    --accent:#38bdf8; --accent2:#0ea5e9; --ai:#f59e0b; --ai-bg:#3b2f12; --line:#334155;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;
+       background:var(--bg);color:var(--text);line-height:1.5}
+  header{padding:18px 16px 8px;text-align:center}
+  h1{font-size:1.25rem;margin:0 0 4px}
+  .sub{color:var(--muted);font-size:.85rem}
+  .controls{position:sticky;top:0;z-index:5;background:var(--bg);
+            padding:10px 12px;border-bottom:1px solid var(--line);
+            display:flex;flex-wrap:wrap;gap:8px;justify-content:center}
+  input,select,button{font:inherit;color:var(--text);background:var(--panel2);
+            border:1px solid var(--line);border-radius:10px;padding:9px 12px}
+  input[type=search]{flex:1 1 220px;min-width:0}
+  select{flex:0 1 auto}
+  button{cursor:pointer}
+  button.active{background:var(--accent2);border-color:var(--accent2);color:#04212e;font-weight:600}
+  .wrap{max-width:760px;margin:0 auto;padding:14px 12px 60px}
+  .count{color:var(--muted);font-size:.82rem;text-align:center;margin:6px 0 12px}
+  /* Browse list */
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:14px;
+        padding:14px 16px;margin:10px 0;cursor:pointer}
+  .card .meta{font-size:.72rem;color:var(--muted);text-transform:uppercase;letter-spacing:.04em;margin-bottom:6px}
+  .card .q{font-weight:600}
+  .card .a{margin-top:10px;padding-top:10px;border-top:1px dashed var(--line);color:#cbd5e1;display:none}
+  .card.open .a{display:block}
+  .card .hint{color:var(--muted);font-size:.75rem;margin-top:8px}
+  .card.open .hint{display:none}
+  .badge{display:inline-block;background:var(--ai-bg);color:var(--ai);border:1px solid var(--ai);
+         border-radius:999px;font-size:.68rem;padding:2px 8px;margin-left:8px;font-weight:600;letter-spacing:.03em}
+  .note{margin-top:10px;background:var(--ai-bg);border:1px solid var(--ai);border-radius:10px;
+        padding:8px 10px;font-size:.82rem;color:#fcd9a0}
+  .note b{color:var(--ai)}
+  /* Study mode */
+  .study{display:none}
+  .study.on{display:block}
+  .list.off{display:none}
+  .flash{background:var(--panel);border:1px solid var(--line);border-radius:16px;
+         min-height:240px;padding:22px;display:flex;flex-direction:column;justify-content:center;
+         text-align:center;cursor:pointer;margin:8px 0}
+  .flash .meta{font-size:.72rem;color:var(--muted);text-transform:uppercase;margin-bottom:12px}
+  .flash .body{font-size:1.08rem}
+  .flash .lbl{color:var(--accent);font-size:.72rem;letter-spacing:.08em;margin-bottom:10px;text-transform:uppercase}
+  .nav{display:flex;gap:8px;justify-content:center;align-items:center;margin-top:12px}
+  .nav .pos{color:var(--muted);font-size:.85rem;min-width:90px;text-align:center}
+  .empty{text-align:center;color:var(--muted);padding:40px 0}
+  a{color:var(--accent)}
+</style>
+</head>
+<body>
+<header>
+  <h1>MRCOG-1 Clinical Management</h1>
+  <div class="sub" id="sub">Flashcards</div>
+</header>
+
+<div class="controls">
+  <input type="search" id="q" placeholder="Search questions & answers…" autocomplete="off">
+  <select id="topic"></select>
+  <select id="filter">
+    <option value="all">All cards</option>
+    <option value="verified">Verified only</option>
+    <option value="ai">⚠ AI-flagged only</option>
+  </select>
+  <button id="mBrowse" class="active">Browse</button>
+  <button id="mStudy">Study</button>
+</div>
+
+<div class="wrap">
+  <div class="count" id="count"></div>
+
+  <div class="list" id="list"></div>
+
+  <div class="study" id="study">
+    <div class="flash" id="flash"><div class="body">…</div></div>
+    <div class="nav">
+      <button id="prev">‹ Prev</button>
+      <span class="pos" id="pos"></span>
+      <button id="next">Next ›</button>
+      <button id="shuffle">⤮ Shuffle</button>
+    </div>
+  </div>
+</div>
+
+<script src="cards.js"></script>
+<script>
+(function(){
+  const CARDS = (window.CARDS || []).map((c,i)=>({...c,_i:i}));
+  const $ = s => document.querySelector(s);
+  const topics = [...new Set(CARDS.map(c=>c.topic))];
+
+  // populate topic dropdown
+  const tSel = $('#topic');
+  tSel.innerHTML = '<option value="all">All topics</option>' +
+    topics.map(t=>`<option value="${t.replace(/"/g,'&quot;')}">${t}</option>`).join('');
+
+  const aiTotal = CARDS.filter(c=>c.ai).length;
+  $('#sub').textContent = `${CARDS.length} cards · ${aiTotal} flagged ⚠ AI · tap a card to reveal the answer`;
+
+  let mode = 'browse';        // 'browse' | 'study'
+  let studyList = [], studyIdx = 0, flipped = false;
+
+  function filtered(){
+    const q = $('#q').value.trim().toLowerCase();
+    const topic = tSel.value;
+    const f = $('#filter').value;
+    return CARDS.filter(c=>{
+      if(topic!=='all' && c.topic!==topic) return false;
+      if(f==='verified' && c.ai) return false;
+      if(f==='ai' && !c.ai) return false;
+      if(q && !(c.q.toLowerCase().includes(q) || c.a.toLowerCase().includes(q) ||
+                (c.subtopic||'').toLowerCase().includes(q))) return false;
+      return true;
+    });
+  }
+
+  function badge(c){ return c.ai ? '<span class="badge">⚠ AI · verify</span>' : ''; }
+  function esc(s){ const d=document.createElement('div'); d.textContent=s; return d.innerHTML; }
+
+  function renderList(){
+    const items = filtered();
+    $('#count').textContent = `${items.length} card${items.length===1?'':'s'}`;
+    const list = $('#list');
+    if(!items.length){ list.innerHTML='<div class="empty">No cards match.</div>'; return; }
+    list.innerHTML = items.map(c=>`
+      <div class="card" data-i="${c._i}">
+        <div class="meta">${esc(c.topic)}${c.subtopic?' · '+esc(c.subtopic):''} ${badge(c)}</div>
+        <div class="q">${esc(c.q)}</div>
+        <div class="hint">Tap to reveal answer</div>
+        <div class="a">${esc(c.a)}${c.ai&&c.note?`<div class="note"><b>⚠ AI note:</b> ${esc(c.note)}</div>`:''}</div>
+      </div>`).join('');
+    list.querySelectorAll('.card').forEach(el=>{
+      el.addEventListener('click',()=>el.classList.toggle('open'));
+    });
+  }
+
+  function renderStudy(){
+    studyList = filtered();
+    if(studyIdx>=studyList.length) studyIdx=0;
+    flipped=false;
+    $('#count').textContent = `${studyList.length} card${studyList.length===1?'':'s'} in this set`;
+    showFlash();
+  }
+  function showFlash(){
+    const f=$('#flash');
+    if(!studyList.length){ f.innerHTML='<div class="body">No cards match.</div>'; $('#pos').textContent=''; return; }
+    const c=studyList[studyIdx];
+    f.innerHTML = `<div class="meta">${esc(c.topic)}${c.subtopic?' · '+esc(c.subtopic):''} ${badge(c)}</div>`+
+      (flipped
+        ? `<div class="lbl">Answer</div><div class="body">${esc(c.a)}${c.ai&&c.note?`<div class="note"><b>⚠ AI note:</b> ${esc(c.note)}</div>`:''}</div>`
+        : `<div class="lbl">Question</div><div class="body">${esc(c.q)}</div><div class="hint" style="margin-top:14px;color:var(--muted)">Tap to flip</div>`);
+    $('#pos').textContent = `${studyIdx+1} / ${studyList.length}`;
+  }
+  function move(d){ if(!studyList.length)return; studyIdx=(studyIdx+d+studyList.length)%studyList.length; flipped=false; showFlash(); }
+
+  function setMode(m){
+    mode=m;
+    $('#mBrowse').classList.toggle('active',m==='browse');
+    $('#mStudy').classList.toggle('active',m==='study');
+    $('#list').classList.toggle('off',m!=='browse');
+    $('#study').classList.toggle('on',m==='study');
+    if(m==='browse') renderList(); else renderStudy();
+  }
+  function refresh(){ mode==='browse'?renderList():renderStudy(); }
+
+  $('#q').addEventListener('input',refresh);
+  $('#topic').addEventListener('change',refresh);
+  $('#filter').addEventListener('change',refresh);
+  $('#mBrowse').addEventListener('click',()=>setMode('browse'));
+  $('#mStudy').addEventListener('click',()=>setMode('study'));
+  $('#flash').addEventListener('click',()=>{flipped=!flipped;showFlash();});
+  $('#prev').addEventListener('click',()=>move(-1));
+  $('#next').addEventListener('click',()=>move(1));
+  $('#shuffle').addEventListener('click',()=>{ for(let i=studyList.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[studyList[i],studyList[j]]=[studyList[j],studyList[i]];} studyIdx=0;flipped=false;showFlash(); });
+  document.addEventListener('keydown',e=>{
+    if(mode!=='study')return;
+    if(e.key==='ArrowRight')move(1); else if(e.key==='ArrowLeft')move(-1);
+    else if(e.key===' '){e.preventDefault();flipped=!flipped;showFlash();}
+  });
+
+  renderList();
+})();
+</script>
+</body>
+</html>
