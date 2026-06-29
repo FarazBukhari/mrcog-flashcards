@@ -12554,6 +12554,2516 @@ window.SECTIONS = [
 ]
 },
 {
+"id": "microbiology",
+"title": "Microbiology",
+"cards": [
+{
+"topic": "Microbiology",
+"subtopic": "Bacterial structure",
+"q": "What is the function of bacterial flagella?",
+"a": "Motility.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Bacterial structure",
+"q": "What is the function of bacterial pili (fimbriae)?",
+"a": "Attachment to surfaces and conjugation (transfer of genetic material between two bacteria).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Bacterial virulence",
+"q": "What is the function of the bacterial capsule, and what is it made of?",
+"a": "It is a polysaccharide layer that protects the bacterium against phagocytosis; it is a major determinant of virulence.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Bacterial structure",
+"q": "What is the role of the bacterial slime layer?",
+"a": "It helps bacteria adhere to surfaces and is responsible for biofilm formation (e.g. on catheters).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Gram stain",
+"q": "Compare the peptidoglycan (cell wall) of Gram-positive and Gram-negative bacteria.",
+"a": "Gram-positive bacteria have a thick peptidoglycan layer; Gram-negative bacteria have a thin peptidoglycan layer.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Gram stain",
+"q": "On Gram staining, why do Gram-positive bacteria appear purple and Gram-negative appear pink?",
+"a": "The thick peptidoglycan of Gram-positives retains the crystal violet stain (purple). The thin peptidoglycan of Gram-negatives loses crystal violet on washing and takes up the safranin counterstain (pink).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Bacterial structure",
+"q": "In Gram-positive bacteria, what is attached to the plasma membrane / cell wall?",
+"a": "Teichoic acid and lipoteichoic acid, and penicillin-binding proteins.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Bacterial structure",
+"q": "In Gram-negative bacteria, where is lipopolysaccharide (LPS) located?",
+"a": "It is attached to the outer membrane (which lies outside the cell wall).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Bacterial structure",
+"q": "What is the periplasmic space, and in which bacteria is it found?",
+"a": "The space between the outer membrane and the plasma membrane; found only in Gram-negative bacteria.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Toxins",
+"q": "Lipopolysaccharide (LPS) of Gram-negative bacteria represents which type of toxin?",
+"a": "Endotoxin.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Bacterial structure",
+"q": "What is the function of bacterial spores?",
+"a": "Spores (formed mainly by certain Gram-positive bacteria) allow survival/resistance under harsh/drastic environmental conditions.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Bacterial virulence",
+"q": "What is Protein A, which organism has it, and how does it cause virulence?",
+"a": "Protein A is found on Staphylococcus aureus. It binds the Fc portion of IgG, preventing opsonisation, phagocytosis and classical complement activation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Bacterial virulence",
+"q": "What is the role of bacterial IgA proteases?",
+"a": "They break down (cleave) IgA, preventing IgA-mediated blocking of bacterial attachment to mucosal surfaces, thereby allowing bacterial entry.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Bacterial virulence",
+"q": "What is M protein and which organism carries it?",
+"a": "M protein is an anti-phagocytic virulence factor present on Group A streptococci (Streptococcus pyogenes).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Antibiotic resistance",
+"q": "What are the four main mechanisms of bacterial antibiotic resistance?",
+"a": "(1) Reduced antibiotic entry / altered or blocked binding sites; (2) active efflux of the antibiotic out of the cell; (3) destruction of the antibiotic by enzymes; (4) modification of the target. (Transcript groups these as preventing entry, changing/blocking binding sites, efflux, and enzymatic destruction.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Bacterial classification",
+"q": "Classification by flagella: what is an atrichous bacterium?",
+"a": "A bacterium with no flagella (non-motile) e.g. Staphylococcus, Streptococcus, Neisseria.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Bacterial classification",
+"q": "Define monotrichous, amphitrichous and peritrichous flagellar arrangements.",
+"a": "Monotrichous = single flagellum at one pole (e.g. Vibrio cholerae); amphitrichous = flagella at both poles; peritrichous = flagella surrounding the whole cell (e.g. Enterobacteriaceae members).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Bacterial classification",
+"q": "Classify bacteria by morphology: cocci, bacilli and spirals.",
+"a": "Cocci = circular/spherical shape; bacilli = rod shape; spirals/spirochaetes = curved rods.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Bacterial classification",
+"q": "Describe the arrangements of diplococci, staphylococci and streptococci.",
+"a": "Diplococci = pairs of cocci; staphylococci = clusters resembling a bunch of grapes; streptococci = chains of cocci.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Bacterial classification",
+"q": "How are staphylococci subdivided using the catalase and coagulase tests?",
+"a": "Staphylococci are catalase-positive (distinguishing from streptococci). Coagulase-positive = Staphylococcus aureus; coagulase-negative = S. epidermidis and S. saprophyticus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Bacterial classification",
+"q": "How are streptococci classified by haemolysis on blood agar?",
+"a": "Alpha (partial haemolysis, green zone), beta (complete haemolysis, clear zone) and gamma (no haemolysis).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Bacterial classification",
+"q": "Which streptococci are alpha-haemolytic (green zone)?",
+"a": "Streptococcus viridans group (e.g. S. mutans, S. mitis) and Streptococcus pneumoniae.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Bacterial classification",
+"q": "Which streptococci are beta-haemolytic (clear zone)?",
+"a": "Group A Streptococcus pyogenes and Group B Streptococcus agalactiae.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Bacterial classification",
+"q": "Which organisms are gamma-haemolytic (non-haemolytic)?",
+"a": "Streptococcus bovis and Enterococci (E. faecium and E. faecalis). Note these can sometimes show variable alpha-haemolysis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Special staining",
+"q": "What staining technique is used for Treponema pallidum (syphilis)?",
+"a": "Fluorescent antibody staining (it cannot be Gram-stained / cultured conventionally; dark-field microscopy is also used).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Special staining",
+"q": "What stain is used for Mycobacterium tuberculosis and why?",
+"a": "Ziehl-Neelsen (acid-fast) stain, because the cell wall has a high lipid (mycolic acid) content.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Special staining",
+"q": "Why can Mycoplasma and Ureaplasma not be Gram-stained?",
+"a": "They lack a cell wall (and Gram stain targets the cell wall). They are cultured on special broth/media.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Special staining",
+"q": "What stain is used for intracellular organisms such as Chlamydia and Rickettsia?",
+"a": "Giemsa staining.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Special staining",
+"q": "What stain is used for Cryptococcus neoformans?",
+"a": "India ink staining (causes disease in AIDS patients).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Culture media",
+"q": "What culture medium is used for Neisseria gonorrhoeae?",
+"a": "Thayer-Martin agar.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Culture media",
+"q": "What culture media are used for Mycobacterium tuberculosis?",
+"a": "Lowenstein-Jensen medium or Middlebrook medium.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Culture media",
+"q": "On MacConkey agar, how do lactose-fermenting vs non-fermenting Gram-negative bacilli appear?",
+"a": "Lactose fermenters form pink colonies; non-lactose fermenters form pale/yellow or colourless colonies.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Bacterial classification",
+"q": "Name lactose-fermenting Gram-negative bacilli (pink on MacConkey).",
+"a": "E. coli, Klebsiella, Enterobacter, Citrobacter, Serratia.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Bacterial classification",
+"q": "Name non-lactose-fermenting Gram-negative bacilli (pale/colourless on MacConkey).",
+"a": "Pseudomonas, Salmonella, Proteus, Shigella.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Culture media",
+"q": "What is the selective culture medium for Pseudomonas aeruginosa, and what colony colour does it produce?",
+"a": "Cetrimide agar; it produces blue-green colonies (and shows haemolysis on blood agar).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Culture media",
+"q": "What is the selective culture medium for fungi?",
+"a": "Sabouraud agar.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Toxins",
+"q": "Contrast exotoxins and endotoxins (source, chemistry, heat stability, antigenicity).",
+"a": "Exotoxins: produced mainly by Gram-positive bacteria, are proteins, are heat-labile (denatured by formaldehyde) and strongly antigenic. Endotoxins: produced by Gram-negative bacteria, are lipopolysaccharide (part of the outer membrane), heat-stable, not denatured by formaldehyde, and poorly antigenic; released on bacterial cell death.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Toxins",
+"q": "Which Staph aureus exotoxin causes toxic shock syndrome and how does it act?",
+"a": "Toxic shock syndrome toxin (TSST-1), a superantigen that causes massive T-cell activation. Classically associated with tampon use.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Toxins",
+"q": "Which Staph aureus toxin causes scalded skin syndrome?",
+"a": "Epidermolytic (exfoliative) toxin, causing intra-epidermal blisters and desquamation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Toxins",
+"q": "What does Panton-Valentine leukocidin (PVL) toxin of Staph aureus do?",
+"a": "It is a cytotoxin that lyses leukocytes and is associated with necrotising infections (e.g. necrotising pneumonia/skin infection).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Toxins",
+"q": "What is the erythrogenic (pyrogenic) exotoxin of Streptococcus pyogenes responsible for?",
+"a": "Streptococcal pyrogenic exotoxins (SpeA/B) cause tissue oedema/endothelial damage and scarlet fever (and streptococcal toxic shock syndrome).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Toxins",
+"q": "What is streptolysin O and its clinical association?",
+"a": "A cytolytic exotoxin of Streptococcus pyogenes; raised anti-streptolysin O (ASO) titres are seen in post-streptococcal rheumatic fever.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Toxins",
+"q": "What do tetanus toxin and botulinum toxin (Clostridium) cause respectively?",
+"a": "Tetanus toxin (C. tetani) causes spastic paralysis (motor spasm); botulinum toxin (C. botulinum) causes flaccid paralysis (neuromuscular blockade) and food poisoning.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Toxins",
+"q": "What does Clostridioides difficile produce and cause?",
+"a": "Toxins A, B (and binary toxin) which are cytotoxic and cause antibiotic-associated pseudomembranous colitis (diarrhoea after antibiotics).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Toxins",
+"q": "What toxin does enterohaemorrhagic E. coli produce and what does it cause?",
+"a": "Verocytotoxin (Shiga-like toxin), causing bacterial dysentery and haemorrhagic colitis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Toxins",
+"q": "Which two organisms can cause toxic shock syndrome, and which is classically linked to tampon use?",
+"a": "Both Staphylococcus aureus and Streptococcus pyogenes. Tampon-associated TSS is classically caused by Staphylococcus aureus (TSST-1).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Staphylococci",
+"q": "What are the key properties of Staphylococcus aureus?",
+"a": "Gram-positive cocci in clusters, facultative anaerobe, catalase-positive and coagulase-positive.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Staphylococci",
+"q": "What antibiotics are used to treat MRSA?",
+"a": "Vancomycin, teicoplanin or linezolid (clindamycin may be used against susceptible strains, but resistance is increasing). For vancomycin-resistant strains, linezolid can be used.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Staphylococci",
+"q": "Which coagulase-negative staphylococcus is the second most common cause of UTI in young/pregnant women and forms part of skin flora associated with catheters/IV lines?",
+"a": "Staphylococcus saprophyticus (UTI); Staphylococcus epidermidis is skin flora associated with catheter/IV-line and prosthetic device infections.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Antibiotics",
+"q": "To inhibit Staph aureus exotoxin production, which class of antibiotic should be chosen and why?",
+"a": "A protein synthesis inhibitor (e.g. linezolid or clindamycin), because exotoxins are proteins. Adding clindamycin to vancomycin gives better outcomes in severe toxin-mediated disease.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Antibiotics",
+"q": "For MRSA hospital-acquired pneumonia, why is linezolid preferred over vancomycin?",
+"a": "Linezolid achieves better lung tissue perfusion/penetration than vancomycin.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Streptococci",
+"q": "What are the properties of streptococci (catalase, oxygen, arrangement)?",
+"a": "Gram-positive cocci in chains, facultative anaerobes, catalase-negative.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Streptococci",
+"q": "What is the basis of Lancefield classification of streptococci?",
+"a": "The carbohydrate antigen present on the cell wall of the streptococci.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Streptococci",
+"q": "What diseases does Group A Streptococcus (S. pyogenes) cause?",
+"a": "Cellulitis, tonsillitis, scarlet fever, necrotising fasciitis, toxic shock syndrome, and the post-streptococcal sequelae acute glomerulonephritis and rheumatic fever.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Streptococci",
+"q": "What infections does Group B Streptococcus (S. agalactiae) cause?",
+"a": "Early- and late-onset neonatal infection (sepsis, pneumonia, meningitis), and in pregnancy chorioamnionitis and septic abortion.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Streptococci",
+"q": "Which beta-haemolytic streptococcus group is associated with deep tissue/liver abscess?",
+"a": "Group F streptococci (Streptococcus anginosus group).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Streptococci",
+"q": "Which streptococcus is associated with colonic carcinoma?",
+"a": "Streptococcus bovis (S. gallolyticus).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Streptococci",
+"q": "Which viridans streptococci cause endocarditis, especially after dental procedures/caries?",
+"a": "Streptococcus mutans and S. mitis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Streptococci",
+"q": "What is the typical incubation period of scarlet fever?",
+"a": "Typically 2-5 days (range 1-7 days), caused by Group A Streptococcus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Soft tissue infection",
+"q": "What are the two types of necrotising fasciitis and the cause of type 2?",
+"a": "Type 1 is polymicrobial; type 2 is monomicrobial, most commonly caused by Group A Streptococcus (S. pyogenes).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Soft tissue infection",
+"q": "What are the first and second most common causes of cellulitis?",
+"a": "Most common is Group A Streptococcus (~two-thirds of cases); second is Staphylococcus aureus (~one-third). If pus is mentioned, choose S. aureus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Group B Streptococcus",
+"q": "Approximately what proportion of women normally carry Group B Streptococcus in the genital tract?",
+"a": "About 20-30% (transcript: ~30%).",
+"ai": false,
+"note": "Standard figure is approximately 20-25% of pregnant women colonised (RCOG GTG 36); the transcript's ~30% is at the upper end but acceptable."
+},
+{
+"topic": "Microbiology",
+"subtopic": "Group B Streptococcus",
+"q": "What is the recommended intrapartum antibiotic prophylaxis for GBS, and the alternatives in penicillin allergy?",
+"a": "Benzylpenicillin IV is first line. If non-severe penicillin allergy: a cephalosporin. If severe penicillin allergy: vancomycin. Clindamycin is no longer recommended due to increasing resistance.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Group B Streptococcus",
+"q": "How is neonatal GBS disease treated?",
+"a": "Penicillin plus gentamicin.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Group B Streptococcus",
+"q": "Is routine antenatal screening for GBS recommended in the UK?",
+"a": "No, routine antenatal bacteriological screening for GBS is not recommended.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Group B Streptococcus",
+"q": "In which situations should GBS bacteriological testing be offered (when not routine)?",
+"a": "When a woman who carried GBS in a previous pregnancy requests testing or wishes to decide on prophylaxis based on the result; testing offered at 35-37 weeks (32-34 weeks if twins). If positive, offer intrapartum prophylaxis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Group B Streptococcus",
+"q": "If GBS bacteriuria/UTI is detected in the current pregnancy, what two actions are taken?",
+"a": "Treat the UTI, AND offer intrapartum antibiotic prophylaxis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Group B Streptococcus",
+"q": "If a planned caesarean section is performed before labour and with intact membranes, is GBS prophylaxis needed?",
+"a": "No - whether or not she is a GBS carrier, no intrapartum prophylaxis is offered because the baby does not pass through the birth canal.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Group B Streptococcus",
+"q": "A previous baby was affected by GBS disease. Is intrapartum prophylaxis offered in the current pregnancy regardless of carriage status?",
+"a": "Yes - if a previous baby had GBS disease, intrapartum antibiotic prophylaxis is offered in the current pregnancy irrespective of current carriage status.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Listeria",
+"q": "What are the key features and properties of Listeria monocytogenes?",
+"a": "Gram-positive rod, non-spore-forming, beta-haemolytic, motile (peritrichous), facultative anaerobe; one of few Gram-positive obligate-aerobe-listed organisms. Incubation period ~3-30 days.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Listeria",
+"q": "What foods increase the risk of listeriosis in pregnancy?",
+"a": "Unpasteurised milk and dairy products, raw/undercooked meat, and raw vegetables. Cooking food, washing vegetables and pasteurising milk reduce risk.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Listeria",
+"q": "How is listeriosis treated, including in penicillin allergy?",
+"a": "Ampicillin (preferred over amoxicillin); if penicillin-allergic, erythromycin.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Listeria",
+"q": "What neonatal syndrome can Listeria cause, and its classic features?",
+"a": "Granulomatosis infantiseptica, with hepatosplenomegaly, rash, and jaundice in the neonate.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Listeria",
+"q": "What is the incidence and maternal mortality of listeriosis in pregnancy?",
+"a": "Incidence approximately 1 in 10,000 pregnancies; mortality approximately 25%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Listeria",
+"q": "What are the fetal/neonatal effects of listeriosis by gestation?",
+"a": "Early gestation: spontaneous abortion. Late gestation: premature labour and stillbirth. Risk of transmission increases with gestation (~40% first trimester, ~50% second, up to ~70% third).",
+"ai": true,
+"note": "Transmission percentages by trimester are lecturer-specific exam figures and could not be verified against a UK guideline; treat as approximate."
+},
+{
+"topic": "Microbiology",
+"subtopic": "Actinomyces",
+"q": "What are the key features of Actinomyces israelii and its main clinical associations?",
+"a": "Gram-positive branching rods, microaerophilic/anaerobic; histology shows sulphur granules. Strong association with intrauterine contraceptive devices (IUCDs) and pelvic actinomycosis/PID.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Actinomyces",
+"q": "How long does Actinomyces culture take, what alternative test is available, and how is it treated?",
+"a": "Culture takes about one week; PCR can also be performed. Treatment is penicillin.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Gram-negative bacilli",
+"q": "What are the general properties of the Enterobacteriaceae family?",
+"a": "Gram-negative rods, facultative anaerobes, ferment glucose; classified by lactose fermentation (pink colonies on MacConkey if fermenter).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "UTI",
+"q": "What is the most common cause of UTI (including catheter- and stent-associated UTI)?",
+"a": "Escherichia coli. The most common fungal cause of (catheter-associated) UTI is Candida.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Neonatal infection",
+"q": "What are the two most common causes of neonatal sepsis/meningitis?",
+"a": "Group B Streptococcus first, then Escherichia coli.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Antibiotics",
+"q": "What antibiotic cover is used for Enterobacteriaceae infection after abdominopelvic surgery?",
+"a": "Gram-negative cover with co-amoxiclav or a third-generation cephalosporin.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Gram-negative bacilli",
+"q": "What are the properties of Pseudomonas aeruginosa?",
+"a": "Gram-negative, motile rod with a single polar flagellum (sometimes multiple), oxidase-positive, non-lactose-fermenter (colourless on MacConkey), blue-green colonies on cetrimide agar.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Antibiotics",
+"q": "What is the best antibiotic combination against Pseudomonas aeruginosa?",
+"a": "An antipseudomonal penicillin (carboxypenicillin, e.g. piperacillin/ticarcillin) combined with gentamicin (an aminoglycoside).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Gram-negative bacilli",
+"q": "What infections is Pseudomonas aeruginosa associated with?",
+"a": "Hospital-acquired pneumonia, ventilator-associated pneumonia, pneumonia with bronchiectasis, cellulitis, catheter-associated UTI, and otitis externa.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "PID",
+"q": "What are the two most common causative organisms of pelvic inflammatory disease (PID), and which is more common?",
+"a": "Chlamydia trachomatis and Neisseria gonorrhoeae. Chlamydia is involved in more cases (transcript: Chlamydia ~16% and gonorrhoea ~14% of PID cases identified; combined ~25-35%).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "PID",
+"q": "What is the risk of tubal infertility after one and after three episodes of PID?",
+"a": "Approximately 12% after one episode and around 50% after three episodes.",
+"ai": true,
+"note": "BASHH quotes ~12% after one episode (correct) but up to ~75% after three episodes (more than one-third after two). The transcript's ~50% after three is on the low side - the commonly cited figure is up to 75%."
+},
+{
+"topic": "Microbiology",
+"subtopic": "PID",
+"q": "What is Fitz-Hugh-Curtis syndrome?",
+"a": "Perihepatitis - fibrous 'violin-string' adhesions between the liver capsule and surrounding structures, a complication of PID (Chlamydia/gonorrhoea).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "PID",
+"q": "Which swab is taken to investigate PID due to Chlamydia/gonorrhoea?",
+"a": "Endocervical swab (for culture). For uncomplicated genital chlamydia/gonorrhoea screening, a vulvovaginal swab with NAAT is used.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Vaginal discharge",
+"q": "Which sample is taken to investigate Trichomonas vaginalis infection?",
+"a": "A posterior fornix or high vaginal swab, processed by NAAT (NAAT is the gold standard).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "PID",
+"q": "When an IUCD-related pelvic infection occurs, how is it managed?",
+"a": "Start antibiotics and wait ~72 hours; if the infection resolves, the device can be left in place; if it does not resolve, remove the device.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Gonorrhoea",
+"q": "What are the properties of Neisseria gonorrhoeae on microscopy and culture?",
+"a": "Gram-negative diplococci (often intracellular within neutrophils), oxidase-positive, obligate aerobe; cultured on Thayer-Martin agar.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Gonorrhoea",
+"q": "In gonorrhoea, what proportion of women are asymptomatic and what proportion of male partners are affected?",
+"a": "About 50% of women are asymptomatic; about 90% of male partners are affected, often with severe urethritis/discharge.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Gonorrhoea",
+"q": "What is the first-line treatment for gonorrhoea, and what additional management is needed?",
+"a": "Ceftriaxone (IM, single dose) plus contact tracing of partners.",
+"ai": false,
+"note": "Correct organism and class. Current BASHH 2025 dose is ceftriaxone 1g IM single dose (the transcript does not state the dose)."
+},
+{
+"topic": "Microbiology",
+"subtopic": "Gonorrhoea",
+"q": "When should test of cure be performed after gonorrhoea treatment, by NAAT type?",
+"a": "If symptomatic after treatment, wait 72 hours then take a culture. For asymptomatic NAAT-based test of cure: RNA NAAT at 7 days, DNA NAAT at 14 days after treatment.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Gonorrhoea",
+"q": "How quickly does a gonorrhoea/chlamydia NAAT sample result return?",
+"a": "Approximately 1-4 days.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Gonorrhoea",
+"q": "What causes neonatal conjunctivitis from gonorrhoea vs chlamydia, and the timing?",
+"a": "Conjunctivitis within first 24 hours is usually chemical. Gonococcal conjunctivitis appears at ~2-5 days with purulent discharge; chlamydial conjunctivitis appears after ~5 days with a more watery discharge.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Chlamydia",
+"q": "What are the properties of Chlamydia trachomatis and its serovar associations?",
+"a": "Obligate intracellular Gram-negative organism. Serovars A-C cause trachoma, D-K cause genital infection, L1-L3 cause lymphogranuloma venereum.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Chlamydia",
+"q": "Chlamydia: what proportion of women are asymptomatic, what is the risk to male partners, and the ectopic pregnancy risk?",
+"a": "Most common STI in the UK; ~80% of women asymptomatic; ~65% of male partners infected; ~16% develop PID; ectopic pregnancy risk increases ~2-3 fold.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Chlamydia",
+"q": "What is the first-line treatment for chlamydia in non-pregnant women?",
+"a": "Doxycycline (then azithromycin, then erythromycin as alternatives).",
+"ai": false,
+"note": "Concordant with BASHH/European 2025: doxycycline is first line in non-pregnant patients."
+},
+{
+"topic": "Microbiology",
+"subtopic": "Chlamydia",
+"q": "What is the preferred chlamydia treatment in pregnancy/lactation?",
+"a": "Azithromycin (first choice); erythromycin is an alternative. Doxycycline is contraindicated in pregnancy.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Chlamydia",
+"q": "Which chlamydia treatment is given as a single oral dose?",
+"a": "Azithromycin (single oral dose).",
+"ai": true,
+"note": "Historically azithromycin 1g was single-dose. Current BASHH advises azithromycin 1g then 500mg daily for 2 days (no longer a single 1g dose), and doxycycline 7 days is now first-line; single-dose framing is outdated."
+},
+{
+"topic": "Microbiology",
+"subtopic": "Vaginal discharge",
+"q": "What are the diagnostic (Amsel) criteria for bacterial vaginosis?",
+"a": "At least 3 of 4: (1) thin/profuse homogeneous discharge, (2) clue cells on microscopy, (3) vaginal pH >4.5, (4) positive amine (whiff) test / fishy odour.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Vaginal discharge",
+"q": "What are clue cells?",
+"a": "Vaginal epithelial cells coated with Gardnerella vaginalis (and other organisms), seen in bacterial vaginosis; the bacteria obscure the cell border.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Vaginal discharge",
+"q": "What is the most common cause of abnormal vaginal discharge, and how is bacterial vaginosis treated?",
+"a": "Bacterial vaginosis is the most common cause; treated with metronidazole (or clindamycin). It is not an STI, so partners are not treated.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Vaginal discharge",
+"q": "What organism shift underlies bacterial vaginosis?",
+"a": "Loss/depletion of lactobacilli (which keep vaginal pH acidic) leads to overgrowth of anaerobes, especially Gardnerella vaginalis (also Mobiluncus, Bacteroides, Mycoplasma); pH rises above 4.5.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Vaginal discharge",
+"q": "What complications does bacterial vaginosis cause in pregnancy?",
+"a": "Increased risk of miscarriage, preterm labour and preterm prelabour rupture of membranes (PPROM). Treated with metronidazole (anaerobic cover, +/- aerobic cover).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Vaginal discharge",
+"q": "What is the most abundant/normal organism of the vaginal flora?",
+"a": "Lactobacillus, which maintains the acidic vaginal pH.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Vaginal discharge",
+"q": "What is the classic discharge and cervical sign of Trichomonas vaginalis?",
+"a": "Offensive, foul-smelling, frothy yellow-green discharge; 'strawberry cervix' from punctate haemorrhages (only ~2-3% of cases). pH >4.5.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Vaginal discharge",
+"q": "What is Trichomonas vaginalis and its appearance on microscopy?",
+"a": "A flagellated, motile, pear-shaped protozoan.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Vaginal discharge",
+"q": "How is Trichomonas vaginalis treated?",
+"a": "Metronidazole 400mg for 5-7 days; treat all sexual partners (within ~4 weeks). In HIV-positive patients use metronidazole 500mg for 7 days.",
+"ai": false,
+"note": "BASHH UK first-line is metronidazole 400-500mg BD for 5-7 days (or 2g single dose); transcript dosing is acceptable UK practice."
+},
+{
+"topic": "Microbiology",
+"subtopic": "Vaginal discharge",
+"q": "What percentage of Trichomonas vaginalis cases are asymptomatic, and what proportion show the classic discharge?",
+"a": "10-50% asymptomatic; ~70% have vaginal discharge but only ~20-30% have the classic frothy yellow-green discharge; strawberry cervix in ~2-3%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Vaginal discharge",
+"q": "What is the typical Candida (thrush) discharge, pH and microscopy finding, and its risk factors?",
+"a": "Thick white 'cottage cheese'/curdy discharge, pH <4.5, pseudohyphae on microscopy. Risk increased by steroids, antibiotics, COCP and pregnancy. Candida albicans is the usual species.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Vaginal discharge",
+"q": "How is vaginal candidiasis treated, and what is the caution in pregnancy?",
+"a": "Antifungals: clotrimazole vaginal pessary or fluconazole. In pregnancy avoid oral high-dose fluconazole (use a pessary); only low-dose fluconazole if needed. It is not an STI so partners are not routinely treated.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Vaginal discharge",
+"q": "What proportion of candidiasis is asymptomatic in pregnant vs non-pregnant women?",
+"a": "~40% asymptomatic in pregnancy; ~20% asymptomatic in non-pregnant women.",
+"ai": true,
+"note": "These specific carriage percentages are lecturer/book figures and could not be confirmed against a UK guideline; treat as approximate."
+},
+{
+"topic": "Microbiology",
+"subtopic": "Fungi",
+"q": "Classify these fungi: Candida, Cryptococcus, Aspergillus, Histoplasma.",
+"a": "Candida = yeast-like fungus; Cryptococcus = yeast; Aspergillus = mould-like (filamentous) fungus; Histoplasma = dimorphic fungus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Vaginal discharge",
+"q": "In an older woman with profuse vaginal discharge whose culture grows beta-haemolytic streptococci and mixed anaerobes, what is the likely diagnosis and treatment?",
+"a": "Bacterial vaginosis is the most common cause of profuse discharge; treat with metronidazole (anaerobic cover) +/- clindamycin/aerobic cover depending on organisms.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Syphilis serology",
+"q": "What are the two main categories of serological tests used to diagnose syphilis, and what does each detect?",
+"a": "Treponemal tests (e.g. TPPA/TPHA, FTA-Abs) detect antibodies against specific Treponema pallidum antigens and confirm exposure/infection. Non-treponemal tests (e.g. VDRL, RPR) detect antibodies against lipoidal antigens (cardiolipin, lecithin, cholesterol) and are used to monitor disease activity and treatment response.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Syphilis serology",
+"q": "In a patient with a positive treponemal test but a negative second treponemal test and negative non-treponemal test, what two situations should be considered?",
+"a": "Either very early primary syphilis (before full antibody response, when other tests may still be negative) or a biological false-positive treponemal result. In true established infection, both treponemal tests should be positive, so a single isolated positive treponemal test with the others negative suggests a false positive or very early infection.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Syphilis serology",
+"q": "In early/primary syphilis, what serology pattern can be seen and why may all three tests be negative?",
+"a": "In early primary syphilis the body may not yet have produced detectable antibodies, so a single treponemal test may be positive or all tests (both treponemal and non-treponemal) may be negative. If clinical suspicion is high (e.g. a genital ulcer), repeat serology in 1-2 weeks to allow the antibody response to develop.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Syphilis serology",
+"q": "What serology pattern is typical of latent syphilis?",
+"a": "Treponemal tests are positive (they usually remain positive for life). The non-treponemal test (e.g. RPR/VDRL) may be positive at a low titre or even negative, because in the latent stage titres tend to be low. Both treponemal tests positive with a low/negative non-treponemal titre is consistent with latent syphilis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Syphilis serology",
+"q": "What serology pattern is seen in active (primary, secondary or tertiary) syphilis where the organism is replicating?",
+"a": "Both treponemal and non-treponemal tests are positive, indicating the patient has been infected and disease is active. Clinical lesions and history help determine the stage.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Syphilis serology",
+"q": "What change in non-treponemal titre indicates a successful response to syphilis treatment?",
+"a": "A fourfold (two-tube dilution) fall in the non-treponemal titre (e.g. from 1:32 to 1:8) indicates a successful treatment response. With successful treatment the titre falls and may eventually become negative; treponemal tests usually remain positive for life.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Syphilis serology",
+"q": "An RPR titre falls from 1:64 to 1:4 after treatment for syphilis. How is this interpreted?",
+"a": "This is a successful treatment response. The fall is greater than fourfold (more than two dilutions), indicating the patient is responding well; the titre is expected to continue falling and may become negative over time.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Syphilis serology",
+"q": "Why is the non-treponemal test used rather than the treponemal test to monitor syphilis treatment?",
+"a": "Non-treponemal test titres (RPR/VDRL) correlate with disease activity and fall with successful treatment, allowing comparison of titres over time. Treponemal tests usually stay positive for life regardless of treatment and so do not track treatment response.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Syphilis diagnosis",
+"q": "What are the diagnostic methods for syphilis?",
+"a": "1) Serology (the preferred and most common method, especially when no lesion is present) - treponemal and non-treponemal tests. 2) Direct testing/visualisation of a swab from a lesion - dark-field microscopy or PCR to detect spirochaetes. 3) CSF examination via lumbar puncture in suspected neurosyphilis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Genital ulcer histology",
+"q": "What is the classic histological appearance of a syphilitic (primary) genital ulcer?",
+"a": "Obliterative endarteritis (arterial wall inflammation), a perivascular plasma cell infiltrate, and visible spirochaetes (e.g. on silver/Warthin-Starry staining or dark-field microscopy).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Genital ulcer histology",
+"q": "A vulval ulcer shows endarteritis (arterial inflammation) and a plasma cell infiltrate. Which pathogen is responsible?",
+"a": "Treponema pallidum (syphilis). Obliterative endarteritis with a perivascular plasma cell infiltrate is the characteristic histological picture of a primary syphilitic chancre.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Genital ulcer histology",
+"q": "What are the classic histological features of a herpes simplex genital ulcer?",
+"a": "Intra-epidermal vesicles/blistering, multinucleated giant cells, and Cowdry type A intranuclear inclusion bodies.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Genital ulcer histology",
+"q": "Which organism causes chancroid, and what are its three histological zones?",
+"a": "Chancroid is caused by Haemophilus ducreyi. The ulcer shows three distinct layers: a superficial necrotic/neutrophilic zone, a middle zone of new vessel formation (angiogenesis), and a deep zone of inflammatory cells (plasma cells and lymphocytes). Chains of coccobacilli may be seen.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Genital ulcer histology",
+"q": "What organism causes granuloma inguinale (donovanosis), and what is its diagnostic histological finding?",
+"a": "Klebsiella granulomatis (formerly Calymmatobacterium granulomatis). The diagnostic finding is Donovan bodies - large foamy macrophages containing intracellular coccobacilli - often with pseudoepitheliomatous hyperplasia.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Genital ulcer histology",
+"q": "What histological features are seen in lymphogranuloma venereum (LGV)?",
+"a": "Granulomatous inflammation with stellate abscesses and histiocytes. LGV is caused by Chlamydia trachomatis serovars L1-L3.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Genital ulcers",
+"q": "List the infectious causes of genital ulcers.",
+"a": "Syphilis (Treponema pallidum), herpes simplex virus, chancroid (Haemophilus ducreyi), granuloma inguinale/donovanosis (Klebsiella granulomatis), and lymphogranuloma venereum (Chlamydia trachomatis L1-L3).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Genital ulcer histology",
+"q": "What is the characteristic histology of the genital ulcer in Behcet's disease?",
+"a": "Vasculitis with fibrinoid necrosis along the vessels (leukocytoclastic vasculitis, LCV). Behcet's is a non-infectious (inflammatory) cause of genital ulcers - remember vasculitis plus fibrinoid necrosis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Genital ulcer histology",
+"q": "What is the classic histology of the erosive form of lichen planus causing genital ulcers?",
+"a": "Interface dermatitis with a band-like lymphocytic infiltrate at the dermo-epidermal junction, and Civatte bodies (apoptotic keratinocytes).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Chlamydia serovars",
+"q": "Which Chlamydia trachomatis serovars cause trachoma / chronic conjunctivitis?",
+"a": "Serovars A, B (Ba) and C cause trachoma and chronic follicular conjunctivitis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Chlamydia serovars",
+"q": "Which Chlamydia trachomatis serovars cause urogenital infection, and what conditions do they produce?",
+"a": "Serovars D-K cause urogenital (genital) infections including cervicitis, urethritis, proctitis, epididymitis, and PID, and can also cause a follicular (inclusion) conjunctivitis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Chlamydia serovars",
+"q": "Which Chlamydia trachomatis serovars cause lymphogranuloma venereum (LGV)?",
+"a": "Serovars L1, L2 and L3 cause LGV, which attacks local lymph nodes and produces genital ulceration.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Chlamydia species",
+"q": "Among Chlamydia species, which affect humans as the primary host, and which is associated with birds?",
+"a": "Chlamydia trachomatis and Chlamydia pneumoniae have humans as the host. Chlamydia psittaci is associated with birds - people exposed to bird droppings can be affected (psittacosis).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral classification",
+"q": "Are DNA viruses single- or double-stranded? State the exception.",
+"a": "All DNA viruses are double-stranded EXCEPT Parvovirus, which is single-stranded DNA.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral classification",
+"q": "Are RNA viruses single- or double-stranded? State the exception.",
+"a": "All RNA viruses are single-stranded EXCEPT the Reoviridae family (which includes Rotavirus), which is double-stranded RNA.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral classification",
+"q": "What type of nucleic acid does hepatitis B virus contain?",
+"a": "Hepatitis B is a DNA virus (a hepadnavirus). It is the main DNA virus among the hepatitis viruses.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Herpesviruses",
+"q": "Match the human herpesviruses to their numbers: HSV-1, HSV-2, varicella-zoster, CMV, and Kaposi sarcoma herpesvirus.",
+"a": "HHV-1 = HSV-1; HHV-2 = HSV-2; HHV-3 = varicella-zoster virus (causes chickenpox); HHV-5 = cytomegalovirus (CMV); HHV-8 = Kaposi sarcoma-associated herpesvirus. (HHV-4 = Epstein-Barr virus.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Herpesviruses",
+"q": "Which herpesvirus causes chickenpox (varicella)?",
+"a": "Varicella-zoster virus (VZV), which is human herpesvirus 3 (HHV-3).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Herpesviruses",
+"q": "Which herpesvirus is associated with Kaposi's sarcoma, and in which patients is this seen?",
+"a": "Human herpesvirus 8 (HHV-8, Kaposi sarcoma-associated herpesvirus). It is seen particularly in immunocompromised/HIV patients, in whom opportunistic and viral infections are more common.",
+"ai": true,
+"note": "Transcript said Kaposi sarcoma is 'HHV 7 to 8' which is imprecise. Kaposi sarcoma is caused by HHV-8 only; HHV-7 is not associated with Kaposi sarcoma. Card corrected to HHV-8."
+},
+{
+"topic": "Microbiology",
+"subtopic": "Hepatitis B serology",
+"q": "In hepatitis B serology, which marker indicates current infection (acute or chronic)?",
+"a": "Hepatitis B surface antigen (HBsAg). A positive HBsAg indicates current infection; persistence beyond 6 months defines chronic infection.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Hepatitis B serology",
+"q": "In hepatitis B, how do you distinguish acute from chronic infection using core antibody?",
+"a": "IgM anti-HBc indicates acute (recent, within ~6 months) infection, whereas IgG anti-HBc indicates chronic/past infection. If only 'core antibody positive' is stated without the immunoglobulin class, acute vs chronic cannot be determined from that alone.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Hepatitis B serology",
+"q": "Interpret hepatitis B serology: HBsAg positive, anti-HBs positive, HBeAg negative, anti-HBe positive, anti-HBc positive.",
+"a": "Chronic hepatitis B infection. HBsAg positive confirms current infection; HBeAg negative with anti-HBe positive indicates lower replication; anti-HBc positive confirms infection (not vaccination). Surface antibody can also be detectable in chronic infection as immunity and viral activity fluctuate over time.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "HIV",
+"q": "Which HIV subtype is most prevalent globally and most relevant in pregnancy (highest vertical transmission)?",
+"a": "HIV-1. It is the globally most prevalent type with the highest mother-to-child (vertical) transmission - approximately 15-30% without intervention - compared with HIV-2, which transmits at a lower rate (around 5%).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral inclusion bodies",
+"q": "In which viral infections are intranuclear (Cowdry) inclusion bodies classically seen, and what feature surrounds them?",
+"a": "Herpes simplex virus (Cowdry type A) and cytomegalovirus (also type A 'owl's eye'). They are intranuclear inclusions, often with a surrounding perinuclear halo, characteristic of these herpesvirus infections.",
+"ai": true,
+"note": "Transcript states HSV = type A and CMV = type B Cowdry bodies. This is incorrect: both HSV and CMV produce Cowdry type A intranuclear inclusions (CMV shows the 'owl's eye' appearance). Cowdry type B inclusions are associated with poliovirus/adenovirus, not CMV. Concept of intranuclear inclusion with perinuclear halo is correct."
+},
+{
+"topic": "Microbiology",
+"subtopic": "Healthcare-associated infection",
+"q": "What is the most common type of healthcare-associated (nosocomial) infection seen in UK hospitals, in order of frequency?",
+"a": "Pneumonia / lower respiratory tract infection is the most common, followed by urinary tract infection, then surgical site infection (classical teaching order).",
+"ai": true,
+"note": "Pneumonia (#1) and UTI (#2) are confirmed by UKHSA point-prevalence surveys, but the current UK data lists sepsis/bloodstream infection as the third most common type, not surgical site infection. The pneumonia > UTI > SSI sequence is traditional teaching; verify against the option set in the exam."
+},
+{
+"topic": "Microbiology",
+"subtopic": "Bacterial vaginosis",
+"q": "Bacterial vaginosis is diagnosed by the depletion of which organism in the vaginal flora?",
+"a": "Lactobacillus species. Lactobacilli normally keep the vaginal pH acidic; their depletion raises the pH and allows overgrowth of anaerobic bacteria, causing BV.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Bacterial vaginosis",
+"q": "What are the Amsel criteria for diagnosing bacterial vaginosis (3 of 4 required)?",
+"a": "1) Thin, white/grey homogeneous vaginal discharge; 2) Clue cells on microscopy; 3) Vaginal pH greater than 4.5; 4) Positive amine/'fishy' odour (whiff test) on adding KOH. Three of the four confirm BV.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Protozoal STIs",
+"q": "Which protozoan is identified by a pear-shaped flagellate causing a frothy vaginal discharge, and is a recurrent MRCOG identification question?",
+"a": "Trichomonas vaginalis, a flagellated protozoan, recognised by its motility and shape on wet-mount microscopy.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Toxoplasmosis",
+"q": "Which protozoan is the most common cause of a zoonotic infection presenting with the classical triad of intracerebral calcification, hydrocephalus and chorioretinitis in the fetus/neonate?",
+"a": "Toxoplasma gondii (toxoplasmosis). The classical congenital triad is intracranial calcification, hydrocephalus and chorioretinitis; the cat (definitive host) is the source via ingestion of oocysts in cat faeces.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Toxoplasmosis",
+"q": "How does vertical transmission risk and severity of congenital toxoplasmosis change with gestational age?",
+"a": "Transmission risk increases with advancing gestation (highest in the third trimester, up to ~80-90%), but disease severity is greatest with early (first-trimester) infection. Late infection is more often transmitted but causes milder fetal disease.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Toxoplasmosis",
+"q": "What is the drug of choice for maternal toxoplasmosis depending on whether fetal infection is confirmed?",
+"a": "If fetal infection is unknown/not confirmed (or before ~18 weeks): spiramycin. If fetal infection is confirmed: pyrimethamine plus sulfadiazine (with folinic acid).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "IUCD-associated infection",
+"q": "What is the most common organism associated with intrauterine contraceptive device (IUCD) use, and what microscopic finding suggests it?",
+"a": "Actinomyces israelii, suggested by sulphur granules. (Actinomyces-like organisms may be reported on cervical cytology in IUCD users.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Gonorrhoea and chlamydia",
+"q": "An asymptomatic 18-year-old presents for STI screening; her boyfriend has dysuria, penile discharge and scrotal pain. Which pathogen is more likely to cause severe symptoms in the male partner while leaving her asymptomatic?",
+"a": "Neisseria gonorrhoeae. It causes prominent symptoms (urethritis, discharge) in men but is often asymptomatic in women, with high transmission to male partners. Both gonorrhoea and chlamydia cause PID and are partner-transmissible.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Gonorrhoea and chlamydia",
+"q": "Compare the Gram stain and cellular location of Neisseria gonorrhoeae versus Chlamydia trachomatis.",
+"a": "N. gonorrhoeae: Gram-negative diplococci. C. trachomatis: an obligate intracellular organism (Gram-negative-type cell wall but not reliably Gram-stained). Chlamydia is the most common overall cause of PID; gonorrhoea is the second.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Fungal infections",
+"q": "Vaginal discharge with hyphae and spores on microscopy indicates which infection, and how is the fungus classified?",
+"a": "Candida (candidiasis). Candida is a yeast that forms pseudohyphae ('yeast-like'). Contrast: Aspergillus = mould; Histoplasma = dimorphic fungus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Chlamydia in pregnancy",
+"q": "What is the treatment of choice for a chlamydial infection diagnosed in pregnancy (and the alternative if not available/allergic)?",
+"a": "In the lecture's MRCOG answer framework, amoxicillin is given as the preferred answer for chlamydia in pregnancy; erythromycin/azithromycin are alternatives. Current BASHH first-line is azithromycin 1 g then 500 mg daily for 2 days, with amoxicillin 500 mg tds for 7 days and erythromycin as recognised alternatives in pregnancy.",
+"ai": true,
+"note": "Transcript names amoxicillin as the preferred answer. Current BASHH guidance lists azithromycin as first-line in pregnancy (off-label) with amoxicillin and erythromycin as alternatives. Amoxicillin remains a valid/accepted MRCOG answer, but it is not the current guideline first-line; choose per the option set provided."
+},
+{
+"topic": "Microbiology",
+"subtopic": "Herpesviridae",
+"q": "To which viral family does varicella-zoster virus (chickenpox virus) belong, and what is its herpesvirus number?",
+"a": "Herpesviridae family; varicella-zoster virus is human herpesvirus 3 (HHV-3). It causes chickenpox, shingles (zoster) and fetal varicella syndrome.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Herpesviridae",
+"q": "List the human herpesviruses (HHV-1 to HHV-8) and their main diseases.",
+"a": "HHV-1 (HSV-1): oral/labial cold sores (can cause genital herpes). HHV-2 (HSV-2): genital herpes. HHV-3 (VZV): chickenpox/shingles. HHV-4 (EBV): infectious mononucleosis. HHV-5 (CMV). HHV-6: roseola infantum. HHV-7. HHV-8: Kaposi's sarcoma.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Syphilis serology",
+"q": "In syphilis serology, what is the difference between treponemal and non-treponemal tests?",
+"a": "Treponemal tests (TPPA, TPHA, FTA-Abs) detect antibody to specific treponemal antigens; once positive they usually remain positive for life (marker of past/current exposure). Non-treponemal tests (VDRL, RPR) detect anti-cardiolipin antibody, reflect active disease activity and are used to monitor treatment response.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Syphilis serology",
+"q": "A patient has VDRL reactive but TPPA non-reactive and FTA-Abs negative. What does this pattern indicate?",
+"a": "A biological false-positive: an isolated positive non-treponemal test (VDRL) with negative treponemal tests, meaning Treponema pallidum never entered the body. Seen in pregnancy, certain viral infections, antimalarial drug use, SLE and rheumatoid arthritis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Treponema species",
+"q": "Which Treponema species cause syphilis, yaws, pinta and endemic (bejel) syphilis?",
+"a": "T. pallidum subsp. pallidum = venereal syphilis; subsp. pertenue = yaws; T. carateum = pinta; T. pallidum subsp. endemicum = endemic syphilis (bejel).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Syphilis diagnosis",
+"q": "Which direct tests can detect Treponema pallidum from a primary syphilitic lesion?",
+"a": "Dark-field (dark-ground) microscopy and PCR of specimen from the lesion. These are useful in primary syphilis when a chancre/lesion is present.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Syphilis serology",
+"q": "In syphilis serology, what does a positive treponemal test with a negative non-treponemal (VDRL) test indicate?",
+"a": "Either very early primary infection (antibodies still developing) or latent/previously treated syphilis. Treponemal tests stay positive after exposure; a negative VDRL means there is no current active tissue damage. (When only one of two treponemal tests is positive with negative VDRL, consider early primary infection or false positive.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Syphilis serology",
+"q": "Which antigen does the non-treponemal (VDRL/RPR) test detect, and why can it give a biological false positive?",
+"a": "It detects anti-cardiolipin (reagin) antibody released in response to host tissue damage. Because cardiolipin is a host lipid (not treponeme-specific), conditions causing tissue inflammation (pregnancy, viral infections, SLE, antimalarials, RA) can give a false-positive result.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Hepatitis B serology",
+"q": "Which hepatitis B antigen is used to detect active infection, and which antigen never appears in serum?",
+"a": "HBsAg (surface antigen) indicates active infection (acute or chronic). HBcAg (core antigen) never appears in serum; instead anti-HBc (core antibody) is measured. HBeAg (envelope antigen) reflects active viral replication/high infectivity.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Hepatitis B serology",
+"q": "How do you distinguish acute from chronic hepatitis B infection serologically?",
+"a": "HBsAg positive confirms infection. The core antibody isotype differentiates: anti-HBc IgM = acute infection; anti-HBc IgG = chronic infection. Chronic is defined as HBsAg persisting beyond 6 months.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Hepatitis B serology",
+"q": "What is the hepatitis B serological pattern of a successfully vaccinated person?",
+"a": "Isolated anti-HBs (surface antibody) positive, with HBsAg negative and anti-HBc negative (no core antibody). Vaccination uses surface antigen only, so it generates anti-HBs without core or envelope antibodies.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Hepatitis B serology",
+"q": "What is the hepatitis B serological pattern of past/resolved natural infection?",
+"a": "HBsAg negative (no current infection), with anti-HBs positive AND anti-HBc (IgG) positive. The presence of core antibody distinguishes resolved natural infection from vaccination (which lacks anti-HBc).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Hepatitis B serology",
+"q": "What does HBeAg positivity signify in hepatitis B, and how does it relate to infectivity?",
+"a": "HBeAg indicates active viral replication and high infectivity (high HBV DNA viral load, high transmission risk). When anti-HBe is positive and HBeAg negative, infectivity is generally lower.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Hepatitis B chronic phases",
+"q": "In chronic hepatitis B, how are the immune-tolerant and immune-reactive (active) phases distinguished?",
+"a": "Both are HBeAg positive with high HBV DNA. Immune-tolerant phase: ALT normal (liver not yet damaged, immune system not fighting). Immune-reactive phase: ALT raised (immune-mediated hepatocyte damage), with viral load somewhat lower but still high (>2000 IU/mL).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Hepatitis B chronic phases",
+"q": "What characterises the inactive carrier phase of chronic hepatitis B?",
+"a": "HBsAg positive, HBeAg negative / anti-HBe positive, HBV DNA low (less than 2000 IU/mL) and ALT normal. The virus is present but not actively replicating and the liver is not being damaged.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Hepatitis B chronic phases",
+"q": "What HBV DNA level characterises occult hepatitis B infection?",
+"a": "Very low viral load (less than ~200 IU/mL) with normal ALT; an immune-control / 'sleeping' state similar to the inactive carrier but with even lower viral count.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Hepatitis C serology",
+"q": "What two main tests are used in hepatitis C diagnosis, and what does each indicate?",
+"a": "Anti-HCV antibody (immunoassay screening test) = exposure/immune response to HCV. HCV RNA (by PCR/NAT) = presence of virus and current active infection. RNA positive means active infection; RNA negative with positive antibody suggests past/resolved infection.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Hepatitis C serology",
+"q": "In hepatitis C, what does anti-HCV positive with HCV RNA negative indicate?",
+"a": "Past resolved infection: antibodies persist from prior exposure but no virus is currently present. (A confirmatory serological test would also be positive, distinguishing this from a false-positive antibody.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Hepatitis C serology",
+"q": "In hepatitis C, what does HCV RNA positive with anti-HCV negative indicate?",
+"a": "Either very early acute infection (antibodies not yet developed) or infection in an immunocompromised patient who cannot mount an antibody response. RNA positivity confirms active infection regardless of antibody status.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Fungal classification",
+"q": "Which fungi are classified as dimorphic, mould, yeast and yeast-like for MRCOG identification?",
+"a": "Dimorphic: Histoplasma (and others e.g. Blastomyces, Coccidioides). Mould: Aspergillus. Yeast: Cryptococcus. Yeast-like (forms pseudohyphae): Candida.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Protozoa / organism morphology",
+"q": "Which protozoan has a single flagellum?",
+"a": "Trypanosoma (and Leishmania) have a single flagellum. Giardia lamblia has multiple flagella (described as 4 pairs / up to ~8), Trichomonas vaginalis has multiple anterior flagella plus an undulating membrane, and Treponema pallidum is a spirochaete with axial filaments (endoflagella).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Neisseria gonorrhoeae",
+"q": "On microscopy of a genital sample, what does a Gram-negative diplococcus seen within neutrophils (intracellular) suggest?",
+"a": "Neisseria gonorrhoeae – Gram-negative intracellular diplococci within polymorphonuclear leucocytes.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Chlamydia trachomatis",
+"q": "How does Chlamydia trachomatis appear on microscopy of an infected cell?",
+"a": "It forms intracytoplasmic inclusion bodies within infected cells; it is an obligate intracellular bacterium and cannot be seen as free Gram-stained organisms like gonococci.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Candida",
+"q": "On microscopy of a vaginal sample, what does the presence of branching filaments (hyphae) and spores indicate?",
+"a": "Candida (vulvovaginal candidiasis) – shows pseudohyphae/hyphae and spores; classically associated with vaginal pH < 4.5.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Staphylococcal toxins",
+"q": "Which Staphylococcus aureus toxins can cause toxic shock syndrome?",
+"a": "Toxic shock syndrome toxin-1 (TSST-1) and the staphylococcal enterotoxins. These act as superantigens.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Streptococcal toxins",
+"q": "Which Streptococcus pyogenes toxin causes scarlet fever (erythrogenic rash), can cause toxic shock and is involved in invasive streptococcal disease?",
+"a": "Streptococcal pyrogenic exotoxins (erythrogenic toxins), which act as superantigens. Streptolysin O is the cytolytic toxin (lyses red/white cells) and is associated with post-streptococcal rheumatic fever.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Endotoxin vs exotoxin",
+"q": "What are the key characteristics of bacterial endotoxin?",
+"a": "Endotoxin = lipopolysaccharide (LPS), a component of the outer membrane of Gram-negative bacteria. It is released on bacterial cell breakdown/death, is heat-stable (not denatured by formaldehyde), and is only weakly/poorly antigenic.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Endotoxin vs exotoxin",
+"q": "What are the key characteristics of bacterial exotoxin?",
+"a": "Exotoxins are proteins actively secreted by bacteria (classically Gram-positive). They are heat-labile, highly antigenic (can be neutralised by specific antibody, so immunity can develop), and can be converted to toxoids for vaccines.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Malaria / Plasmodium",
+"q": "Which Plasmodium species causes the heaviest burden of malaria worldwide and the most severe disease (e.g. blackwater fever, sub-Saharan Africa)?",
+"a": "Plasmodium falciparum.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Malaria / Plasmodium",
+"q": "Which Plasmodium species predominates in India/the Indian subcontinent and should be chosen if travel to India is mentioned?",
+"a": "Plasmodium vivax.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Genital ulcer disease",
+"q": "What is the causative organism of chancroid?",
+"a": "Haemophilus ducreyi.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Genital ulcer disease",
+"q": "What is the causative organism of donovanosis (granuloma inguinale)?",
+"a": "Klebsiella granulomatis (formerly Calymmatobacterium granulomatis). Classic finding: beefy-red, painless ulcer that bleeds on contact, with Donovan bodies (safety-pin appearance) on tissue smear.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Genital ulcer disease",
+"q": "Which infectious causes of genital ulcers are painful versus painless?",
+"a": "Painful: chancroid (Haemophilus ducreyi; soft sore, ragged shallow non-indurated edges) and genital herpes (painful vesicles/blisters). Painless: primary syphilis chancre (Treponema pallidum) and lymphogranuloma venereum (Chlamydia trachomatis serovars L1–L3).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Chlamydia / LGV",
+"q": "Which serovars of Chlamydia trachomatis cause lymphogranuloma venereum (LGV)?",
+"a": "Serovars L1, L2 and L3. The 'groove sign' (groove/double genitocrural fold from inguinal/femoral lymphadenopathy) is classically associated with LGV.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Syphilis stages",
+"q": "Which lesion characterises primary syphilis, and which characterises secondary syphilis?",
+"a": "Primary syphilis: a painless chancre (with localised lymphadenopathy). Secondary syphilis: condylomata lata and a generalised rash.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Syphilis stages",
+"q": "Which features indicate tertiary syphilis?",
+"a": "Gummatous lesions (gummas), neurosyphilis and cardiovascular syphilis. The latent stage is asymptomatic.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "HPV / genital warts",
+"q": "What causes condyloma acuminatum (anogenital warts)?",
+"a": "Human papillomavirus, most commonly low-risk types HPV 6 and 11. (Distinct from condylomata lata of secondary syphilis.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral skin/genital lesions",
+"q": "A genital lesion with pearly, dome-shaped umbilicated papules – what is the diagnosis?",
+"a": "Molluscum contagiosum (a poxvirus). (In the lecture this 'pearly umbilicated papule' wording was emphasised; note candidiasis classically shows satellite lesions.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "CMV serology",
+"q": "In CMV serology, how do you interpret IgM and IgG results during pregnancy?",
+"a": "IgM positive = acute/current infection; IgG positive = past exposure/immunity. IgM negative + IgG negative = susceptible (never exposed). IgM negative + IgG positive (high avidity) = past infection. IgM positive + IgG positive: use IgG avidity to distinguish primary (low avidity) from non-primary/secondary infection (high avidity).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "CMV serology / IgG avidity",
+"q": "How is IgG avidity used to time a CMV (or TORCH) infection?",
+"a": "Low IgG avidity (in the lecture, index < 0.3) suggests recent primary infection; high avidity (index > 0.6) suggests past/secondary (non-primary) infection; values in between are intermediate and not interpretable.",
+"ai": false,
+"note": "Exact avidity cut-offs are assay-specific (no single universal value). The 0.3/0.6 figures are a teaching approximation; in practice interpret per the laboratory's reference ranges."
+},
+{
+"topic": "Microbiology",
+"subtopic": "Congenital CMV",
+"q": "What is the risk of vertical (transplacental) CMV transmission with primary versus secondary maternal infection?",
+"a": "Primary maternal infection: approximately 30–40% risk of transmission. Secondary (non-primary) infection: approximately 1–2%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Congenital CMV",
+"q": "Of neonates with congenital CMV infection, what proportion are symptomatic at birth and what are their outcomes?",
+"a": "About 90% are asymptomatic and 10% are symptomatic at birth. Of the asymptomatic 90%, ~10% develop late neurological sequelae (e.g. sensorineural hearing loss). Of the symptomatic 10%, ~30% die.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Chlamydia / test of cure",
+"q": "How long after treatment should a chlamydia test of cure (NAAT) be performed, and why?",
+"a": "No earlier than 3 weeks (no less than 3 weeks) after completing treatment, because residual chlamydial nucleic acid clears slowly and earlier testing can give false-positive NAAT results. (A diagnostic chlamydia NAAT report otherwise takes only ~2–3 days to come back.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Parvovirus B19 in pregnancy",
+"q": "What is the overall risk of fetal loss after maternal parvovirus B19 infection in the first trimester, and the risk of fetal hydrops?",
+"a": "Overall fetal loss risk approximately 10% (commonly quoted ~10% if infection before 20 weeks). Non-immune fetal hydrops occurs in approximately 3–4%.",
+"ai": false,
+"note": "These are the standard MRCOG teaching figures; published estimates vary (fetal loss often cited ~9–10% before 20 weeks, hydrops ~3%). Acceptable for exam purposes."
+},
+{
+"topic": "Microbiology",
+"subtopic": "Listeria in pregnancy",
+"q": "A pregnant woman with flu-like symptoms followed by neonatal jaundice, hepatosplenomegaly and a rash over the whole body – likely organism?",
+"a": "Listeria monocytogenes is the classic 'maternal flu-like illness + neonatal granulomatosis infantiseptica (rash, hepatosplenomegaly)' picture, often linked to unpasteurised dairy/unwashed vegetables. (Parvovirus B19 causes fetal anaemia/hydrops, not this maternal-flu-then-neonatal-rash pattern.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Parvovirus B19 in pregnancy",
+"q": "Which intra-uterine cause of fetal anaemia and fetal hydrops/ascites occurs with NO other structural defect?",
+"a": "Parvovirus B19.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "PID / IUCD management",
+"q": "A woman has an IUCD in situ and develops PID with confirmed gonorrhoea. What is the management of the IUCD?",
+"a": "Start antibiotics and leave the IUCD in situ; review at about 72 hours. If the infection has not resolved (no clinical improvement) after antibiotics, then remove the IUCD.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "PID / IUCD-related infection",
+"q": "Which organism is most associated with IUCD-related pelvic infection (e.g. with acute salpingitis and sulphur granules)?",
+"a": "Actinomyces israelii (sulphur granules are the classic clue).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Virus classification",
+"q": "Which viruses are DNA viruses (mnemonic) and what is the exception among RNA viruses?",
+"a": "DNA viruses ('HHAPPPy' / similar): Hepadna, Herpes, Adeno, Papilloma (Papova), Parvo, Pox. All other major human viruses are RNA viruses. Parvovirus is the single-stranded DNA virus (other DNA viruses are double-stranded); among RNA viruses, Reovirus is the double-stranded exception.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Varicella-zoster / herpesviruses",
+"q": "Which viral family does chickenpox (varicella) belong to?",
+"a": "The Herpesviridae family. Varicella-zoster virus = Human herpesvirus 3 (HHV-3). (Although named 'pox', it is NOT a poxvirus.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Herpesviruses",
+"q": "Which herpesvirus is associated with Kaposi's sarcoma?",
+"a": "Human herpesvirus 8 (HHV-8), also called Kaposi's sarcoma-associated herpesvirus. (CMV = HHV-5; VZV = HHV-3.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Group B Streptococcus in pregnancy",
+"q": "A woman is GBS-positive on a urine culture (UTI) at 22 weeks. What is the management?",
+"a": "Treat the UTI at the time of diagnosis, AND give intrapartum antibiotic prophylaxis during labour (unless a caesarean is performed before labour with intact membranes). GBS bacteriuria indicates heavy colonisation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Rubella in pregnancy",
+"q": "At a booking visit rubella serology shows IgM negative and IgG negative. What is the next step?",
+"a": "The woman is non-immune/susceptible. Rubella (MMR) is a live vaccine and cannot be given in pregnancy, so offer vaccination postpartum (after birth) to protect future pregnancies.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "HIV opportunistic infection prophylaxis",
+"q": "At what CD4 count is prophylaxis against Pneumocystis jirovecii pneumonia (PCP) started in HIV, and with what drug?",
+"a": "When CD4 count is below 200 cells/mm³, give PCP prophylaxis with co-trimoxazole (trimethoprim-sulfamethoxazole).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "HIV opportunistic infection prophylaxis",
+"q": "In HIV, at what CD4 count is prophylaxis against disseminated Mycobacterium avium complex (MAC) given, and with what drug?",
+"a": "When CD4 count is below 50 cells/mm³, give azithromycin to prevent disseminated MAC infection.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "HIV opportunistic infection prophylaxis",
+"q": "Is routine primary prophylaxis against CMV given to HIV patients at CD4 < 50 in current UK/standard practice?",
+"a": "No. The lecture stated valganciclovir prophylaxis is given for CMV at CD4 < 50, but current guidelines do NOT recommend routine pharmacological CMV prophylaxis. The correct approach is regular ophthalmic screening (e.g. fundoscopy) in those with CD4 < 50 and prompt antiretroviral therapy; treatment (e.g. valganciclovir) is for established CMV disease, not primary prophylaxis.",
+"ai": true,
+"note": "Transcript claim is outdated/incorrect. Routine primary CMV prophylaxis is not recommended (BHIVA/standard OI guidance); manage with ART and CMV retinitis surveillance instead. Valganciclovir is used to treat CMV disease, not as universal prophylaxis."
+},
+{
+"topic": "Microbiology",
+"subtopic": "HPV / cervical cancer",
+"q": "What percentage of cervical cancers are caused by HPV types 16 and 18?",
+"a": "Approximately 70%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "HPV / genital warts",
+"q": "What percentage of anogenital warts are caused by HPV types 6 and 11?",
+"a": "Approximately 90%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "HPV / cervical cancer",
+"q": "Besides 16 and 18, name other high-risk (oncogenic) HPV types.",
+"a": "31, 33, 35, 45, 52 and 58 (among others). HPV 16/18 cause ~70% of cervical cancer; these other high-risk types account for much of the remainder.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "HPV / natural history",
+"q": "What proportion of squamous cell carcinomas of the cervix contain DNA from oncogenic HPV, and what are typical spontaneous HPV regression rates?",
+"a": "About 99% of cervical squamous cell carcinomas contain oncogenic HPV DNA. Spontaneous regression of HPV infection: ~70% by 1 year and ~90% by 2 years.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Cervical screening pathway",
+"q": "In the NHS cervical screening pathway, what is the first test performed and what happens if high-risk HPV is positive?",
+"a": "Primary high-risk HPV testing is done first. If hrHPV positive → cytology (reflex) triage. If cytology abnormal → refer for colposcopy. If cytology normal → repeat/recall HPV testing (re-test). If hrHPV negative → return to routine recall.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Streptococcal haemolysis",
+"q": "Describe alpha, beta and gamma haemolysis on blood agar, with examples.",
+"a": "Alpha-haemolysis = partial haemolysis with a green-brown zone (e.g. Streptococcus pneumoniae, viridans streptococci such as S. mutans/mitis). Beta-haemolysis = complete haemolysis with a clear zone (e.g. Streptococcus pyogenes / Group A and Streptococcus agalactiae / Group B). Gamma = no haemolysis (e.g. Enterococcus faecalis).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Streptococcal haemolysis",
+"q": "What type of haemolysis do Group A (S. pyogenes) and Group B (S. agalactiae) streptococci show on blood agar?",
+"a": "Both show beta-haemolysis (complete haemolysis, clear zone).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Tuberculosis and breastfeeding",
+"q": "A breastfeeding mother is diagnosed with active pulmonary tuberculosis. What is the breastfeeding advice?",
+"a": "Transmission risk is increased, so withhold/avoid breastfeeding (separate mother and baby until non-infectious). (Lecture answer for the recall.)",
+"ai": true,
+"note": "Oversimplified. Standard guidance: with active untreated/infectious pulmonary TB, temporarily separate mother and infant and avoid direct breastfeeding until the mother is no longer infectious; expressed breast milk can still be given, and breastfeeding is compatible with most anti-TB drugs. Verify against current NICE TB / RCOG guidance."
+},
+{
+"topic": "Microbiology",
+"subtopic": "Syphilis treatment / Jarisch-Herxheimer",
+"q": "Why can a Jarisch-Herxheimer reaction occur when treating syphilis with penicillin?",
+"a": "Killing of Treponema pallidum releases endotoxin-like products, producing an acute febrile reaction (fever, etc.) shortly after starting antibiotics. It also occurs with treatment of Lyme disease and leptospirosis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Lactational mastitis",
+"q": "What is the most common organism causing lactational mastitis?",
+"a": "Staphylococcus aureus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Varicella infectivity",
+"q": "For how long is a person with chickenpox (varicella) infectious?",
+"a": "From about 48 hours before the rash appears until all the lesions have crusted over.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Varicella treatment",
+"q": "What antiviral regimen is used for chickenpox/shingles in the at-risk adult (e.g. aciclovir dose)?",
+"a": "Oral aciclovir 800 mg five times daily (the lecture emphasised the 800 mg dose).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Varicella in pregnancy",
+"q": "What is the risk of developing varicella pneumonitis and the mortality from it after chickenpox in pregnancy?",
+"a": "Varicella pneumonitis develops in approximately 10–20% (lecture: 'around 10–50' was stated, but the established RCOG figure is ~10–20%) of pregnant women with chickenpox, with significant mortality.",
+"ai": true,
+"note": "Transcript figure ('10 to 50%') is unreliable. RCOG Green-top guidance gives varicella pneumonitis risk in pregnancy of roughly 5–20% (commonly ~10–20%); use that range rather than 50%."
+},
+{
+"topic": "Microbiology",
+"subtopic": "PID / microscopy",
+"q": "On microscopy in suspected PID, Gram-negative intracellular diplococci are seen – what organism, and what if the word 'diplococci' were omitted?",
+"a": "With Gram-negative intracellular diplococci described, choose Neisseria gonorrhoeae. If the diplococci/intracellular description is omitted (just an STI/PID stem), choose Chlamydia trachomatis, as chlamydia is more common than gonorrhoea.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Bacterial exotoxins",
+"q": "Which exotoxin is produced by E. coli (verotoxin/Shiga-like toxin) versus S. aureus?",
+"a": "Verotoxin (Shiga-like toxin) is produced by E. coli (e.g. O157). S. aureus exotoxins include TSST-1 and enterotoxins (which can also cause food poisoning).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Vaginal discharge",
+"q": "An offensive, greenish vaginal discharge – which organism?",
+"a": "Trichomonas vaginalis (frothy/offensive greenish discharge, vaginal pH > 4.5).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Bacterial vaginosis",
+"q": "An offensive fishy-smelling discharge with vaginal pH > 4.5 – which diagnosis?",
+"a": "Bacterial vaginosis (a fishy odour and raised pH; due to loss of lactobacilli and overgrowth of anaerobes such as Gardnerella vaginalis).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Bacterial vaginosis",
+"q": "In bacterial vaginosis, which organisms are depleted and which increase?",
+"a": "Lactobacilli are depleted; anaerobic bacteria increase – most notably Gardnerella vaginalis (the leading organism if asked for an anaerobe/overgrowth organism).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Toxic shock syndrome treatment",
+"q": "Which antibiotic class is most effective at suppressing staphylococcal/streptococcal exotoxin production in toxic shock syndrome, and why?",
+"a": "Protein synthesis inhibitors – clindamycin is first choice (it inhibits the ribosomal 50S subunit and suppresses toxin/protein production). Linezolid is an alternative (also a protein synthesis inhibitor and considered by some as good or better). Vancomycin is NOT effective at stopping exotoxin production because it is not a protein synthesis inhibitor (it inhibits cell wall synthesis).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "MRSA / toxin-mediated disease",
+"q": "What is the first-line antibiotic against MRSA in this context?",
+"a": "Clindamycin was given as the first-line answer for the toxin-suppression scenario. (For MRSA infection generally, vancomycin is a standard agent; for toxin suppression, clindamycin/linezolid are added.)",
+"ai": true,
+"note": "Context-dependent. Clindamycin is used adjunctively to suppress toxin in toxin-mediated disease, but it is not the standard first-line agent for MRSA bacteraemia/serious MRSA infection (which is vancomycin, or teicoplanin). Confirm against local microbiology/MRSA guidance."
+},
+{
+"topic": "Microbiology",
+"subtopic": "GBS intrapartum prophylaxis",
+"q": "Intrapartum antibiotic prophylaxis for GBS: what is given, and what if the woman is penicillin-allergic?",
+"a": "First line is benzylpenicillin. For non-severe penicillin allergy, give a cephalosporin (e.g. cefuroxime/cefazolin). For severe penicillin allergy (anaphylaxis) or where there is concern, vancomycin is used.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "HIV biology",
+"q": "Which cell does HIV primarily infect, and via which receptors?",
+"a": "HIV primarily infects CD4-positive T-helper cells. The viral envelope glycoprotein gp120 binds the CD4 receptor, with CCR5 (and CXCR4) as co-receptors.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "HIV monitoring",
+"q": "What parameter is used to monitor HIV disease progression?",
+"a": "The CD4 count (HIV is an RNA retrovirus causing AIDS).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "HIV in pregnancy / delivery",
+"q": "When is the highest risk of vertical HIV transmission, and how does mode of delivery depend on maternal viral load?",
+"a": "Highest transmission risk is during labour/delivery. With a maternal HIV viral load < 50 copies/mL, planned vaginal delivery is supported; with viral load ≥ 400 copies/mL, a planned (pre-labour) caesarean section is recommended (50–399 is individualised). If viral load > 1000 copies/mL, IV zidovudine is given around delivery.",
+"ai": false,
+"note": "Thresholds aligned to BHIVA: vaginal delivery if VL <50, caesarean if VL ≥400, individualised at 50–399. The transcript's garbled numbers are reconstructed to these guideline values."
+},
+{
+"topic": "Microbiology",
+"subtopic": "Syphilis serology",
+"q": "In syphilis serology, what does a positive treponemal-specific antibody test (e.g. TPPA) indicate?",
+"a": "That Treponema pallidum has entered the body at some point. Treponemal tests usually stay positive for life and cannot distinguish active from past/treated infection.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Syphilis serology",
+"q": "What do non-treponemal tests (VDRL / RPR) tell you in syphilis?",
+"a": "They indicate disease activity. A positive (reactive) VDRL/RPR suggests active infection; they become negative (or titres fall) after successful treatment or in latent disease, so they are also used to monitor treatment response.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Syphilis serology interpretation",
+"q": "Treponemal test positive (x2) but non-treponemal (VDRL/RPR) negative – what does this mean?",
+"a": "Past, treated or latent (inactive) syphilis – the person had syphilis but it is not currently active.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Syphilis serology interpretation",
+"q": "A single treponemal-specific test positive but the other treponemal test AND the non-treponemal (VDRL/RPR) are negative – interpretation?",
+"a": "A biological false-positive (or very early infection): if true syphilis were present, the other specific tests should also be positive. Confirm/exclude with a second specific test (e.g. repeat treponemal or EIA).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Syphilis serology interpretation",
+"q": "Treponemal tests negative but VDRL/RPR (non-treponemal) positive – what is this?",
+"a": "A biological false-positive VDRL/RPR – if syphilis were truly present, the specific treponemal tests would also be positive.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Syphilis natural history",
+"q": "What percentage of untreated patients with syphilis progress to tertiary syphilis, and what proportion move from primary to secondary?",
+"a": "Roughly one-third (~33%) of untreated patients progress to tertiary syphilis, while about two-thirds remain in latent syphilis. Approximately 25% progress from primary to secondary syphilis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Hepatitis B serology",
+"q": "Which hepatitis B marker indicates infection, and which is the earliest antibody to appear?",
+"a": "Hepatitis B surface antigen (HBsAg) positive = current infection. The core antibody (anti-HBc) is the earliest antibody to appear in the serum (the core antigen itself does not appear free in serum). As HBsAg declines, anti-HBs (surface antibody) develops.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Hepatitis B serology",
+"q": "How does the hepatitis B serology of a vaccinated person differ from someone who had natural infection?",
+"a": "Vaccination exposes the body only to surface antigen, so a vaccinated person has anti-HBs (surface antibody) positive but anti-HBc (core antibody) negative. Natural past infection produces both anti-HBs AND anti-HBc positive.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Hepatitis B serology",
+"q": "HBsAg positive, anti-HBc IgG positive (IgM negative) – what does this indicate?",
+"a": "Chronic hepatitis B infection: surface antigen positive = infection present; core antibody being IgG (not IgM) indicates it is chronic rather than acute.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Hepatitis B in pregnancy",
+"q": "How does the risk of hepatitis B vertical transmission differ by HBeAg status?",
+"a": "If HBeAg (envelope antigen) is positive, transmission risk is high (~90%); if HBeAg is negative (surface antigen positive only), the risk is much lower (~20%). HBeAg reflects high infectivity/transmissibility.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Chronic hepatitis B phases",
+"q": "In chronic hepatitis B, how are the immune-tolerant, immune-reactive and immune-control phases distinguished?",
+"a": "Immune-tolerant: high viral load, normal/low ALT, HBeAg positive. Immune-reactive (HBeAg-positive chronic hepatitis): high viral load with raised ALT (immune system attacking). Immune-control (inactive carrier): HBeAg negative, low viral load and low/normal ALT.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Hepatitis C serology",
+"q": "How is hepatitis C diagnosed and staged serologically?",
+"a": "HCV RNA by PCR positive = active infection. Anti-HCV antibody indicates exposure; if anti-HCV IgM positive it suggests acute, IgG positive suggests chronic/past. PCR negative with IgG positive = resolved past infection (immunity). PCR positive but antibody negative can occur in very early infection or immunocompromised patients.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral hepatitis in pregnancy",
+"q": "Which hepatitis virus causes the most severe outcome in pregnancy, and which is the most common overall?",
+"a": "Hepatitis E causes the most severe disease in pregnancy (high risk of fulminant hepatitis/hepatic encephalopathy). Hepatitis A is the most common overall.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Syphilis / genital ulcer",
+"q": "Painless, ulcerated cervical lesion with smooth edges and no pain – which syphilis stage/lesion?",
+"a": "A primary syphilitic chancre (painless ulcer). LGV and the other listed conditions do not produce this classic painless smooth-edged chancre.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Ophthalmia neonatorum",
+"q": "Neonatal conjunctivitis with purulent discharge at 36–48 hours vs 2–5 days vs ~24 hours – likely causes?",
+"a": "Very early (chemical, ~24 hours): chemical conjunctivitis (e.g. from silver nitrate prophylaxis). Around 2–5 days: Neisseria gonorrhoeae (early, purulent). Later (around days 5–14): Chlamydia trachomatis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "What are the defining general characteristics of viruses?",
+"a": "Viruses are very small particles visible only on electron microscopy. They are obligate intracellular parasites that cannot replicate outside a living host cell, require a specific host, are highly infectious, and mutate readily (small mutations can markedly change their characteristics). They may be enveloped or non-enveloped, and have either DNA or RNA genomes (single- or double-stranded).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "Name the two main viral classification systems and what each is based on.",
+"a": "The Baltimore classification divides viruses into 7 groups based on genome type (DNA vs RNA, single- vs double-stranded, and sense of the strand). The ICTV (International Committee on Taxonomy of Viruses) classification is hierarchical: order > family > subfamily > genus > species (family suffix -viridae, genus suffix -virus).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "Which DNA virus is the only single-stranded DNA virus, and what disease does it cause?",
+"a": "Parvovirus B19 is the only single-stranded DNA virus; all other DNA viruses are double-stranded. It causes fifth disease (erythema infectiosum / slapped-cheek syndrome) with a red rash on the cheeks.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "Using the mnemonic for DNA viruses (HHAPPPPy / 'Hep Hippo Pox' + ADP), which families are double-stranded DNA viruses?",
+"a": "The double-stranded DNA virus families are: Herpesviridae, Hepadnaviridae (hepatitis B), Poxviridae, Adenoviridae, Papillomaviridae and Polyomaviridae. All DNA viruses are double-stranded except parvovirus B19 (single-stranded).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "Which is the only double-stranded RNA virus, and what disease does it cause?",
+"a": "Reovirus (Reoviridae family) is the only double-stranded RNA virus; the key example is Rotavirus, which causes diarrhoea. All other RNA viruses are single-stranded.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "Which family and genus does HIV belong to, and what type of virus is it?",
+"a": "HIV belongs to the family Retroviridae and the genus Lentivirus. It is a single-stranded RNA retrovirus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "Which family and genus does rubella virus belong to?",
+"a": "Rubella virus belongs to the family Togaviridae and the genus Rubivirus. It is a single-stranded RNA virus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "Which family does hepatitis B virus belong to, and how is it unusual among hepatitis viruses?",
+"a": "Hepatitis B virus belongs to the Hepadnaviridae family and is the only DNA (double-stranded DNA) hepatitis virus. Hepatitis A is a picornavirus, hepatitis C is a flavivirus, hepatitis D is a deltavirus, and hepatitis E is a hepevirus (all RNA viruses).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "Which family and genus does hepatitis C belong to?",
+"a": "Hepatitis C belongs to the family Flaviviridae and the genus Hepacivirus. Other Flaviviridae include Zika, West Nile, dengue and yellow fever viruses.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "Which family causes molluscum contagiosum, and what is the one exception among 'pox' viruses?",
+"a": "Molluscum contagiosum is caused by a poxvirus (Poxviridae family), along with smallpox, cowpox and monkeypox. The exception is chickenpox, which is NOT a poxvirus – it is caused by varicella-zoster virus of the Herpesviridae family.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "List the human herpesviruses (HHV) 1–8 and their main associated diseases.",
+"a": "HHV-1 (HSV-1): cold sores/oral herpes, gingivostomatitis. HHV-2 (HSV-2): genital herpes. HHV-3 (varicella-zoster virus): chickenpox and shingles. HHV-4 (Epstein-Barr virus): infectious mononucleosis ('kissing disease'). HHV-5 (cytomegalovirus): mononucleosis-like illness, congenital CMV. HHV-6/7: roseola infantum. HHV-8: Kaposi sarcoma.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "Which cells does HIV infect?",
+"a": "HIV infects CD4-positive T cells (T-helper lymphocytes).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "What rash is specific for congenital rubella, and how is it used in exam questions?",
+"a": "A 'blueberry muffin' rash is most specific for congenital rubella. Although petechial/purpuric rashes can also occur in CMV and toxoplasmosis, if a question describes a blueberry muffin rash and lists rubella, CMV and toxoplasmosis as options, choose rubella.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "What is the classic triad of congenital rubella syndrome?",
+"a": "The classic triad is sensorineural deafness, cataracts (ocular defects), and congenital heart disease – most commonly patent ductus arteriosus (PDA), and pulmonary artery stenosis. The most common single feature overall is sensorineural hearing loss.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "What is the most common heart defect in congenital rubella syndrome?",
+"a": "Patent ductus arteriosus (PDA) is the most common cardiac defect, followed by pulmonary artery stenosis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "What is the most common infective (non-genetic) cause of congenital sensorineural hearing loss?",
+"a": "Cytomegalovirus (CMV) is the most common non-genetic / infective cause of congenital sensorineural hearing loss. Rubella also causes hearing loss but CMV is the leading cause.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "How does varicella-zoster virus (VZV) spread, and what is its infectious period?",
+"a": "VZV spreads by respiratory droplets and by direct contact with the fluid of vesicles/blisters. The infectious (contagious) period is from 48 hours before the rash appears until all the lesions have crusted over.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "What is the incubation period of varicella-zoster virus (chickenpox)?",
+"a": "The incubation period of VZV is 10 to 21 days.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "What causes shingles and where does the virus lie dormant?",
+"a": "Shingles is reactivation of varicella-zoster virus that lay dormant in the dorsal root ganglion after primary chickenpox infection. On reactivation it causes painful blisters in the dermatomal distribution of the affected nerve root.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "What is the maternal mortality risk if a pregnant woman develops varicella (chickenpox) pneumonia?",
+"a": "Varicella pneumonia carries a mortality risk of around 5–6% in pregnancy.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "What is the risk of fetal varicella syndrome (FVS) by gestational age?",
+"a": "Overall the risk before 20 weeks is roughly 1%. Broken down: 0.4% if maternal infection occurs at 1–12 (i.e. before 13) weeks, and 2% if at 13–20 weeks. FVS has rarely been reported up to 28 weeks; there is no proven risk after 28 weeks.",
+"ai": false,
+"note": "Per RCOG GTG-13, FVS risk is 0.4% in the first 12 weeks and ~2% between 13-28 weeks, with rare cases reported up to 28 weeks (not just 20). The transcript's 0.4% (<13wk) and 2% (13-20wk) figures are correct; just note FVS can occur up to 28 weeks, not strictly limited to before 20 weeks."
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "What are the clinical features of fetal varicella syndrome?",
+"a": "Features include skin scarring in a dermatomal distribution, limb hypoplasia (small/thin limbs), microcephaly, eye defects (microphthalmia, cataracts, chorioretinitis), and neurological abnormalities.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "What is the time window for neonatal varicella infection following maternal chickenpox around delivery?",
+"a": "Neonatal varicella is a risk if the mother develops chickenpox from 5 days before delivery to 2 days after delivery, as the baby is exposed without sufficient transfer of protective maternal antibody.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "What is the treatment regimen for chickenpox in pregnancy with oral aciclovir?",
+"a": "Oral aciclovir 800 mg five times a day for 7 days, given if the woman presents within 24 hours of rash onset. It is recommended at ≥20 weeks gestation and may be considered before 20 weeks with caution.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "How are IgM and IgG used to interpret viral infection status?",
+"a": "IgM positive indicates a current/acute infection. IgG positive with IgM negative indicates past infection or immunity (the infection has resolved and immunity has developed). If both IgM and IgG are negative, the patient has not been infected and is susceptible.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "In a non-immune pregnant woman exposed to chickenpox, what is the management if exposure was within 10 days?",
+"a": "If VZV IgG is negative (non-immune/susceptible) and contact was less than 10 days ago, post-exposure prophylaxis can be given (historically VZIG; current RCOG guidance also accepts a course of oral aciclovir as PEP). If a rash develops, treat with the aciclovir 800 mg five times daily regimen.",
+"ai": true,
+"note": "Transcript mentions PEP with aciclovir, which is now correct per updated RCOG GTG-13, but historically VZIG was first-line PEP and VZIG supply/use has changed (UKHSA now recommends aciclovir/valaciclovir PEP over VZIG for most pregnant contacts). Flagged because the transcript does not clearly distinguish VZIG vs antiviral PEP – confirm current local protocol."
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "What is the VZV IgG cut-off value indicating immunity in a normal vs immunocompromised person?",
+"a": "A VZV IgG level greater than 100 mIU/mL indicates immunity in a normal individual. In immunocompromised patients (HIV, on steroids, or pregnant women, who are relatively immunocompromised) a higher cut-off of 150 mIU/mL is used. Values between 100–150 are the equivocal/borderline range.",
+"ai": true,
+"note": "These specific numeric cut-offs (100 / 150 mIU/mL) are assay-dependent and not a fixed RCOG/UKHSA standard; different laboratories use different thresholds. Cannot be verified as a universal guideline value – treat as exam-specific teaching rather than a definitive cut-off."
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "What is the rubella IgG cut-off value indicating immunity?",
+"a": "A rubella IgG level greater than or equal to 10 IU/mL is taken to indicate immunity.",
+"ai": true,
+"note": "10 IU/mL was the historical antenatal rubella immunity threshold, but routine antenatal rubella screening was withdrawn in the UK in 2016, and 10 IU/mL is assay-dependent. Verify against current local lab/UKHSA practice."
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "Why is the MMR vaccine not given during pregnancy, and when is it given?",
+"a": "MMR is a live attenuated vaccine and is therefore contraindicated in pregnancy. If a woman is found to be non-immune to rubella, she is vaccinated postpartum (after birth). MMR is safe during breastfeeding, regardless of breastfeeding status.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "Is there any treatment to prevent or cure rubella infection in pregnancy?",
+"a": "No. There is no treatment to prevent or treat congenital rubella once maternal infection has occurred. Management is supportive, with MMR vaccination given after delivery to protect future pregnancies.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "What is the incubation period of rubella?",
+"a": "The incubation period of rubella is approximately 14 to 21 days (some sources quote 12–23 days).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "What is the infectivity period of rubella?",
+"a": "Rubella is infectious from about 7 days before to 10 days (up to ~7–10 days) after the appearance of the rash.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "What is the incidence and asymptomatic rate of congenital CMV in the UK?",
+"a": "Congenital CMV affects roughly 1 in 150 live births in the UK. About 90% of affected newborns are asymptomatic at birth; 10–15% are symptomatic. Of symptomatic infants, around 30% may die, and a proportion develop neurological sequelae.",
+"ai": false,
+"note": "Birth-prevalence estimates vary (often quoted ~0.3-0.6%, i.e. ~1 in 150-300); 1 in 150 is within the commonly cited UK range. The 90% asymptomatic / 10-15% symptomatic split is correct."
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "What is the incubation period of cytomegalovirus?",
+"a": "The incubation period of CMV is approximately 3 to 12 weeks.",
+"ai": true,
+"note": "The transcript ambiguously states '3 to 12 days' in one place but '3-12 weeks' is the standard figure for CMV incubation (typically 3-12 weeks). Days is incorrect; correct value is 3-12 weeks."
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "Why is IgG avidity testing used in suspected CMV infection in pregnancy, and how is it interpreted?",
+"a": "After acute CMV infection, IgM persists a long time (often ~6 months or more) before being replaced by IgG, so IgM alone cannot date the infection. IgG avidity helps: LOW avidity indicates recent primary infection; HIGH avidity indicates past/secondary infection.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "What are the CMV IgG avidity cut-off values?",
+"a": "An avidity index less than 0.50 indicates low avidity (recent primary infection); 0.50–0.59 is intermediate; greater than 0.6 indicates high avidity (past/secondary infection).",
+"ai": true,
+"note": "Avidity index cut-offs are assay-specific and vary between laboratories; these exact values (0.5 / 0.6) are illustrative teaching figures, not a universal guideline standard."
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "How is fetal CMV infection confirmed antenatally?",
+"a": "Fetal CMV infection is confirmed by PCR of amniotic fluid (amniocentesis), supported by detailed ultrasound surveillance for fetal abnormalities.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "How does interpretation differ when CMV IgM is positive but avidity is needed?",
+"a": "First check IgM: if positive, infection is confirmed (primary or secondary). To distinguish them, use IgG avidity – low avidity = recent primary infection, high avidity = past/secondary. If IgM is negative, there is no current infection (IgG positive then means past infection or immunity).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "What is the incubation period of parvovirus B19, and its infectious period?",
+"a": "Parvovirus B19 has an incubation period of around 4–20 days. It is infectious from about 10 days before the rash until the onset of the rash (the person is generally no longer infectious once the rash appears).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "What is the most common cause of fetal anaemia, and what other key fetal complications does parvovirus B19 cause?",
+"a": "Overall the most common cause of fetal anaemia is red-cell alloimmunisation; parvovirus B19 is the next most common cause. B19 causes fetal anaemia, non-immune hydrops fetalis, and fetal loss (~10–12%).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "How does the vertical transmission pattern of parvovirus B19 differ from rubella/varicella by gestation?",
+"a": "Unlike rubella and varicella (higher fetal risk in early pregnancy), parvovirus B19 transmission rate increases with later gestation: lower at ~15 weeks, around 25% at 16–20 weeks, and up to ~70% after 20 weeks. However, adverse fetal outcomes (anaemia/hydrops) are greatest with infection before 20 weeks.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "What disease names are associated with parvovirus B19 infection?",
+"a": "Parvovirus B19 causes fifth disease, also called erythema infectiosum or slapped-cheek syndrome, characterised by a red rash appearing first on the cheeks.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "Which HPV types are 'low risk' and what do they cause?",
+"a": "HPV types 6 and 11 are low-risk types. They cause genital warts and low-grade squamous intraepithelial lesions (low-grade CIN). They do not typically progress to cancer.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "Which HPV types are 'high risk' and what proportion of cervical cancer do 16 and 18 cause?",
+"a": "High-risk types include 16, 18, 31, 33, 35 and 45. HPV 16 and 18 cause about 70% of cervical cancers. High-risk types cause high-grade squamous intraepithelial lesions (high-grade CIN), the precursor lesions of cervical cancer.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "What HPV-associated cancers occur besides cervical cancer?",
+"a": "HPV is associated with oropharyngeal, anal, vulval, vaginal and penile cancers, in addition to cervical cancer.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "What are the HPV oncoproteins E6 and E7 and how do they cause cancer?",
+"a": "E6 and E7 are viral oncoproteins produced by high-risk HPV. E6 inhibits/degrades the tumour suppressor p53; E7 inhibits/degrades the retinoblastoma (Rb) gene product. Inactivating these tumour suppressors leads to uncontrolled cell growth and increases the risk of cancer.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "What proportion of cervical squamous carcinomas contain oncogenic HPV DNA?",
+"a": "Approximately 99% of squamous carcinomas of the cervix contain DNA sequences from oncogenic HPV strains.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "What are the two HPV vaccines and which serotypes do they cover?",
+"a": "Cervarix is bivalent, covering HPV 16 and 18. Gardasil is quadrivalent, covering HPV 6, 11, 16 and 18. Neither covers other high-risk types (31, 33, 35, 45), so vaccinated women retain some residual cervical cancer risk from those types.",
+"ai": true,
+"note": "Correct for the older bivalent/quadrivalent vaccines, but the UK national HPV programme has used the 9-valent vaccine (Gardasil 9, covering 6/11/16/18/31/33/45/52/58) since 2021/2022. The transcript's two-vaccine framing is outdated for current UK practice."
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "Where does HPV proliferate, and what cancer type does it cause in the cervix?",
+"a": "HPV proliferates in the basal keratinocytes of the epithelium. It causes squamous cell carcinoma of the cervix.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "What percentage of women develop antibodies after HPV infection, and what proportion clear the infection?",
+"a": "About 50–60% of women develop antibodies following HPV infection. Roughly 70% of HPV infections are cleared by the host within 1 year and about 90% within 2 years.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "Which HPV treatments must be avoided in pregnancy and breastfeeding?",
+"a": "Podophyllotoxin and 5-fluorouracil must be avoided in pregnancy. Imiquimod (5% cream) should be avoided in both pregnancy and breastfeeding. Cryotherapy and physical ablation/excision can be used in pregnancy.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "Which herpes simplex virus most commonly causes genital herpes in the UK, and what is its incubation period?",
+"a": "HSV-2 is the most common cause of genital herpes in the UK (HSV-1 mainly causes cold sores). The incubation period is approximately 2 days to 2 weeks.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "What is the mortality rate of disseminated neonatal herpes even with optimal treatment?",
+"a": "Neonatal herpes (disseminated disease) has a mortality of around 30% even with optimal antiviral treatment.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "How is genital herpes diagnosed and treated?",
+"a": "Diagnosis is by nucleic acid amplification test (NAAT/PCR), supported by serology. First-line treatment is aciclovir. Genital herpes presents as painful genital ulcers with tender (painful) inguinal lymphadenopathy.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "What is the oral aciclovir dose for genital herpes, and how does it differ from the chickenpox/VZV dose?",
+"a": "For genital herpes the oral aciclovir dose is 400 mg (typically three times daily). This is lower than the chickenpox/varicella-zoster dose of 800 mg five times daily – do not confuse the two.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "What is the antiviral of choice for CMV versus other herpes group viruses?",
+"a": "For CMV, ganciclovir or valganciclovir are used. For other herpesviruses (HSV, VZV) aciclovir (or valaciclovir) is the antiviral of choice. Ganciclovir/valganciclovir and tenofovir are considered safe in pregnancy where indicated.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Microbiology",
+"subtopic": "Viral Infections",
+"q": "Which family does poliovirus belong to, and why is its genus enterovirus?",
+"a": "Poliovirus belongs to the Picornaviridae family, genus Enterovirus, because it enters the body via the gastrointestinal tract before causing infection.",
+"ai": false,
+"note": ""
+}
+]
+},
+{
 "id": "pathology",
 "title": "Pathology",
 "cards": [
