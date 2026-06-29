@@ -1,5 +1,2411 @@
 window.SECTIONS = [
 {
+"id": "biochemistry",
+"title": "Biochemistry",
+"cards": [
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-Base Balance",
+"q": "What is the normal reference range for arterial blood pH?",
+"a": "7.35 to 7.45, with 7.40 taken as the neutral midpoint. A pH below 7.35 indicates acidosis and a pH above 7.45 indicates alkalosis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-Base Balance",
+"q": "Within the normal pH range, which side of 7.40 is considered relatively acidic and which relatively alkaline?",
+"a": "A pH between 7.35 and 7.40 is still normal but lies on the relatively acidic side; a pH between 7.40 and 7.45 is still normal but lies on the relatively alkaline (basic) side. This helps decide which component is primary when the pH is normal.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-Base Balance",
+"q": "What is the normal arterial partial pressure of carbon dioxide (PaCO2)?",
+"a": "4.7 to 6.0 kPa, equivalent to 35 to 45 mmHg.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-Base Balance",
+"q": "What is the normal range for arterial bicarbonate (HCO3-)?",
+"a": "22 to 26 mmol/L (equivalent to 22 to 26 mEq/L).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-Base Balance",
+"q": "What is the normal range for base excess?",
+"a": "-2 to +2 mmol/L. A base excess greater than +2 indicates excess base (alkalosis); a value below -2 indicates a base deficit (acidosis).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-Base Balance",
+"q": "In acid-base interpretation, what does carbon dioxide represent and which body system controls it?",
+"a": "CO2 represents the acid component and is controlled by respiration. CO2 dissolves to form carbonic acid (H2CO3); a high PaCO2 drives acidosis and a low PaCO2 drives (respiratory) alkalosis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-Base Balance",
+"q": "In acid-base interpretation, what does bicarbonate represent and which system controls it?",
+"a": "Bicarbonate (HCO3-) represents the base component and reflects the metabolic (renal) system. A high HCO3- causes alkalosis; a low HCO3- causes acidosis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-Base Balance",
+"q": "How is base excess used to identify the metabolic component when bicarbonate is not given?",
+"a": "Base excess reflects the same metabolic/base component as bicarbonate. A base excess above +2 means excess base, moving toward alkalosis; a base deficit below -2 means reduced base, moving toward acidosis. For negative values, a larger digit means a more negative (lower) value, e.g. -3 is lower than -2.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-Base Balance",
+"q": "What are the systematic steps to interpret an ABG?",
+"a": "1) Assess pH (acidotic <7.35 or alkalotic >7.45). 2) Assess CO2 (acidotic if >6 kPa/45 mmHg, alkalotic if <4.7 kPa/35 mmHg). 3) Assess HCO3- or base excess (acidotic if low, alkalotic if high). 4) Combine: whichever component matches the pH derangement is the primary disorder; the opposite component shifting to oppose it is compensation. 5) Assess degree of compensation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-Base Balance",
+"q": "How do you identify the primary disorder when both pH and one component point the same way?",
+"a": "The component (respiratory CO2 or metabolic HCO3-) that shifts in the SAME direction as the abnormal pH is the primary cause. Example: low pH + high CO2 = primary respiratory acidosis; low pH + low HCO3- = primary metabolic acidosis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-Base Balance",
+"q": "How does the body compensate for a respiratory acidosis, and how quickly?",
+"a": "The kidneys compensate by generating a metabolic alkalosis (retaining/raising HCO3-). Respiratory compensation occurs within minutes, but renal (metabolic) compensation is slow (hours to days), so in acute respiratory acidosis the bicarbonate may still be normal because compensation has not yet started.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-Base Balance",
+"q": "What is a primary metabolic acidosis with respiratory compensation, and which component supports the pH?",
+"a": "pH is acidotic and HCO3- is low (the metabolic component supports the acidotic pH, so it is primary). The CO2 falls (alkalotic) as respiratory compensation. This is primary metabolic acidosis with compensatory respiratory alkalosis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-Base Balance",
+"q": "On an ABG, what defines a mixed acidosis versus a mixed alkalosis?",
+"a": "Mixed acidosis: pH acidotic with BOTH CO2 high (respiratory acidosis) AND HCO3- low (metabolic acidosis) - both components support acidosis. Mixed alkalosis: all three parameters point alkalotic (low CO2 and high HCO3- together).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-Base Balance",
+"q": "How do you classify a disorder as uncompensated, partially compensated, or fully compensated?",
+"a": "Uncompensated: pH abnormal, the opposing component is normal (no compensation started). Partially compensated: the opposing component has shifted to oppose the disorder but pH is still outside the normal range. Fully compensated: the opposing component has shifted and pH has returned into the normal range (7.35-7.45).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-Base Balance",
+"q": "In a fully compensated disorder with a normal pH, how do you tell whether the primary problem was an acidosis or an alkalosis?",
+"a": "Use which side of 7.40 the pH sits on. A normal pH on the acidic side (7.35-7.40) indicates the primary disorder was an acidosis; a normal pH on the alkalotic side (7.40-7.45) indicates the primary disorder was an alkalosis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-Base Balance",
+"q": "What is the normal value of the anion gap and its significance in metabolic acidosis?",
+"a": "Normal anion gap is approximately 6 to 12 mmol/L (mEq/L). Its main use is classifying metabolic acidosis: some causes raise the anion gap and others give a normal anion gap. Unmeasured anions include albumin, phosphate and sulphate.",
+"ai": false,
+"note": "Standard. Quoted normal anion gap varies with method/lab (commonly cited 3-16 mmol/L); 6-12 falls within accepted ranges, so not flagged."
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-Base Balance",
+"q": "On a Davenport diagram, what do the axes and reference lines represent?",
+"a": "pH is plotted horizontally (7.40 neutral; acidosis to one side, alkalosis to the other). HCO3- is plotted vertically with a median of about 25 mmol/L (normal 22-26); above the median line is alkalotic and below is acidotic. The diagonal PaCO2 isobar uses a median of about 40 mmHg (normal 35-45); above the line indicates higher PaCO2 and below indicates lower PaCO2.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-Base Balance",
+"q": "A 35-year-old presents with severe tachypnoea. ABG: pH 7.25, PaCO2 7.8 kPa, HCO3- 18 mmol/L. What is the disorder?",
+"a": "Mixed acidosis. pH is acidotic; PaCO2 is high (>6 kPa, respiratory acidosis) and HCO3- is low (<22, metabolic acidosis) - both components support the acidosis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-Base Balance",
+"q": "Why does ascending to high altitude or hyperventilating cause a respiratory alkalosis?",
+"a": "At altitude the inspired oxygen content is lower, so a person hyperventilates to increase oxygen uptake. Increased ventilation also washes out more CO2 (the acid), lowering PaCO2 and producing a respiratory alkalosis. Hyperventilation from any cause is the underlying mechanism.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-Base Balance",
+"q": "A patient on a hill walk hyperventilating has ABG: pH 7.47, PaCO2 3.8 kPa, HCO3- 25 mmol/L. What is the disorder?",
+"a": "Uncompensated (primary) respiratory alkalosis. pH is alkalotic and PaCO2 is low (<4.7 kPa) supporting it; HCO3- is normal (22-26), so no metabolic compensation has occurred.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-Base Balance",
+"q": "A ward patient has ABG: pH 7.25, PaCO2 8 kPa, base excess +2. What is the disorder?",
+"a": "Uncompensated respiratory acidosis. pH is acidotic and PaCO2 is high (>6 kPa) supporting it; base excess is normal (within -2 to +2), so there is no metabolic compensation yet.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-Base Balance",
+"q": "Why is a pregnant woman ascending to high altitude prone to respiratory alkalosis?",
+"a": "Pregnancy normally lowers PaCO2 (progesterone-driven hyperventilation), placing the mother slightly toward respiratory alkalosis with renal compensation to maintain a low PaCO2 gradient for fetal CO2 transfer. Adding altitude-induced hyperventilation increases CO2 washout, producing a respiratory alkalosis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-Base Balance",
+"q": "Why is the mother's blood PaCO2 kept slightly low in pregnancy?",
+"a": "To maintain a diffusion gradient that lets fetal CO2 pass into the maternal blood. CO2 moves from the higher concentration in fetal blood to the lower concentration in maternal blood, so keeping maternal PaCO2 low (with bicarbonate compensation) preserves this gradient.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-Base Balance",
+"q": "A diabetic on metformin whose dose was doubled becomes unwell. ABG: pH 7.28, PaCO2 3.9 kPa, base excess -2.8. What is the disorder?",
+"a": "Partially compensated metabolic acidosis. pH is acidotic and base excess is low (below -2, metabolic acidosis is primary); PaCO2 is low (<4.7 kPa) as compensatory respiratory alkalosis. It is only partial because the pH remains outside the normal range.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-Base Balance",
+"q": "ABG: pH 7.49, PaCO2 4.3 kPa, HCO3- 20 mmol/L. What is the disorder?",
+"a": "Partially compensated respiratory alkalosis (with compensatory metabolic acidosis). pH is alkalotic with low PaCO2 (<4.7 kPa) supporting it (primary respiratory alkalosis); HCO3- is low as compensation. Partial because pH is still above 7.45.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-Base Balance",
+"q": "Why might a patient hyperventilate before surgery, and what acid-base disturbance results?",
+"a": "Pre-operative anxiety or a panic attack causes hyperventilation, washing out CO2 and producing a respiratory alkalosis. (By contrast, CO2 retention as in COPD causes a respiratory acidosis.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-Base Balance",
+"q": "ABG: pH 7.2, PaCO2 >6 kPa, HCO3- >26 mmol/L. What is the disorder?",
+"a": "Partially compensated respiratory acidosis. pH is acidotic and PaCO2 is high supporting it (primary respiratory acidosis); HCO3- is raised as metabolic compensation, but compensation is partial because pH is not in the normal range.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-Base Balance",
+"q": "Which alternative normal range for PaCO2 may appear in exams besides 4.7-6.0 kPa?",
+"a": "Some sources quote 4.5 to 5.8 kPa, but 4.7 to 6.0 kPa (35-45 mmHg) is the more commonly used range and should be used to solve questions.",
+"ai": false,
+"note": "4.7-6.0 kPa is standard. The 4.5-5.8 kPa value cited is a less common reference variant and is acceptable, so not flagged."
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-Base Balance",
+"q": "Using only directional clues (no exact numbers), how do you interpret low pH, low CO2, low bicarbonate?",
+"a": "Low pH = acidosis; low CO2 = alkalotic respiratory component; low bicarbonate = acidotic metabolic component. The metabolic component supports the acidotic pH, so this is a metabolic acidosis (with respiratory compensation).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-Base Balance",
+"q": "ABG: pH 7.55, PaCO2 52 mmHg, HCO3- >26 mmol/L. What is the disorder?",
+"a": "Partially compensated metabolic alkalosis. pH is alkalotic; HCO3- is high supporting it (primary metabolic alkalosis); PaCO2 is high (>45 mmHg, acidotic) as respiratory compensation. Partial because pH remains above 7.45.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-base balance",
+"q": "In maternal hyperventilation during labour, what is the primary acid-base disturbance, and what happens at the extreme?",
+"a": "Hyperventilation washes out CO2, producing a respiratory alkalosis. As labour progresses (pain, exertion, dehydration) a metabolic acidosis develops; in the early/predominant phase the best single answer is metabolic acidosis, and at the extreme it becomes a mixed respiratory + metabolic acidosis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-base balance",
+"q": "How does the kidney compensate for a respiratory alkalosis (e.g. pregnancy/hyperventilation)?",
+"a": "By renal (metabolic) compensation: the kidney increases urinary excretion of bicarbonate (HCO3-), lowering plasma bicarbonate to bring pH back toward normal.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-base balance",
+"q": "Which system compensates a metabolic disturbance, and which compensates a respiratory disturbance?",
+"a": "A metabolic disturbance is compensated by the respiratory system (changing CO2 via ventilation); a respiratory disturbance is compensated by the renal/metabolic system (changing bicarbonate handling).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-base balance",
+"q": "How does respiratory compensation correct a metabolic acidosis?",
+"a": "By respiratory alkalosis: increased respiratory rate washes out CO2, raising pH back toward normal.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-base balance",
+"q": "How does the respiratory system compensate a metabolic alkalosis?",
+"a": "By respiratory acidosis: the respiratory rate is reduced so CO2 is retained (not washed out), lowering pH back toward normal.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-base balance",
+"q": "Compare the speed of respiratory versus renal (metabolic) compensation.",
+"a": "Respiratory compensation is rapid (minutes), whereas renal compensation is slower and takes longer (hours to days), as it relies on altering bicarbonate reabsorption/excretion.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Haemoglobin / oxygen transport",
+"q": "How does the effect of fetal haemoglobin (HbF) on the oxygen dissociation curve differ from adult haemoglobin?",
+"a": "HbF has a higher affinity for oxygen than adult Hb, so its oxygen dissociation curve is shifted to the LEFT relative to maternal Hb. This favours oxygen transfer from mother to fetus across the placenta.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell biology",
+"q": "What happens to the cell-to-cell connections (junctions) in the uterus as pregnancy approaches term?",
+"a": "Gap junctions between myometrial cells increase in number, allowing coordinated electrical coupling and synchronous contraction.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell biology",
+"q": "Which protein forms the gap junctions that couple uterine smooth muscle cells?",
+"a": "Connexin (a transmembrane protein); six connexins form a connexon (hemichannel), and two connexons from adjacent cells form the gap junction pore connecting the two cell membranes.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Signal transduction",
+"q": "Through which receptor/G-protein and second-messenger pathway does oxytocin cause uterine smooth muscle contraction?",
+"a": "Oxytocin binds a Gq-protein-coupled receptor; the activated alpha subunit stimulates phospholipase C, which cleaves membrane phospholipid (PIP2) to generate inositol trisphosphate (IP3).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Signal transduction",
+"q": "What does IP3 do to trigger uterine smooth muscle contraction after oxytocin signalling?",
+"a": "IP3 opens calcium channels on the sarcoplasmic reticulum, releasing Ca2+ and raising intracellular calcium. The rise also opens voltage-gated calcium channels in the membrane, allowing further extracellular Ca2+ influx. The increased intracellular Ca2+ drives myosin light chain phosphorylation and contraction.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Signal transduction",
+"q": "Which second messengers and kinase mediate smooth muscle RELAXATION (opposing oxytocin-induced contraction)?",
+"a": "Cyclic AMP and cyclic GMP. cAMP (formed from ATP by adenylyl cyclase) activates protein kinase A, which reduces intracellular calcium and lowers myosin light chain phosphorylation, causing relaxation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Vitamins",
+"q": "How does excess vitamin C (ascorbic acid) interfere with vitamin B12?",
+"a": "Excess vitamin C can disrupt/degrade vitamin B12, impairing B12-dependent cobalamin/methylation reactions; this can contribute to a risk of megaloblastic anaemia.",
+"ai": true,
+"note": "Lecturer states high vitamin C disrupts B12-dependent cobalamin synthesis. The interaction (ascorbate can degrade cobalamin in vitro) is real but its clinical significance is debated and not a standard MRCOG fact; flagged as uncertain."
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Carbohydrate metabolism",
+"q": "What is the last (final) enzyme of glycogen synthesis (glycogenesis)?",
+"a": "Glycogen synthase (adds glucose units to the growing glycogen chain). It is also the rate-limiting/regulatory enzyme of glycogenesis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Carbohydrate metabolism",
+"q": "What is the last (final) enzyme of glycogen breakdown (glycogenolysis) in the liver?",
+"a": "Glucose-6-phosphatase, which converts glucose-6-phosphate to free glucose for release into the blood. (Glycogen phosphorylase is the rate-limiting enzyme initiating glycogenolysis.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Vitamins",
+"q": "Describe how vitamin D3 (cholecalciferol) is activated to its active form.",
+"a": "Vitamin D3 is first hydroxylated in the liver at carbon 25 (by 25-hydroxylase) to 25-hydroxyvitamin D; it is then hydroxylated in the kidney at carbon 1 (by 1-alpha-hydroxylase) to give 1,25-dihydroxyvitamin D (calcitriol), the active form.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Normal values / bone",
+"q": "Give the DEXA T-score cut-offs for normal bone density, osteopenia and osteoporosis.",
+"a": "Normal: T-score above -1. Osteopenia: T-score between -1 and -2.5. Osteoporosis: T-score at or below -2.5. T-score compares the patient with a healthy young adult of the same sex.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Normal values / bone",
+"q": "What does the DEXA Z-score represent and what is its normal value?",
+"a": "The Z-score compares bone density with a person of the SAME age and sex (rather than a young adult). A normal Z-score is around 0.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Energy metabolism",
+"q": "What is the role of alpha-ketoglutarate in mitochondrial energy metabolism?",
+"a": "Alpha-ketoglutarate is an intermediate of the TCA (Krebs) cycle in the mitochondria, contributing to production of NADH/FADH2 (and ultimately ATP).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell signalling",
+"q": "When choosing between endocrine, paracrine and autocrine signalling for a locally-acting hormone (e.g. a prostaglandin acting on nearby cells), which is correct?",
+"a": "Paracrine signalling (the mediator acts on neighbouring cells). Autocrine = acts on the same cell that produced it; endocrine = released into blood to act at a distance.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Lipid metabolism",
+"q": "What is the typical lipid profile change in normal pregnancy?",
+"a": "Most lipids rise: total cholesterol, triglycerides, LDL and VLDL increase. HDL also rises (especially mid-pregnancy). Overall pregnancy is a hyperlipidaemic state.",
+"ai": true,
+"note": "Transcript says 'only LDL decreases, rest increase' which is incorrect/garbled. Standard physiology: triglycerides, total and LDL cholesterol and VLDL all RISE in pregnancy; HDL rises then falls slightly later. Corrected here."
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Vitamins",
+"q": "What deficiency disease is caused by vitamin A deficiency, and what does excess vitamin A cause in pregnancy?",
+"a": "Deficiency causes night blindness (and xerophthalmia). Excess vitamin A is teratogenic and can cause congenital malformations, so it should be avoided in pregnancy.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Vitamins",
+"q": "Why are newborns given vitamin K, and why are they deficient?",
+"a": "Vitamin K is needed for synthesis of clotting factors; deficiency causes haemorrhagic disease of the newborn. Newborns are deficient because the gut flora that produce vitamin K are not yet developed, so vitamin K is given prophylactically.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Vitamins",
+"q": "List the names of B-complex vitamins B1, B2, B3, B5, B6, B7, B9 and B12.",
+"a": "B1 = thiamine; B2 = riboflavin; B3 = niacin; B5 = pantothenic acid; B6 = pyridoxine; B7 = biotin; B9 = folic acid (folate); B12 = cobalamin.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Vitamins",
+"q": "What does vitamin B1 (thiamine) deficiency cause?",
+"a": "Wernicke encephalopathy and beriberi: wet beriberi (cardiac/oedema) and dry beriberi (peripheral neuropathy).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Vitamins",
+"q": "What are two clinical signs of vitamin B2 (riboflavin) deficiency?",
+"a": "Angular stomatitis/cheilosis (cracking at the corners of the mouth) and corneal vascularisation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Vitamins",
+"q": "What syndrome and triad results from vitamin B3 (niacin) deficiency?",
+"a": "Pellagra, with the triad of the 3 Ds: Dermatitis (notably in sun-exposed areas, e.g. a 'Casal necklace'), Diarrhoea and Dementia.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Vitamins",
+"q": "Which anaemia is associated with vitamin B6 (pyridoxine) deficiency?",
+"a": "Sideroblastic anaemia (B6 is a cofactor for ALA synthase in haem synthesis).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Vitamins / amino acid metabolism",
+"q": "Both vitamin B12 and folate (B9) deficiency cause which type of anaemia, and how are the two distinguished biochemically?",
+"a": "Both cause megaloblastic anaemia. Homocysteine is raised in both. The distinguishing test is methylmalonic acid (MMA): MMA is RAISED in B12 deficiency (B12 is the cofactor for methylmalonyl-CoA mutase) but NORMAL in folate deficiency.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Vitamins / amino acid metabolism",
+"q": "Why does vitamin B12 deficiency (but not folate deficiency) cause neurological signs such as paraesthesia/peripheral neuropathy?",
+"a": "B12 is the cofactor for methylmalonyl-CoA mutase; its deficiency causes accumulation of methylmalonic acid, which is associated with the neurological features (paraesthesia, peripheral neuropathy). Folate deficiency causes megaloblastic anaemia without these neurological signs.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Amino acid metabolism",
+"q": "In homocysteine metabolism, which vitamins act at each step and what happens to homocysteine and cysteine in their deficiencies?",
+"a": "B12 and folate (B9) are needed to remethylate homocysteine to methionine; their deficiency RAISES homocysteine. Vitamin B6 (pyridoxine) is the cofactor for converting homocysteine to cysteine (via cystathionine beta-synthase); B6 deficiency RAISES homocysteine but LOWERS cysteine, whereas in B12/folate deficiency cysteine is normal.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Amino acid metabolism",
+"q": "What is the most common cause of classic homocystinuria, and what is the relevant cofactor?",
+"a": "An enzymatic deficiency of cystathionine beta-synthase (CBS). The enzyme uses vitamin B6 (pyridoxal-5'-phosphate) as a cofactor; in B6-responsive forms, pyridoxine supplementation lowers homocysteine.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Carbohydrate metabolism",
+"q": "Why is glycolysis described as not requiring oxygen, and what determines the fate of pyruvate?",
+"a": "Glycolysis (the Embden-Meyerhof pathway) does not require oxygen and can run in both aerobic and anaerobic conditions. When oxygen is present, pyruvate enters the mitochondria for the TCA cycle (aerobic); when oxygen is lacking, pyruvate is converted to lactate (lactic acid / Cori cycle).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Carbohydrate metabolism",
+"q": "What is another name for glycolysis, and what is the Cori cycle?",
+"a": "Glycolysis is also called the Embden-Meyerhof pathway (EMP). The Cori (lactic acid) cycle is the process in which pyruvate produced by glycolysis is converted to lactate (e.g. in muscle) and recycled to glucose in the liver.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Carbohydrate metabolism",
+"q": "What are the two phases of the pentose phosphate (HMP) shunt?",
+"a": "An oxidative phase and a non-oxidative phase.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell biology / organelles",
+"q": "What are the two main functions of peroxisomes?",
+"a": "Beta-oxidation/breakdown of (very long chain) fatty acids, and handling of hydrogen peroxide. They contain enzymes (e.g. catalase) that use hydrogen peroxide, which also contributes to a microbial killing role.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell biology / organelles",
+"q": "What is the function of lysosomes, and what enzymes do they contain?",
+"a": "Lysosomes digest material (autophagy and digestion of phagocytosed material). They contain hydrolytic enzymes and work at acidic pH; they do not contain hydrogen peroxide (that is the peroxisome).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell biology / organelles",
+"q": "What is the main function of mitochondria, and what is notable about mitochondrial DNA?",
+"a": "Mitochondria carry out oxidative phosphorylation (ATP production). They contain their own circular DNA (about 1% of total cellular DNA), which is maternally inherited.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell biology / organelles",
+"q": "What is the function of the Golgi apparatus?",
+"a": "Packaging and modification of proteins (and lipids) made by the endoplasmic reticulum before they are sent to their destination.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell biology / organelles",
+"q": "Contrast the functions of rough and smooth endoplasmic reticulum.",
+"a": "Rough ER (studded with ribosomes) synthesises proteins and is abundant in cells with high protein output (e.g. liver). Smooth ER is involved in lipid synthesis, detoxification of harmful substances, and calcium storage.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell biology / organelles",
+"q": "What is the function of ribosomes?",
+"a": "Protein synthesis (translation).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell biology / organelles",
+"q": "What is synthesised in the nucleolus?",
+"a": "Ribosomal RNA (rRNA), which assembles into ribosomes. The nucleolus is specifically associated with ribosomal RNA synthesis (mRNA synthesis occurs in the nucleus but is not a nucleolar function).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Steroidogenesis",
+"q": "Which enzyme converts androgens to oestrogens, and which cytochrome family does it belong to?",
+"a": "Aromatase, which is a cytochrome P450 enzyme.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Steroidogenesis / ovary",
+"q": "In the ovary, which cells produce progesterone versus oestradiol, and which is more progesterone-specific?",
+"a": "Granulosa cells do NOT produce progesterone; they produce oestradiol. Luteal cells (corpus luteum) produce both progesterone and oestradiol, but progesterone production is the more specific/key role of luteal cells.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Reproductive endocrinology",
+"q": "Why is progesterone low in anovulatory cycles such as PCOS, and what is the consequence for LH/FSH?",
+"a": "Without ovulation no corpus luteum forms, so progesterone is not produced. The high progesterone of the luteal phase normally inhibits LH and FSH by negative feedback; without it (as in PCOS) LH and FSH are not suppressed and LH tends to be raised.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Reproductive endocrinology",
+"q": "Which gonadotrophin acts on theca cells versus granulosa cells in the ovary?",
+"a": "LH acts on theca cells; FSH acts on granulosa cells. (In the male counterpart, LH acts on Leydig cells and FSH acts on Sertoli cells.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Reproductive endocrinology",
+"q": "Which cells are the male counterparts of ovarian theca and granulosa cells?",
+"a": "Theca cells correspond to Leydig cells (LH-responsive), and granulosa cells correspond to Sertoli cells (FSH-responsive).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-base balance",
+"q": "What is the normal arterial blood pH range, and what value range indicates full compensation of an acid-base disorder?",
+"a": "Normal arterial pH is 7.35-7.45. If the pH lies within 7.35-7.45 the disorder is fully (completely) compensated; if the pH is still outside this range despite a compensatory mechanism, it is only partially compensated.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-base balance",
+"q": "What is the normal reference range for arterial PaCO2 in kPa?",
+"a": "Approximately 4.7-6.0 kPa. A PaCO2 above 6 kPa indicates CO2 retention (respiratory acidosis tendency); below 4.7 kPa indicates a low CO2 (respiratory alkalosis tendency).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-base balance",
+"q": "What is the normal serum bicarbonate (HCO3-) reference range?",
+"a": "Approximately 22-26 mmol/L (mEq/L). HCO3- below 22 suggests a metabolic acidotic process; above 26 suggests a metabolic alkalotic process.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-base balance",
+"q": "What is the normal range for base excess, and how do base deficit and base excess relate to acid-base status?",
+"a": "Normal base excess is -2 to +2 mmol/L. A value more negative than -2 (base deficit) indicates a metabolic acidosis; a value above +2 (base excess) indicates a metabolic alkalosis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-base balance",
+"q": "In a blood gas showing low pH, low PaCO2 and low HCO3-, what is the primary disorder and what is the compensation?",
+"a": "Primary metabolic acidosis (low pH supported by low HCO3-), with compensatory respiratory alkalosis (low CO2). If pH remains outside 7.35-7.45, it is only partially compensated.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-base balance",
+"q": "On a Davenport diagram, what does the CO2 isobar represent and what does the buffer line represent?",
+"a": "The CO2 isobar represents the partial pressure of CO2 (points above = high PaCO2 / respiratory acidosis tendency; below = low PaCO2). The bicarbonate buffer line indicates HCO3- level (points above the line = raised HCO3-/metabolic alkalosis tendency; below = low HCO3-/metabolic acidosis tendency). The central vertical line is normal pH; right of it is alkalosis, left is acidosis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-base balance",
+"q": "In prolonged maternal hyperventilation during labour, what acid-base disturbance develops in the fetus and why?",
+"a": "Maternal hyperventilation causes maternal respiratory alkalosis (CO2 washout, raised maternal pH). Alkalosis shifts the maternal oxygen-haemoglobin dissociation curve to the left, increasing maternal Hb affinity for O2 so less O2 is released to the fetus. Fetal hypoxia drives anaerobic metabolism (lactic acidosis) -> early metabolic acidosis, and if prolonged, CO2 retention adds respiratory acidosis -> overall a mixed metabolic and respiratory acidosis with hypoxia.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-base balance",
+"q": "How does a decrease in pH (increased H+) affect the oxygen-haemoglobin dissociation curve?",
+"a": "Decreased pH / increased H+ shifts the curve to the RIGHT, reducing Hb affinity for oxygen (favouring O2 release to tissues). Increased pH / decreased H+ (alkalosis) shifts it LEFT, increasing affinity (Bohr effect).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Vitamins",
+"q": "Which vitamin is given to newborns in the UK, and why?",
+"a": "Vitamin K. Newborns have an immature gut flora that synthesises little vitamin K, plus poor placental transfer, predisposing to vitamin K deficiency and haemorrhagic disease of the newborn.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Vitamins",
+"q": "Which clotting factors and proteins require vitamin K for activation, and by what reaction?",
+"a": "Factors II, VII, IX and X, and proteins C and S. Vitamin K is a cofactor for the gamma-carboxylation of glutamate residues, required to activate these factors.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Vitamins",
+"q": "What are the two natural forms of vitamin K and a key dietary source?",
+"a": "Phytomenadione (phylloquinone, K1) from green leafy vegetables, mushrooms and broccoli, and menaquinone (K2) from gut bacteria. Prolonged antibiotic use can disrupt the normal flora and cause vitamin K deficiency.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Amino acid metabolism",
+"q": "Which three vitamins, when deficient, cause raised homocysteine levels?",
+"a": "Vitamin B6 (pyridoxine), vitamin B9 (folate), and vitamin B12 (cobalamin). Their deficiency disrupts homocysteine metabolism, raising blood/urine homocysteine.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Amino acid metabolism",
+"q": "Which enzyme converts homocysteine to cysteine, and what is its cofactor?",
+"a": "Cystathionine beta-synthase, which uses vitamin B6 (pyridoxine) as a cofactor. Deficiency of the enzyme or B6 raises homocysteine and lowers cysteine.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Amino acid metabolism",
+"q": "In the remethylation of homocysteine to methionine, which enzymes/cofactors are involved?",
+"a": "Methionine synthase uses vitamin B12 (methylcobalamin) as a cofactor and 5-methyltetrahydrofolate as the methyl donor; methylenetetrahydrofolate reductase (MTHFR) regenerates the folate cofactor. Deficiency of B12, folate or MTHFR raises homocysteine and lowers methionine.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Amino acid metabolism",
+"q": "How can methylmalonyl-CoA / methylmalonic acid levels distinguish vitamin B12 deficiency from B6 or folate deficiency?",
+"a": "Vitamin B12 is a cofactor for methylmalonyl-CoA mutase. In B12 deficiency, methylmalonic acid (methylmalonyl-CoA) rises (and succinyl-CoA falls). In B6 or folate deficiency, methylmalonic acid is normal. Homocysteine is raised in both B12 and folate deficiency but only B12 causes raised methylmalonic acid and neurological symptoms.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Vitamins",
+"q": "Why does vitamin B12 deficiency (but not folate deficiency) cause neurological symptoms?",
+"a": "B12 deficiency leads to accumulation of methylmalonic acid, which deposits in/affects neuronal tissue, causing neurological signs such as paraesthesia and hypersensitivity. Folate deficiency does not produce neurological signs. Clinical clues to B12 deficiency: pernicious anaemia (loss of intrinsic factor), Crohn's disease/terminal ileal resection (site of B12 absorption), or metformin use.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Vitamins",
+"q": "Which vitamin acts as a reducing agent to convert ferric iron (Fe3+) to ferrous iron (Fe2+) and aids iron absorption?",
+"a": "Vitamin C (ascorbic acid). The absorbable form of iron is ferrous (Fe2+), so vitamin C enhances iron absorption. Dietary sources include citrus fruits and guava.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Vitamins",
+"q": "What is the role of vitamin C in collagen synthesis and what deficiency state results?",
+"a": "Vitamin C is a cofactor for the hydroxylation of proline and lysine residues during collagen synthesis. Deficiency disrupts collagen cross-linking causing scurvy: poor wound healing, bruising, corkscrew hairs and perifollicular haemorrhages.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Vitamins",
+"q": "What are potential harms of excess vitamin C?",
+"a": "Because it enhances iron absorption, excess vitamin C can contribute to iron toxicity/overload, and it is a risk factor for calcium oxalate nephrolithiasis (kidney stones).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell biology / defence proteins",
+"q": "How do lysozyme, secretory IgA, lactoferrin and lipocalin contribute to mucosal/conjunctival antibacterial defence?",
+"a": "Lysozyme destroys bacterial peptidoglycan; secretory IgA prevents pathogen attachment to mucosa; lactoferrin sequesters iron to limit bacterial growth; lipocalin blocks bacterial siderophores/iron-transport, depriving bacteria of iron. Defensins are antibacterial polypeptides.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell biology",
+"q": "What is the largest and what is the smallest cellular organelle?",
+"a": "The nucleus is the largest organelle; the ribosomes are the smallest.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell biology",
+"q": "Which cellular organelles have a double membrane, which have a single membrane, and which have no membrane?",
+"a": "Double membrane: nucleus and mitochondria. Single membrane: endoplasmic reticulum (smooth and rough), lysosomes, Golgi apparatus, vacuoles, peroxisomes. No membrane: ribosomes and cytoskeleton.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell biology / bioenergetics",
+"q": "In which organelle does ATP production (oxidative phosphorylation) occur, and specifically where?",
+"a": "The mitochondria. The electron transport chain / oxidative phosphorylation (ATP production) occurs on the inner mitochondrial membrane; the Krebs (TCA) cycle and beta-oxidation occur in the matrix.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell biology",
+"q": "Which organelle is self-replicating and contains its own DNA?",
+"a": "The mitochondria. They contain circular DNA (about 1% of total cellular DNA, ~37 genes) and are self-replicating.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell biology",
+"q": "What are the inner folds of the mitochondria called, and what are the inner folds of the Golgi apparatus called?",
+"a": "Mitochondrial inner membrane folds are called cristae. The Golgi apparatus folds/stacks are called cisternae.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell biology / carbohydrate metabolism",
+"q": "Why does the mature red blood cell rely on glycolysis (anaerobic) for energy?",
+"a": "Mature RBCs lack mitochondria (and a nucleus), so they cannot perform oxidative phosphorylation or use the TCA cycle/ketone bodies. They depend on anaerobic glycolysis, and pyruvate produced cannot be further oxidised.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Lipid metabolism",
+"q": "What is the source of fetal cholesterol in early versus late pregnancy?",
+"a": "In early gestation the fetal liver is immature, so maternal cholesterol contributes significantly. In late pregnancy the fetal liver matures and produces cholesterol itself.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Eicosanoids",
+"q": "Where are prostaglandins mainly degraded/cleared, and which enzyme is responsible?",
+"a": "Prostaglandins are mainly cleared in the lungs. The enzyme 15-hydroxyprostaglandin dehydrogenase inactivates circulating prostaglandins (the lung is the major site of inactivation).",
+"ai": true,
+"note": "Enzyme (15-hydroxyprostaglandin dehydrogenase) and lung clearance are correct. The transcript's specific figure of '60% inactivated' could not be verified as a standard fixed value, so the percentage is omitted from the answer."
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Eicosanoids",
+"q": "From which parent compound are most eicosanoids derived, and how is it released?",
+"a": "Arachidonic acid, a 20-carbon polyunsaturated non-essential fatty acid. It is released from membrane phospholipids by phospholipase A2. Eicosanoids/prostanoids (prostaglandins, prostacyclins, thromboxanes) are synthesised from it; leukotrienes are NOT classified as prostanoids.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Eicosanoids",
+"q": "How many carbon atoms do prostaglandins contain, and on which carbon is their hydroxyl group?",
+"a": "Prostaglandins are 20-carbon molecules (derived from arachidonic acid). Their hydroxyl group is at the C-15 position (hence the inactivating enzyme is 15-hydroxyprostaglandin dehydrogenase).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Eicosanoids",
+"q": "Contrast the effects of prostacyclin (PGI2) and thromboxane A2 on platelets.",
+"a": "Prostacyclin (PGI2) decreases platelet aggregation (and is vasodilatory); thromboxane A2 increases platelet aggregation (and is vasoconstrictive).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Eicosanoids",
+"q": "Match these obstetric prostaglandins to their actions: PGF2-alpha, PGE2, PGE1.",
+"a": "PGF2-alpha (carboprost) increases uterine contractions. PGE2 (dinoprostone) also induces uterine contraction/cervical ripening. PGE1 (misoprostol/alprostadil) reduces vascular tone (vasodilator) and is also used for cervical ripening.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Inborn errors of metabolism",
+"q": "In phenylketonuria (PKU), which enzyme is deficient and which organ is most affected?",
+"a": "Phenylalanine hydroxylase is deficient, so phenylalanine is not converted to tyrosine. Phenylalanine accumulates and the fetal/infant brain is most affected (intellectual disability, developmental delay, behavioural problems, seizures). Liver is also affected. Detected on the newborn heel-prick (Guthrie) test ~6-14 days after birth.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Amino acid metabolism",
+"q": "Outline the catecholamine/melanin synthesis pathway from phenylalanine, naming the rate-limiting enzyme.",
+"a": "Phenylalanine -> (phenylalanine hydroxylase) -> tyrosine -> (tyrosine hydroxylase, the rate-limiting step) -> DOPA -> dopamine etc. Tyrosine is also converted by tyrosinase to melanin.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Inborn errors of metabolism",
+"q": "Which enzyme is deficient in albinism, and what is the result?",
+"a": "Tyrosinase deficiency. Melanin production is reduced, giving white hair and skin.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Inborn errors of metabolism",
+"q": "Which enzyme is deficient in alkaptonuria, and what is the result?",
+"a": "Homogentisate oxidase (homogentisic acid oxidase) deficiency. Homogentisic acid accumulates in the body, is deposited in connective tissue/joints (ochronosis), and appears in the urine (darkening on standing).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Amino acid metabolism",
+"q": "What is the rate-limiting enzyme of urea synthesis?",
+"a": "Carbamoyl phosphate synthetase I (CPS-1). The urea cycle converts toxic ammonia/nitrogen into the less harmful, storable urea.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Nucleotide metabolism",
+"q": "What is the rate-limiting enzyme of uric acid production?",
+"a": "Xanthine oxidase (this is the target of allopurinol in gout).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Carbohydrate metabolism",
+"q": "Name the rate-limiting enzymes of glycolysis, glycogenolysis, glycogenesis and gluconeogenesis.",
+"a": "Glycolysis: phosphofructokinase-1. Glycogenolysis: glycogen phosphorylase. Glycogenesis (glycogen synthesis): glycogen synthase. Gluconeogenesis: fructose-1,6-bisphosphatase-1.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Metabolic regulation",
+"q": "What is the rate-limiting enzyme of the TCA (Krebs) cycle, and of catecholamine synthesis?",
+"a": "TCA cycle: isocitrate dehydrogenase. Catecholamine synthesis: tyrosine hydroxylase. (Glucose-6-phosphate dehydrogenase is rate-limiting for the pentose phosphate pathway.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell biology / junctions",
+"q": "Which type of cell junction permits passage of small molecules and ions between adjacent cells, and which protein forms it?",
+"a": "Gap junctions, formed by connexin proteins (e.g. connexin 40/43). They are abundant in the uterus and heart, allowing coordinated rhythmic contraction. Connexin expression increases with uterine contractions.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell biology / junctions",
+"q": "Match each cell junction to its key component protein: tight junction, adherens junction, desmosome.",
+"a": "Tight (occluding) junction: zonula occludens (occludin/claudin). Adherens junction: zonula adherens. Desmosome: macula adherens. Hemidesmosomes connect cells to the extracellular matrix.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-base balance",
+"q": "What is the major buffer in blood, in urine, in bone, and in intracellular fluid?",
+"a": "Blood: bicarbonate buffer (also haemoglobin). Urine: phosphate buffer. Bone: calcium carbonate (note: the abundant bone mineral is calcium phosphate, but the buffer is calcium carbonate). Intracellular fluid (ICF): protein and phosphate. Interstitial fluid: bicarbonate.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Fluid and electrolytes",
+"q": "What is the main cation and main anion of the extracellular fluid versus the intracellular fluid?",
+"a": "Extracellular fluid (ECF/plasma): main cation sodium (Na+), main anion chloride (Cl-). Intracellular fluid (ICF): main cation potassium (K+), main anion phosphate.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Endocrine biochemistry",
+"q": "How do insulin and glucagon respond to a carbohydrate-rich meal versus a protein-rich meal?",
+"a": "Carbohydrate-rich meal: glucose rises, insulin rises, glucagon falls. Protein-rich meal: both insulin AND glucagon rise (glucagon rises to prevent hypoglycaemia since carbohydrate intake is low).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Carbohydrates",
+"q": "Name the monosaccharide components of lactose and sucrose, and their dietary sources.",
+"a": "Lactose = glucose + galactose (source: milk). Sucrose = glucose + fructose (source: sugar cane / table sugar). Maltose = glucose + glucose.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Carbohydrates",
+"q": "Compare amylose, amylopectin and glycogen as polysaccharides.",
+"a": "Amylose is a linear polymer of glucose; amylopectin is a branched polymer (both are plant starch). Glycogen is the branched glucose polymer of animal starch, with alpha-1,4 linkages in chains and alpha-1,6 linkages at branch points.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Carbohydrates",
+"q": "Which common sugars are 6-carbon (hexose) and which is a 5-carbon (pentose) sugar?",
+"a": "Hexoses (6-carbon): glucose, galactose, fructose. Pentose (5-carbon): ribose.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Lipid transport",
+"q": "Which plasma protein transports free fatty acids in the blood?",
+"a": "Albumin transports free (non-esterified) fatty acids, carrying them from adipose tissue to other tissues for oxidation in the fasting state.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Lipid transport",
+"q": "What is the function of chylomicrons, VLDL, LDL and HDL in lipid transport?",
+"a": "Chylomicrons transport dietary triglycerides from the intestine to peripheral tissues. VLDL transports endogenous triglycerides (and cholesterol) from liver to tissues. LDL transports cholesterol and cholesterol esters from liver to peripheral tissues. HDL scavenges cholesterol from tissues back to the liver for excretion (reverse cholesterol transport) - the atheroprotective lipoprotein.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Lipid metabolism",
+"q": "Name the two primary bile acids and the two secondary bile acids they are converted into.",
+"a": "Primary bile acids: cholic acid and chenodeoxycholic acid (synthesised from cholesterol). Gut microbial metabolism converts cholic acid to deoxycholic acid and chenodeoxycholic acid to lithocholic acid (secondary bile acids).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Lipid metabolism",
+"q": "Which amino acids are used to conjugate bile acids?",
+"a": "Glycine and taurine.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Carbohydrate metabolism",
+"q": "What is the end product of anaerobic respiration (Cori cycle), and what is the end product of glycolysis?",
+"a": "Lactate is the end product of anaerobic respiration. Pyruvate is the end product of glycolysis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Bioenergetics",
+"q": "How many net ATP are produced from aerobic respiration of one glucose, versus anaerobic glycolysis to lactate?",
+"a": "Aerobic respiration yields ~30-32 net ATP per glucose; anaerobic glycolysis (to lactate) yields 2 ATP. Aerobic respiration is therefore about 15-16 times more energy-efficient.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Bioenergetics",
+"q": "How much ATP does one NADH versus one FADH2 yield via oxidative phosphorylation (modern estimates)?",
+"a": "One NADH yields ~2.5 ATP and one FADH2 yields ~1.5 ATP. (Glycolysis: 2 ATP + 2 NADH; each TCA turn produces 3 NADH, 1 FADH2 and 1 GTP. Substrate-level phosphorylation provides the GTP-derived ATP.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Bioenergetics / TCA cycle",
+"q": "In the TCA cycle step converting alpha-ketoglutarate to succinyl-CoA, how many CO2 and NADH (hydrogen) are produced?",
+"a": "One CO2 is released and one NADH (one hydrogen carrier) is produced, catalysed by alpha-ketoglutarate dehydrogenase.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Vitamins / calcium homeostasis",
+"q": "Outline the activation of vitamin D, including the enzymes and sites involved.",
+"a": "Vitamin D3 (cholecalciferol) is hydroxylated in the liver by 25-hydroxylase to 25-hydroxyvitamin D3 (calcidiol). It is then hydroxylated in the kidney by 1-alpha-hydroxylase to 1,25-dihydroxyvitamin D3 (calcitriol), the active form. PTH increases renal 1-alpha-hydroxylase activity.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Calcium homeostasis",
+"q": "Compare the actions of parathyroid hormone, vitamin D (calcitriol) and calcitonin on calcium and phosphate.",
+"a": "PTH: raises serum calcium (DCT reabsorption, bone osteoclastic resorption, activates vitamin D), lowers serum phosphate (increases urinary phosphate excretion at the PCT). Calcitriol: increases intestinal absorption of both calcium and phosphate, raising serum levels, and promotes bone mineralisation. Calcitonin: lowers serum calcium (inhibits osteoclasts/promotes osteoblastic activity) and lowers phosphate; released in hypercalcaemia.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Vitamins / clinical",
+"q": "What risks does folic acid supplementation in pregnancy reduce?",
+"a": "It reduces the risk of neural tube defects (its main role, via DNA/nucleotide synthesis), congenital heart disease, orofacial clefts, and may reduce preterm birth; it also has roles in cardiovascular protection and placental development. It does NOT prevent macrosomia.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Vitamins / nucleotide metabolism",
+"q": "Why is folic acid essential and what process does its deficiency disrupt?",
+"a": "Folic acid is required for synthesis of nitrogenous bases (purines/pyrimidines) and therefore DNA synthesis. Deficiency, or folate-synthesis-inhibiting/antifolate drugs (e.g. methotrexate, some antiepileptics), disrupt DNA synthesis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Vitamins / clinical",
+"q": "A patient on lamotrigine presents with macrocytic anaemia (MCV >100 fL). Which deficiency is most likely and why?",
+"a": "Folate deficiency. Macrocytic anaemia is seen in both B12 and folate deficiency, but folate is the preferred answer here because lamotrigine/antiepileptics act as antifolate drugs.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell signalling",
+"q": "Distinguish autocrine, paracrine and juxtacrine signalling.",
+"a": "Autocrine: a cell acts on itself (own receptors). Paracrine: acts on nearby neighbouring cells across a short distance. Juxtacrine: signalling between directly contacting (attached) cells with no intervening distance. Prostaglandins in obstetric tissues act mainly in a paracrine (and autocrine) manner.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Bioenergetics",
+"q": "In which part of the cell does glycolysis, the TCA cycle and the electron transport chain occur?",
+"a": "Glycolysis occurs in the cytosol/cytoplasm. The TCA (Krebs) cycle occurs in the mitochondrial matrix. The electron transport chain occurs on the inner mitochondrial membrane (cristae).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Endocrine biochemistry",
+"q": "Outline how insulin lowers blood glucose at the cellular level (signalling and transporters).",
+"a": "Insulin binds its receptor, activating the PI3K and RAS-MAPK pathways. It increases synthesis/translocation of insulin-dependent GLUT4 transporters to the cell membrane in skeletal muscle and adipose tissue, increasing glucose uptake; it increases glycogen, protein and triglyceride synthesis, increases cellular potassium and amino acid uptake and renal sodium retention, and decreases glucagon release and lipolysis. Insulin is anabolic overall.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Endocrine biochemistry",
+"q": "Describe how raised intracellular ATP triggers insulin secretion from pancreatic beta cells.",
+"a": "Glucose enters the beta cell and is metabolised, raising the ATP/ADP ratio. This closes ATP-dependent potassium channels, causing intracellular K+ to rise and membrane depolarisation. Depolarisation opens voltage-gated calcium channels, calcium influx then triggers exocytosis of insulin.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Endocrine biochemistry",
+"q": "When glucose falls, by which mechanism does glucagon initially raise it, and how does this change with prolonged starvation?",
+"a": "Glucagon's early/main effect is hepatic glycogenolysis (breakdown of stored hepatic glycogen). After ~24 hours, hepatic glycogen stores deplete and hepatic gluconeogenesis (from non-carbohydrate sources such as fat and amino acids) predominates in starvation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Steroid biochemistry",
+"q": "How many carbon atoms are in oestrogens, androgens, progestogens, and cholesterol?",
+"a": "Oestrogens: 18 carbons. Androgens (e.g. androstenedione): 19 carbons. Progesterone and the corticosteroids (aldosterone, cortisol, corticosterone): 21 carbons. Cholesterol: 27 carbons. (Prostaglandins, though not steroids, have 20 carbons.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Steroid biochemistry",
+"q": "What is the enzyme aromatase, where is it found, and what reactions does it catalyse?",
+"a": "Aromatase (cytochrome P450, CYP19) is present in granulosa and luteal cells. It converts testosterone to oestradiol and androstenedione to oestrone. Thecal cells produce androgens (androstenedione, testosterone), which granulosa cells aromatise to oestrogens.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Acid-base balance",
+"q": "What is a lactic acidosis and how does it relate to the anion gap?",
+"a": "A high-anion-gap metabolic acidosis caused by raised lactate (normally <2 mmol/L), e.g. in shock/poor tissue perfusion (cold extremities, delayed capillary refill). It is a form of metabolic acidosis with a raised lactate and increased anion gap.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell signalling / obstetric",
+"q": "Which second-messenger pathway mediates oxytocin-induced myometrial contraction, and what is the role of oestradiol?",
+"a": "Oxytocin acts via the Gq / phospholipase C - IP3 pathway, raising intracellular calcium (release from smooth ER and influx through voltage-gated calcium channels) to produce strong myometrial contraction; it also increases PGF2-alpha production. Oestradiol upregulates oxytocin receptor expression (and gap junctions), while progesterone promotes uterine quiescence.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell signalling / obstetric",
+"q": "Which mediators are involved in uterine relaxation/quiescence pathways?",
+"a": "Nitric oxide, relaxin and progesterone promote uterine relaxation. Their signalling involves cyclic nucleotide / second-messenger pathways. Progesterone maintains uterine quiescence in pregnancy.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "PTH/calcium",
+"q": "Where are the parathyroid glands located and what is their main secretory product?",
+"a": "Four parathyroid glands lie behind the thyroid gland; their chief cells produce parathyroid hormone (PTH).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "PTH/calcium",
+"q": "What is the overall effect of PTH on serum calcium and phosphate?",
+"a": "PTH raises serum calcium and lowers serum phosphate (by increasing renal phosphate excretion).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "PTH/calcium",
+"q": "How does PTH activate vitamin D in the kidney?",
+"a": "PTH increases 1-alpha-hydroxylase activity in the proximal convoluted tubule, which converts 25-hydroxyvitamin D3 to the active 1,25-dihydroxyvitamin D3 (calcitriol).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "PTH/calcium",
+"q": "Where does PTH act in the nephron to reduce phosphate reabsorption, and where to increase calcium reabsorption?",
+"a": "PTH reduces phosphate reabsorption in the proximal convoluted tubule (increasing phosphate excretion) and increases calcium reabsorption in the distal convoluted tubule.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "PTH/calcium",
+"q": "What proportion of renal calcium reabsorption is independent of PTH?",
+"a": "The majority (around 50-60%) of filtered calcium is reabsorbed passively, independent of PTH; only a small fraction (around 5-10%, in the distal tubule) is under PTH control.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "PTH/calcium",
+"q": "How does the effect of active vitamin D on serum phosphate differ from that of PTH?",
+"a": "Active vitamin D increases gut and bone absorption of BOTH calcium and phosphate, raising serum phosphate; PTH lowers serum phosphate. Both raise serum calcium.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "PTH/calcium",
+"q": "Trace the synthesis of active vitamin D from skin cholesterol.",
+"a": "UVB converts 7-dehydrocholesterol in skin to vitamin D3 (cholecalciferol); liver 25-hydroxylase makes 25-hydroxyvitamin D3; renal 1-alpha-hydroxylase (PCT) makes 1,25-dihydroxyvitamin D3 (calcitriol), the active form.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "PTH/calcium",
+"q": "What is the most biologically active form of vitamin D and where is it produced?",
+"a": "1,25-dihydroxyvitamin D3 (calcitriol), produced in the kidney by 1-alpha-hydroxylase.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "PTH/calcium",
+"q": "Which cells produce calcitonin and what is its overall effect on serum calcium?",
+"a": "Parafollicular C-cells of the thyroid produce calcitonin, which lowers serum calcium (opposing PTH).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "PTH/calcium",
+"q": "How does calcitonin lower serum calcium?",
+"a": "It inhibits osteoclast activity (and stimulates osteoblast activity to deposit calcium into bone), inhibits intestinal calcium absorption, and increases renal calcium excretion. It also lowers serum phosphate / increases phosphate excretion.",
+"ai": false,
+"note": "Transcript at one point says calcitonin 'increases osteoclast' then corrects to inhibit osteoclasts/stimulate osteoblasts; the standard fact (inhibits osteoclasts) is given here."
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Buffers",
+"q": "What is the main calcium salt of bone, and what is the main bone buffer?",
+"a": "The main bone calcium salt is calcium phosphate (hydroxyapatite); the main bone buffer is calcium carbonate.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "PTH/calcium",
+"q": "What is the organic matrix of bone (osteoid) mainly composed of?",
+"a": "Osteoid is about 90% collagen, predominantly type I collagen.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "PTH/calcium",
+"q": "Name the bone-forming, bone-resorbing, and mature bone cells.",
+"a": "Osteoblasts form bone, osteoclasts resorb (dissolve) bone, and osteocytes are mature bone cells derived from osteoblasts.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "PTH/calcium",
+"q": "What does a DEXA T-score compare, versus a Z-score?",
+"a": "T-score compares a person's bone mineral density to that of a healthy young adult (peak bone mass). Z-score compares it to a person of the same age and sex.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "PTH/calcium",
+"q": "What are the normal values for T-score and Z-score?",
+"a": "Normal T-score is above -1; normal Z-score is around 0.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "PTH/calcium",
+"q": "How are osteopenia and osteoporosis defined by T-score (WHO)?",
+"a": "Osteopenia: T-score between -1 and -2.5. Osteoporosis: T-score below -2.5.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell junctions",
+"q": "Name the four classes of cell adhesion molecules (CAMs).",
+"a": "Cadherins, integrins, immunoglobulin superfamily (e.g. ICAMs/VCAMs), and selectins.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell junctions",
+"q": "Which cell adhesion molecules are calcium-dependent for their function?",
+"a": "Cadherins and selectins are calcium-dependent. Integrins and the immunoglobulin superfamily are calcium-independent.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell junctions",
+"q": "What is the physiological and pathological role of cadherins?",
+"a": "Cadherins strongly bind adjacent cells (role in embryology/morphogenesis). Loss of cadherins in tumours allows cells to detach and metastasise (pathological role).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell junctions",
+"q": "Which adhesion molecule mediates cell binding to the extracellular matrix and is involved in cell migration?",
+"a": "Integrins. Their ligands include fibronectin, vitronectin, laminins and collagen.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell junctions",
+"q": "In leucocyte recruitment, which adhesion molecules mediate rolling/weak adhesion versus firm/tight adhesion to endothelium?",
+"a": "Selectins mediate rolling and weak adhesion (and homing); integrins (binding endothelial ICAMs of the Ig superfamily) mediate firm/tight adhesion and extravasation (diapedesis).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell junctions",
+"q": "Where are E-, P- and L-selectins expressed?",
+"a": "E-selectin on endothelial cells, P-selectin on platelets (and endothelium), L-selectin on leucocytes. Their ligands are carbohydrates/sialylated sugars.",
+"ai": false,
+"note": "Transcript lists P-selectin on platelets and L-selectin on leucocytes; standard teaching also places P-selectin on endothelium (Weibel-Palade bodies) - added for completeness."
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell junctions",
+"q": "List the five cell junction types in apical-to-basal order.",
+"a": "Tight junctions (most apical), adherens junctions, desmosomes, gap junctions, and hemidesmosomes (attach cell to basement membrane/ECM).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell junctions",
+"q": "Which proteins make up tight junctions and what is their function?",
+"a": "Claudins, occludins and zonula occludens proteins. They prevent movement of substances between cells (e.g. stop enzymes leaking between GI epithelial cells).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell junctions",
+"q": "What cytoplasmic cytoskeletal protein anchors adherens junctions versus desmosomes?",
+"a": "Adherens junctions anchor to actin filaments; desmosomes anchor to intermediate filaments (keratin).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell junctions",
+"q": "What is the shared function of adherens junctions and desmosomes, and which is stronger?",
+"a": "Both provide tensile strength / resistance to shear forces between cells. Desmosomes are stronger and predominate in tissues exposed to high shear, such as cardiac muscle.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell junctions",
+"q": "What is the function of gap junctions and which protein forms them?",
+"a": "Gap junctions allow direct cell-to-cell communication, letting ions, electrolytes and small molecules move between cells. They are formed by connexins (e.g. connexin 40).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell junctions",
+"q": "What happens to gap junctions in the myometrium during late pregnancy and labour, and why?",
+"a": "Gap junctions (connexins) increase in the myometrium near term/in labour, allowing sodium and calcium to move easily cell-to-cell so contractions are coordinated.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell junctions",
+"q": "Which junction anchors a cell to the basement membrane/ECM, and what proteins are involved?",
+"a": "Hemidesmosomes. They use integrins to bind ECM ligands (fibronectin, laminin, collagen) to the basal lamina, with intermediate filaments (keratin) on the cytoplasmic side.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell signalling",
+"q": "Name the four modes by which a hormone can signal to a target cell.",
+"a": "Endocrine (via blood to distant cells), paracrine (to neighbouring cells), autocrine (to the same cell), and juxtacrine (membrane-bound ligand binding receptor on an immediately adjacent cell).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell signalling",
+"q": "In signal transduction, what are the primary and second messengers?",
+"a": "The primary messenger is the hormone binding its receptor; binding then activates a second messenger system (transduction) that produces the cellular response.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell signalling",
+"q": "What are the main receptor types used in primary messenger signalling?",
+"a": "G-protein-coupled receptors, enzyme-coupled (e.g. receptor tyrosine kinase) receptors, and ion-channel receptors.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell signalling",
+"q": "Name common second messengers used in cell signalling.",
+"a": "IP3 (inositol triphosphate) and DAG (diacylglycerol), cyclic AMP and cyclic GMP, calcium ions, and gases such as nitric oxide.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell signalling",
+"q": "Through what receptor type do steroid hormones, vitamin D and thyroid hormone act?",
+"a": "Intracellular (cytoplasmic/nuclear) receptors acting as nuclear transcription factors, binding DNA to alter gene expression and protein synthesis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell signalling",
+"q": "Are prostaglandins autocrine or paracrine signals?",
+"a": "Mainly paracrine (e.g. in uterine contraction and the menstrual cycle); paracrine is preferred over autocrine when both options are offered.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell signalling",
+"q": "What second messenger pathway does oxytocin use to cause uterine contraction?",
+"a": "Oxytocin acts via a Gq-coupled receptor activating phospholipase C, generating IP3 which raises intracellular calcium and causes myometrial contraction.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell signalling",
+"q": "What second messenger pathway mediates uterine smooth muscle relaxation?",
+"a": "Nitric oxide acts via the cyclic GMP (cGMP) pathway (and cAMP) to cause relaxation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell signalling",
+"q": "What is the precursor of all steroid hormones?",
+"a": "Cholesterol is the common precursor of all steroid hormones; pregnenolone is the first product formed from cholesterol.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell signalling",
+"q": "Outline the steroidogenesis pathway from cholesterol to testosterone.",
+"a": "Cholesterol -> pregnenolone -> (17-alpha-hydroxylase) 17-OH-pregnenolone -> (17,20-lyase) DHEA -> (3-beta-hydroxysteroid dehydrogenase) androstenedione -> (17-beta-hydroxysteroid dehydrogenase) testosterone.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell signalling",
+"q": "What converts testosterone to dihydrotestosterone (DHT)?",
+"a": "5-alpha-reductase converts testosterone to DHT.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell signalling",
+"q": "What enzyme converts androgens to oestrogens, and where in the ovary does this occur?",
+"a": "Aromatase (a cytochrome P450) converts androgens to oestrogens, occurring in granulosa cells (which receive androgens diffusing from theca cells).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell signalling",
+"q": "In the two-cell theory, what do theca cells produce versus granulosa cells?",
+"a": "Theca cells produce androgens (androstenedione/testosterone); granulosa cells aromatise these androgens into oestrogens (and, as luteal cells, also make progesterone and oestradiol).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell signalling",
+"q": "Which steroidogenic enzyme is absent in the placenta, and what is the consequence?",
+"a": "The placenta lacks 17-alpha-hydroxylase (CYP17). It relies on fetal adrenal DHEA(S) as substrate and produces large amounts of oestriol.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell signalling",
+"q": "What are the carbon numbers of the main steroid hormone classes?",
+"a": "Oestrogens C18, androgens C19, progestogens/progesterone C21 (also aldosterone and cortisol C21), and cholesterol C27.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Cell signalling",
+"q": "On which carbon of cholesterol is the hydroxyl (OH) group attached?",
+"a": "On carbon 3 (C3).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Fatty acids",
+"q": "From what precursor are prostaglandins (and other eicosanoids) synthesised, and what releases it?",
+"a": "From arachidonic acid (a polyunsaturated fatty acid), released from membrane phospholipids by phospholipase A2.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Fatty acids",
+"q": "Which products are classed as eicosanoids?",
+"a": "Leukotrienes, lipoxins, prostaglandins, prostacyclin and thromboxanes. Prostaglandins, prostacyclin and thromboxanes are the prostanoids; leukotrienes and lipoxins are not prostanoids.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Fatty acids",
+"q": "On which carbon of a prostaglandin is the alcohol (OH) group attached?",
+"a": "Carbon 15 (C15).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Fatty acids",
+"q": "How are prostaglandins eliminated from the circulation?",
+"a": "Mainly by the lungs; about 65% is removed in a single circulation, via the enzyme 15-hydroxyprostaglandin dehydrogenase.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Fatty acids",
+"q": "Give examples of saturated fatty acids and whether they are essential.",
+"a": "Palmitic, stearic, myristic and lauric acids are saturated and non-essential (the body can synthesise them).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Fatty acids",
+"q": "Which fatty acid is the main monounsaturated (omega-9) fatty acid?",
+"a": "Oleic acid (omega-9), which is non-essential.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Fatty acids",
+"q": "Which are the two essential (polyunsaturated) fatty acids and their classes?",
+"a": "Alpha-linolenic acid (omega-3) and linoleic acid (omega-6) are essential.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Fatty acids",
+"q": "Name non-essential omega-3 and omega-6 polyunsaturated fatty acids.",
+"a": "Omega-3: EPA (eicosapentaenoic acid) and DHA (docosahexaenoic acid). Omega-6: gamma-linolenic acid and arachidonic acid.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Electrolytes",
+"q": "What is the daily water intake/output balance in an adult?",
+"a": "Total intake/production is about 2500 ml/day (oral fluids ~1500 ml, food ~700-800 ml, metabolic water ~200-300 ml). Output: urine ~1500 ml, insensible loss via sweat/skin ~600 ml, lungs/respiration ~300 ml, faeces ~100 ml.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Electrolytes",
+"q": "What is total body water as a fraction of body weight, and how is it distributed (70 kg man)?",
+"a": "Total body water is about 60% of body weight (~42 L in a 70 kg man). Intracellular fluid ~2/3 (~28 L, 40% body weight); extracellular fluid ~1/3 (~14 L, 20% body weight), of which plasma ~3.5 L and interstitial fluid ~10.5 L.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Electrolytes",
+"q": "What is the normal range for urine output per hour?",
+"a": "About 0.5-1 ml/kg/hour; the lower limit (0.5 ml/kg/hr) is used clinically to classify oliguria.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Electrolytes",
+"q": "Define oliguria and anuria by 24-hour urine volume.",
+"a": "Oliguria: urine output less than 400 ml/day. Anuria: less than 100 ml/day.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Buffers",
+"q": "What is the major (most abundant) buffer in blood/extracellular fluid?",
+"a": "The bicarbonate buffer system.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Buffers",
+"q": "What is the most important/specific buffer of urine?",
+"a": "Ammonia (the ammonia/ammonium system); phosphate is the next answer if ammonia is not an option.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Buffers",
+"q": "What are the main buffers of intracellular fluid (ICF) and of red blood cells?",
+"a": "ICF: protein and phosphate. Red blood cells: haemoglobin.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Buffers",
+"q": "What is the main buffer of bone?",
+"a": "Calcium carbonate.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Electrolytes",
+"q": "What are the main cation and anion of extracellular fluid (plasma/interstitial)?",
+"a": "Main cation is sodium; main anion is chloride.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Electrolytes",
+"q": "What are the main intracellular cation and anion?",
+"a": "Main intracellular cation is potassium; main intracellular anion is phosphate (with proteins).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Electrolytes",
+"q": "Which electrolyte deficiency causes paralytic ileus?",
+"a": "Hypokalaemia (low potassium).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Electrolytes",
+"q": "Which ion is the main determinant of the resting membrane potential, and which of depolarisation/action potential?",
+"a": "Potassium determines the resting membrane potential (and hyperpolarisation); sodium drives depolarisation and the action potential. Calcium also contributes to cardiac depolarisation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Electrolytes",
+"q": "What clinical features suggest hypernatraemia?",
+"a": "Thirst and dry mouth are the key features; also altered level of consciousness and changes in blood pressure.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Electrolytes",
+"q": "What are the important signs of hypocalcaemia?",
+"a": "Chvostek's sign and Trousseau's sign (neuromuscular irritability/tetany).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "Electrolytes",
+"q": "What is the classic symptom mnemonic for hypercalcaemia?",
+"a": "Bones, stones, abdominal groans and psychiatric overtones (bone pain, renal stones, abdominal pain, depression/lethargy). Often seen with malignancy or primary hyperparathyroidism.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "vitamins",
+"q": "Which vitamins are fat-soluble and which are water-soluble?",
+"a": "Fat-soluble: A, D, E, K. Water-soluble: B-complex (B1, B2, B3, B5, B6, B7, B9, B12) and vitamin C.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "vitamins",
+"q": "Why does coeliac disease cause fat-soluble vitamin deficiency?",
+"a": "Coeliac disease causes fat malabsorption; because A, D, E and K are absorbed with dietary fat, their absorption is also impaired.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "vitamins",
+"q": "Name vitamins B1, B2, B3 and B5.",
+"a": "B1 = thiamine, B2 = riboflavin, B3 = niacin (nicotinic acid), B5 = pantothenic acid.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "vitamins",
+"q": "What conditions result from thiamine (vitamin B1) deficiency?",
+"a": "Wernicke's encephalopathy, dry beri-beri and wet beri-beri.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "vitamins",
+"q": "In hyperemesis gravidarum, which vitamin must be replaced and why?",
+"a": "Thiamine (B1) - severe, protracted vomiting can precipitate thiamine deficiency (and Wernicke's encephalopathy), so thiamine is given.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "vitamins",
+"q": "When should Wernicke's encephalopathy (not just simple thiamine deficiency) be chosen in an alcoholic pregnant woman?",
+"a": "Only when there is memory loss/amnesia, because Wernicke-Korsakoff is more chronic and takes time to develop; without those symptoms, choose thiamine deficiency rather than Wernicke's.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "vitamins",
+"q": "What are the features of riboflavin (vitamin B2) deficiency, and what coenzymes is it part of?",
+"a": "Deficiency: angular stomatitis/cheilosis and corneal vascularisation. Riboflavin is part of FAD and FMN, which act as cofactors in redox reactions of carbohydrate and fat metabolism.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "vitamins",
+"q": "What are the '3 Ds' of niacin (vitamin B3) deficiency (pellagra), and what amino acid is its source?",
+"a": "Diarrhoea, dementia and dermatitis. Niacin can be synthesised from the amino acid tryptophan.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "vitamins",
+"q": "Why can excess niacin (or carcinoid) cause facial flushing via tryptophan metabolism?",
+"a": "Tryptophan is a precursor for both niacin and serotonin; excess serotonin causes facial flushing.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "vitamins",
+"q": "What is the role of vitamin B7 (biotin) in fatty acid synthesis?",
+"a": "Biotin is the cofactor for acetyl-CoA carboxylase, the rate-limiting enzyme of fatty acid synthesis. If B7 is not an option, B5 (as part of coenzyme A) may be chosen.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "vitamins",
+"q": "Which vitamin is the key cofactor for amino acid synthesis/metabolism (transamination)?",
+"a": "Vitamin B6 (pyridoxine) - it acts as a cofactor in amino acid metabolism reactions.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "vitamins",
+"q": "What are vitamin B9 (folate) and vitamin B12 each required for?",
+"a": "Folate (tetrahydrofolate) is a component in synthesis of nitrogenous/RNA-DNA bases; vitamin B12 is also required for DNA synthesis (and myelin maintenance).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "vitamins",
+"q": "How do you differentiate B12 deficiency from folate deficiency clinically?",
+"a": "Neurological symptoms occur in B12 deficiency (due to its role in myelin) but NOT in folate deficiency. Both cause macrocytic (megaloblastic) anaemia with hypersegmented neutrophils on film.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "vitamins",
+"q": "How do you distinguish vitamin E deficiency from B12 deficiency when both cause neurological symptoms?",
+"a": "Vitamin E deficiency does NOT cause hypersegmented neutrophils or macrocytic/megaloblastic anaemia, whereas B12 deficiency does.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "vitamins",
+"q": "Which drugs/conditions cause B12 vs folate deficiency?",
+"a": "Folate: antiepileptic drugs and methotrexate. B12: terminal ileum resection (e.g. Crohn's) and pernicious anaemia (intrinsic-factor-producing cells destroyed by autoimmune gastritis).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "vitamins",
+"q": "In B12 vs folate deficiency, how do homocysteine and methylmalonic acid (MMA) levels differ?",
+"a": "Both cause raised homocysteine. MMA is raised in B12 deficiency but normal in folate deficiency - so a raised MMA points to B12 deficiency.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "vitamins",
+"q": "Which is the most common cause of megaloblastic anaemia, and what is the diagnostic test?",
+"a": "Folic acid deficiency is the most common cause. Diagnosis: measure serum folate and serum B12 together (B12 preferred where available, as deficiency is common in vegetarians/elderly).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "vitamins",
+"q": "What are the two main roles of vitamin C, and what deficiency disease results?",
+"a": "Vitamin C reduces iron Fe3+ to Fe2+ (aiding iron absorption) and is needed for hydroxylation of proline and lysine in collagen synthesis. Deficiency causes scurvy.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "vitamins",
+"q": "What can excess vitamin C cause?",
+"a": "Iron toxicity, because vitamin C enhances iron absorption (by reducing Fe3+ to Fe2+).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "vitamins",
+"q": "Why is vitamin K given to newborns at birth?",
+"a": "Neonatal gut microbiota are not yet well developed, so endogenous vitamin K production is low; an injection prevents haemorrhagic disease of the newborn. Vitamin K activates clotting factors II, VII, IX, X and proteins C and S via gamma-carboxylation of glutamic acid.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "vitamins",
+"q": "What enzymatic reaction does vitamin K catalyse, and which clotting factors depend on it?",
+"a": "Gamma-carboxylation of glutamic acid residues, activating clotting factors II, VII, IX and X plus proteins C and S.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "vitamins",
+"q": "What are the two dietary forms of vitamin A and their sources?",
+"a": "Carotenoids (e.g. beta-carotene) from plant sources, and retinol/retinal from animal sources.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "vitamins",
+"q": "What are the functions and deficiency features of vitamin A?",
+"a": "Functions: component of visual pigment and epithelial differentiation (prevents squamous metaplasia). Deficiency: dry skin (xerosis cutis), dry eyes, night blindness and keratomalacia.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "vitamins",
+"q": "What does vitamin A toxicity cause, and why must it be stopped before conception?",
+"a": "Toxicity causes raised intracranial pressure (idiopathic intracranial hypertension). Vitamin A (e.g. isotretinoin used for acne) is teratogenic, so it should be stopped at least 3 months before conception.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "vitamins",
+"q": "What does excess vitamin E cause, and what is its therapeutic role?",
+"a": "Excess vitamin E alters vitamin K metabolism and can cause haemorrhage. Therapeutically it has a role in treating infertility and recurrent miscarriage.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "vitamins",
+"q": "Which vitamin deficiencies cause raised homocysteine, and which one is the classic cause of homocystinuria?",
+"a": "Folate, B12 and B6 deficiency all raise homocysteine. B6 deficiency is preferred for classic homocystinuria, because vitamin B6 is the cofactor for cystathionine beta-synthase.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "In folate/B12 deficiency, what reaction is impaired and how does it affect homocysteine and methionine?",
+"a": "Conversion of homocysteine to methionine (B12-dependent, with folate as cofactor) is impaired, so homocysteine rises and methionine falls.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "What characterises collagen structure?",
+"a": "A triple helix (not double helix) with a tertiary structure; rich in hydroxylated lysine and proline; cannot form without vitamin C, which hydroxylates lysine and proline.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "Classify the carbohydrates: glucose, fructose, lactose, sucrose, trehalose, starch.",
+"a": "Monosaccharides (hexoses): glucose, fructose. Disaccharides: lactose (galactose + glucose, milk sugar), sucrose (glucose + fructose, table sugar). Trisaccharide: trehalose (glucose). Polysaccharides: starch and glycogen.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "What two monosaccharides make up lactose and sucrose?",
+"a": "Lactose = galactose + glucose. Sucrose = glucose + fructose.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "Compare amylose, amylopectin and glycogen.",
+"a": "Amylose = linear (unbranched) polysaccharide of glucose. Amylopectin = branched polysaccharide of glucose. Glycogen = branched glucose polymer found in animals, with 1,4 (linear) and 1,6 (branch) linkages.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "Which fatty acids are saturated, and how are unsaturated fatty acids subdivided?",
+"a": "Saturated (all non-essential): palmitic, stearic, myristic, lauric. Unsaturated = monounsaturated (e.g. omega-9, non-essential) or polyunsaturated (omega-3 and omega-6, which may be essential or non-essential).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "Which polyunsaturated fatty acids are essential (omega-3 vs omega-6)?",
+"a": "Essential omega-3 = alpha-linolenic acid; essential omega-6 = linoleic acid. A polyunsaturated essential fatty acid that must be added to the diet and is NOT in the omega-3 class is linoleic acid (omega-6).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "What is the source of arachidonic acid and which compounds are derived from it?",
+"a": "Arachidonic acid comes from membrane phospholipids; from it the eicosanoids are derived via two pathways - the leukotriene pathway and the prostaglandin pathway.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "Which amino acids are basic, acidic and branched-chain?",
+"a": "Basic: histidine, arginine, lysine. Acidic: aspartic acid, glutamic acid. Branched-chain: leucine, isoleucine, valine.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "What are the key amino acid derivatives (precursor products)?",
+"a": "Phenylalanine to tyrosine to DOPA; tryptophan to niacin and serotonin to melatonin; tyrosine to melanin (pigment); histidine to histamine; glycine to heme; glutamate to GABA and glutamine; arginine to urea, creatinine and nitric oxide.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "Which amino acid is the precursor of nitric oxide, and what are NO's actions?",
+"a": "Arginine. Nitric oxide causes vasodilation and is anti-atherogenic and anti-aggregatory (inhibits platelet aggregation).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "cell organelles",
+"q": "Which metabolic pathways occur in the cytoplasm (cytosol)?",
+"a": "Most synthesis reactions: glycolysis, glycogenesis/glycogenolysis, protein synthesis, nucleic acid synthesis, cholesterol synthesis, fatty acid synthesis (adipocytes/liver), and HMP shunt. These do not require oxygen.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "cell organelles",
+"q": "Which metabolic processes occur in the mitochondria?",
+"a": "Electron transport chain (inner membrane), Krebs/TCA cycle (matrix), beta-oxidation of short-chain fatty acids, and part of urea cycle and gluconeogenesis. Long-chain fatty acid beta-oxidation occurs in peroxisomes.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "cell organelles",
+"q": "Where does beta-oxidation of long-chain vs short-chain fatty acids occur, and which is chosen for 'fatty acid breakdown'?",
+"a": "Short-chain fatty acid beta-oxidation in mitochondria; long-chain in peroxisomes. If peroxisome and mitochondrion are both options for fatty acid breakdown, choose peroxisome.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "cell organelles",
+"q": "Where does lipid synthesis (vs fatty acid synthesis) occur?",
+"a": "Lipid synthesis occurs in the smooth endoplasmic reticulum; fatty acid synthesis (the monomers of lipids) occurs in the cytoplasm.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "What are the alternative names for the TCA cycle, glycolysis pathways, HMP shunt and ETC?",
+"a": "TCA cycle = Krebs cycle = citric acid (tricarboxylic acid) cycle. Aerobic glycolysis = EMP (Embden-Meyerhof) pathway. Anaerobic glycolysis = Cori cycle (lactic acid cycle). HMP shunt = pentose phosphate pathway. ETC = oxidative phosphorylation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "What is the rate-limiting enzyme of glycolysis, and the reaction it catalyses?",
+"a": "Phosphofructokinase (PFK-1), which converts fructose-6-phosphate to fructose-1,6-bisphosphate.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "What are the net products of glycolysis from one glucose molecule?",
+"a": "2 pyruvate, 2 NADH, and a net 2 ATP (4 ATP produced, 2 consumed in the first two steps).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "Using physiological yields (NADH = 2.5 ATP, FADH2 = 1.5 ATP), what is the net ATP yield from one glucose oxidised aerobically?",
+"a": "Approximately 30-32 ATP per glucose molecule.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "Why do some textbooks quote 36-38 ATP per glucose rather than 30-32?",
+"a": "36-38 is the older theoretical yield using NADH = 3 ATP and FADH2 = 2 ATP. The modern physiological yields are NADH = 2.5 ATP and FADH2 = 1.5 ATP, giving 30-32; prefer 30-32 unless the question specifically asks for theoretical yield.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "What is the rate-limiting step and enzyme of the TCA (Krebs) cycle?",
+"a": "Conversion of isocitrate to alpha-ketoglutarate, catalysed by isocitrate dehydrogenase (the rate-limiting enzyme).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "How many carbons are in the key TCA intermediates citrate, alpha-ketoglutarate and the C4 intermediates?",
+"a": "Citrate and isocitrate have 6 carbons; alpha-ketoglutarate has 5 (one CO2 lost); succinyl-CoA onward have 4 carbons (after a second CO2 is lost).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "What are the products of one turn of the TCA cycle, and how many ATP does it generate?",
+"a": "Per turn: 2 CO2, 3 NADH, 1 FADH2 and 1 GTP (= 1 ATP), yielding about 10 ATP. Two turns occur per glucose (from 2 pyruvate), giving about 20 ATP.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "What is generated when pyruvate is converted to acetyl-CoA before entering the TCA cycle?",
+"a": "1 NADH per pyruvate (so 2 NADH per glucose), with loss of CO2; pyruvate is not directly entered into the TCA cycle but first reduced/converted to acetyl-CoA.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "cell organelles",
+"q": "How is ATP generated in the electron transport chain vs substrate-level phosphorylation?",
+"a": "The ETC (oxidative phosphorylation) in mitochondria generates ATP from NADH/FADH2. Substrate-level phosphorylation produces the directly formed ATP/GTP (e.g. in glycolysis and the TCA cycle).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "What is the rate-limiting enzyme of glycogenolysis, and what bond does it break?",
+"a": "Glycogen phosphorylase (rate-limiting), which breaks 1,4 linkages. Debranching enzyme then breaks 1,6 linkages but is not rate-limiting.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "Which hormones stimulate glycogenolysis, and which stimulates glycogenesis?",
+"a": "Glucagon and epinephrine (adrenaline) stimulate glycogen phosphorylase (breakdown). Insulin stimulates glycogen synthase (glycogen synthesis).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "What is the rate-limiting enzyme of glycogen synthesis, and what linkages do synthase and branching enzyme form?",
+"a": "Glycogen synthase is rate-limiting and forms 1,4 linkages; the branching enzyme forms 1,6 linkages.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "Why can only the liver (not muscle) release free glucose from glycogen?",
+"a": "Glucose-6-phosphatase removes the phosphate from glucose-6-phosphate to make free glucose, and it is present essentially only in the liver. Muscle lacks this enzyme, so muscle glycogen is used only locally.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "What stimulates and inhibits glucagon release?",
+"a": "Stimulators: hypoglycaemia, sympathetic (epinephrine) stimulation, high-protein meal, increased amino acids, cholecystokinin. Inhibitors: insulin, hyperglycaemia, increased fatty acids and ketoacids, somatostatin, amylin, gastric inhibitory peptide and urea.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "After a protein-rich meal vs a carbohydrate-rich meal, how do insulin and glucagon respond?",
+"a": "After a protein-rich meal both insulin and glucagon rise. After a carbohydrate-rich meal insulin rises and glucagon falls.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "What is the ATP balance of the Cori cycle (anaerobic glycolysis + hepatic gluconeogenesis)?",
+"a": "Anaerobic glycolysis in muscle yields net 2 ATP per glucose; hepatic gluconeogenesis consumes 6 ATP to remake glucose - so the Cori cycle has a net cost of 4 ATP.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "If oxygen is absent, what happens to pyruvate, and how much net ATP is produced?",
+"a": "Pyruvate is converted to lactate (anaerobic glycolysis/Cori cycle); net 2 ATP per glucose are produced.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "What is the rate-limiting enzyme of fatty acid synthesis vs fatty acid oxidation?",
+"a": "Fatty acid synthesis: acetyl-CoA carboxylase (cofactor biotin/B7). Fatty acid oxidation: carnitine acyltransferase I (CAT-1/CPT-1).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "Name the rate-limiting enzymes of cholesterol synthesis, ketone body synthesis and catecholamine synthesis.",
+"a": "Cholesterol synthesis: HMG-CoA reductase. Ketone body synthesis: HMG-CoA lyase. Catecholamine synthesis: tyrosine hydroxylase.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "What is the rate-limiting enzyme of the urea cycle and of uric acid synthesis?",
+"a": "Urea cycle: carbamoyl phosphate synthetase I (uses 2 ATP). Uric acid synthesis: xanthine oxidase (converts xanthine to uric acid).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "What is the function of glucose-6-phosphate dehydrogenase (G6PD) and the HMP shunt?",
+"a": "G6PD is the rate-limiting enzyme of the HMP (pentose phosphate) shunt; it removes hydrogen and reduces NADP to NADPH. NADPH (via glutathione) reduces oxidative stress in red blood cells, preventing their destruction.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "Where does the urea cycle take place and what is the source of ammonia it disposes of?",
+"a": "The urea cycle takes place mainly in the liver. Ammonia is produced by deamination of amino acids and is converted to urea for excretion.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "In phenylketonuria, alkaptonuria and albinism, which enzymes are deficient?",
+"a": "PKU: phenylalanine hydroxylase (phenylalanine high, tyrosine low; Guthrie test 6-14 days after birth). Alkaptonuria: homogentisate oxidase absent (homogentisic acid high). Albinism: tyrosinase deficient (DOPA cannot form melanin).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "What fuels are preferentially used by the heart, brain and the fetus?",
+"a": "Heart uses fatty acids as its main energy source (not glucose). Brain can use glucose or ketone bodies. The fetus uses glucose as its main energy source; the mother uses ketone bodies, sparing glucose and amino acids for the fetus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "What energy sources are used during feeding, fasting and starvation?",
+"a": "Feeding: glycolysis. Fasting between meals: glycogenolysis. Starvation (first ~3 days): glycogenolysis, fatty acid oxidation and hepatic gluconeogenesis. After ~3 days: ketone bodies.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "Name the three ketone bodies, where they are produced, and which can be used for energy.",
+"a": "Beta-hydroxybutyrate, acetoacetate and acetone, produced in hepatocytes (liver). Beta-hydroxybutyrate and acetoacetate are used as energy sources; acetone is eliminated via respiration. Rate-limiting enzyme: HMG-CoA lyase.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "Name the primary and secondary bile acids.",
+"a": "Primary bile acids: cholic acid and chenodeoxycholic acid. Intestinal bacteria convert them to the secondary bile acids: deoxycholic acid and lithocholic acid.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "List the lipoproteins and their main transport functions.",
+"a": "Chylomicrons carry triglyceride from intestine to peripheral tissues; VLDL carries triglyceride/cholesterol from liver to periphery; becomes IDL then LDL; HDL carries cholesterol from peripheral tissues back to the liver (reverse transport) and is inversely related to atherosclerosis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "metabolism",
+"q": "Which lipoprotein is highest density and which is protective against atherosclerosis?",
+"a": "HDL (high-density lipoprotein) is the densest and is protective - it removes cholesterol and is inversely related to atherosclerosis risk.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "cell organelles",
+"q": "Which cell organelles are double-membrane, single-membrane and membrane-less?",
+"a": "Double-membrane: mitochondria and nucleus. Single-membrane: endoplasmic reticulum, lysosomes, peroxisomes, vacuoles, Golgi bodies. Membrane-less: ribosomes and cytoskeleton.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "cell organelles",
+"q": "What is the largest and smallest cell organelle?",
+"a": "Largest: nucleus. Smallest: ribosome.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "cell organelles",
+"q": "What is the function of ribosomes, and where is ribosomal RNA synthesised?",
+"a": "Ribosomes (eukaryotic 80S) carry out protein synthesis by reading mRNA and assembling amino acids brought by tRNA. Ribosomal RNA is synthesised in the nucleolus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "cell organelles",
+"q": "What is the function of the rough endoplasmic reticulum, and in which cells is it abundant?",
+"a": "Rough ER (ribosome-studded, gives basophilia) carries out protein synthesis. It is abundant in protein-producing cells such as plasma cells (antibodies), pancreatic acinar cells and hepatocytes.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "cell organelles",
+"q": "What are the functions of smooth endoplasmic reticulum?",
+"a": "Lipid synthesis, calcium storage (for muscle contraction/second messenger systems), and detoxification of drugs/alcohol - hence abundant in liver.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "cell organelles",
+"q": "What is the function of the Golgi apparatus, and in which cells is it abundant?",
+"a": "The Golgi apparatus modifies (post-translational modification of proteins/lipids), packages and transports proteins made by the rough ER for secretion. Abundant in secretory cells.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "cell organelles",
+"q": "What are cristae, and what does the mitochondrial inner membrane contain?",
+"a": "Cristae are the folds of the mitochondrial inner membrane, which contains the electron transport chain (ATP production). The matrix contains the TCA cycle.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "cell organelles",
+"q": "Why are mitochondria considered self-replicating, and how much DNA do they contain?",
+"a": "Mitochondria have their own DNA (about 1% of total cellular DNA, ~37 genes) and can self-replicate.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "cell organelles",
+"q": "What are the functions of lysosomes?",
+"a": "Lysosomes contain hydrolytic enzymes for digestion of materials, microbial killing, degradation and cytotoxic killing; they are abundant in phagocytic cells. Body secretions of lysozyme attack bacterial cell walls.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "cell organelles",
+"q": "What are the functions of peroxisomes?",
+"a": "Peroxisomes contain hydrolytic enzymes for beta-oxidation of long-chain fatty acids, breakdown of hydrogen peroxide, and are bactericidal; they are involved in alcohol detoxification. They are the main organelle for fatty acid oxidation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "cell organelles",
+"q": "Which organelle is involved in alcohol detoxification when peroxisome and smooth ER are both options?",
+"a": "Choose peroxisome when both peroxisome and smooth ER are offered for alcohol/drug detoxification (the textbook preferred answer), although smooth ER also has a role.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "cell organelles",
+"q": "What is the function of the cytoskeleton, and what are its three components?",
+"a": "The cytoskeleton (no membrane) maintains cell shape and is involved in cell movement and cytokinesis. Components: microfilaments, microtubules and intermediate filaments.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biochemistry",
+"subtopic": "cell organelles",
+"q": "Why does the uterus require abundant mitochondria/ATP near labour, and what other structures are ATP-dependent for movement?",
+"a": "The uterus needs increasing ATP to contract effectively during labour. Flagella and cilia also require high ATP for rapid movement.",
+"ai": false,
+"note": ""
+}
+]
+},
+{
 "id": "biophysics",
 "title": "Biophysics",
 "cards": [
