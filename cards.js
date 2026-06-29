@@ -10668,6 +10668,2484 @@ window.SECTIONS = [
 ]
 },
 {
+"id": "pathology",
+"title": "Pathology",
+"cards": [
+{
+"topic": "Pathology",
+"subtopic": "Cell injury",
+"q": "What is the difference between reversible and irreversible cell injury in terms of the lysosomal enzymes?",
+"a": "In reversible injury there is cellular swelling (hydropic change) from Na+/K+ pump failure, with swelling of organelles and clumping of chromatin. In irreversible injury the lysosomal enzymes leak into the cytoplasm and begin autodigestion of the cell, organelles undergo vacuolisation, and ribosomes detach from rough endoplasmic reticulum.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Cell injury",
+"q": "What microscopic changes are seen in irreversible (lethal) cell injury?",
+"a": "Cytoplasm shows increased eosinophilia. Nuclear changes occur in sequence: pyknosis (nuclear condensation/shrinkage), karyorrhexis (nuclear fragmentation), then karyolysis (dissolution/fading of the nucleus).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Cell injury",
+"q": "How does apoptosis differ from necrosis at the cellular level?",
+"a": "Apoptosis is programmed, energy-dependent cell death; lysosomal enzymes are NOT released into the cytoplasm. Instead there is cytoplasmic blebbing and the cell fragments into apoptotic bodies that are phagocytosed without inducing inflammation or injury to neighbouring cells. Necrosis is unprogrammed death of living tissue with enzyme release and an inflammatory response.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Cell injury",
+"q": "What is the difference between necrosis and autolysis?",
+"a": "Necrosis is unprogrammed cell death occurring in living tissue (in vivo). Autolysis is self-digestion of cells in non-living/dead tissue (e.g. post-mortem) by the cell's own enzymes.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Cell injury",
+"q": "Give physiological and pathological examples of apoptosis.",
+"a": "Physiological: embryogenesis, follicular atresia, menopause, endometrial shedding, removal of virus-infected and neoplastic cells by cytotoxic T cells. Pathological: graft-versus-host disease, ductal atrophy (e.g. cystic fibrosis), Councilman bodies in viral hepatitis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Necrosis",
+"q": "What is the most common type of necrosis and where is it seen?",
+"a": "Coagulative necrosis is the most common type. It is seen in solid organs (heart, liver, kidney) secondary to ischaemia, e.g. post-myocardial infarction or post-ischaemic injury. The tissue architecture/outline is preserved.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Necrosis",
+"q": "Which type of necrosis occurs in the brain following an ischaemic stroke?",
+"a": "Liquefactive (colliquative) necrosis. The brain is the exception to coagulative necrosis seen in other solid organs. Liquefactive necrosis is also seen in abscesses.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Necrosis",
+"q": "What type of necrosis is characteristic of tuberculosis?",
+"a": "Caseous necrosis, which shows a cheesy/amorphous appearance with loss of tissue architecture.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Necrosis",
+"q": "Where is fat necrosis typically seen?",
+"a": "In acute pancreatitis, where released lipases saponify fat producing fat necrosis on the omentum; and in the breast following trauma.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Necrosis",
+"q": "What is fibrinoid necrosis and where is it seen in obstetrics?",
+"a": "Fibrinoid necrosis is death of blood vessel wall cells, classically from antibody-antigen (immune) complex deposition in the vessel wall, with leakage of fibrinogen producing a fibrin-like appearance. In obstetrics it is seen in the spiral arteries in pre-eclampsia, and also in malignant hypertension.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Necrosis",
+"q": "How do dry, wet and gas gangrene relate to other necrosis types?",
+"a": "Dry gangrene is similar to coagulative necrosis and is secondary to ischaemia (digits/limbs). Wet gangrene resembles liquefactive necrosis and is secondary to infection. Gas gangrene is secondary to infection (clostridial) with crepitus at the site.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Inflammation",
+"q": "What is the earliest vascular response in acute inflammation?",
+"a": "Haemostasis — transient vasoconstriction of the blood vessels to prevent bleeding at the site of injury. This is followed later by inflammatory-mediator-driven vasodilatation and increased blood flow.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Inflammation",
+"q": "What are the cardinal signs of inflammation (Celsus/Virchow)?",
+"a": "Rubor (redness), calor (heat), tumor (swelling/oedema), dolor (pain), and functio laesa (loss of function). Histamine mediates the early vascular signs; bradykinin and prostaglandins mediate the pain.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Inflammation",
+"q": "Name the preformed cell-derived inflammatory mediators and their sources.",
+"a": "Histamine (from mast cells, basophils, platelets) and serotonin (same sources) are preformed. Histamine is responsible for increased vascular permeability in early inflammation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Inflammation",
+"q": "Which inflammatory mediators are synthesised de novo (newly synthesised) by cells?",
+"a": "Arachidonic acid metabolites (prostaglandins via cyclo-oxygenase pathway and leukotrienes via the lipoxygenase pathway), platelet-activating factor, nitric oxide, reactive oxygen species, cytokines and chemokines.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Inflammation",
+"q": "Which inflammatory mediator systems are plasma-derived?",
+"a": "The kinin system, the coagulation/fibrinolytic system, and the complement system.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Inflammation",
+"q": "Which cells predominate in acute versus chronic inflammation?",
+"a": "Acute inflammation (short duration) is dominated by neutrophils, predominating within the first 24-48 hours. Chronic inflammation (delayed/prolonged) is dominated by monocytes/macrophages and lymphocytes.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Inflammation",
+"q": "Give examples of chronic granulomatous inflammation and its cell components.",
+"a": "Examples include tuberculosis, leprosy, Crohn's disease and sarcoidosis. A granuloma has a core of activated macrophages (epithelioid cells), which fuse to form Langhans-type giant cells, surrounded peripherally by lymphocytes.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Inflammation",
+"q": "How do caseating and non-caseating granulomas differ?",
+"a": "Caseating granulomas have central necrosis and are seen in tuberculosis. Non-caseating granulomas are seen in Crohn's disease and sarcoidosis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Inflammation",
+"q": "Which acute-phase proteins increase and which decrease during inflammation?",
+"a": "Increase: C-reactive protein, serum amyloid A, ferritin, caeruloplasmin, complement, fibrinogen, von Willebrand factor and other coagulation factors. Decrease (negative acute-phase reactants): albumin, transferrin, antithrombin.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Inflammation",
+"q": "In worsening sepsis during pregnancy, which mediators cause vasodilatation and hypotension?",
+"a": "Oestrogen upregulates nitric oxide and prostaglandins. Nitric oxide causes vasodilatation and prostaglandins contribute to pain and hypotension; with increased vascular permeability and vascular leakage this worsens the sepsis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Cellular adaptation",
+"q": "Define atrophy and give physiological and pathological examples.",
+"a": "Atrophy is a decrease in cell size. Physiological: thymic involution, uterine involution after delivery. Pathological: disuse atrophy (e.g. immobilised/plastered limb), denervation atrophy, pressure atrophy.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Cellular adaptation",
+"q": "Define hyperplasia and give examples relevant to obstetrics and gynaecology.",
+"a": "Hyperplasia is an increase in cell number. Examples: uterine hyperplasia in the first trimester, alveolar/lobular breast hyperplasia during lactation, thyroid hyperplasia. Pathological: endometrial hyperplasia (Paget's, cancer). Endometriosis is conventionally considered under hyperplasia rather than metaplasia.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Cellular adaptation",
+"q": "Define hypertrophy and give the key obstetric/cardiac examples.",
+"a": "Hypertrophy is an increase in cell size. Skeletal muscle enlarges with exercise. The pregnant uterus enlarges chiefly by myometrial smooth muscle hypertrophy in the second and third trimesters. Pathologically, chronic hypertension causes left ventricular hypertrophy from increased cardiac workload.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Cellular adaptation",
+"q": "What is the major reason for the increase in size of the uterus during pregnancy?",
+"a": "Hypertrophy of the myometrial smooth muscle (with a hyperplastic contribution); hypertrophy predominates in the second and third trimesters.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Cellular adaptation",
+"q": "Define metaplasia and give the key examples by site.",
+"a": "Metaplasia is the reversible change of one differentiated cell type to another. Airways: pseudostratified columnar to squamous (smoking). Urinary bladder: transitional to squamous (stones/irritation). Lower oesophagus: squamous to columnar (acid reflux - Barrett's). Cervix: columnar replaced by squamous epithelium at the transformation zone.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Neoplasia",
+"q": "What is dysplasia and what is its microscopic hallmark?",
+"a": "Dysplasia is disordered growth with loss of polarity; cells do not differentiate into a new cell type but become disorganised. The hallmark is an increased nuclear-to-cytoplasmic ratio, with pleomorphism, anisocytosis, poikilocytosis and hyperchromatism. It is potentially reversible but long-standing dysplasia may become irreversible.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Neoplasia",
+"q": "What is carcinoma in situ and how does it differ from invasive carcinoma?",
+"a": "In carcinoma in situ the growth is uncoordinated/dysplastic but the basement membrane is NOT breached. In invasive carcinoma the basement membrane is breached; metastasis occurs when cells enter blood vessels/lymphatics and reach distant sites. Loss of E-cadherin (cell-cell adhesion) facilitates invasion.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Cell injury",
+"q": "Why do cultured fibroblasts stop dividing after about 50 population doublings?",
+"a": "Replicative senescence (ageing) due to telomere shortening / loss of telomerase activity — the Hayflick limit. Each division shortens the telomeres until the cell can no longer divide.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Healing",
+"q": "What proliferative capacity do labile, stable and permanent cells have?",
+"a": "Labile cells proliferate throughout life (e.g. epithelium, marrow). Stable cells are normally quiescent but can re-enter the cell cycle to replicate (e.g. hepatocytes). Permanent cells never replicate (e.g. cardiac myocytes and neurons).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Healing",
+"q": "Distinguish primary, secondary and tertiary intention wound healing.",
+"a": "Primary intention: clean wound edges approximated (sutures/staples) with minimal tissue loss, leaving a fine linear scar. Secondary intention: wound left open with significant tissue loss, closing by granulation tissue and contraction. Tertiary (delayed primary) intention: contaminated wounds debrided and left open, then sutured after ~4-5 days.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Healing",
+"q": "What are the three phases of wound healing and their timing?",
+"a": "Inflammatory phase (first ~3 days), proliferative phase (~3 days to weeks after wounding), and remodelling/maturation phase (1 to 6 months). The earliest event in the inflammatory phase is haemostasis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Healing",
+"q": "What happens to collagen during the proliferative and remodelling phases of wound healing?",
+"a": "In the proliferative phase, type III collagen is deposited in granulation tissue along with wound contraction. In remodelling, type III collagen is replaced by type I collagen, which has greater tensile strength.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Healing",
+"q": "Which growth factor is most important for granulation tissue formation in wound healing?",
+"a": "Transforming growth factor-beta (TGF-beta), produced largely by macrophages, drives fibroblast activity and granulation tissue/collagen deposition.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Healing",
+"q": "Match wound-healing cells to their functions: fibroblasts, keratinocytes, endothelial cells, myofibroblasts.",
+"a": "Fibroblasts: granulation tissue/collagen formation (TGF-beta). Keratinocytes: re-epithelialisation (TGF-alpha, keratinocyte growth factor). Endothelial cells: revascularisation/angiogenesis (VEGF, FGF, PDGF, angiogenin). Myofibroblasts: wound contraction and closure.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Healing",
+"q": "What is the function of platelet-derived growth factor (PDGF) in wound healing?",
+"a": "PDGF stimulates angiogenesis (and recruits/activates fibroblasts and macrophages). Platelets are the major overall source of VEGF in plasma.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Healing",
+"q": "What causes delayed wound healing, and why does vitamin C deficiency impair it?",
+"a": "Causes include infection, foreign body, diabetes mellitus, ischaemia, and vitamin deficiencies. Vitamin C (scurvy) deficiency impairs collagen synthesis because vitamin C is a cofactor for hydroxylation of proline and lysine, so adequate collagen cannot be formed.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Healing",
+"q": "How does a keloid scar differ from a hypertrophic scar?",
+"a": "Hypertrophic scars stay confined within the original wound margins, may regress, and recur infrequently after excision. Keloids extend beyond the wound margins with disorganised collagen, recur frequently after excision, and are commoner in darker skin. Both result from excessive TGF-beta and collagen (type I and III) production.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Healing",
+"q": "What percentage of original tensile strength does a wound regain, and over what timescale?",
+"a": "Approximately week 1 = 10%, week 2 = ~15%, week 3 = 20%, then rising to about 60% by 4-5 weeks, reaching a maximum of about 70-80% by 3 months (12 weeks). A scar never regains 100% of original strength and does not increase further after this.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Surgical wounds",
+"q": "Classify a total abdominal hysterectomy with bilateral salpingo-oophorectomy (no bowel opened) as a surgical wound.",
+"a": "Clean-contaminated. Skin and a viscus (genital/respiratory/urinary tract) are entered under controlled conditions without significant spillage. If the colon were also opened with spillage of contents it would be contaminated.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Surgical wounds",
+"q": "Define the surgical wound classes: clean, clean-contaminated, contaminated, dirty.",
+"a": "Clean: only skin incised, no viscus opened. Clean-contaminated: a viscus opened under controlled conditions without significant spillage (colon not opened). Contaminated: gross spillage of contents (e.g. open colon with spillage), or fresh traumatic wounds. Dirty: established infection or wounds with devitalised tissue/exogenous contaminants (e.g. roadside accidents).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Early pregnancy disorders",
+"q": "What is the incidence of ectopic pregnancy and its recurrence risk?",
+"a": "Incidence is approximately 1 in 100 pregnancies in the UK (the lecture's figure of about 3 per 1000 reflects older/population-specific data). The risk of a further ectopic after one previous ectopic is about 15-20%, rising further after two or more.",
+"ai": true,
+"note": "The 3/1000 incidence quoted is low/outdated; current UK incidence is about 11 per 1000 pregnancies (~1 in 90-100). Recurrence risk of 15-20% after one ectopic is consistent with current data and is retained."
+},
+{
+"topic": "Pathology",
+"subtopic": "Early pregnancy disorders",
+"q": "Where is the most common site of an ectopic pregnancy?",
+"a": "The ampulla of the fallopian tube. Ectopic pregnancy is implantation outside the uterine cavity and may end in tubal rupture or tubal abortion.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Early pregnancy disorders",
+"q": "How does an ectopic pregnancy typically present and what are the risk factors?",
+"a": "First-trimester bleeding with a period of amenorrhoea, a positive pregnancy test, and an extra-uterine adnexal mass on ultrasound. Risk factors: tubal pathology/scarring (after surgery or PID), previous ectopic, and an intrauterine contraceptive device in situ. Treatment may be expectant, medical (methotrexate) or surgical.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Gestational trophoblastic disease",
+"q": "What is the genetic make-up of a complete hydatidiform mole and its key features?",
+"a": "A complete mole is diploid and entirely paternal in origin (an empty ovum fertilised, with duplication of paternal DNA); there is no maternal genetic contribution and no fetal tissue. Features: diffuse hydropic villi, trophoblastic proliferation, very high hCG, uterus large for dates, 'snowstorm' ultrasound appearance, and p57 immunostain negative (paternally imprinted).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Gestational trophoblastic disease",
+"q": "How does a partial mole differ from a complete mole genetically and histologically?",
+"a": "A partial mole is triploid (one maternal set plus duplicated paternal, i.e. two sperm fertilising one ovum). It contains some fetal parts and fetal vessels, focal villous changes, and p57 is expressed (positive). A complete mole is diploid, has no fetal tissue or vessels, and is p57 negative.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Gestational trophoblastic disease",
+"q": "What is the risk of progression of a complete hydatidiform mole to invasive mole and to choriocarcinoma?",
+"a": "Risk of invasive mole is about 15-20% and risk of choriocarcinoma is about 2-3%.",
+"ai": false,
+"note": "Consistent with standard teaching: invasive mole ~15% and choriocarcinoma ~2-5% after complete mole."
+},
+{
+"topic": "Pathology",
+"subtopic": "Gestational trophoblastic disease",
+"q": "What is the tumour marker for choriocarcinoma and where does it most commonly metastasise?",
+"a": "Beta-hCG is the marker (derived from cytotrophoblast/syncytiotrophoblast). Choriocarcinoma spreads haematogenously (not lymphatically) and most commonly metastasises to the lungs, vagina and brain. It is chemosensitive.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Gestational trophoblastic disease",
+"q": "What tumour arises from intermediate trophoblast and which marker distinguishes it from choriocarcinoma?",
+"a": "Placental site trophoblastic tumour (and placental site nodule) arise from intermediate trophoblast. The marker is human placental lactogen (hPL), which is raised, whereas hCG is the raised marker in choriocarcinoma.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Gestational trophoblastic disease",
+"q": "Why can a complete molar pregnancy cause pre-eclampsia before 20 weeks?",
+"a": "The markedly elevated hCG can cause pre-eclampsia before 20 weeks, as well as hyperemesis gravidarum, theca lutein cysts and hyperthyroidism (hCG cross-reacts with the TSH receptor).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Pre-eclampsia",
+"q": "What is the underlying vascular pathology of pre-eclampsia?",
+"a": "Endothelial dysfunction. Spiral arteries are inadequately invaded by trophoblast, leading to ischaemia; placental factors then cause systemic endothelial dysfunction. There is fibrinoid necrosis of the spiral arteries with acute atherosis from foam-cell infiltration.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Pre-eclampsia",
+"q": "What is the characteristic renal lesion in pre-eclampsia?",
+"a": "Glomerular endotheliosis — glomerular lesions with fibrin in the glomeruli due to endothelial swelling.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Pre-eclampsia",
+"q": "What is the most useful clinical feature of imminent (impending) pre-eclampsia versus imminent eclampsia?",
+"a": "Imminent pre-eclampsia: severe headache. Imminent eclampsia: hyperreflexia or clonus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Placental disorders",
+"q": "Outline placenta accreta, increta and percreta.",
+"a": "Placenta accreta: chorionic villi implant directly onto myometrium with absent intervening decidua. Increta: villi invade partial thickness of the myometrium. Percreta: villi invade the full thickness of the myometrium up to/through the serosa, and may invade adjacent organs (bladder, rectum). Clinically there is difficulty separating the placenta and postpartum haemorrhage.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Placental disorders",
+"q": "How are circumvallate and circummarginate placenta distinguished?",
+"a": "Both result from discordant implantation where the chorionic plate is smaller than the basal plate, causing the membranes to fold back on the fetal surface. Circumvallate placenta has raised, rolled membrane margins; circummarginate placenta has flat margins.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Placental disorders",
+"q": "What are battledore and velamentous (membranous) cord insertions?",
+"a": "Battledore insertion: the umbilical cord inserts at the placental edge/margin. Velamentous insertion: the cord inserts into the membranes beyond the placental edge, so the vessels run unprotected through the membranes.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Placental disorders",
+"q": "How can the fetal and maternal surfaces of the placenta be distinguished macroscopically?",
+"a": "Fetal surface (chorionic plate): shiny, with large fetal blood vessels and the umbilical cord inserting centrally. Maternal surface (basal plate): dull, dark red, divided into cotyledons (about 10-20).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Placental disorders",
+"q": "What is amnion nodosum and what does it indicate?",
+"a": "Nodules on the fetal (amniotic) surface of the placenta, associated with oligohydramnios.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Dermatoses of pregnancy",
+"q": "What causes pigmentation changes in pregnancy and what are the patterns?",
+"a": "Melanocyte-stimulating hormone causes increased pigmentation; already-pigmented areas (areolae, genital skin, nipples) darken. Patterns include linea nigra (midline) and melasma/chloasma (face and cheeks, worse with sun exposure).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Dermatoses of pregnancy",
+"q": "What is telogen effluvium in pregnancy?",
+"a": "A postpartum hair-shedding phase. During the first/second trimester anagen (growth-phase) hairs increase, but after delivery hairs enter telogen and shed; this telogen effluvium recovers spontaneously.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Dermatoses of pregnancy",
+"q": "How is polymorphic eruption of pregnancy (PEP/PUPPP) distinguished clinically?",
+"a": "An itchy rash, typically on the abdomen within striae/linea nigra but characteristically SPARING the periumbilical region (umbilical sparing), associated with multiple/twin pregnancy. It has both itch and rash. Risk: associated with stillbirth, prematurity in the recall list.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Dermatoses of pregnancy",
+"q": "What is pemphigoid gestationis and how does it present?",
+"a": "An autoimmune dermatosis of pregnancy (formerly herpes gestationis) presenting with an itchy rash typically with papules/blisters AROUND the umbilicus (periumbilical involvement). It is associated with other autoimmune conditions and a risk of intrauterine growth restriction (IUGR).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Dermatoses of pregnancy",
+"q": "How does intrahepatic cholestasis of pregnancy present cutaneously and biochemically?",
+"a": "Intense itch (pruritus) WITHOUT a primary rash, with raised bile acids (and often raised ALP); bilirubin/ALT may be normal or mildly deranged. It is the itch without rash that distinguishes it from the other dermatoses.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Dermatoses of pregnancy",
+"q": "What is the most common dermatosis of pregnancy?",
+"a": "Atopic eruption of pregnancy and polymorphic eruption of pregnancy are the most common, each with an incidence of about 1 in 300. Pemphigoid gestationis is rare (about 1 in 1700) and intrahepatic cholestasis about 1 in 140-150.",
+"ai": true,
+"note": "The lecture quotes intrahepatic cholestasis as 1 in 40; published UK incidence is approximately 1 in 140 (about 0.7%), not 1 in 40. Atopic and polymorphic eruption at ~1 in 300 and pemphigoid gestationis ~1 in 1700 are consistent with standard figures."
+},
+{
+"topic": "Pathology",
+"subtopic": "Neoplasia",
+"q": "Define neoplasia.",
+"a": "An abnormal mass of tissue, the growth of which exceeds and is uncoordinated with that of normal tissue, and persists after the stimulus is removed (Willis). Benign tumours do not metastasise; malignant tumours have the potential to metastasise.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Neoplasia",
+"q": "Contrast the features of benign and malignant tumours.",
+"a": "Benign: slow growth, well-differentiated, no metastasis, infrequent recurrence after removal. Malignant: rapid growth, poorly differentiated, metastasise, and recur more often after removal. Loss of E-cadherin permits malignant invasion.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Neoplasia",
+"q": "Give the benign and malignant tumour names for common tissues.",
+"a": "Epithelium (glandular): adenoma / adenocarcinoma; (surface): papilloma / papillary carcinoma. Smooth muscle: leiomyoma / leiomyosarcoma. Skeletal muscle: rhabdomyoma / rhabdomyosarcoma. Connective tissue: fibroma / fibrosarcoma. Bone: osteoma / osteosarcoma. Fat: lipoma / liposarcoma. Blood vessel: haemangioma / angiosarcoma. Melanocyte: naevus / melanoma.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Neoplasia",
+"q": "How are malignant epithelial, mesenchymal and germ-cell tumours named? What is a choristoma?",
+"a": "Malignant epithelial tumours are carcinomas; malignant mesenchymal tumours are sarcomas; germ-cell tumours are teratomas. A choristoma is normal tissue present at an ectopic site (e.g. pancreatic tissue/gastric mucosa in a Meckel's diverticulum).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Neoplasia",
+"q": "What is the most common epithelium and cancer of the vulva, vagina, ectocervix, bladder and fallopian tube?",
+"a": "Vulva, vagina, ectocervix: stratified squamous (non-keratinised) epithelium, so squamous cell carcinoma is most common. Bladder: transitional epithelium, so transitional (urothelial) cell carcinoma. Fallopian tube: simple columnar ciliated epithelium, so papillary serous adenocarcinoma is most common.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Neoplasia",
+"q": "What is the approximate distribution of bladder cancer histological types?",
+"a": "Transitional (urothelial) cell carcinoma about 90%, squamous cell carcinoma about 4% (associated with chronic irritation/stones/schistosomiasis), and adenocarcinoma about 2%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Carcinogenesis",
+"q": "List key chemical carcinogens and the cancers they cause.",
+"a": "Aflatoxin - hepatocellular carcinoma; asbestos - mesothelioma and lung cancer; aniline dyes / beta-naphthylamine - bladder cancer; anabolic steroids - hepatocellular carcinoma; vinyl chloride - hepatic angiosarcoma; aromatic hydrocarbons - lung cancer; diethylstilbestrol (DES, in utero exposure) - clear cell carcinoma of the vagina/cervix.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Carcinogenesis",
+"q": "List important oncogenic viruses and associated cancers.",
+"a": "HPV 16/18 - cervical (and other anogenital) squamous carcinoma; HHV-8 - Kaposi sarcoma; EBV - Burkitt lymphoma, nasopharyngeal carcinoma; Hepatitis B and C - hepatocellular carcinoma; HTLV-1 - adult T-cell leukaemia/lymphoma; H. pylori (bacterium) - gastric carcinoma/MALT lymphoma.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Carcinogenesis",
+"q": "What proportion of cervical cancers are caused by HPV types 16 and 18?",
+"a": "Approximately 70%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Carcinogenesis",
+"q": "Match these tumour-suppressor/oncogenes to their cancers: MYCN, K-RAS, BRAF, APC, BRCA1/2, TP53, MLH1/MSH2.",
+"a": "MYCN - neuroblastoma; K-RAS - colorectal carcinoma; BRAF - melanoma; APC - colorectal carcinoma (FAP); BRCA1/2 - breast, ovarian, prostate, pancreatic cancer; TP53 - the 'guardian of the genome'; MLH1/MSH2 (mismatch repair) - Lynch syndrome.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Tumour markers",
+"q": "What is the role of tumour markers, and what is the main use of CA-125?",
+"a": "Tumour markers are used for monitoring (and prognosis), NOT for diagnosis or population screening; diagnosis requires biopsy. CA-125 is raised in epithelial ovarian tumours and primary peritoneal carcinoma, but is non-specific (raised in endometriosis, PID, fibroids, menstruation).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Tumour markers",
+"q": "Match these tumour markers to their tumours: AFP, beta-hCG, LDH, CA-125, CEA, inhibin/oestradiol, testosterone, CA 19-9, PSA.",
+"a": "AFP - yolk sac tumour, embryonal carcinoma, immature teratoma; beta-hCG - dysgerminoma, embryonal carcinoma, choriocarcinoma; LDH - dysgerminoma; CA-125 - epithelial ovarian tumours; CEA - epithelial/colorectal tumours; inhibin and oestradiol - granulosa cell tumour; testosterone - Sertoli-Leydig cell tumour; CA 19-9 - pancreatic carcinoma; PSA - prostate cancer.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Immunohistochemistry",
+"q": "Match these histological bodies/cells to their tumours: psammoma bodies, Call-Exner bodies, Schiller-Duval bodies, Reinke crystals, hobnail cells, coffee-bean nuclei, Keratin pearls.",
+"a": "Psammoma bodies - papillary serous cystadenocarcinoma (also papillary thyroid carcinoma, meningioma, mesothelioma); Call-Exner bodies - granulosa cell tumour; Schiller-Duval bodies - yolk sac (endodermal sinus) tumour; Reinke crystals - Leydig cells (Sertoli-Leydig tumour); hobnail cells - clear cell carcinoma; coffee-bean (grooved) nuclei - Brenner tumour (transitional epithelium); keratin pearls - squamous cell carcinoma.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Immunohistochemistry",
+"q": "What are psammoma bodies and where are they seen?",
+"a": "Concentric basophilic laminated calcium rings (a form of dystrophic calcification). Seen in serous ovarian tumours, papillary thyroid carcinoma, meningioma and mesothelioma.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Calcification",
+"q": "What distinguishes dystrophic from metastatic calcification?",
+"a": "Dystrophic calcification occurs in abnormal/damaged tissue with NORMAL serum calcium. Metastatic calcification occurs in normal tissue due to RAISED serum calcium (e.g. hypercalcaemia of malignancy), depositing in normal organs.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Gynaecological oncology",
+"q": "What is the most common gynaecological cancer in the UK versus developing countries?",
+"a": "In the UK (developed countries) endometrial/uterine cancer is the most common gynaecological cancer (order: uterus > ovary > cervix). In developing countries cervical cancer is most common (order: cervix > ovary > uterus).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Gynaecological oncology",
+"q": "Which gynaecological cancer causes the most deaths, and what is the most common non-gynaecological cancer in women?",
+"a": "Ovarian cancer causes the most gynaecological cancer deaths (often presents late). Breast cancer is the most common non-gynaecological cancer in women; overall lung and breast cancers cause the most cancer deaths.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Gynaecological oncology",
+"q": "What is the most common cancer diagnosed during pregnancy/postpartum?",
+"a": "Breast cancer is most common, then melanoma, then cervical cancer.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Gynaecological oncology",
+"q": "What is the most common benign gynaecological tumour in the premenopausal woman?",
+"a": "Uterine fibroid (leiomyoma).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Gynaecological oncology",
+"q": "What are the most common solid tumours of the newborn, and which is benign?",
+"a": "Neuroblastoma is the most common, followed by sacrococcygeal teratoma, then retinoblastoma. Neuroblastoma and retinoblastoma are malignant; sacrococcygeal teratoma is the benign one.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Gynaecological oncology",
+"q": "Which gynaecological cancers are hormone-dependent?",
+"a": "Breast and uterine (endometrial) cancers are hormone-dependent, expressing oestrogen and progesterone receptors.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Gynaecological oncology",
+"q": "Which ovarian cancers are associated with endometriosis versus endometrial hyperplasia?",
+"a": "Endometriosis is associated more with clear cell carcinoma (more than endometrioid). Endometrial hyperplasia/endometroid association: endometrioid carcinoma more than clear cell. Both raise the risk of ovarian carcinoma.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Gynaecological oncology",
+"q": "What is a Krukenberg tumour?",
+"a": "A metastasis to the ovary (classically bilateral) from a primary gastric (or other GI) signet-ring cell carcinoma that spreads to the ovarian stroma.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Gynaecological oncology",
+"q": "What is Meigs syndrome?",
+"a": "The triad of a benign ovarian fibroma (the preferred answer; sometimes thecoma), ascites and a pleural effusion, which resolve after tumour removal.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Neoplasia",
+"q": "How do carcinomas and sarcomas typically spread?",
+"a": "Most carcinomas spread via lymphatics and sarcomas spread haematogenously. A key exception is choriocarcinoma, a carcinoma that spreads predominantly by the haematogenous route.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Gynaecological oncology",
+"q": "What is a urethral caruncle and in whom does it occur?",
+"a": "A benign fleshy outgrowth from the posterior urethral meatus (distal urethra), the most common lesion of the female urethra, occurring primarily in postmenopausal women due to hypo-oestrogenism.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Acute fatty liver of pregnancy",
+"q": "On liver histology, what is the characteristic finding in acute fatty liver of pregnancy (AFLP)?",
+"a": "Microvesicular fatty (steatotic) deposits within hepatocytes (rather than frank necrosis), most prominent in the centrilobular/perivenular zone.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Acute fatty liver of pregnancy",
+"q": "What are the key clinical and biochemical features of acute fatty liver of pregnancy (AFLP)?",
+"a": "Persistent vomiting, abdominal pain, jaundice; hypoglycaemia, hyperuricaemia, hyperbilirubinaemia, polyuria/polydipsia, coagulopathy, and (in severe cases) hepatic encephalopathy.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Acute fatty liver of pregnancy",
+"q": "Which diagnostic criteria are used for acute fatty liver of pregnancy (AFLP)?",
+"a": "The Swansea criteria - 6 or more features required (e.g. vomiting, abdominal pain, polydipsia/polyuria, encephalopathy, raised bilirubin, hypoglycaemia, raised urate, leucocytosis, ascites/bright liver, raised AST/ALT, raised ammonia, raised creatinine, coagulopathy, microvesicular steatosis on biopsy).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Liver disease in pregnancy",
+"q": "How do transaminase levels help distinguish AFLP/HELLP from acute viral hepatitis in pregnancy?",
+"a": "In AFLP and HELLP, transaminases (AST/ALT) are raised but usually remain below ~1000 IU/L. In acute viral hepatitis, transaminases are typically markedly elevated, often above 1000 IU/L.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Liver disease in pregnancy",
+"q": "Compared with acute viral hepatitis, what additional features point towards AFLP?",
+"a": "Marked coagulopathy (normal/preserved in viral hepatitis), hypoglycaemia, and hyperuricaemia - all seen in AFLP but not typically in acute viral hepatitis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Liver disease in pregnancy",
+"q": "What characterises HELLP syndrome biochemically?",
+"a": "Haemolysis, Elevated Liver enzymes, and Low Platelets, usually on a background of pre-eclampsia/hypertension.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Acute fatty liver of pregnancy",
+"q": "Which fetal enzyme deficiency predisposes the mother to acute fatty liver of pregnancy?",
+"a": "Fetal long-chain 3-hydroxyacyl-CoA dehydrogenase (LCHAD) deficiency; the fetus cannot oxidise long-chain fatty acids, increasing maternal fatty-acid load.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Acute fatty liver of pregnancy",
+"q": "Which pregnancies carry a higher risk of acute fatty liver of pregnancy?",
+"a": "Pregnancies with a male fetus and multiple (twin) gestations, due to higher fetal metabolic load.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "FIGO fibroid classification",
+"q": "In the FIGO leiomyoma classification, what is a type 0 fibroid?",
+"a": "A pedunculated intracavitary (entirely submucosal) fibroid.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "FIGO fibroid classification",
+"q": "In the FIGO leiomyoma classification, define submucosal types 1 and 2.",
+"a": "Type 1 = submucosal with less than 50% intramural extension; Type 2 = submucosal with 50% or more (greater than 50%) intramural extension.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "FIGO fibroid classification",
+"q": "In the FIGO leiomyoma classification, what distinguishes type 3 from type 4 fibroids?",
+"a": "Both are 100% intramural; type 3 is in contact with the endometrium, whereas type 4 is intramural but not in contact with the endometrium.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "FIGO fibroid classification",
+"q": "In the FIGO leiomyoma classification, define subserosal types 5, 6 and 7.",
+"a": "Type 5 = subserosal with 50% or more intramural; Type 6 = subserosal with less than 50% intramural; Type 7 = subserosal pedunculated (attached to serosa by a stalk).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Ovarian carcinoma",
+"q": "Which type 2 ovarian (high-grade serous) carcinoma most commonly originates from the fallopian tube?",
+"a": "High-grade serous carcinoma arises from serous tubal intraepithelial carcinoma (STIC) in the fimbrial end of the fallopian tube; hence the tubes are removed with the specimen.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Ovarian carcinoma",
+"q": "Contrast the two-pathway model of ovarian carcinoma (type 1 vs type 2).",
+"a": "Type 1: low-grade, indolent, develop stepwise from benign/borderline lesions - low-grade serous, endometrioid, clear cell, mucinous/Brenner. Type 2: high-grade serous, highly aggressive, arise from the fallopian tube.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Ovarian carcinoma",
+"q": "Which mutations characterise type 1 versus type 2 ovarian carcinomas?",
+"a": "Type 1 (low-grade): KRAS and BRAF mutations, generally lacking TP53. Type 2 (high-grade serous): TP53 mutations.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Cervical and vulval cancer",
+"q": "What is the most common histological type of cervical and vulval cancer, and the most common precursor lesion?",
+"a": "Squamous cell carcinoma is the most common type for both, arising from squamous (or pre-existing intraepithelial neoplasia: CIN/VIN) lesions.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Cervical cancer",
+"q": "Which epithelium gives rise to the common carcinomas of the ectocervix versus the endocervix?",
+"a": "Ectocervix (squamous epithelium) gives rise to squamous cell carcinoma; endocervix (glandular epithelium) gives rise to adenocarcinoma.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Vulval intraepithelial neoplasia",
+"q": "Distinguish usual (classical) VIN from differentiated VIN.",
+"a": "Usual/classical VIN: HPV-associated, younger women, precursor to high-grade squamous lesions. Differentiated VIN (dVIN): HPV-independent, associated with lichen sclerosus, older women.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Vulval cancer",
+"q": "What proportion of vulval cancers are squamous cell carcinoma, and what are the next most common types?",
+"a": "Squamous cell carcinoma accounts for ~90%; second most common is melanoma, then basal cell carcinoma / Bartholin gland tumours.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Vulval cancer",
+"q": "What is the lifetime risk of vulval squamous cell carcinoma with lichen sclerosus versus lichen planus?",
+"a": "Approximately 5% with lichen sclerosus and about 3% with lichen planus.",
+"ai": true,
+"note": "Transcript states 5% for lichen sclerosus; published estimates of malignant transformation in vulval lichen sclerosus are commonly lower (~2-5%, often cited ~2-4%). The 3% figure for lichen planus is poorly supported in the literature (risk usually quoted <1-3%). Treat exact percentages with caution."
+},
+{
+"topic": "Pathology",
+"subtopic": "Vulval cancer",
+"q": "What is the strongest risk factor for vulval cancer?",
+"a": "HPV infection is the strongest risk factor, followed by lichen sclerosus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Vulval intraepithelial neoplasia",
+"q": "Which precursor lesion is associated with HPV-related versus HPV-independent vulval squamous cell carcinoma?",
+"a": "HPV-related: high-grade squamous intraepithelial lesion / usual (classical) VIN. HPV-independent: differentiated VIN (associated with lichen sclerosus).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Vulval Paget disease",
+"q": "What is the precursor lesion of vulval Paget disease?",
+"a": "Intraepithelial adenocarcinoma in situ (arising from apocrine gland / stem cells); the basement membrane is intact, hence it is a precursor (in situ) lesion.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Cervical intraepithelial neoplasia",
+"q": "In cervical intraepithelial neoplasia (CIN), what epithelial thickness is involved in CIN1?",
+"a": "CIN1 (mild dysplasia) involves dysplasia confined to the lower one-third of the epithelial thickness.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Cervical intraepithelial neoplasia",
+"q": "What is true of the basement membrane across all grades of CIN?",
+"a": "In all CIN grades the basement membrane remains intact; invasion through it defines invasive carcinoma rather than intraepithelial neoplasia.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Endometrial carcinoma",
+"q": "What is the most common histological type of endometrial carcinoma?",
+"a": "Adenocarcinoma (endometrioid adenocarcinoma being the most common subtype).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Endometrial carcinoma",
+"q": "Describe type 1 endometrial carcinoma (risk factors, histology, precursor).",
+"a": "Oestrogen-dependent (unopposed oestrogen, obesity, perimenopausal); endometrioid histology; precursor is atypical hyperplasia; associated with proliferative endometrium; low-grade.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Endometrial carcinoma",
+"q": "Describe type 2 endometrial carcinoma (patient, histology, precursor, endometrium).",
+"a": "Oestrogen-independent, postmenopausal women; serous and clear cell histology (highly aggressive, high-grade); precursor is endometrial intraepithelial carcinoma; associated with atrophic endometrium.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Endometrial carcinoma",
+"q": "Which mutations characterise type 1 versus type 2 endometrial carcinoma?",
+"a": "Type 1: KRAS and BRAF mutations (mirroring low-grade ovarian). Type 2: TP53 mutation (mirroring high-grade serous ovarian).",
+"ai": true,
+"note": "Transcript maps type 1 endometrioid to KRAS/BRAF and type 2 to TP53. Standard teaching: type 1 endometrioid carcinoma typically shows PTEN, KRAS, PIK3CA, CTNNB1 and microsatellite instability (BRAF is not a classic driver); type 2 serous reliably shows TP53. The TP53 association is correct; the type 1 mutation list as given is oversimplified/partly inaccurate."
+},
+{
+"topic": "Pathology",
+"subtopic": "Endometrial carcinoma",
+"q": "If endometrial carcinoma occurs in an older woman with atrophic endometrium, which type is it?",
+"a": "Type 2 endometrial carcinoma (serous/clear cell), which is oestrogen-independent and arises on a background of atrophic endometrium.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Abnormally invasive placenta",
+"q": "When the placenta has invaded the full thickness of the myometrium (but not beyond serosa), which placental disorder is most likely?",
+"a": "Placenta increta (invasion into/through myometrium). Note: placenta accreta is the most common of the accreta spectrum disorders overall.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Abnormally invasive placenta",
+"q": "Define the placenta accreta spectrum by depth of invasion.",
+"a": "Accreta = villi attach to myometrium (loss of decidua basalis); Increta = villi invade into the myometrium; Percreta = villi invade through serosa and beyond uterus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Abnormally invasive placenta",
+"q": "In normal placental implantation, into which endometrial layer do the villi anchor?",
+"a": "Into the decidua (stratum basalis of the endometrium), which is absent/deficient in placenta accreta spectrum disorders.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Ovarian cysts",
+"q": "A woman with HMB and right-sided pelvic pain (relieved by mefenamic acid) has a simple LEFT ovarian cyst on ultrasound. What is the most likely diagnosis of the cyst?",
+"a": "A functional (physiological) cyst - an incidental finding on the opposite side to the pain; a simple unilocular cyst with no solid/septate features supports this.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Ovarian cysts",
+"q": "What ultrasound features distinguish a functional cyst from PCOS, malignancy and endometrioma?",
+"a": "Functional cyst = simple unilocular cyst. PCOS = multiple small follicular cysts (necklace sign). Malignancy = solid components, vascularity, septations. Endometrioma = homogeneous low-level 'ground-glass' echoes.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Cell injury and necrosis",
+"q": "Which type of necrosis occurs in the brain following a cerebrovascular accident (stroke / ischaemic infarct of the CNS)?",
+"a": "Liquefactive (colliquative) necrosis — the tissue architecture/morphology is lost. It is the characteristic necrosis of the CNS and of abscesses.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Cell injury and necrosis",
+"q": "What is the characteristic type of necrosis in solid organs (heart after MI, liver, kidney) following ischaemia, and what happens to tissue architecture?",
+"a": "Coagulative necrosis — the tissue outline/architecture is preserved. Most common cause is ischaemia.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Cell injury and necrosis",
+"q": "What type of necrosis is seen in tuberculosis and what is its gross appearance?",
+"a": "Caseous necrosis — cheese-like (caseating) gross appearance. It is a combination of coagulative and liquefactive necrosis; architecture is lost.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Cell injury and necrosis",
+"q": "Where is fat necrosis classically seen, and what triggers it?",
+"a": "Acute pancreatitis (released pancreatic enzymes digest fat in the omentum/peritoneum) and in the breast following trauma. Calcium soaps form (saponification).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Cell injury and necrosis",
+"q": "Fibrinoid necrosis is characteristically seen in which conditions, and what histological body represents it in rheumatic heart disease?",
+"a": "Malignant hypertension and rheumatic heart disease (and immune/vasculitic vessel injury); fibrinogen leaks into vessel walls. Aschoff bodies in rheumatic heart disease are an example.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Cell injury and necrosis",
+"q": "What distinguishes dry gangrene, wet gangrene and gas gangrene?",
+"a": "Dry gangrene resembles coagulative necrosis, due to ischaemia of the limbs. Wet gangrene = superimposed infection causing liquefaction. Gas gangrene is caused by Clostridium (perfringens) and produces crepitus due to gas in the tissue.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Cell injury and necrosis",
+"q": "What is 'noma' and what is Fournier's gangrene?",
+"a": "Noma is a gangrenous lesion of the vulva (orofacial in classic usage). Fournier's gangrene is a gangrenous (necrotising) infection of the scrotum/perineum.",
+"ai": true,
+"note": "Transcript states noma is a 'gangrenous lesion of the vulva'. Classically noma (cancrum oris) is an orofacial gangrene of malnourished children; noma pudendi/vulvae is the vulval variant. The unqualified statement is potentially misleading."
+},
+{
+"topic": "Pathology",
+"subtopic": "Cellular adaptation",
+"q": "Define hypertrophy and give physiological/pathological cardiac examples.",
+"a": "Hypertrophy = increase in cell size (no increase in cell number). Cardiac muscle hypertrophies to compensate for increased load (e.g. hypertension); skeletal muscle hypertrophies with use/exercise.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Cellular adaptation",
+"q": "Define atrophy and give gynaecological examples.",
+"a": "Atrophy = decrease in cell/organ size. Examples: thymic involution; the uterus involuting after parturition; the postmenopausal uterus decreasing in size.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Cellular adaptation",
+"q": "Define hyperplasia and give physiological gynaecological/breast examples.",
+"a": "Hyperplasia = increase in cell number. Physiological examples: endometrial/uterine hyperplasia in the first trimester of pregnancy, and alveolar (breast ductal) hyperplasia. (Uterine growth in 2nd/3rd trimester is hypertrophy.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Cellular adaptation (metaplasia)",
+"q": "Give examples of squamous metaplasia and columnar (glandular) metaplasia.",
+"a": "Squamous metaplasia: bronchial epithelium in cigarette smokers; bladder urothelium with bladder stones; the cervix (transformation zone). Columnar/glandular metaplasia: lower oesophagus exposed to acid (Barrett's oesophagus, squamous to columnar).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Neoplasia (dysplasia)",
+"q": "What are the histological features of dysplasia?",
+"a": "Increased nuclear:cytoplasmic ratio, pleomorphism (anisocytosis and poikilocytosis — variation in cell size and shape), hyperchromatism, and increased mitotic figures. Same cell type but disordered/distorted morphology.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Cell injury",
+"q": "Membrane blebbing, karyorrhexis and karyolysis are features of which process — reversible injury, apoptosis or dysplasia?",
+"a": "These are features of cell injury/death (blebbing in reversible injury; karyorrhexis and karyolysis in necrosis/apoptosis) — they are NOT features of dysplasia.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Endometrial pathology / normal values",
+"q": "At what endometrial thickness is the endometrium considered atrophic in a postmenopausal woman?",
+"a": "Less than 4 mm (cut-off ≤4 mm used to indicate a low-risk, atrophic endometrium in postmenopausal bleeding).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Wound healing",
+"q": "List the sequential stages of wound healing.",
+"a": "1. Haemostasis, 2. Inflammation, 3. Proliferation, 4. Remodelling/maturation. (Some schemes insert remodelling between proliferation and maturation, giving 5 stages.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Wound healing",
+"q": "Describe the haemostatic and inflammatory phases of wound healing (timing and key cells).",
+"a": "Haemostasis: vasoconstriction within 5–10 minutes, clot formation, platelets predominate. Inflammatory stage: up to ~3 days — neutrophils first (first ~2 days), then macrophages/monocytes clear debris (after ~2 days).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Wound healing",
+"q": "What happens in the proliferative phase of wound healing (timing, collagen type, key cells)?",
+"a": "From ~day 3 to ~3 weeks. Granulation tissue is deposited; type III collagen is laid down first (low tensile strength), angiogenesis and re-epithelialisation occur. Key cells: fibroblasts, myofibroblasts, endothelial cells, keratinocytes, macrophages.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Wound healing",
+"q": "What occurs during the remodelling phase of wound healing and over what time?",
+"a": "From ~1 week up to ~6–12 months: type III collagen is replaced by type I collagen, increasing the tensile strength of the wound.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Wound healing / normal values",
+"q": "What is the approximate tensile strength of a healing wound at 3 weeks, and the maximum eventually achieved?",
+"a": "Approximately 20% of normal at 3 weeks; maximum of about 70–80% of original (uninjured) skin strength is reached by ~3 months and never returns to 100%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Wound healing",
+"q": "Which wound-healing functions are performed by fibroblasts, keratinocytes, endothelial cells and myofibroblasts?",
+"a": "Fibroblasts — granulation tissue/collagen production; keratinocytes — re-epithelialisation (epidermis); endothelial cells — angiogenesis/revascularisation; myofibroblasts — wound contraction.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Wound healing (growth factors)",
+"q": "Which growth factor is most important for collagen synthesis and is implicated in hypertrophic/keloid scar formation?",
+"a": "Transforming growth factor beta (TGF-β) — drives collagen synthesis, extracellular matrix remodelling, and is key in hypertrophic and keloid scarring.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Wound healing",
+"q": "Which vitamin/mineral deficiencies impair wound healing, and which phases do they affect?",
+"a": "Vitamin C and copper deficiency disrupt the proliferative phase (collagen synthesis/cross-linking); zinc deficiency disrupts the remodelling phase. (All are involved in collagen formation.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Inflammation / sepsis",
+"q": "Define SIRS criteria and how sepsis, severe sepsis and septic shock are distinguished.",
+"a": "SIRS (≥2 of): temperature <36°C or >38°C (transcript: <95°F or >100°F), heart rate >90/min, respiratory rate >20/min (and WCC abnormal). Sepsis = SIRS + suspected/confirmed infection. Severe sepsis = sepsis + organ dysfunction. Septic shock = hypotension unresponsive to fluid boluses.",
+"ai": true,
+"note": "This SIRS-based definition is outdated. Sepsis-3 (2016, NICE/Surviving Sepsis) defines sepsis as life-threatening organ dysfunction (SOFA rise ≥2) due to dysregulated host response to infection; SIRS and the term 'severe sepsis' have been abandoned. Septic shock = sepsis with vasopressor-requiring hypotension plus lactate >2 mmol/L. Useful for exam recall of legacy criteria but does not reflect current sepsis definitions."
+},
+{
+"topic": "Pathology",
+"subtopic": "Ovarian neoplasia",
+"q": "What is the most common malignant epithelial ovarian tumour, and the most common benign epithelial ovarian tumour?",
+"a": "Most common malignant epithelial ovarian tumour: papillary serous cystadenocarcinoma (serous carcinoma). Most common benign epithelial ovarian tumour: serous cystadenoma.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Ovarian neoplasia",
+"q": "What is the most common benign ovarian tumour overall, and the most common benign solid ovarian tumour?",
+"a": "Most common benign ovarian tumour overall: mature cystic teratoma (dermoid cyst) — has both solid and cystic components. Most common benign SOLID ovarian tumour: fibroma.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Ovarian neoplasia / tumour markers",
+"q": "Which sex cord-stromal ovarian tumour is malignant (the exception among mostly benign ones), what does it secrete and what is its tumour marker / histology?",
+"a": "Granulosa cell tumour — the malignant sex cord-stromal tumour. Secretes oestrogen (causing endometrial hyperplasia and precocious puberty). Tumour marker: inhibin. Histology: Call-Exner bodies.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Ovarian neoplasia",
+"q": "Which ovarian tumour presents with virilisation and what does it produce?",
+"a": "Sertoli-Leydig cell tumour — the Leydig component may produce androgens, causing virilisation (hirsutism, voice deepening).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Ovarian neoplasia",
+"q": "Ovarian fibroma is associated with which syndrome, and what are its histological cells?",
+"a": "Meigs syndrome (ovarian fibroma + ascites + pleural effusion). Histology: spindle-shaped fibroblasts (not smooth-muscle spindle cells as in leiomyoma).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Ovarian neoplasia / genetics",
+"q": "Which ovarian malignancy is most associated with endometriosis, and which with Lynch syndrome (MMR mutation)?",
+"a": "Endometriosis: clear cell carcinoma (preferred answer) — endometrioid is the next association. Lynch syndrome / mismatch-repair gene mutation: endometrioid carcinoma more than clear cell.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Ovarian neoplasia / genetics",
+"q": "Which ovarian malignancy is most commonly associated with BRCA1/BRCA2 mutations?",
+"a": "High-grade serous (papillary serous cystadeno)carcinoma.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Ovarian neoplasia / genetics",
+"q": "What distinguishes Type I from Type II epithelial ovarian carcinomas (mutations, behaviour, subtypes)?",
+"a": "Type I: KRAS/BRAF/PTEN mutations, low-grade/borderline, less aggressive — mucinous, endometrioid and clear cell subtypes. Type II: TP53 mutation, high-grade and aggressive — high-grade serous carcinoma.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Histopathology",
+"q": "What histological feature is seen in psammoma-body-containing tumours, and which tumours show psammoma bodies?",
+"a": "Psammoma bodies are concentric basophilic calcium rings (dystrophic calcification). Seen in: papillary thyroid carcinoma, meningioma, mesothelioma, and serous ovarian tumours.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Ovarian germ cell tumours / tumour markers",
+"q": "What does Schiller-Duval bodies and raised AFP indicate, and what does it produce?",
+"a": "Yolk sac tumour (endodermal sinus tumour) — shows Schiller-Duval bodies and produces alpha-fetoprotein (AFP).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Ovarian germ cell tumours / tumour markers",
+"q": "What is the tumour marker for dysgerminoma and the characteristic cells?",
+"a": "LDH (lactate dehydrogenase) is highly specific for dysgerminoma; histology shows 'fried-egg' cells (clear cells with central nuclei).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Ovarian germ cell tumours",
+"q": "What is the most common malignant transformation arising in a mature cystic teratoma?",
+"a": "Squamous cell carcinoma (most common malignant transformation). About one-third may show raised AFP.",
+"ai": true,
+"note": "The 'one-third raised AFP' figure attributed to teratoma transformation is unverified/garbled in the transcript; AFP elevation is characteristic of yolk sac elements, not squamous transformation. Squamous cell carcinoma as the commonest malignant transformation of a mature teratoma is correct."
+},
+{
+"topic": "Pathology",
+"subtopic": "Histopathology / neoplasia",
+"q": "Keratin pearls / cytokeratin on histology indicate which malignancy?",
+"a": "Squamous cell carcinoma. If a vulval/cervical/skin biopsy shows keratin pearls, the diagnosis is squamous cell carcinoma.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Epidemiology of gynae cancer",
+"q": "What is the most common gynaecological cancer in developing countries versus developed countries?",
+"a": "Developing countries: cervical > ovarian > uterine. Developed countries (e.g. UK, with cervical screening): uterine (endometrial) > ovarian > cervical.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Epidemiology of cancer",
+"q": "What is the most common gynaecological cancer causing death, and the most common cancer overall causing death?",
+"a": "Most common gynaecological cancer causing death: ovarian cancer. Most common cancer overall causing death: bronchogenic (lung) carcinoma.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Epidemiology of cancer",
+"q": "What is the most common cancer overall during pregnancy/breastfeeding versus the most common gynaecological cancer in pregnancy?",
+"a": "Most common cancer overall in pregnancy/breastfeeding: breast cancer. Most common gynaecological cancer in pregnancy: cervical cancer.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Uterine neoplasia",
+"q": "What is the most common uterine (corpus) malignancy and its commonest type, plus the most common benign uterine tumour and most common uterine sarcoma?",
+"a": "Most common uterine malignancy: endometrioid adenocarcinoma. Most common benign tumour: leiomyoma. Most common uterine sarcoma: leiomyosarcoma.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Gynae neoplasia by site",
+"q": "What are the most common cancers of the fallopian tube, endocervix, ectocervix and vulva?",
+"a": "Fallopian tube: papillary serous adenocarcinoma. Endocervix: endometrioid/adenocarcinoma. Ectocervix and cervix overall: squamous cell carcinoma. Vulva: squamous cell carcinoma (most common site: labia majora).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Vulval pathology",
+"q": "What is the lifetime risk of squamous cell carcinoma with lichen sclerosus and with lichen planus of the vulva?",
+"a": "Lichen sclerosus: ~5% risk of vulval squamous cell carcinoma. Lichen planus: ~3% risk.",
+"ai": true,
+"note": "The ~5% (4–6%) malignancy risk for lichen sclerosus is the standard quoted figure and acceptable. The '3%' for lichen planus is poorly evidenced; erosive lichen planus carries a small SCC risk but a precise 3% figure is not well established in UK guidance — treat the lichen planus figure as uncertain."
+},
+{
+"topic": "Pathology",
+"subtopic": "Vulval pathology",
+"q": "What are the histological features of lichen sclerosus?",
+"a": "Epidermal atrophy, subepidermal hyalinisation (hyalinised collagen) and a band-like (lichenoid) lymphocytic infiltrate. It is an autoimmune condition; clinically purplish/white plaques.",
+"ai": true,
+"note": "Transcript conflates features. Lichen sclerosus: epidermal atrophy + subepidermal homogenised/hyalinised collagen + underlying band of lymphocytes. 'Purplish papules with Wickham's striae' actually describes lichen PLANUS, not lichen sclerosus — the transcript mixes the two. Erosive lichen planus is the autoimmune ulcerative subtype causing maximal symptoms."
+},
+{
+"topic": "Pathology",
+"subtopic": "Vulval pathology",
+"q": "Which subtype of anogenital lichen planus causes maximal symptoms and is autoimmune, and what is the first-line treatment of vulval lichen sclerosus?",
+"a": "Erosive lichen planus causes maximal symptoms (autoimmune, ulcerative). First-line treatment of lichen sclerosus: ultrapotent topical corticosteroid (clobetasol propionate).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Normal histology / neoplasia",
+"q": "Describe the epithelium and most common carcinoma at each lower genital tract site (ovary surface, fallopian tube, uterus/endocervix, ectocervix/vagina/vulva).",
+"a": "Ovary surface: cuboidal epithelium → serous cystadenocarcinoma. Fallopian tube: simple columnar ciliated → papillary serous adenocarcinoma. Uterus/endocervix: simple columnar (non-ciliated) → endometrioid adenocarcinoma. Ectocervix/vagina/vulva: stratified squamous (non-keratinised in vagina/ectocervix; keratinised on vulval skin) → squamous cell carcinoma.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Normal histology / neoplasia",
+"q": "What epithelium lines the renal pelvis, ureters, bladder and proximal urethra, and what is its tumour?",
+"a": "Transitional epithelium (urothelium) lines the renal pelvis, ureters, bladder and proximal urethra. Tumour: transitional cell carcinoma (urothelial carcinoma). The distal urethra is lined by stratified squamous epithelium.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Ovarian neoplasia",
+"q": "A Brenner tumour of the ovary is composed of which type of cells?",
+"a": "Transitional (urothelial) epithelium. Brenner tumour = urothelial-type ovarian epithelial tumour.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Ovarian neoplasia",
+"q": "What percentage of ovarian tumours are Brenner tumours, and what proportion of Brenner tumours are malignant?",
+"a": "Brenner tumours are <1% (about 1–2%) of all ovarian tumours; ~3–5% of Brenner tumours are malignant.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Histopathology / neoplasia",
+"q": "Which ovarian tumours can present with a papillary structure on biopsy?",
+"a": "Serous tumours and Brenner tumours classically show papillary structures; the serous subtype of endometrial/uterine adenocarcinoma can also show papillary architecture.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Ovarian neoplasia",
+"q": "Which benign ovarian tumour is most prone to undergo torsion in pregnancy?",
+"a": "Mature cystic teratoma (dermoid cyst) — it can grow large and present with torsion in pregnancy.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Placental pathology",
+"q": "Define placenta accreta, increta and percreta by depth of myometrial invasion, and which is most/least common.",
+"a": "Accreta: villi attach to myometrium without deep invasion (most common). Increta: villi invade into (partial thickness of) myometrium. Percreta: villi invade through full-thickness myometrium up to/through serosa (least common).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Vulval cancer staging (FIGO 2021)",
+"q": "What are the FIGO stages of vulval cancer (Stage I and II)?",
+"a": "Stage I: lesion confined to vulva. IA: ≤2 cm with stromal invasion ≤1 mm. IB: >2 cm or invasion >1 mm. Stage II: tumour extends to lower third of urethra, lower third of vagina, or lower third of rectum (anus), with negative nodes.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Vulval cancer staging (FIGO 2021)",
+"q": "What are FIGO Stage III and IV of vulval cancer (2021)?",
+"a": "Stage III: extension to upper urethra/vagina/bladder/rectal mucosa OR regional node involvement — IIIA: nodal metastasis ≤5 mm; IIIB: nodal metastasis >5 mm; IIIC: extracapsular nodal spread. Stage IV: fixed to bone/distant metastasis — IVA: fixed lesion or ulcerated/fixed nodes; IVB: distant metastasis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Uterine fibroids",
+"q": "What is the most common type of degeneration in a uterine fibroid, and what is it?",
+"a": "Hyaline degeneration — the most common (~60% of cases).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Uterine fibroids",
+"q": "What is red degeneration of a fibroid, its cause, and which fibroid degeneration is seen postmenopausally?",
+"a": "Red (carneous) degeneration occurs in pregnancy, is painful, and is caused by ischaemia/infarction (outgrown blood supply). Calcific degeneration (calcium carbonate/phosphate deposition) is seen postmenopausally.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Uterine fibroids",
+"q": "What is the risk of sarcomatous (leiomyosarcoma) change in a uterine fibroid?",
+"a": "Approximately 0.1–0.2% (very low).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Uterine fibroids / sarcoma",
+"q": "How are leiomyoma and leiomyosarcoma distinguished histologically?",
+"a": "Leiomyoma: elongated spindle ('cigar-shaped') smooth muscle cells in whorled/circular bundles, few mitoses. Leiomyosarcoma: diffuse fascicles/bundles, marked atypia, hyperchromatic nuclei and numerous mitotic figures.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Endometrial pathology",
+"q": "What is the precursor lesion of endometrial carcinoma, and the progression risk of complex atypical hyperplasia versus complex hyperplasia without atypia?",
+"a": "Complex atypical hyperplasia is the precursor — ~30% progress to carcinoma. Complex hyperplasia without atypia: <5% risk.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Endometrial carcinoma",
+"q": "What distinguishes Type I from Type II endometrial carcinoma (age, oestrogen, grade, precursor, mutations, histology)?",
+"a": "Type I: peri/postmenopausal, oestrogen-driven, low grade, precursor = atypical hyperplasia, PTEN/KRAS mutations, endometrioid histology. Type II: postmenopausal, oestrogen-independent, high grade, precursor = endometrial intraepithelial carcinoma, TP53 (p53) mutation, serous and clear cell histology.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Endometrial pathology",
+"q": "What is the Arias-Stella reaction?",
+"a": "A reactive, benign endometrial change induced by hormonal (progesterone) stimulation — cytomegaly and nuclear enlargement of endometrial glands. Associated with intrauterine and ectopic pregnancy, and gestational trophoblastic disease.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Uterine/endometrial pathology",
+"q": "What is the most common presenting feature of uterine fibroids, and what symptoms suggest endometriosis?",
+"a": "Fibroids: heavy menstrual bleeding (HMB) is the commonest feature. Endometriosis: dysmenorrhoea and dyspareunia.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Neoplasia / metastasis",
+"q": "By which route do most carcinomas metastasise, and which carcinomas are exceptions that spread haematogenously?",
+"a": "Most carcinomas spread via lymphatics (sarcomas spread haematogenously). Carcinomas that characteristically spread haematogenously: follicular thyroid carcinoma, choriocarcinoma, renal cell carcinoma and hepatocellular carcinoma.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Neoplasia / metastasis",
+"q": "By which route does choriocarcinoma metastasise?",
+"a": "Haematogenous spread (typically to lungs) — an exception among carcinomas which usually spread lymphatically.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Neoplasia / metastasis",
+"q": "What is transcoelomic (transperitoneal) spread, and give an example.",
+"a": "Spread of malignant cells across body cavities — e.g. ovarian carcinoma seeding the peritoneum, and surgical/iatrogenic implantation of malignant cells during biopsy/surgery.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Ectopic pregnancy",
+"q": "What is the most common site of tubal ectopic pregnancy and its frequency?",
+"a": "Ampulla of the fallopian tube — ~80% of tubal ectopics. Isthmus ~12%, fimbrial end ~5%, abdominal ~1.4%, ovary and cervix ~0.2% each.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Ectopic pregnancy",
+"q": "What is the recurrence rate of ectopic pregnancy after single-dose methotrexate, salpingectomy and salpingotomy (salpingostomy)?",
+"a": "Single-dose methotrexate ~8%, salpingectomy ~9.8%, linear salpingotomy/salpingostomy ~15%. Overall recurrence after a previous ectopic is approximately 15–20%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Obstetric pathology",
+"q": "A histology of squamous cells and lanugo hair within pulmonary vessels following acute collapse with shortness of breath in labour suggests what diagnosis?",
+"a": "Amniotic fluid embolism (fetal squames and lanugo/mucin in the maternal pulmonary vasculature).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Uterine pathology",
+"q": "Endometrial glands and stroma found within the myometrium — what is the diagnosis and the typical gross appearance of the uterus?",
+"a": "Adenomyosis — the uterus is diffusely/globally enlarged (distinguishing it from a fibroid, which causes focal/nodular enlargement).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Endometrial pathology",
+"q": "What is the most common cause of postmenopausal bleeding?",
+"a": "Atrophic vaginitis / atrophic endometritis (endometrial atrophy).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Paediatric neoplasia",
+"q": "What is the most common gynaecological tumour in the newborn, and the most common malignant solid tumour overall in the newborn?",
+"a": "Most common solid tumour of the newborn overall: neuroblastoma; if neuroblastoma is not an option, sacrococcygeal teratoma is the next answer. The most common benign newborn solid tumour is sacrococcygeal teratoma.",
+"ai": true,
+"note": "Mixed/garbled in transcript. Neuroblastoma is the most common extracranial solid tumour of infancy and the most common malignancy in the first months of life; sacrococcygeal teratoma is the most common congenital/neonatal tumour at birth. Wilms (nephroblastoma) must not be confused with neuroblastoma. Wording should be checked against the exact question stem."
+},
+{
+"topic": "Pathology",
+"subtopic": "Vaginal neoplasia",
+"q": "What is the most common non-epithelial vaginal malignancy in a newborn/young child, and its histological clue?",
+"a": "Rhabdomyosarcoma (sarcoma botryoides) — described as a lesion resembling 'a bunch of grapes'.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Vaginal pathology",
+"q": "What is the most common epithelium of the vagina, and the most common site of vaginal carcinoma?",
+"a": "Non-keratinised stratified squamous epithelium. Most common site of vaginal carcinoma: upper third of the vagina (most common type is squamous cell carcinoma).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Obstetric pathology",
+"q": "What vascular renal/placental lesion is characteristic of pre-eclampsia?",
+"a": "Glomerular endotheliosis (vascular endotheliosis) — endothelial dysfunction caused by placental ischaemia releasing reactive oxygen species that target endothelium throughout the body (kidney, brain, liver).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Cervical / vulval pathology",
+"q": "What is the most common benign cervical tumour, and the most common benign cystic lesion of the vulva?",
+"a": "Most common benign cervical tumour: cervical polyp. Most common cystic lesion of the vulva: Bartholin's cyst.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Placental pathology",
+"q": "In placenta accreta spectrum, what defines accreta, increta and percreta, and which is most common?",
+"a": "Accreta = chorionic villi attach to myometrium without intervening decidua; increta = villi invade into the myometrium; percreta = villi penetrate through the full myometrial thickness to the serosa (and may involve bladder/rectum). Accreta is the most common, accounting for ~75-80% of cases.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Inflammation - chemical mediators",
+"q": "Why can NSAIDs precipitate bronchospasm, and which inflammatory mediator is NOT suppressed by them?",
+"a": "NSAIDs inhibit cyclo-oxygenase (COX), reducing prostaglandins, but they do not affect the lipoxygenase pathway. Arachidonic acid is therefore shunted toward leukotriene production. Leukotrienes are not suppressed by NSAIDs and cause bronchoconstriction.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Ovarian germ cell tumours",
+"q": "What histological finding is characteristic of a yolk sac (endodermal sinus) tumour of the ovary, and which tumour marker does it produce?",
+"a": "Schiller-Duval bodies (a central blood vessel surrounded by tumour cells, resembling a glomerulus) are characteristic. The marker is alpha-fetoprotein (AFP).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Ovarian sex cord-stromal tumours",
+"q": "Which ovarian tumour produces androgens and can cause virilisation?",
+"a": "Sertoli-Leydig cell tumour (a sex cord-stromal tumour) produces androgens and may cause virilisation/defeminisation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Ovarian germ cell tumours",
+"q": "What is the classic histological appearance and tumour marker of an ovarian dysgerminoma?",
+"a": "'Fried egg' cells - uniform tumour cells with clear cytoplasm and central nuclei, often with a lymphocytic infiltrate. The tumour marker is LDH (lactate dehydrogenase).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Ovarian germ cell tumours",
+"q": "What structure may be seen within a mature cystic teratoma (dermoid cyst) of the ovary?",
+"a": "A Rokitansky protuberance/nodule - a solid prominence containing hair, teeth and other ectodermal derivatives. Mature teratomas contain well-differentiated tissues from all germ layers.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Ovarian sex cord-stromal tumours",
+"q": "What is the histological cell type of an ovarian fibroma, and which clinical syndrome may it cause?",
+"a": "Fibromas are spindle-cell (fibroblastic) tumours - not muscle tumours. They may present with Meigs syndrome: ovarian fibroma + pleural effusion + ascites.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Ovarian sex cord-stromal tumours",
+"q": "What histological feature characterises a granulosa cell tumour of the ovary, and what endometrial effect does it produce?",
+"a": "Call-Exner bodies (small follicle-like spaces with eosinophilic material) are characteristic. Granulosa cell tumours secrete oestrogen, causing endometrial hyperplasia/proliferative changes and postmenopausal bleeding.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Metastatic ovarian tumours",
+"q": "What histological hallmark identifies a Krukenberg tumour of the ovary?",
+"a": "Signet-ring cells (mucin-laden cells with a peripherally displaced nucleus). A Krukenberg tumour is a metastasis to the ovary, classically from a gastric (or other GI) primary.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Lower genital tract - epithelial linings",
+"q": "What is the most common cancer of the female urethra, and how does the epithelial lining vary along the urethra?",
+"a": "Squamous cell carcinoma is the most common cancer of the female urethra. The proximal one-third is lined by transitional (urothelial) epithelium and the distal two-thirds by squamous epithelium; the urethral opening is also squamous.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Urinary tract - epithelial linings",
+"q": "What type of epithelium lines the urinary bladder?",
+"a": "Transitional epithelium (urothelium). The renal pelvis, ureter, bladder and proximal urethra are all lined by urothelium.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Ovarian epithelial tumours",
+"q": "Which ovarian carcinoma is most strongly associated with endometriosis?",
+"a": "Clear cell carcinoma is the ovarian cancer most strongly associated with endometriosis; endometrioid carcinoma is also associated and is the next answer if clear cell is not offered.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Vulval intraepithelial neoplasia",
+"q": "Which HPV subtype is most commonly associated with classical (usual-type) vulval intraepithelial neoplasia and HPV-related vulval cancer?",
+"a": "HPV 16 (a high-risk strain) is most commonly implicated. Classical/usual-type VIN is HPV-driven, whereas differentiated VIN arises on a background of lichen sclerosus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Vulval intraepithelial neoplasia",
+"q": "What is the precursor lesion for differentiated (HPV-independent) vulval intraepithelial neoplasia?",
+"a": "Lichen sclerosus is the precursor/risk factor for differentiated VIN. This contrasts with classical/usual-type VIN, which is HPV-related.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Vulval carcinoma",
+"q": "What epithelium lines the vulva, and what is the most common vulval cancer and its most common site?",
+"a": "The vulva is lined by stratified squamous epithelium (keratinised over hair-bearing skin, non-keratinised at mucosal surfaces). The most common vulval cancer is squamous cell carcinoma, and the most common site is the labia majora.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Vulval carcinoma",
+"q": "What is the second most common vulval cancer and the most common benign vulval lesion arising from the Bartholin gland?",
+"a": "Bartholin gland carcinoma is the second most common vulval cancer (~5% of cases). The most common benign Bartholin lesion is a Bartholin cyst.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Vulval carcinoma - risk factors",
+"q": "What is the approximate lifetime risk of squamous cell carcinoma in vulval lichen sclerosus, and what are the strongest risk factors for vulval cancer?",
+"a": "The risk of vulval SCC in lichen sclerosus is approximately 5% (around 3% with lichen planus). The strongest risk factors for vulval cancer are high-risk HPV (in younger women, classical/usual-type VIN) and lichen sclerosus (in older women, differentiated VIN).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Vulval carcinoma - FIGO staging",
+"q": "In the FIGO staging of vulval carcinoma, how is stage IA distinguished from stage IB?",
+"a": "Stage IA: tumour confined to the vulva, size 2 cm or less AND stromal invasion 1 mm or less. Stage IB: tumour confined to the vulva/perineum, size greater than 2 cm OR stromal invasion greater than 1 mm.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Ovarian epithelial tumours",
+"q": "What epithelium covers the ovarian surface and what is its most common malignancy?",
+"a": "The ovarian surface is covered by cuboidal (modified mesothelial/coelomic) epithelium. The most common ovarian malignancy is serous cystadenocarcinoma.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Female genital tract - epithelial linings",
+"q": "What type of epithelium lines the fallopian tube and why?",
+"a": "Ciliated columnar epithelium. The cilia, together with peristalsis, propel the ovum from the fallopian tube toward the uterus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Cervix - epithelial linings",
+"q": "What epithelium lines the uterus and endocervix, and what is the transformation zone?",
+"a": "The endometrium/uterus and endocervix are lined by columnar epithelium; the ectocervix is stratified squamous. The transformation zone is the squamocolumnar junction where columnar endocervical epithelium meets squamous ectocervical epithelium.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Uterine malignancy",
+"q": "A postmenopausal woman has a uterine fundal mass containing a malignant tumour of both endometrial glands and metaplastic cartilage. What is the diagnosis?",
+"a": "Carcinosarcoma (malignant mixed Mullerian tumour / adenosarcoma spectrum): a malignant epithelial component (adenocarcinoma) combined with a malignant mesenchymal/heterologous component (sarcoma, e.g. cartilage).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Endometrial cancer - risk factors",
+"q": "What are the strongest risk factors for endometrial cancer?",
+"a": "Obesity and diabetes mellitus carry the highest risk. Other risk factors include unopposed oestrogen, nulliparity, late menopause, PCOS, and tamoxifen use.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Ovarian sex cord-stromal tumours",
+"q": "What is the histological cell type of a benign ovarian mass composed of spindle-shaped cells, and how does it present?",
+"a": "An ovarian fibroma (spindle-cell, fibroblastic tumour). It may present with Meigs syndrome (pleural effusion, ascites and ovarian fibroma).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Breast histology",
+"q": "In the breast, which structure is responsible for milk production, and how does it differ from stroma?",
+"a": "The lobule (and lobular hyperplasia) is the milk-producing/secretory part of the breast. Stroma is the supporting connective tissue and is not the lactating component; do not confuse stromal hypertrophy with lobular hyperplasia.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Dermatoses of pregnancy",
+"q": "A pregnant woman has an itchy rash with periumbilical sparing (umbilicus not involved). What is the diagnosis?",
+"a": "Polymorphic eruption of pregnancy (PEP / PUPPP). It characteristically spares the umbilicus, is often associated with multiple pregnancy and striae gravidarum, and is not a true dermatitis (no primary skin inflammation). Pemphigoid gestationis, by contrast, involves the umbilicus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Leiomyoma degeneration",
+"q": "What is the most common type of fibroid (leiomyoma) degeneration, and what is the rate of sarcomatous (malignant) change?",
+"a": "Red (carneous) degeneration is the most common type seen in pregnancy, caused by ischaemia/infarction; hyaline degeneration is the most common overall, and calcification is typical postmenopausally. Sarcomatous transformation to leiomyosarcoma is rare, approximately 0.1-0.2%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Apoptosis",
+"q": "Describe the intrinsic (mitochondrial) pathway of apoptosis.",
+"a": "Triggered by internal stimuli (DNA damage, oxidative stress, growth factor withdrawal). Mitochondria release cytochrome c, which binds APAF-1 to form the apoptosome, activating initiator caspase-9, which in turn activates executioner caspase-3. It is regulated by the BCL-2 family (BAX/BAK pro-apoptotic; BCL-2/BCL-XL anti-apoptotic).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Apoptosis",
+"q": "Describe the extrinsic (death receptor) pathway of apoptosis.",
+"a": "Triggered by external ligands. Fas ligand binds the Fas (death) receptor, activating initiator caspase-8 (and -10), which then activates the executioner caspases. Cytotoxic T cells can also act directly via granzyme B, which activates executioner caspases.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Apoptosis",
+"q": "Classify the caspases involved in apoptosis and inflammation.",
+"a": "Initiator caspases: 8, 9 and 10 (begin the apoptotic cascade). Executioner caspases: 3, 6 and 7 (directly dismantle the cell). Inflammatory caspases: 1, 4 and 5.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Apoptosis - regulation",
+"q": "Which BCL-2 family proteins are pro-apoptotic versus anti-apoptotic, and what is the role of p53?",
+"a": "Pro-apoptotic: BAX and BAK. Anti-apoptotic: BCL-2 and BCL-XL (inhibit apoptosis). p53 is a tumour suppressor gene that promotes apoptosis in cells with DNA damage.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Inflammation / Sepsis",
+"q": "A postpartum patient 2 weeks after delivery presents with fever 39C, BP 90/50 mmHg, respiratory rate 30/min, warm peripheries and brisk (rapid) capillary refill. What is the diagnosis?",
+"a": "Septic shock. Warm peripheries and rapid capillary refill (rather than prolonged refill) point away from hypovolaemic shock, and there is no history of blood loss. Two SIRS criteria are met (temperature and respiratory rate) with a likely infective source.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Inflammation / Sepsis",
+"q": "What are the SIRS criteria, and how many are needed to diagnose SIRS?",
+"a": "Two or more of: temperature >38C or <36C; heart rate >90/min; respiratory rate >20/min (or PaCO2 <32 mmHg); white cell count >12 or <4 x10^9/L (or >10% immature bands). Sepsis = SIRS plus suspected or confirmed infection.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Inflammation / Sepsis",
+"q": "Define the sepsis spectrum: sepsis, severe sepsis, multi-organ dysfunction, and septic shock.",
+"a": "Sepsis = SIRS + confirmed/suspected infection. Severe sepsis = sepsis + single organ dysfunction. Multi-organ dysfunction = more than one organ affected. Septic shock = refractory hypotension that does not respond to a fluid bolus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Neoplasia / Ovary",
+"q": "What proportion of ovarian tumours are epithelial versus non-epithelial?",
+"a": "Epithelial tumours account for the large majority (about 90%, range often quoted 85-95%); non-epithelial tumours (germ cell and sex cord-stromal) make up roughly 10%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Neoplasia / Ovary",
+"q": "Approximately what proportion of Sertoli-Leydig cell tumours and Sertoli cell tumours of the ovary are malignant?",
+"a": "Roughly 10-20% behave in a malignant fashion (about 10% commonly quoted as the single best answer for these sex cord-stromal tumours).",
+"ai": true,
+"note": "Reported malignant rates for Sertoli-Leydig cell tumours vary widely by differentiation (well-differentiated essentially benign; poorly differentiated ~50-60% malignant). The transcript's blanket 10-20% figure is an oversimplification and is not a fixed guideline value, so treat the exact percentage with caution."
+},
+{
+"topic": "Pathology",
+"subtopic": "Neoplasia / Ovary",
+"q": "Which is the most common malignant ovarian tumour associated with endometriosis, and what is the second?",
+"a": "Clear cell carcinoma is the preferred answer for the most common malignancy arising in endometriosis, with endometrioid carcinoma being the other strongly associated type (endometrioid is particularly associated with Lynch syndrome).",
+"ai": true,
+"note": "Both clear cell and endometrioid carcinomas are linked to endometriosis. Many sources actually cite endometrioid as the more frequently associated type overall; the transcript's instruction to always pick clear cell over endometrioid is exam-strategy advice, not a settled fact."
+},
+{
+"topic": "Pathology",
+"subtopic": "Placenta",
+"q": "On a placental specimen, the cord inserts at the margin AND the membranes are attached to the cord (not the placental disc). What type of cord insertion is this?",
+"a": "Velamentous cord insertion (the umbilical vessels run through the membranes before reaching the placental disc). If the cord simply inserts at the margin with membranes attached to the disc, that is a marginal (battledore) insertion.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Placenta",
+"q": "A low anterior placenta is directly attached to the myometrium but does not invade through it. What is the diagnosis?",
+"a": "Placenta accreta - abnormally adherent placenta attached directly to myometrium due to absent decidua basalis, without myometrial invasion.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Placenta",
+"q": "Distinguish placenta accreta, increta and percreta.",
+"a": "Accreta: villi attach directly to myometrium (no invasion). Increta: villi invade into the myometrium. Percreta: villi penetrate the full thickness through the serosa and may reach adjacent organs (e.g. bladder).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Healing",
+"q": "At what time is the maximum (final) tensile strength of a healing wound achieved, and what percentage of original strength is reached?",
+"a": "Maximum tensile strength is reached at about 3 months (around 11-14 weeks / ~90 days), but the wound only ever regains about 70-80% of the original tissue strength - never 100%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Healing",
+"q": "Which growth factor is most important in wound healing (fibrosis and collagen deposition)?",
+"a": "Transforming growth factor beta (TGF-beta), which drives fibroblast proliferation and collagen synthesis during the proliferative/remodelling phases.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Pregnancy dermatoses",
+"q": "Which pregnancy dermatosis is complement-mediated, and what is the target antigen?",
+"a": "Pemphigoid (herpes) gestationis. IgG autoantibodies form against the hemidesmosomal antigen BP180 (collagen XVII) at the basement membrane, fixing complement (linear C3 along the dermo-epidermal junction) and producing subepidermal blisters.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Pregnancy dermatoses",
+"q": "How does umbilical involvement help distinguish pemphigoid gestationis from polymorphic eruption of pregnancy (PUPPP/PEP)?",
+"a": "Pemphigoid gestationis typically involves/begins around the umbilicus. Polymorphic eruption of pregnancy classically spares the umbilicus and clusters in the abdominal striae, often in multiple pregnancy or multigravida due to abdominal over-distension.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Pregnancy dermatoses",
+"q": "Which are the most common dermatoses of pregnancy?",
+"a": "Atopic eruption of pregnancy and polymorphic eruption of pregnancy (PUPPP/PEP) are the most common pregnancy-specific dermatoses.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Neoplasia / Vulva",
+"q": "Rank the most common types of vulval cancer with approximate percentages.",
+"a": "Squamous cell carcinoma is by far the most common (~80-90%); melanoma is the second most common (~5%); adenocarcinoma and Paget disease are less than 5%; basal cell carcinoma and sarcomas are rarer.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Neoplasia / HPV",
+"q": "Which HPV strains are associated with genital warts (condylomata), and which with cervical/anogenital carcinoma?",
+"a": "Low-risk HPV 6 and 11 cause genital warts. High-risk oncogenic strains 16, 18, 31 and 33 are associated with cervical and other anogenital carcinomas.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Neoplasia / Benign",
+"q": "A breast/nipple-region lesion biopsy shows branching papillae lined by epithelial and myoepithelial cells, arising from apocrine glands, cured by full excision. What is it?",
+"a": "A benign apocrine adenoma / papilloma-type lesion. Full excision is curative and recurrence is less than 1%. The presence of an intact myoepithelial cell layer indicates a benign lesion.",
+"ai": true,
+"note": "The transcribed scenario (interlabial/nipple sulcus, branching papillae, epithelial + myoepithelial cells, cured by excision) is garbled and ambiguous between a benign papilloma and a hidradenoma papilliferum. Exact entity cannot be confidently verified from the transcript; the key teaching point (intact myoepithelial layer = benign) is reliable."
+},
+{
+"topic": "Pathology",
+"subtopic": "Normal values / Blood groups",
+"q": "What proportion of the UK population is Rhesus (RhD) negative, and what is the most common blood group?",
+"a": "About 15% of the UK population is RhD negative (85% RhD positive). O is the most common ABO group, followed by A, then B, then AB.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Neoplasia / DES",
+"q": "In a female exposed in utero to diethylstilbestrol (DES), which vaginal/cervical malignancy may develop?",
+"a": "Clear cell adenocarcinoma of the vagina (and cervix), characteristically in young women with in-utero DES exposure.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Uterus",
+"q": "Endometrial tissue (glands and stroma) found within the myometrium, with a uniformly enlarged bulky uterus and a patient presenting with bleeding - what is the diagnosis, and how is it distinguished from fibroids?",
+"a": "Adenomyosis. The uterus is uniformly/diffusely enlarged and bulky, whereas fibroids cause an irregular, lumpy uterine contour rather than uniform enlargement.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Neoplasia / Vulva",
+"q": "Which vulval inflammatory dermatosis is most strongly linked to vulval squamous cell carcinoma - lichen planus or lichen sclerosus?",
+"a": "Lichen sclerosus is the premalignant condition most strongly associated with vulval squamous cell carcinoma (via the differentiated VIN pathway).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Cell injury / Adaptation",
+"q": "When trying to distinguish hypertrophy from hyperplasia, what is the key difference?",
+"a": "Hypertrophy = increase in cell SIZE (no increase in cell number). Hyperplasia = increase in cell NUMBER.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Cell injury / Neoplasia",
+"q": "A cervical/cellular specimen shows anisocytosis, poikilocytosis and hyperchromatism. What process do these features suggest?",
+"a": "Dysplasia - disordered growth with variation in cell size (anisocytosis), shape (poikilocytosis) and increased nuclear staining (hyperchromatism).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Neoplasia / HPV",
+"q": "An exophytic vulval/cervical lesion shows hyperkeratosis with koilocytes (HPV cytopathic change) on histology. What is the lesion?",
+"a": "A wart / condyloma (HPV-associated lesion). Koilocytes are the characteristic hyperchromatic, perinuclear-halo cells indicating HPV infection.",
+"ai": true,
+"note": "The closing passage of the transcript is heavily garbled ('exophytic lesion ... hyperkeratosis'); the intended answer appears to be a wart/condyloma but cannot be confidently confirmed from the transcript text."
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What is the most common ovarian mass in young women, and what hormone does it overproduce?",
+"a": "Follicular cyst (a functional cyst forming when a mature follicle fails to rupture). It produces excess oestrogen, causing proliferative endometrial changes.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "How does a corpus luteal cyst form and what hormone excess results?",
+"a": "From failure of the corpus luteum to involute after ovulation; it persists and produces excess progesterone. It usually resolves spontaneously.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "Theca lutein cysts arise from hyperreaction to which hormone, and in which conditions are they seen?",
+"a": "Hyperreaction to high hCG/luteinisation. Seen in gestational trophoblastic disease (hydatidiform mole and choriocarcinoma) where hCG is markedly raised; typically bilateral and multiple.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What complications can occur when an ovarian cyst enlarges?",
+"a": "Rupture, haemorrhage, and adnexal (ovarian) torsion.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "How does ovarian cancer risk relate to ovulation and reproductive history?",
+"a": "Risk increases with the number of lifetime ovulations: early menarche, late menopause, and nulliparity raise risk; pregnancy, breastfeeding, COCP use and tubal ligation are protective.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "Which two ovarian carcinoma types are associated with endometriosis, and which is most characteristic?",
+"a": "Clear cell carcinoma and endometrioid carcinoma. Clear cell carcinoma is the most characteristically associated with endometriosis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "Which ovarian carcinoma histotype is most associated with Lynch syndrome?",
+"a": "Endometrioid carcinoma (preferred over clear cell in the Lynch syndrome context).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What are the three broad categories of ovarian tumours by cell of origin?",
+"a": "Surface (epithelial) tumours, sex cord-stromal tumours, and germ cell tumours.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What is the most common benign ovarian tumour overall?",
+"a": "Mature cystic teratoma (dermoid cyst), a germ cell tumour.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "Approximately what proportion of malignant ovarian cancers are epithelial, and which subtype is most common?",
+"a": "About 90-95% are epithelial; serous adenocarcinoma is the most common malignant epithelial tumour. Non-epithelial cancers make up roughly 5-10%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What are the tumour markers for epithelial ovarian tumours?",
+"a": "CA-125 (principal marker); carcinoembryonic antigen (CEA) may also be raised.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "Which ovarian tumour is associated with pseudomyxoma peritonei?",
+"a": "Mucinous tumour/carcinoma of the ovary (mucin-secreting epithelium).",
+"ai": true,
+"note": "Partly outdated: pseudomyxoma peritonei is now considered to originate almost always from a primary appendiceal mucinous neoplasm, with ovarian involvement usually secondary. Mucinous tumours remain the classic association in MRCOG teaching, but a primary appendiceal source should be sought."
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "From which epithelium are Brenner tumours of the ovary derived?",
+"a": "Transitional (urothelial-type) epithelium.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What histological feature is characteristic of Brenner tumours?",
+"a": "'Coffee-bean' nuclei (nuclear grooves) in transitional-type epithelial nests.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What percentage of all Brenner tumours are malignant?",
+"a": "Roughly 2-5% of all Brenner tumours are malignant; the remainder are benign.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What characteristic histological structure is seen in serous ovarian carcinoma?",
+"a": "Psammoma bodies (laminated calcified concretions).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "Which ovarian germ cell tumour is benign, and what germ layers does it contain?",
+"a": "Mature cystic teratoma (dermoid). It contains derivatives of all three germ layers (ectoderm, mesoderm, endoderm) - e.g. hair, teeth, thyroid tissue.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What distinguishes an immature teratoma histologically?",
+"a": "Presence of immature/embryonal tissue, predominantly immature neural tissue (neural tubules/rosettes); differentiated germ-layer structures cannot be clearly identified. It is malignant.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What is dysgerminoma, its male equivalent, its histology, and its tumour markers?",
+"a": "Malignant ovarian germ cell tumour; equivalent to the testicular seminoma. Histology shows fried-egg cells. Markers: LDH and hCG, with LDH being more specific than hCG.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What is the characteristic histological finding and tumour marker of yolk sac (endodermal sinus) tumour?",
+"a": "Schiller-Duval bodies; it is a yellow friable malignant mass. Tumour marker: alpha-fetoprotein (AFP).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "Which sex cord-stromal tumour is associated with Meigs syndrome, and what is the triad?",
+"a": "Ovarian fibroma. Meigs syndrome triad: ovarian fibroma + ascites + pleural effusion (thecoma is the second-best answer).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What is the histology of an ovarian fibroma?",
+"a": "Bundles of spindle-shaped fibroblasts.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What hormone do Sertoli-Leydig cell tumours produce and what clinical effect results?",
+"a": "Androgens, causing virilisation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What are the histological feature and tumour marker of granulosa cell tumour, and its hormone effect?",
+"a": "Call-Exner bodies on histology; tumour marker is inhibin. Produces oestrogen (and sometimes progesterone), causing endometrial hyperplasia, precocious puberty, or postmenopausal bleeding.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What is the most common malignant sex cord-stromal ovarian tumour?",
+"a": "Granulosa cell tumour.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "Which ovarian tumour most commonly presents with torsion during pregnancy?",
+"a": "Mature cystic teratoma (dermoid cyst), because it enlarges and is the commonest benign tumour in pregnancy.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What is a Krukenberg tumour?",
+"a": "Metastatic ovarian tumour, classically from a gastric (signet-ring) adenocarcinoma; usually bilateral.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What is adenomyosis and what is its underlying mechanism?",
+"a": "Presence of endometrial glands/stroma within the myometrium, due to hyperplasia of the basal layer of the endometrium. Gives a soft, globular, enlarged uterus with dysmenorrhoea and abnormal uterine bleeding.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What is the risk of progression to endometrial carcinoma for endometrial hyperplasia without atypia versus with atypia?",
+"a": "Without atypia: less than 5%. With atypia: approximately 30% (a frequently quoted figure; only complex/atypical hyperplasia is the significant precursor).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What is the most common site of endometriosis, and name the order of common sites?",
+"a": "Ovary is most common, followed by the pouch of Douglas/uterosacral ligament and posterior broad ligament; less commonly uterine scars and appendix.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What is an endometrioma?",
+"a": "A 'chocolate cyst' - an ovarian cyst containing altered (old) blood from endometriotic deposits.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What is the most common gynaecological malignancy, and what are its two types?",
+"a": "Endometrial carcinoma. Type 1 = endometrioid (oestrogen-driven; PTEN and mismatch-repair gene mutations); Type 2 = serous (oestrogen-independent, arises in atrophic endometrium of postmenopausal women; p53 mutation).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "Which type of endometrial carcinoma shows psammoma bodies?",
+"a": "Serous (Type 2) endometrial carcinoma.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What is leiomyoma, and what is its rate of malignant transformation to leiomyosarcoma?",
+"a": "A benign smooth-muscle uterine tumour (fibroid). Malignant transformation to leiomyosarcoma is very rare, approximately 0.1-0.2%.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What is the microscopic appearance of a leiomyoma?",
+"a": "Interlacing bundles/whorls of spindle-shaped (cigar-shaped, elongated) smooth muscle cells with well-defined borders.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What is the most common type of fibroid degeneration?",
+"a": "Hyaline degeneration (~60% of cases).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "Which type of fibroid degeneration occurs in pregnancy and is painful?",
+"a": "Red degeneration (carneous degeneration).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "Which type of fibroid degeneration is seen postmenopause and what causes it?",
+"a": "Calcific degeneration, due to deposition of calcium and phosphate.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "On ultrasound, how is an endometrial polyp distinguished from a submucosal fibroid?",
+"a": "A polyp is hyperechoic with a single feeding vessel; a submucosal fibroid is hypoechoic with multiple feeding vessels and a surrounding layer of echogenic endometrium.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What is uterine carcinosarcoma (malignant mixed Mullerian tumour)?",
+"a": "A biphasic malignancy with both a malignant epithelial (carcinomatous, e.g. adenocarcinoma) and malignant mesenchymal (sarcomatous, e.g. cartilage/smooth muscle) component.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "Which HPV strains are high-risk for cervical cancer, and which are low-risk?",
+"a": "High-risk: 16 (most important), 18, 31, 33, 45 and others; HPV 16 is the single most common cause. Low-risk: 6 and 11 (associated with genital warts).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What is the most common site of cervical cancer, and the most common histological type?",
+"a": "Most common site: the transformation zone. Most common malignant type: squamous cell carcinoma. Most common benign cervical tumour: polyp.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "How is HPV testing used in the UK cervical screening programme?",
+"a": "HPV is now the primary screening test (HPV-primary screening): samples are tested for high-risk HPV first, and only HPV-positive samples undergo cytology. HPV testing is also used as test of cure after treatment of high-grade abnormalities.",
+"ai": true,
+"note": "Transcript describes HPV testing as a triage tool for low-grade abnormalities after cytology. In the current NHS England programme (HPV-primary since ~2019) high-risk HPV is the FIRST-line test with cytology as triage, not the reverse. Test-of-cure use is correct."
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What is the most common malignant vulval carcinoma and its most common site?",
+"a": "Squamous cell carcinoma; most common site is the labia majora.",
+"ai": true,
+"note": "Site is correct (labia majora most common) but the transcript's 60% figure is high; standard teaching is approximately 50% labia majora, with ~15-20% labia minora."
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What is the most common non-epithelial malignancy of the vulva?",
+"a": "Extramammary Paget disease of the vulva (occurs almost exclusively in postmenopausal women).",
+"ai": true,
+"note": "Classification overlap: Paget disease is actually an intraepithelial adenocarcinoma. The most common non-SCC malignancy is generally cited as malignant melanoma; Paget disease and melanoma are both far rarer than SCC. Treat the transcript statement cautiously."
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What is the most common cystic lesion of the vulva?",
+"a": "Bartholin cyst.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "Compare lichen sclerosus and lichen planus of the vulva regarding autoimmunity and malignant risk.",
+"a": "Lichen sclerosus is entirely autoimmune; only the erosive subtype of lichen planus is autoimmune. Malignant (SCC) risk: ~5% with lichen sclerosus, ~3% with lichen planus. Both are premalignant.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What is the histology of vulval lichen sclerosus?",
+"a": "Epidermal atrophy, subepidermal hyalinisation, and a band-like lymphocytic infiltrate. Clinically gives white shiny 'cigarette/tissue-paper' skin and a 'figure-of-eight' anogenital distribution, sparing the vagina and cervix.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What are the two precursor types of vulval squamous cell carcinoma (VIN)?",
+"a": "Classical/usual-type VIN (HPV-related, younger women) and differentiated VIN (associated with lichen sclerosus, older women).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What is the most important prognostic factor in vulval/skin melanoma?",
+"a": "The thickness/depth of the lesion (Breslow depth).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What histological hallmark is seen in well-differentiated squamous cell carcinoma?",
+"a": "Keratin pearls.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What is the most common vaginal malignancy in infants/children, and its gross appearance?",
+"a": "Embryonal rhabdomyosarcoma (sarcoma botryoides), presenting as a grape-like mass; it is the most common non-epithelial vaginal tumour overall.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "Which vaginal cancer is associated with in-utero diethylstilbestrol (DES) exposure?",
+"a": "Clear cell adenocarcinoma of the vagina.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What is the most common primary vaginal carcinoma and its most common site?",
+"a": "Squamous cell carcinoma; most common site is the upper third of the posterior vaginal wall. Precursor lesion: vaginal intraepithelial neoplasia (VAIN).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Pathology",
+"subtopic": "Special Pathology",
+"q": "What is the most common cause of postmenopausal bleeding?",
+"a": "Atrophic endometritis/vaginitis. Other causes in decreasing order: exogenous oestrogen, endometrial carcinoma, endometrial hyperplasia, and endometrial/cervical polyps.",
+"ai": false,
+"note": ""
+}
+]
+},
+{
 "id": "pharmacology",
 "title": "Pharmacology",
 "cards": [
