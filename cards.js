@@ -4196,5 +4196,67 @@ window.SECTIONS = [
 "note": ""
 }
 ]
+},
+{
+"id": "general",
+"title": "General",
+"cards": [
+{
+"topic": "General",
+"subtopic": "Exam format",
+"q": "What is the structure of the MRCOG Part 1 examination (number of papers, question type, questions per paper, and duration)?",
+"a": "Two papers, each containing 100 single best answer (SBA) questions, with 2.5 hours allowed per paper (5 hours total).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "General",
+"subtopic": "Exam format",
+"q": "How is the MRCOG Part 1 marked – is there negative marking, and how is the pass determined?",
+"a": "There is no negative marking (one mark per correct answer, no penalty for wrong answers, so every question should be attempted). The result is based on the combined score across both papers, with no separate minimum pass mark for an individual paper.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "General",
+"subtopic": "Exam format",
+"q": "How many papers are in the MRCOG Part 1 exam, and what question format is used?",
+"a": "Two papers, each containing 100 single best answer (SBA) questions. It is a computer-based test (CBT). Both papers contribute equally to the final score.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "General",
+"subtopic": "Exam format",
+"q": "How long is each MRCOG Part 1 paper, and what is the break between papers?",
+"a": "Each paper lasts 2.5 hours (150 minutes), with an approximately 1-hour break between Paper 1 and Paper 2.",
+"ai": true,
+"note": "Transcript stated each paper was '2 hours'; per RCOG each paper is 2.5 hours (150 minutes). The ~1-hour maximum break is correct. Corrected duration shown."
+},
+{
+"topic": "General",
+"subtopic": "Exam format",
+"q": "Is there negative marking in MRCOG Part 1?",
+"a": "No. There is no negative marking; unanswered questions simply score zero, so candidates should attempt every question.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "General",
+"subtopic": "Exam format",
+"q": "How is the MRCOG Part 1 pass mark determined?",
+"a": "The pass mark is set for each sitting by standard-setting (modified Angoff method) and is not a fixed published number; it varies between exams.",
+"ai": true,
+"note": "Transcript claimed a fixed pass mark of ~66-68%. RCOG does not publish a fixed numerical pass mark; the threshold is set per exam by the modified Angoff standard-setting method, so the stated figure cannot be verified as an official constant."
+},
+{
+"topic": "General",
+"subtopic": "Syllabus",
+"q": "Which broad subject areas does the MRCOG Part 1 syllabus cover?",
+"a": "Basic and applied sciences relevant to O&G, including anatomy, embryology, physiology, biochemistry, endocrinology, biophysics, pharmacology, microbiology, pathology, immunology, genetics, epidemiology/statistics, data interpretation and clinical management.",
+"ai": true,
+"note": "Transcript assigned specific subjects rigidly to Paper 1 vs Paper 2 (e.g. anatomy/biochem/embryology/endocrine in Paper 1; biophysics/pharma/micro/clinical management in Paper 2) and gave per-subject question counts (e.g. ~40 anatomy questions). RCOG does not publish a fixed subject-to-paper split or fixed per-subject question counts; both papers sample across the curriculum modules. The subject list itself is correct but the paper allocation/weighting is a course heuristic, not official guidance."
+}
+]
 }
 ];
