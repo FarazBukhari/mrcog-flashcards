@@ -1,5 +1,851 @@
 window.SECTIONS = [
 {
+"id": "biophysics",
+"title": "Biophysics",
+"cards": [
+{
+"topic": "Biophysics",
+"subtopic": "Ultrasound physics",
+"q": "What is ultrasound, defined by frequency?",
+"a": "A sound wave with a frequency greater than 20 kHz (above the upper limit of human hearing).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Ultrasound physics",
+"q": "What is the relationship between ultrasound frequency, wavelength, and tissue penetration?",
+"a": "Frequency is inversely proportional to wavelength. Lower frequency = longer wavelength = greater (deeper) penetration but lower resolution. Higher frequency = shorter wavelength = better resolution but less penetration.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Ultrasound physics",
+"q": "What probe/frequency is preferred for abdominal/pelvic ultrasound and what is the ideal single value?",
+"a": "A low-frequency curvilinear probe is used; abdominal range is roughly 1-5 MHz, with about 3.5 MHz as the ideal single value (better penetration).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Ultrasound physics",
+"q": "What frequency range and ideal value is used for transvaginal ultrasound (TVS)?",
+"a": "Higher frequency, approximately 5-10 MHz, with about 7.5 MHz as the ideal value (higher resolution, shallower penetration needed).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Ultrasound physics",
+"q": "What probe/frequency is preferred for scanning an obese patient?",
+"a": "A low-frequency curvilinear probe (e.g. ~2.5 MHz) to maximise penetration through the thicker tissue.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Ultrasound echogenicity",
+"q": "On ultrasound, what do anechoic, hypoechoic and hyperechoic mean?",
+"a": "Anechoic = no echo (appears black, e.g. fluid). Hypoechoic = reduced echo (darker). Hyperechoic = increased echo (bright).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Ultrasound echogenicity",
+"q": "How do fluid, soft tissue/organs, and bone/stone/gas/air appear on ultrasound?",
+"a": "Fluid (cystic) = anechoic (black). Soft tissues/organs = hyperechoic relative to fluid. Bone, calculi, gas and air = strongly hyperechoic with low penetration (reflect/attenuate the beam, often casting acoustic shadow).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Ultrasound resolution",
+"q": "Define axial resolution in ultrasound.",
+"a": "The ability to distinguish two points lying parallel to (along the direction of) the ultrasound beam as separate structures.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Ultrasound resolution",
+"q": "Define lateral resolution in ultrasound.",
+"a": "The ability to distinguish two points lying perpendicular to (side-by-side across) the ultrasound beam as separate structures.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Ultrasound resolution",
+"q": "Where is ultrasound resolution maximal, and how do axial and lateral resolution compare?",
+"a": "Resolution is maximal in the focal region (where the beam is most concentrated). Axial resolution is better (often quoted ~4x) than lateral resolution.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Ultrasound resolution",
+"q": "What is temporal resolution in ultrasound and what is it useful for?",
+"a": "The ability to display moving structures accurately over time (frame rate). It is important for assessing moving objects such as the beating heart.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Ultrasound physics",
+"q": "On an ultrasound/sound wave, define wavelength, amplitude and time period.",
+"a": "Wavelength = distance between two successive crests (or two successive troughs). Amplitude = maximum displacement from the resting baseline (height of peak or depth of trough). Time period = time taken to complete one wavelength/cycle.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Ultrasound physics",
+"q": "What generates the ultrasound wave in a probe/transducer?",
+"a": "Piezoelectric crystals, which oscillate to produce (and detect) the ultrasound wave.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Ultrasound physics",
+"q": "What is 'gain' in ultrasound?",
+"a": "Amplification of the returning (received) ultrasound signal to make a weak echo display more strongly.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Ultrasound physics",
+"q": "What is attenuation of an ultrasound wave, and what three principal interactions cause it?",
+"a": "Attenuation is the progressive weakening of the ultrasound beam as it traverses tissue. The three principal interactions are reflection, scattering and absorption.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Ultrasound physics",
+"q": "What is refraction of an ultrasound wave?",
+"a": "A change in direction (bending) of the beam as it passes from one medium into another medium with a different acoustic impedance/propagation speed. (Note: refraction is NOT one of the 'three principal interactions' of attenuation.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Ultrasound physics",
+"q": "What is reflection in ultrasound and what is acoustic impedance?",
+"a": "Reflection is the return of the beam toward the probe at an interface between two media of different acoustic impedance. Acoustic impedance is a property of the medium; the greater the impedance mismatch at an interface, the more the beam is reflected.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Ultrasound physics",
+"q": "Ultrasound waves can be delivered in which two patterns?",
+"a": "Continuous wave or pulsed wave.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Ultrasound safety",
+"q": "What two bioeffects can ultrasound produce in tissue, and which causes cell damage?",
+"a": "Heating (thermal effect) and cavitation. Heating alone does not directly cause cell damage in diagnostic use; cell lysis/damage is attributed to cavitation (collapse of gas bubbles formed by negative pressure).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Ultrasound safety",
+"q": "What is acoustic cavitation in ultrasound?",
+"a": "Formation, oscillation and collapse of gas/vapour microbubbles in tissue due to the alternating positive and negative pressures of the wave; bubble collapse can lyse cells. Cavitation risk is assessed by the mechanical index.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Ultrasound safety",
+"q": "Which index monitors heating and which monitors cavitation in ultrasound?",
+"a": "Thermal index (TI) monitors the heating effect; mechanical index (MI) monitors the cavitation risk.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Ultrasound safety",
+"q": "What does a thermal index (TI) of 1 represent?",
+"a": "An estimated tissue temperature rise of approximately 1 degree Celsius. (TI types: soft tissue TIS, bone TIB, cranial TIC.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Ultrasound safety",
+"q": "What thermal index limits apply in obstetric ultrasound, and which TI is used before vs after 8-10 weeks?",
+"a": "Keep TI as low as possible: <0.7 generally, and <0.5 for fetal/obstetric scanning. Before ~8-10 weeks use soft-tissue thermal index (TIS); after ~8-10 weeks (once bone is ossifying) monitor the bone thermal index (TIB).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Ultrasound safety",
+"q": "What mechanical index limits are used for routine vs obstetric/early-pregnancy ultrasound?",
+"a": "Routine procedures keep MI below ~1.9; in pregnancy keep MI low (commonly quoted <0.7, ideally even lower) to protect more sensitive fetal/neonatal tissue. Above MI 0.7 there is a theoretical cavitation risk even without contrast.",
+"ai": false,
+"note": "Standard teaching cites the regulatory MI upper limit of 1.9 and a precautionary pregnancy MI <0.7 (BMUS). The <0.5 value quoted in the lecture relates to the thermal index in obstetrics, not the MI."
+},
+{
+"topic": "Biophysics",
+"subtopic": "Doppler ultrasound",
+"q": "In colour Doppler, what do colours toward and away from the transducer indicate (BART convention)?",
+"a": "By the standard BART convention: Blue = Away from the probe; Red = Toward the probe. Colour Doppler shows direction and velocity of flow.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Doppler ultrasound",
+"q": "Compare pulsed-wave Doppler, colour Doppler and power Doppler.",
+"a": "Pulsed-wave/colour Doppler give direction and velocity of flow but are angle-dependent (flow perpendicular to the beam is hard to detect). Power Doppler is highly sensitive for low/slow flow in small vessels and is NOT angle-dependent, but does not give direction or velocity.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "What ECG component represents atrial depolarisation/contraction?",
+"a": "The P wave.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "What does the QRS complex represent on the ECG?",
+"a": "Ventricular depolarisation (and contraction). It masks atrial repolarisation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "What does the T wave represent on the ECG?",
+"a": "Ventricular repolarisation (ventricular relaxation).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "Which ECG change is characteristic of hypokalaemia?",
+"a": "Prominent U waves (also flattened T waves and ST depression). U waves are the most specific feature linked to hypokalaemia.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "What persistent ECG finding indicates an old myocardial infarction?",
+"a": "Pathological Q waves, which persist after an old MI.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "What ECG finding is seen in NSTEMI / acute non-ST-elevation ischaemia?",
+"a": "ST depression (with or without T wave inversion). ST depression is seen in NSTEMI and can also occur in hypokalaemia, so it is not entirely specific.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "A patient on a thiazide/loop diuretic has T-wave inversion and U waves on ECG. What is the electrolyte abnormality?",
+"a": "Hypokalaemia. Note potassium-sparing diuretics (e.g. spironolactone, amiloride) instead cause hyperkalaemia (peaked/tented T waves).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Electrosurgery/diathermy",
+"q": "In electrosurgery, what is the difference between monopolar and bipolar diathermy current pathways?",
+"a": "Monopolar: current passes from the active electrode through the patient and returns via a return (grounding) pad to the generator, so the patient is part of the circuit. Bipolar: current passes only between the two tips of the instrument, completing the circuit through the tissue between them, without passing through the rest of the patient.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Electrosurgery/diathermy",
+"q": "In which type of diathermy is a return/grounding electrode pad required?",
+"a": "Monopolar diathermy (the return pad, also called grounding pad, completes the circuit). It is not needed in bipolar diathermy.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Electrosurgery/diathermy",
+"q": "Why must the return (grounding) pad in monopolar diathermy have a large surface area?",
+"a": "A large surface area gives low current density at the pad, avoiding heating and burns; the small-surface active electrode concentrates high current density to achieve the desired tissue effect. A pad that is too small risks burns.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Electrosurgery/diathermy",
+"q": "Why is a high-density current needed at the active electrode in diathermy?",
+"a": "The active electrode has a small surface area, concentrating the current into a high current density to produce the desired cutting/coagulation tissue effect.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Electrosurgery/diathermy",
+"q": "Which electrosurgical current waveform is used for cutting?",
+"a": "A continuous (unmodulated) waveform is used for cutting tissue.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Lasers",
+"q": "Why is CO2 laser advantageous for treating endometriotic deposits near bladder/ureter?",
+"a": "CO2 laser causes precise tissue vaporisation; adjacent structures (e.g. bladder, ureter) are not vaporised, minimising collateral damage to surrounding tissue.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Lasers",
+"q": "Give examples of gas lasers and solid-state lasers used in surgery.",
+"a": "Gas lasers: CO2 (carbon dioxide), argon, and excimer (ultraviolet gas laser). Solid-state laser: Nd:YAG. A semiconductor (diode) subtype includes gallium arsenide.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "MRI",
+"q": "What is the SI unit of magnetic flux density (magnetic field strength)?",
+"a": "The tesla (T).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "MRI",
+"q": "By what mechanism does MRI produce an image?",
+"a": "It aligns protons (hydrogen ions, mainly from water) in a strong magnetic field; the image is produced from the relaxation of these protons after radiofrequency excitation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "MRI",
+"q": "What contrast agent is used in MRI, and what is its pregnancy safety concern?",
+"a": "Gadolinium. It crosses the placenta and is generally avoided in pregnancy unless essential (historically categorised as pregnancy category C).",
+"ai": false,
+"note": "UK guidance (RCOG/NICE) advises gadolinium should not be used routinely in pregnancy and only if the benefit clearly outweighs risk; non-contrast MRI is preferred."
+},
+{
+"topic": "Biophysics",
+"subtopic": "MRI",
+"q": "What are the absolute contraindications to MRI?",
+"a": "Ferromagnetic implants such as a pacemaker or certain (older/ferromagnetic) heart valves and other ferromagnetic foreign bodies.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Radiation physics",
+"q": "How is the radiation spectrum divided, and which imaging modalities use ionising radiation?",
+"a": "Ionising radiation (high frequency/energy, short wavelength) includes X-rays and gamma rays. Non-ionising radiation (lower frequency/energy, longer wavelength) includes ultrasound, MRI, microwaves, electrosurgery and visible light. Ionising radiation can damage DNA and is associated with an increased cancer risk.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Radiation units",
+"q": "What are the SI/standard units for radioactivity, absorbed dose, equivalent (effective) dose, and exposure?",
+"a": "Radioactivity (radioactive decay) = becquerel (Bq). Absorbed dose = gray (Gy). Equivalent/effective dose = sievert (Sv). Exposure = roentgen (R).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Radiobiology",
+"q": "Which cells/tissues are most and least sensitive to ionising radiation?",
+"a": "Most sensitive: haematopoietic stem cells in bone marrow. Least sensitive: neurons/nerve cells (and brain, e.g. cerebral cortex). In general, rapidly dividing and undifferentiated cells are most radiosensitive.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Radiobiology",
+"q": "Which phase of the cell cycle is most radiosensitive, and how do oxygen and hypoxia affect radiosensitivity?",
+"a": "The M (mitosis) phase is most radiosensitive (G2/M most sensitive). Oxygen increases radiosensitivity; hypoxia increases radioresistance.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Radiation doses",
+"q": "What is the approximate annual natural background radiation dose?",
+"a": "Approximately 2.7 mSv per year (UK average ~2.6-2.7 mSv/year; radon is the largest contributor). The lecture's figure of 2.4-3 mSv falls within accepted ranges.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Radiation doses",
+"q": "What is the approximate fetal radiation dose from a maternal chest X-ray?",
+"a": "Very low, less than 0.01 mGy/mSv to the fetus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Radiation doses",
+"q": "Compare the approximate fetal radiation dose of CTPA versus V/Q scan for suspected PE in pregnancy.",
+"a": "Both deliver a low fetal dose. CTPA fetal dose is approximately 0.1 mSv (very low); V/Q (perfusion) scan fetal dose is slightly higher, roughly 0.3-0.5 mSv. CTPA delivers a much higher dose to maternal breast tissue than V/Q.",
+"ai": true,
+"note": "The lecture's '0.1 mSv for CTPA' refers to the FETAL dose, not the maternal effective dose. Maternal effective dose for CTPA is approximately 7 mSv (range ~3-10 mSv); V/Q maternal effective dose ~1-2 mSv. The key exam point is that CTPA gives higher maternal/breast dose while V/Q gives slightly higher fetal dose."
+},
+{
+"topic": "Biophysics",
+"subtopic": "Radiation doses",
+"q": "What is the approximate radiation dose to the maternal breast from CTPA?",
+"a": "High relative to V/Q: breast-absorbed dose is roughly 10-70 mGy (often quoted ~20 mGy), which is why V/Q is sometimes preferred in young women to reduce breast cancer risk.",
+"ai": false,
+"note": "Lecture quoted ~20 mGy; literature gives a wide range (~10-70 mGy / ~10-44 mGy). The high maternal breast dose is the key exam point."
+},
+{
+"topic": "Biophysics",
+"subtopic": "Radiation doses",
+"q": "What is the approximate effective radiation dose of a hysterosalpingogram (HSG)?",
+"a": "Approximately 1-1.7 mSv, roughly equivalent to several months of natural background radiation.",
+"ai": true,
+"note": "The lecture stated HSG ~1.7 mSv equals about 4 months of background radiation; that is inconsistent. ~1 mSv equals ~4-5 months background, whereas ~1.7 mSv equals roughly 6-7 months (background ~2.6-2.7 mSv/year). The commonly quoted teaching is '1 mSv = about 4 months of background'."
+},
+{
+"topic": "Biophysics",
+"subtopic": "Imaging in gynaecology",
+"q": "Why is hysterosalpingography (HSG) timed in the early follicular phase, before ovulation?",
+"a": "To avoid irradiating a potentially fertilised early pregnancy; it is performed in the early cycle (after menses, before ovulation) to minimise the chance of exposing an early conceptus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Imaging in gynaecology",
+"q": "What abnormalities can a hysterosalpingogram (HSG) demonstrate?",
+"a": "Tubal obstruction (a filling defect / failure of contrast spill at the blockage) and uterine cavity abnormalities such as a septate uterus (central filling defect).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Radiation imaging",
+"q": "What is the imaging principle of a DEXA (DXA) scan?",
+"a": "It uses two beams of low-energy X-rays of differing energies to measure bone mineral density.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Radiotherapy",
+"q": "What are the three forms of radiotherapy delivery?",
+"a": "Teletherapy/external beam (source at a distance), brachytherapy (radioactive source placed inside/next to the tumour to irradiate adjacent tissue), and systemic radiotherapy (e.g. radioactive isotope given orally or IV, e.g. radioiodine for thyroid cancer).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Radiotherapy",
+"q": "Classify these examples: vaginal source for vaginal cancer; oral/IV radioiodine for thyroid cancer.",
+"a": "A source placed within the organ/cavity to treat local malignancy is brachytherapy; an orally or intravenously administered radioisotope (e.g. radioiodine) is systemic radiotherapy.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Radiotherapy",
+"q": "How does cell differentiation affect radiotherapy sensitivity?",
+"a": "Undifferentiated (poorly differentiated) and rapidly dividing tumour cells are more radiosensitive; well-differentiated cells are less radiosensitive.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Radiation physics",
+"q": "What is radiation-induced amorphization in ceramics?",
+"a": "Ionising radiation passing through a ceramic disrupts/changes its ordered atomic (crystalline) structure, producing radiation-induced damage or amorphization (loss of crystalline order). Cavitation is not the relevant mechanism here.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "Clinical imaging/pathology",
+"q": "How are breast cancer hormone/HER2 receptors determined?",
+"a": "By immunohistochemistry on tissue (not by MRI or ultrasound), to determine oestrogen/progesterone receptor and HER2 status, which guides treatment.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "What is the standard paper speed of an ECG?",
+"a": "25 mm per second.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "On standard ECG paper (at 25 mm/s), what does one small box represent in time and size?",
+"a": "1 mm in width = 0.04 seconds.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "On standard ECG paper, what does one large box represent in time and size?",
+"a": "One large box = 5 small boxes = 5 mm = 0.20 seconds.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "How many large boxes correspond to 1 second on standard ECG paper?",
+"a": "5 large boxes = 1 second (5 x 0.20 s).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "How many leads are there in a standard ECG, and how are they grouped?",
+"a": "12 leads: 6 limb leads (I, II, III, aVR, aVL, aVF) and 6 chest/precordial leads (V1-V6).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "Which ECG limb leads are bipolar and which are unipolar (augmented)?",
+"a": "Leads I, II and III are bipolar. The augmented leads aVR, aVL and aVF are unipolar.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "Which ECG leads represent the inferior wall of the heart?",
+"a": "Leads II, III and aVF (right coronary artery territory).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "Which ECG leads represent the lateral wall of the heart?",
+"a": "Leads I and aVL, plus chest leads V5 and V6 (left circumflex territory).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "Which ECG leads represent the septal and anterior wall of the heart?",
+"a": "V1-V2 (septal) and V3-V4 (anterior); often combined as V1-V4 (left anterior descending territory).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "Which leads are used to assess the posterior wall of the heart, and when are they applied?",
+"a": "Posterior leads V7, V8 and V9 (placed over the posterior chest wall). They are not part of the standard 12-lead ECG and are added when a posterior MI is suspected.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "Which lead is usually best for assessing rhythm and calculating heart rate, and is reproduced as a rhythm strip?",
+"a": "Lead II.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "What does the P wave represent on an ECG?",
+"a": "Atrial depolarisation (atrial contraction).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "What does the QRS complex represent on an ECG?",
+"a": "Ventricular depolarisation (ventricular contraction). Atrial repolarisation is hidden (embedded) within it.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "What does the T wave represent on an ECG?",
+"a": "Ventricular repolarisation (ventricular relaxation).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "How is the PR interval defined and what is its normal duration?",
+"a": "Measured from the start of the P wave to the start of the QRS complex. Normal duration is 0.12-0.20 seconds (3-5 small boxes).",
+"ai": false,
+"note": "Transcript also stated an upper limit of 0.22 s; standard MRCOG/UK teaching uses 0.12-0.20 s. Values above 0.20 s indicate first-degree heart block."
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "What is the normal duration of the QRS complex?",
+"a": "Less than 0.12 seconds (under 3 small boxes).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "What is the J point on an ECG?",
+"a": "The junction where the end of the S wave (end of the QRS complex) meets the start of the ST segment / T wave.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "What is the normal duration of the ST segment?",
+"a": "Approximately 0.08 seconds (about 2 small boxes).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "How is heart rate calculated from an ECG using large boxes?",
+"a": "Divide 300 by the number of large boxes between two consecutive R waves (300 / R-R interval in large boxes).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "How is heart rate calculated from an ECG using small boxes?",
+"a": "Divide 1500 by the number of small boxes between two consecutive R waves (1500 / R-R interval in small boxes).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "What are the heart rate cut-offs defining bradycardia, normal rate and tachycardia?",
+"a": "Bradycardia: less than 60 bpm. Normal: 60-100 bpm. Tachycardia: greater than 100 bpm.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "What is the classic ECG appearance of atrial fibrillation?",
+"a": "Irregularly irregular rhythm with absent P waves (the atria fire too rapidly to produce identifiable P waves).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "How is atrial flutter distinguished from atrial fibrillation on ECG?",
+"a": "Atrial flutter shows a regular rhythm with prominent, repetitive flutter (sawtooth) waves and a fixed conduction ratio (e.g. 2:1, 3:1, 4:1), whereas atrial fibrillation is irregularly irregular with absent P waves.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "What is the ECG appearance of ventricular fibrillation and the immediate management?",
+"a": "No identifiable QRS complexes or P waves (chaotic, unrecognisable pattern). Requires immediate CPR/defibrillation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "What is an epsilon wave and in which condition is it seen?",
+"a": "A small positive deflection at the end of the QRS complex (start of the ST segment), seen in arrhythmogenic right ventricular dysplasia/cardiomyopathy (ARVC).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "What is a delta wave and in which condition is it seen?",
+"a": "A slurred upstroke at the start of the QRS complex (loss of the normal isoelectric PR segment), seen in ventricular pre-excitation / Wolff-Parkinson-White syndrome.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "How are ST elevation and ST depression defined relative to the isoelectric line?",
+"a": "ST elevation: the ST segment lies above the isoelectric line. ST depression: the ST segment lies below the isoelectric line.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "Which ST-segment change is the key ECG finding used to identify an acute (ST-elevation) myocardial infarction?",
+"a": "ST elevation in the leads corresponding to the affected wall. Reciprocal ST depression / T-wave inversion may be seen in other leads, but ST elevation is the identifying change.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "What is the earliest ECG change in an acute MI, and how is it distinguished from hyperkalaemia?",
+"a": "The earliest change is hyperacute (tall) T waves. In MI these occur with ST elevation; in hyperkalaemia the tall/peaked T waves occur without ST elevation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "What is the identifying ECG feature of an old (previous) myocardial infarction?",
+"a": "Persistent pathological Q waves (deep, prominent Q waves) in the affected leads, after the ST segment and T wave have normalised.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "In which leads is ST elevation sought to diagnose a lateral wall MI?",
+"a": "Leads I, aVL, V5 and V6.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "In which leads is ST elevation sought to diagnose an inferior wall MI?",
+"a": "Leads II, III and aVF.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "In which leads is ST elevation sought to diagnose an anterior (anteroseptal) wall MI?",
+"a": "Chest leads V1-V4 (V1-V2 septal, V3-V4 anterior); may extend to V5-V6 if the lateral wall is also involved.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "How is a posterior wall MI suspected on a standard 12-lead ECG, and how is it confirmed?",
+"a": "Suspected when there is ST depression in V1-V2 (with otherwise normal leads) plus a suggestive clinical picture. Confirmed by applying posterior leads V7-V9, which show ST elevation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "What are the characteristic ECG changes of hyperkalaemia?",
+"a": "Tall (peaked) T waves and widening of the QRS complex.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "When is a T wave considered 'tall' in hyperkalaemia?",
+"a": "When the T wave height is greater than half of, equal to, or taller than the QRS complex.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "What are the characteristic ECG changes of hypokalaemia?",
+"a": "Flattened (shallow) T waves and the appearance of prominent U waves (with possible ST depression).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "What is a U wave, and when is it pathological?",
+"a": "A small wave following the T wave. A small U wave can be normal, but prominent U waves (with shallow/flattened T waves) suggest hypokalaemia.",
+"ai": false,
+"note": "Transcript at one point said 'hyperkalaemia' when describing prominent U waves; this is a slip in the lecture - prominent U waves are a feature of HYPOkalaemia, which is what the rest of the lecture and the worked examples correctly describe."
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "A patient on a (non-potassium-sparing) diuretic shows shallow/flattened T waves and prominent U waves on ECG. What electrolyte abnormality is most likely?",
+"a": "Hypokalaemia (loop and thiazide diuretics cause potassium loss).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "What is the effect of hypercalcaemia on the ECG?",
+"a": "Shortening of the QT interval and ST segment.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "What is the effect of hypocalcaemia on the ECG?",
+"a": "Prolongation of the QT interval and ST segment.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "Using the small-box method, what QT findings suggest QT prolongation versus QT shortening?",
+"a": "As a practical (uncorrected) guide: QT prolonged if greater than about 11 small boxes (~440 ms); QT shortened if less than about 9 small boxes (~360 ms).",
+"ai": true,
+"note": "These are rough uncorrected QT estimates taught for quick eyeballing. Proper assessment uses rate-corrected QTc (Bazett): upper normal QTc is ~440-450 ms in men and ~460-470 ms in women; short QTc is generally <350-360 ms. Absolute QT must be corrected for heart rate, so the fixed small-box cut-offs are approximations only."
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "What is an Osborn (J) wave and in which conditions is it seen?",
+"a": "A positive deflection (hump) at the J point, at the end of the QRS complex. Classically associated with hypothermia; also described with hypercalcaemia.",
+"ai": true,
+"note": "The lecture links the Osborn/J wave to hypo-/hypercalcaemia. The classic and best-established cause of Osborn waves is hypothermia (also hypercalcaemia and CNS injury). It is not a reliable or standard feature of hypocalcaemia, so the transcript's association should be treated with caution."
+},
+{
+"topic": "Biophysics",
+"subtopic": "ECG",
+"q": "How can three waves between consecutive QRS complexes help identify an extra (abnormal) wave?",
+"a": "Normally only two waves (T then the next P) lie between QRS complexes. If three waves are seen between QRS complexes, an extra wave (e.g. a prominent U wave) is present - a clue to hypokalaemia.",
+"ai": false,
+"note": ""
+}
+]
+},
+{
 "id": "clinical-management",
 "title": "Clinical Management",
 "cards": [
