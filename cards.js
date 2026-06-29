@@ -5044,6 +5044,1796 @@ window.SECTIONS = [
 ]
 },
 {
+"id": "embryology",
+"title": "Embryology",
+"cards": [
+{
+"topic": "Embryology",
+"subtopic": "Primordial germ cells",
+"q": "What is the embryological origin of primordial germ cells?",
+"a": "Primordial germ cells originate in the wall of the yolk sac (from epiblast) and migrate via the dorsal mesentery of the hindgut to colonise the gonadal ridges.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Oocyte structure",
+"q": "List the protective layers of the ovum/mature (Graafian) follicle from outermost to innermost.",
+"a": "Theca externa → theca interna → basement membrane → granulosa cells → cumulus oophorus → corona radiata → zona pellucida → perivitelline space → oolemma (plasma membrane) → ovum.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Oocyte structure",
+"q": "What is the immediate protective layer surrounding the ovum itself?",
+"a": "The zona pellucida is the immediate (acellular glycoprotein) layer surrounding the ovum, with the corona radiata lying just outside it.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Oocyte structure",
+"q": "What is the immediate protective layer just outside the granulosa cells in a Graafian follicle?",
+"a": "The theca interna lies immediately outside the granulosa cells (separated by the basement membrane), with the theca externa outside the theca interna.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Oogenesis / meiosis",
+"q": "When is the first polar body extruded versus the second polar body?",
+"a": "The first polar body is extruded at completion of meiosis I (just before ovulation). The second polar body is extruded at completion of meiosis II, which only occurs after fertilisation (when the pronuclei are visible).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Oogenesis / meiosis",
+"q": "When are meiosis I and meiosis II of the oocyte completed?",
+"a": "Meiosis I is completed at puberty/just before ovulation (the primary oocyte is arrested in prophase I from fetal life). Meiosis II is completed only after fertilisation by the sperm.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Oogenesis / meiosis",
+"q": "By what gestation do oogonia enter meiosis as primary oocytes arrested in prophase I?",
+"a": "By the end of the third month (around month 3 of development), some oogonia give rise to primary oocytes that enter and arrest in prophase of meiosis I.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Oogenesis / meiosis",
+"q": "Define oogenesis, oocytogenesis and ootidogenesis.",
+"a": "Oocytogenesis: oogonium grows/matures into a primary oocyte. Ootidogenesis: the primary oocyte completes meiosis I and II to form the ootid. Oogenesis: the ootid differentiates into the ovum.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Fertilisation",
+"q": "What is the correct sequence of layers a sperm penetrates to reach the oocyte?",
+"a": "Corona radiata → zona pellucida → perivitelline space → oolemma (plasma/perivitelline membrane).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Fertilisation",
+"q": "What is capacitation and which enzyme helps the sperm penetrate the corona radiata?",
+"a": "Capacitation is the removal of glycoproteins and cholesterol from the sperm acrosomal membrane (in the female cervix/uterine tube) enabling the acrosome reaction. Hyaluronidase (released in the acrosome reaction) breaks down the corona radiata to allow penetration.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Pre-implantation development",
+"q": "Outline the timeline of the first week of development (cleavage to implantation).",
+"a": "First mitotic (cleavage) division by ~30 hours; 2-cell stage day 1-2; morula (~16 cells) by day 3; blastocyst by day 5 reaching the uterine cavity; contact with uterine wall day 6; implantation begins ~day 6-7.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Implantation",
+"q": "Where in the uterus does implantation normally occur?",
+"a": "Most commonly in the upper part of the posterior wall of the body of the uterus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Trophoblast",
+"q": "Into which two layers does the trophoblast differentiate, and when do lacunae form?",
+"a": "The trophoblast differentiates into an inner cytotrophoblast and an outer syncytiotrophoblast (around day 7-8). Lacunae form within the syncytiotrophoblast; maternal spiral arteries communicate with them, allowing maternal blood to fill them (utero-placental circulation).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Bilaminar disc",
+"q": "What does the inner cell mass form during the second week?",
+"a": "The inner cell mass forms a bilaminar embryonic disc of epiblast and hypoblast. The epiblast gives rise to ectoderm (and later mesoderm), and the hypoblast gives rise to endoderm.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Bilaminar disc",
+"q": "What forms within the epiblast around day 8, and what is the primary yolk sac lined by?",
+"a": "The amniotic cavity forms within the epiblast around day 8. The primary (primitive) yolk sac is lined by the exocoelomic (Heuser's) membrane derived from the hypoblast.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Gastrulation",
+"q": "What is gastrulation and how is the trilaminar disc formed?",
+"a": "Gastrulation is the conversion of the bilaminar disc into a trilaminar disc during the third week. Epiblast cells migrate through the primitive streak between the epiblast (ectoderm) and hypoblast (endoderm) to form intraembryonic mesoderm.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Mesoderm derivatives",
+"q": "What does the notochord form, and what lies beneath the neural tube?",
+"a": "The notochord (axial mesoderm beneath the neural tube) induces neural plate formation and persists as the nucleus pulposus of the intervertebral discs.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Mesoderm derivatives",
+"q": "What are the three subdivisions of mesoderm and their main derivatives?",
+"a": "Paraxial mesoderm → somites (sclerotome → vertebrae/ribs; dermomyotome → dermis and skeletal muscle) plus tendons. Intermediate mesoderm → urogenital system and adrenal cortex. Lateral plate mesoderm → somatic (parietal) and splanchnic (visceral) layers forming serous membranes and circulatory system.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Ectoderm/mesoderm derivatives",
+"q": "Which germ layer/cell forms the dermis versus the epidermis?",
+"a": "The dermis is derived from mesoderm (paraxial mesoderm/dermomyotome); the epidermis is derived from surface ectoderm.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Mesoderm / neural crest",
+"q": "What does the adrenal cortex develop from versus the adrenal medulla?",
+"a": "The adrenal cortex develops from intermediate mesoderm; the adrenal medulla develops from neural crest cells.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Neural crest derivatives",
+"q": "Which structures are derived from neural crest cells?",
+"a": "Adrenal medulla, melanocytes, sensory (dorsal root) and autonomic ganglia neurons, Schwann cells, odontoblasts (dentine), pia and arachnoid mater, pharyngeal arch skeletal/facial bones, and enteric (GI) plexus neurons.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Neural derivatives",
+"q": "Which germ layer forms motor neurons versus sensory neurons?",
+"a": "Motor neurons develop from the neural tube (neuroectoderm); sensory neurons develop from neural crest cells.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "External genitalia",
+"q": "What is the embryological origin of the genital tubercle and its homologues?",
+"a": "The genital tubercle forms the penis (glans) in the male and the clitoris in the female.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "External genitalia",
+"q": "What do the urogenital sinus glands form in the male and female?",
+"a": "In the male: prostate gland and bulbourethral (Cowper's) glands. In the female: paraurethral (Skene's/lesser vestibular) glands and Bartholin's (greater vestibular) glands.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "External genitalia",
+"q": "What do the genital (urethral) folds form in male and female?",
+"a": "The genital/urethral folds form the ventral aspect (shaft) of the penis in the male and the labia minora in the female.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "External genitalia",
+"q": "What do the genital (labioscrotal) swellings form in male and female?",
+"a": "The genital swellings form the scrotum in the male and the labia majora in the female.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Female genital tract",
+"q": "What is the embryological origin of the upper one-third versus lower two-thirds of the vagina?",
+"a": "The upper one-third of the vagina derives from the fused paramesonephric (Mullerian) ducts; the lower two-thirds derives from the urogenital sinus (via the sinovaginal bulbs and vaginal plate, which canalise).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Gonadal descent",
+"q": "What does the gubernaculum form in the male and female?",
+"a": "In the male the gubernaculum forms the gubernaculum testis (scrotal ligament). In the female it forms the round ligament of the uterus and the ovarian ligament.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Gonadal development",
+"q": "What do the cortex and medulla of the indifferent gonad form?",
+"a": "The gonadal cortex forms ovarian follicles in the female and regresses in the male; the medulla forms the seminiferous tubules and rete testis in the male (rete ovarii in the female).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Gonadal development",
+"q": "Where in the ovary are the follicles located?",
+"a": "Ovarian follicles are located in the ovarian cortex (peripheral part), not in the medulla.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Reproductive homologues",
+"q": "What is the male homologue of the fallopian tube, and the female homologue of the appendix of testis?",
+"a": "The appendix testis is the male homologue of the fallopian tube; both are paramesonephric (Mullerian) duct derivatives. The appendix testis is the only male structure formed from the paramesonephric duct.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Reproductive homologues",
+"q": "What is the homologue of the prostatic utricle and of the epoophoron?",
+"a": "The prostatic utricle is the male homologue of the uterus/proximal vagina. The epoophoron (and paroophoron) in the female is the remnant homologous to the epididymis/efferent ductules (mesonephric duct derivatives).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Reproductive homologues",
+"q": "Which structures derive from the mesonephric (Wolffian) duct in the male?",
+"a": "Epididymis, vas (ductus) deferens, seminal vesicles and ejaculatory duct. In the female the mesonephric duct is largely non-functional, leaving remnants (epoophoron, paroophoron, Gartner's duct in the lateral vaginal wall).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Urinary system",
+"q": "From which embryological structure do the definitive kidneys (nephrons/excretory system) develop?",
+"a": "The definitive kidney's excretory component (the nephron) develops from the metanephric blastema (metanephros). The collecting system develops from the ureteric bud.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Urinary system",
+"q": "What is the embryological origin of the ureteric bud and what does it form?",
+"a": "The ureteric bud is an outgrowth of the mesonephric (Wolffian) duct. It forms the collecting system: collecting ducts, minor and major calyces, renal pelvis and ureter, and induces the metanephric blastema to form nephrons.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Urinary system",
+"q": "What are the fates of the pronephros, mesonephros and metanephros?",
+"a": "Pronephros: non-functional, regresses completely. Mesonephros: forms the mesonephric duct (which gives the ureteric bud) and transient tubules that regress. Metanephros: the definitive kidney, forming nephrons (excretory system).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Urinary system",
+"q": "When does the metanephros begin to develop, become functional, and when does nephrogenesis complete?",
+"a": "The metanephros begins developing in week 5, becomes functional (urine production) around week 12, and nephrogenesis is complete by around week 32-36.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Urinary system",
+"q": "What is the embryological origin of the urinary bladder and its trigone?",
+"a": "The bladder is derived mainly from the endoderm of the urogenital sinus (cranial/vesical part). The trigone is formed from the incorporated lower ends of the mesonephric ducts (intermediate mesoderm). Thus both mesoderm and endoderm contribute to bladder formation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Urogenital sinus",
+"q": "What are the parts of the urogenital sinus and their derivatives?",
+"a": "Cranial (vesical) part → urinary bladder; pelvic part → prostatic and membranous urethra (male) / whole urethra (female); phallic/caudal part contributes to the penile urethra in the male. Simplified: proximal → bladder, distal → urethra.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Allantois / urachus",
+"q": "What is the embryological origin of the median umbilical ligament?",
+"a": "The median umbilical ligament is the remnant of the urachus (obliterated allantois), connecting the apex of the bladder to the umbilicus. The allantois is an outpouching of the hindgut/cloaca.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Umbilical ligaments",
+"q": "What do the medial and lateral umbilical ligaments represent?",
+"a": "The medial umbilical ligaments are remnants of the obliterated umbilical arteries; the lateral umbilical folds overlie the inferior epigastric arteries. (The single midline median umbilical ligament is the urachal remnant.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Allantois / urachus",
+"q": "What is a patent urachus / urachal cyst?",
+"a": "If the allantois (urachus) fails to obliterate it remains patent. A persistent distal part can form a urachal cyst or a patent urachus (instead of becoming the median umbilical ligament).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Allantois / urachus",
+"q": "What is the embryological origin of the allantois?",
+"a": "The allantois is an outpouching of the hindgut/cloaca, of endodermal origin (with a splanchnic mesoderm covering). It becomes the urachus and then the median umbilical ligament.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Cardiac development",
+"q": "What is the most common congenital heart defect overall, and the most common cyanotic CHD?",
+"a": "Ventricular septal defect (VSD) is the most common CHD overall. Tetralogy of Fallot is the most common cyanotic CHD.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Cardiac development",
+"q": "What are the four features of tetralogy of Fallot?",
+"a": "Pulmonary stenosis (right ventricular outflow obstruction), right ventricular hypertrophy, ventricular septal defect, and an overriding aorta.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Cardiac development",
+"q": "Which cyanotic CHD most commonly presents at birth versus in childhood?",
+"a": "Transposition of the great arteries (TGA) is the most common cyanotic CHD to present in the first week of life (at birth). Tetralogy of Fallot is the most common cyanotic CHD overall but usually presents later in infancy/childhood.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Cardiac development",
+"q": "What is the underlying defect in transposition of the great arteries?",
+"a": "Failure of the aorticopulmonary septum to spiral, so the aorta arises from the right ventricle and the pulmonary trunk from the left ventricle (the great vessels are transposed).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Cardiac development",
+"q": "What cardiac defect is associated with congenital rubella, and which CHD is most associated with prematurity?",
+"a": "Congenital rubella is most commonly associated with patent ductus arteriosus (PDA). PDA is also the CHD most associated with prematurity.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Pituitary development",
+"q": "What is the developmental origin of the anterior versus posterior pituitary?",
+"a": "The anterior pituitary (adenohypophysis) develops from Rathke's pouch, an upgrowth of oral ectoderm (surface ectoderm). The posterior pituitary (neurohypophysis) develops from the infundibulum, a downgrowth of neuroectoderm from the diencephalon.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Pituitary development",
+"q": "At which gestational age does the anterior pituitary (Rathke's pouch) first develop?",
+"a": "Rathke's pouch (anterior pituitary) first appears around weeks 3-4 of development, separating from the oral epithelium by weeks 6-8.",
+"ai": true,
+"note": "Transcript states the anterior pituitary develops at week 5; standard embryology gives Rathke's pouch appearing at week 3-4 (oral ectoderm). The week-5 figure could not be confirmed and varies between texts; corrected value ~week 3-4."
+},
+{
+"topic": "Embryology",
+"subtopic": "Skull development",
+"q": "When does the anterior fontanelle close versus the posterior fontanelle?",
+"a": "The posterior fontanelle closes by around 2-3 months after birth; the anterior fontanelle closes by around 18 months (range up to ~2 years).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Twinning",
+"q": "Differentiate dichorionic-diamniotic, monochorionic-diamniotic and monochorionic-monoamniotic twins on ultrasound.",
+"a": "Dichorionic-diamniotic: two separate chorions and two amnions (thick membrane/lambda sign). Monochorionic-diamniotic: single chorion, two amnions (thin membrane/T-sign). Monochorionic-monoamniotic: single chorion and single amnion (no dividing membrane).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Twinning",
+"q": "How does the timing of zygote splitting determine the chorionicity/amnionicity of monozygotic twins?",
+"a": "Split at morula stage (~days 1-3) → dichorionic-diamniotic; at blastocyst stage (~days 4-8) → monochorionic-diamniotic; after amnion forms (~days 8-13, implanted blastocyst) → monochorionic-monoamniotic; very late (after embryonic disc, >13 days) → conjoined twins. All are monozygotic.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Twinning",
+"q": "What is the most common type of monozygotic twinning?",
+"a": "Monochorionic-diamniotic, arising from splitting at the blastocyst stage, is the most common type of monozygotic twinning.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Mullerian anomalies",
+"q": "What is the cause of a bicornuate uterus and when does septal resorption normally occur?",
+"a": "A bicornuate uterus results from failure of complete fusion of the paramesonephric (Mullerian) ducts. After fusion the median septum normally resorbs; failure of resorption gives a septate uterus. Septal resorption is typically complete by around 20 weeks.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Mullerian anomalies",
+"q": "What is the defect in Mayer-Rokitansky-Kuster-Hauser (MRKH) syndrome?",
+"a": "Agenesis/regression of the paramesonephric (Mullerian) ducts causing aplasia/hypoplasia of the uterus and upper vagina, with normal ovaries and a 46,XX karyotype.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Mullerian anomalies",
+"q": "What is OHVIRA (Herlyn-Werner-Wunderlich) syndrome?",
+"a": "Obstructed Hemivagina with Ipsilateral Renal Anomaly: uterus didelphys with an obstructed (blind) hemivagina and an ipsilateral renal anomaly (usually renal agenesis on the same side as the obstruction). Presents post-menarche with cyclical pain.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Developmental anomalies",
+"q": "What is the defect in cloacal exstrophy?",
+"a": "A severe ventral body wall defect from abnormal cloacal development: open pelvic structures with bladder exposed on the abdominal wall, often with duplicated uterus/vagina and bowel anomalies/perforation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Developmental anomalies",
+"q": "What are the features of Winter syndrome?",
+"a": "Vaginal atresia together with renal anomalies and middle-ear (hearing) abnormalities — association of genital tract anomaly with renal and hearing defects.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Gonadal descent",
+"q": "What is the embryological origin of the round ligament of the uterus, and what is it homologous to?",
+"a": "The round ligament of the uterus is derived from the gubernaculum. It runs through the inguinal canal to the labium majus and is homologous to the gubernaculum testis (scrotal ligament) in the male.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Midgut development",
+"q": "At what gestation is physiological midgut herniation present and when does it resolve?",
+"a": "Physiological midgut herniation into the umbilical cord occurs from about 6-8 weeks and returns to the abdomen by about 10-12 weeks. 12 weeks is the threshold; persistence beyond this suggests an omphalocele (exomphalos).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Midgut development",
+"q": "What rotation does the midgut undergo during herniation and on return?",
+"a": "During herniation the midgut rotates 90° counter-clockwise (anticlockwise); on return it rotates a further 180° counter-clockwise, giving a total of 270° counter-clockwise rotation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Abdominal wall defects",
+"q": "How do gastroschisis and omphalocele (exomphalos) differ embryologically?",
+"a": "Gastroschisis is a para-umbilical (usually right-sided) full-thickness abdominal wall defect with no covering membrane, attributed to abnormal involution of the right umbilical vein causing local ischaemia and wall weakness. Omphalocele is a central defect at the umbilicus with herniated bowel covered by a membrane (amnion/peritoneum).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Foregut / liver",
+"q": "What is the embryological origin of the falciform ligament versus the ligamentum teres of the liver?",
+"a": "The falciform ligament (and other ligaments connecting the liver to the anterior abdominal wall) is derived from the ventral mesentery. The ligamentum teres (round ligament of the liver) within its free edge is the remnant of the obliterated left umbilical vein.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Foregut / liver",
+"q": "Which liver ligaments come from ventral mesentery versus dorsal mesentery?",
+"a": "Ligaments connecting the liver to the anterior abdominal wall and to the stomach (falciform ligament, lesser omentum/hepatogastric and hepatoduodenal ligaments) are from the ventral mesentery. Ligaments attaching the stomach posteriorly (gastrophrenic, gastrosplenic, splenorenal) are from the dorsal mesentery.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Gut development",
+"q": "Which germ layer lines the gut, and which forms the gut smooth muscle?",
+"a": "The gut epithelial lining is derived from endoderm; the gut smooth muscle and connective tissue (and the circulatory system, serous membranes) are derived from lateral plate (splanchnic) mesoderm.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Ectoderm derivatives",
+"q": "What are the derivatives of surface ectoderm?",
+"a": "Epidermis, hair, nails, sweat and sebaceous glands, lens and cornea epithelium, tooth enamel, inner ear epithelium, and anterior pituitary (adenohypophysis).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Neural derivatives",
+"q": "What does the dura mater develop from compared with pia and arachnoid mater?",
+"a": "The dura mater is derived from mesoderm; the pia mater and arachnoid mater (leptomeninges) are derived from neural crest cells.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Pharyngeal arches",
+"q": "What are the derivatives of the first pharyngeal arch?",
+"a": "Meckel's cartilage (→ malleus and incus), muscles of mastication, anterior belly of digastric, mylohyoid, tensor tympani, tensor veli palatini; nerve = trigeminal (V); artery = maxillary; mandible and maxilla; anterior two-thirds of tongue mucosa.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Pharyngeal arches",
+"q": "What are the derivatives of the second pharyngeal arch?",
+"a": "Reichert's cartilage → stapes, styloid process, lesser horn and upper body of hyoid; muscles of facial expression, stapedius, posterior belly of digastric, stylohyoid; nerve = facial (VII); artery = stapedial/hyoid artery.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Pharyngeal arches",
+"q": "What are the derivatives of the third pharyngeal arch?",
+"a": "Greater horn and lower body of hyoid; stylopharyngeus muscle; nerve = glossopharyngeal (IX) supplying the posterior third of the tongue; artery = common carotid and proximal internal carotid arteries.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Pharyngeal arches",
+"q": "What are the derivatives of the fourth and sixth pharyngeal arches?",
+"a": "Fourth arch: thyroid and epiglottic cartilages, cricothyroid/levator veli palatini/pharyngeal constrictors, superior laryngeal nerve (vagus); arteries = right subclavian and arch of aorta. Sixth arch: remaining laryngeal cartilages and intrinsic laryngeal muscles, recurrent laryngeal nerve (vagus); arteries = pulmonary arteries and (left) ductus arteriosus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Pharyngeal arches",
+"q": "Which arch forms the anterior two-thirds versus posterior one-third of the tongue mucosa?",
+"a": "The anterior two-thirds of the tongue mucosa is from the first pharyngeal arch; the posterior one-third is from the third (and fourth) pharyngeal arch.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Fetal circulation",
+"q": "Which embryological structure forms the right and left umbilical veins' adult remnant, and what is the role of the right umbilical vein?",
+"a": "The right umbilical vein normally regresses by about the sixth week, leaving only the left umbilical vein; the obliterated left umbilical vein becomes the ligamentum teres of the liver. Premature/abnormal involution of the right umbilical vein is implicated in right-sided gastroschisis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Fetal circulation",
+"q": "Name the fetal shunts connecting right atrium to left atrium, pulmonary trunk to aorta, and bypassing the liver.",
+"a": "Right-to-left atrial shunt = foramen ovale; pulmonary trunk to aorta = ductus arteriosus; umbilical vein bypassing the liver to the IVC = ductus venosus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Spermatogenesis",
+"q": "Within the seminiferous tubule, where are spermatogonia, primary/secondary spermatocytes and spermatozoa located?",
+"a": "Spermatogonia (stem cells) sit at the basement membrane (basal compartment); primary and secondary spermatocytes are in the adluminal compartment; mature spermatozoa are released into the lumen. Sertoli cells span from basement membrane to lumen.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Spermatogenesis",
+"q": "Where are Leydig cells located and what do they produce?",
+"a": "Leydig (interstitial) cells lie in the interstitium between seminiferous tubules and produce testosterone (androgens).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Spermatogenesis",
+"q": "Define spermatocytogenesis, spermatidogenesis and spermiation.",
+"a": "Spermatocytogenesis: spermatogonia grow/differentiate into primary spermatocytes. Spermatidogenesis: primary spermatocyte completes meiosis I and II to form spermatids. Spermiogenesis: spermatids differentiate into spermatozoa. Spermiation: mature spermatozoa are released from Sertoli cells into the seminiferous tubule lumen.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Gonadal development",
+"q": "Where in the ovary are hilus cells located and what do they secrete?",
+"a": "Hilus cells are located in the ovarian medulla (hilum) and secrete androgens; ovarian follicles by contrast are located in the cortex.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Decidua / placenta",
+"q": "What are the parts of the decidua in pregnancy?",
+"a": "Decidua basalis (deep to the implanted conceptus, forms the maternal placenta), decidua capsularis (overlying the conceptus toward the uterine cavity), and decidua parietalis (lining the rest of the uterus). The capsularis and parietalis fuse later, obliterating the uterine cavity.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Gametogenesis",
+"q": "From which structure do primordial germ cells derive?",
+"a": "The epiblast (in the wall of the yolk sac). If epiblast is not an option, ectoderm or 'wall of the yolk sac' are acceptable answers.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Gametogenesis",
+"q": "Where are primordial germ cells located at the 4th week of embryonic life, and where do they migrate?",
+"a": "At week 4 they reside in the wall of the yolk sac; around week 6 they migrate to and colonise the gonadal ridges, where gonadal differentiation begins.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Sexual differentiation",
+"q": "Until what gestational age do the gonads remain undifferentiated?",
+"a": "Up to 6 weeks; gonadal (sexual) differentiation begins after the 6th week.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Oogenesis",
+"q": "At what point is the number of primary oocytes (germ cells) maximal, and how many are present?",
+"a": "Maximal at 20 weeks (5th month) of gestation, with approximately 6-7 million.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Oogenesis",
+"q": "How many primary oocytes are present at birth?",
+"a": "Approximately 1-2 million (atresia begins after 5 months in utero, reducing numbers from the ~6-7 million peak).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Oogenesis",
+"q": "How many oocytes remain at puberty?",
+"a": "Approximately 300,000-400,000.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Oogenesis",
+"q": "What proportion of oocytes undergo atresia versus ovulation over a lifetime?",
+"a": "About 90% undergo atresia; fewer than 1% are ovulated.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Oogenesis",
+"q": "At what stage of meiosis are primary oocytes arrested after birth, and what maintains this arrest?",
+"a": "Arrested in prophase of meiosis I, maintained by oocyte maturation inhibitor.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Oogenesis",
+"q": "When does the primary oocyte complete meiosis I to become a secondary oocyte?",
+"a": "At puberty, under the influence of gonadotrophins; meiosis I is completed just before ovulation, producing the secondary oocyte and the first polar body.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Oogenesis",
+"q": "At what stage is the secondary oocyte arrested, and when is meiosis II completed?",
+"a": "Arrested in metaphase of meiosis II; meiosis II is completed only after fertilisation. (If 'after fertilisation' is not offered, 'at fertilisation' is acceptable.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Oogenesis",
+"q": "Which cells are diploid and which are haploid in oogenesis?",
+"a": "Oogonia and primary oocytes are diploid; the secondary oocyte and ovum are haploid.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Oogenesis",
+"q": "How many polar bodies are ultimately produced per oocyte, and how many ova?",
+"a": "Three polar bodies (the first polar body also divides during meiosis II) and one ovum.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Folliculogenesis",
+"q": "What defines a primordial follicle?",
+"a": "A primary oocyte surrounded by a single layer of flattened (squamous) follicular cells.",
+"ai": true,
+"note": "Transcript states 'single cuboidal follicular cells'; standard teaching is a single layer of FLAT/SQUAMOUS follicular cells in the primordial follicle. Cuboidal granulosa cells characterise the PRIMARY follicle."
+},
+{
+"topic": "Embryology",
+"subtopic": "Folliculogenesis",
+"q": "What changes mark the primary follicle?",
+"a": "Follicular cells become cuboidal and stratify into granulosa cells; the zona pellucida (glycoprotein layer) appears around the oocyte.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Folliculogenesis",
+"q": "What are the properties of the theca interna versus theca externa?",
+"a": "The theca interna is vascular and the principal steroid (androgen) secreting layer; the theca externa is fibrous/connective tissue and forms the outer protective layer.",
+"ai": true,
+"note": "Transcript labels theca interna 'vascular' (correct) but theca externa 'secretory'; standard teaching is that theca INTERNA is the secretory/steroidogenic layer and theca externa is fibrous/connective tissue."
+},
+{
+"topic": "Embryology",
+"subtopic": "Folliculogenesis",
+"q": "Which layer immediately surrounds the ovum (oocyte) and is its protective layer?",
+"a": "The zona pellucida.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Folliculogenesis",
+"q": "What is the corona radiata?",
+"a": "The innermost cumulus oophorus cells that remain attached to the oocyte (outside the zona pellucida) at ovulation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Folliculogenesis",
+"q": "Which oocyte is present within the ovum at ovulation?",
+"a": "The secondary oocyte (arrested in metaphase II).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Folliculogenesis",
+"q": "Approximately how long does it take for a primordial follicle to reach the pre-ovulatory stage?",
+"a": "Approximately 300+ days (around 340-355 days).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Gametogenesis definitions",
+"q": "Define oocytogenesis.",
+"a": "The process by which oogonia mature into primary oocytes.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Gametogenesis definitions",
+"q": "Define ootidogenesis.",
+"a": "The process by which a primary oocyte undergoes its first and second meiotic divisions to become the ootid.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Gametogenesis definitions",
+"q": "Define oogenesis.",
+"a": "The formation of the ovum, whereby the ootid differentiates into the mature ovum.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Spermatogenesis",
+"q": "Define spermatocytogenesis.",
+"a": "The process by which spermatogonia mature into primary spermatocytes.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Spermatogenesis",
+"q": "What does a secondary spermatocyte undergo during spermatogenesis?",
+"a": "It completes the second meiotic division to produce spermatids.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Spermatogenesis",
+"q": "Define spermiogenesis.",
+"a": "The process by which spermatids become mature spermatozoa and gain motility.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Spermatogenesis",
+"q": "Define spermiation.",
+"a": "The release of mature spermatozoa from Sertoli cells into the lumen of the seminiferous tubules.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Spermatogenesis",
+"q": "When are spermatogonia formed and when do they become active?",
+"a": "Spermatogonia are formed in fetal life and remain dormant in the seminiferous tubules of the testes until puberty, when (under hormonal influence) they proliferate and enter meiosis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Spermatogenesis",
+"q": "Approximately how many sperm are ejaculated in one ejaculate?",
+"a": "Approximately 200-300 million.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Sperm structure",
+"q": "What does the acrosome of the sperm head contain and do?",
+"a": "A cap-like structure containing digestive (hydrolytic) enzymes that help the sperm penetrate the corona radiata and zona pellucida.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Sperm structure",
+"q": "Which organelle is the sperm midpiece rich in, and why?",
+"a": "Mitochondria, which produce the energy (ATP) required for sperm motility.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Sperm structure",
+"q": "What is the microtubule arrangement of the sperm tail (flagellum) on cross-section?",
+"a": "A 9+2 arrangement: 9 peripheral microtubule doublets and 2 central singlets.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Fertilisation",
+"q": "Where does fertilisation normally take place?",
+"a": "In the ampulla of the uterine (fallopian) tube.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Fertilisation",
+"q": "Within what time frame after ovulation must fertilisation occur?",
+"a": "Approximately 12-24 hours after ovulation/ovum release.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Fertilisation",
+"q": "What is the correct sequence of layers a sperm must penetrate to reach the oocyte?",
+"a": "Corona radiata, then zona pellucida, then the perivitelline (periplasmic) space, then the vitelline (oocyte plasma) membrane. (Capacitation precedes penetration.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Fertilisation",
+"q": "What is capacitation?",
+"a": "The functional maturation of sperm in the female reproductive tract that enables it to penetrate the oocyte's coverings.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Fertilisation",
+"q": "How can a primary polar body be distinguished from a secondary polar body on an IVF image?",
+"a": "Before fertilisation only the (first) polar body is present; after fertilisation pronuclei (male and female) appear and the secondary polar body is seen. Presence of pronuclei indicates the secondary polar body.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Early development timeline",
+"q": "What occurs during the first 2 weeks (pre-embryonic period) after fertilisation?",
+"a": "Attachment and implantation of the conceptus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Teratogenesis",
+"q": "What is the most teratogen-sensitive period of development and why?",
+"a": "Weeks 3-8 (the embryonic/organogenesis period), because exposure to a teratogen during organ formation causes major structural malformations.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Early development timeline",
+"q": "When does hCG production begin and when is it detectable?",
+"a": "hCG production begins as soon as the syncytiotrophoblast forms (around day 7-8); a detectable amount is present by around day 14.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Early development timeline",
+"q": "Which cells produce hCG?",
+"a": "The syncytiotrophoblast.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Germ layers",
+"q": "What forms in the 2nd week of development (germ disc)?",
+"a": "The bilaminar germ disc (epiblast and hypoblast).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Germ layers",
+"q": "What forms in the 3rd week of development?",
+"a": "The trilaminar embryonic disc (ectoderm, mesoderm, endoderm) via gastrulation, and neural tube formation begins.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Organogenesis timeline",
+"q": "On what day does the heart begin to beat?",
+"a": "Around day 21-22; on ultrasound the heartbeat is detectable around 5-6 weeks.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Sexual differentiation",
+"q": "Until when does the external genitalia remain undifferentiated, and what drives male differentiation?",
+"a": "External genitalia are undifferentiated until 8-9 weeks. Male differentiation is driven by dihydrotestosterone (via 5-alpha-reductase); in its absence (and under oestrogen) female external genitalia develop.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Cleavage",
+"q": "What cell stages are reached on days 1, 2, and 3 after fertilisation?",
+"a": "Day 1: 2-cell stage; Day 2: 4-cell stage; Day 3: morula (16-cell, early morula).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Cleavage",
+"q": "At what cell number does the morula form, and on what day does the blastocyst form?",
+"a": "The morula forms at the 16-cell stage (day 3-4); the blastocyst forms at day 5.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Blastocyst",
+"q": "What do the inner and outer cell masses of the blastocyst become?",
+"a": "The inner cell mass becomes the embryoblast (embryo proper); the outer cell mass becomes the trophoblast.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Cleavage",
+"q": "What is compaction?",
+"a": "The process during which intercellular boundaries between blastomeres become obscure (cell number increases while overall size stays constant).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Cleavage",
+"q": "What are the individual cells produced by cleavage called?",
+"a": "Blastomeres.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Implantation",
+"q": "On what day does the blastocyst contact the uterine wall, and on what day does implantation begin?",
+"a": "Contact with the uterine wall around day 6; implantation begins around day 7. Implantation is complete by day 13.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Implantation",
+"q": "Where does normal implantation occur?",
+"a": "In the secretory-phase endometrium, normally on the posterior wall of the upper uterus (anti-mesometrial).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Twinning",
+"q": "At which division stage do dichorionic, diamniotic monozygotic twins arise?",
+"a": "When division occurs at the morula stage (each fetus has its own chorion and amniotic cavity).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Twinning",
+"q": "What chorionicity/amnionicity results from separation at the blastocyst stage, and how common is it?",
+"a": "Monochorionic, diamniotic twins (shared placenta, separate amnions); this is the most common type of monozygotic twinning (~75%).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Twinning",
+"q": "What twin type results from separation at the bilaminar embryonic disc stage, and what is the rarest outcome?",
+"a": "Monochorionic, monoamniotic twins; separation after the disc has formed (incomplete) gives conjoined twins, the rarest type.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Early development timeline",
+"q": "Sequence the 2nd-week developmental events (days 7-14).",
+"a": "Day 7-8: syncytiotrophoblast forms and amniotic cavity appears; Day 9: primary yolk sac; Day 12: extraembryonic coelom and lacunae form; Day 13: implantation complete; Day 14: detectable hCG.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Placentation",
+"q": "What is the primary villus composed of, and how does it form?",
+"a": "The cytotrophoblast grows into the overlying syncytiotrophoblast to form the primary villus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Placentation",
+"q": "What is contained in a secondary chorionic villus versus a tertiary villus?",
+"a": "Secondary villus: cytotrophoblast/syncytiotrophoblast core invaded by extraembryonic mesoderm. Tertiary villus: the mesoderm has differentiated into fetal blood vessels.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Placentation",
+"q": "What are the lacunae in the syncytiotrophoblast, and what fills them?",
+"a": "Cavities within the syncytiotrophoblast that fill with maternal blood, establishing uteroplacental circulation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Placentation",
+"q": "Which cells invade and remodel the maternal spiral arteries?",
+"a": "Endovascular extravillous cytotrophoblast (derived from interstitial extravillous cytotrophoblast).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Placentation",
+"q": "Name the three parts of the decidua.",
+"a": "Decidua basalis (between conceptus and myometrium at the implantation pole), decidua capsularis (surrounding the conceptus), and decidua parietalis (lining the rest of the uterine cavity).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Placentation",
+"q": "What is the layers of the spiral artery's parent vessels (uterine artery branching)?",
+"a": "Uterine artery to arcuate artery to radial artery to basal artery to spiral artery (the spiral artery supplies the functional layer).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Gastrulation",
+"q": "What is gastrulation?",
+"a": "The process during the 3rd week by which the bilaminar disc becomes trilaminar, establishing the three germ layers (ectoderm, mesoderm, endoderm).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Gastrulation",
+"q": "Which structure appears in the embryonic disc and confers bilateral symmetry?",
+"a": "The primitive streak.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Gastrulation",
+"q": "From which layer is the mesoderm derived during gastrulation?",
+"a": "From epiblast/ectodermal cells that migrate through the primitive streak to lie between the epiblast (ectoderm) and hypoblast (endoderm).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Neurulation",
+"q": "What does the notochord induce, and what does it become?",
+"a": "It induces the overlying ectoderm to form the neural plate/primitive streak (neurulation); the notochord persists as the nucleus pulposus of the intervertebral discs.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Neurulation",
+"q": "On what day does the neural groove appear, and when do the neuropores close?",
+"a": "Neural groove around day 20, neural tube around day 22; the anterior (cranial) neuropore closes ~day 24 and the posterior (caudal) neuropore ~day 26.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Early development timeline",
+"q": "Sequence the 3rd-week (day 15-21) events.",
+"a": "Day 15: gastrulation/primitive streak and node; Day 16: notochord and allantois appear; Day 17: intraembryonic mesoderm differentiates; Day 18: neurulation begins; Day 19: intraembryonic coelom appears; Day 20: first pair of somites and neural groove; Day 21-24: folding of the embryo.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Germ layer derivatives",
+"q": "What are the surface ectoderm derivatives?",
+"a": "Epidermis, hair, nails, lens of the eye, inner ear epithelium, anterior pituitary (Rathke's pouch), enamel of teeth, and the epithelium of the mouth, nose, lower anal canal (below the pectinate line), distal/external urethra, and external auditory meatus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Germ layer derivatives",
+"q": "What are the neuroectoderm (neural tube) derivatives?",
+"a": "Brain, spinal cord, motor neurons, retina, posterior pituitary, and pineal gland.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Germ layer derivatives",
+"q": "What are the neural crest cell derivatives?",
+"a": "Melanocytes, facial/pharyngeal arch bones and cartilage, sensory and autonomic ganglia, adrenal medulla, enteric nervous system, Schwann cells, dentine (odontoblasts), pia and arachnoid mater, thyroid C cells, and GnRH neurons.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Germ layer derivatives",
+"q": "From which embryonic structure do the GnRH-secreting neurons originate?",
+"a": "Neural crest cells.",
+"ai": true,
+"note": "Transcript says GnRH neurons derive from neural crest. Standard teaching is that GnRH neurons originate from the OLFACTORY (nasal) PLACODE and migrate into the hypothalamus; this is the basis of Kallmann syndrome. Verify the answer expected by the question bank."
+},
+{
+"topic": "Embryology",
+"subtopic": "Germ layer derivatives",
+"q": "From which germ layer do the thyroid C (parafollicular) cells derive?",
+"a": "Neural crest cells (via the ultimobranchial body).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Germ layer derivatives",
+"q": "What are the mesoderm derivatives?",
+"a": "Bones (except skull/facial bones and pharyngeal arch bones), cartilage, connective tissue, all muscle types, blood vessels, blood, spleen, lymphatics, adipose tissue, serous membranes (pleura, pericardium, peritoneum), urogenital system, adrenal cortex, dura mater, choroid plexus, and the wall (muscle/connective tissue) of the gut.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Germ layer derivatives",
+"q": "From which germ layer do the vertebral column and ribs develop?",
+"a": "Mesoderm (specifically paraxial mesoderm/somites; sclerotome forms the vertebrae and ribs). All bones except the skull, facial bones and pharyngeal arch bones are mesodermal.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Germ layer derivatives",
+"q": "What does paraxial mesoderm form, and how do somites differentiate?",
+"a": "Paraxial mesoderm forms somites, which differentiate into sclerotome (vertebrae, ribs) and dermomyotome (dermatome -> dermis; myotome -> skeletal muscle).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Germ layer derivatives",
+"q": "What does intermediate mesoderm form?",
+"a": "The urogenital system (kidneys, gonads, genital ducts) and the adrenal cortex.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Germ layer derivatives",
+"q": "From which germ layers do the anterior and posterior pituitary develop?",
+"a": "Anterior pituitary from surface ectoderm (Rathke's pouch); posterior pituitary from neuroectoderm (neural tube/diencephalon). The anterior pituitary develops at 4-5 weeks.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Germ layer derivatives",
+"q": "What are the endoderm derivatives?",
+"a": "Epithelial lining of the GI tract, epithelium of the trachea and lungs, glands of the gut, thyroid, parathyroid, liver, pancreas, and the urogenital sinus (bladder/urethra epithelium). The allantois is also endodermal in origin.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Germ layer derivatives",
+"q": "Which parts of the meninges are NOT mesodermal in origin?",
+"a": "The pia and arachnoid mater are neural crest derived; the dura mater and choroid plexus are mesoderm derived.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Pharyngeal apparatus",
+"q": "What three components make up the pharyngeal apparatus, and what are their germ layer origins?",
+"a": "Pharyngeal clefts (ectoderm, externally), arches, and pouches (endoderm, internally). Within each arch: muscles and arteries are mesoderm-derived; bones and cartilage are neural crest-derived.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Pharyngeal apparatus",
+"q": "What are the derivatives of the 1st pharyngeal arch?",
+"a": "Muscles of mastication, anterior belly of digastric, mylohyoid, tensor tympani, tensor veli palatini; malleus and incus, zygomatic/squamous temporal bone, sphenomandibular ligament; maxillary artery; nerve CN V (mandibular branch of trigeminal).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Pharyngeal apparatus",
+"q": "What are the derivatives of the 2nd pharyngeal arch?",
+"a": "Muscles of facial expression, buccinator, stapedius, stylohyoid, posterior belly of digastric; stapes, styloid process, stylohyoid ligament, lesser horn and upper body of hyoid; stapedial artery; nerve CN VII (facial).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Pharyngeal apparatus",
+"q": "What are the derivatives of the 3rd pharyngeal arch?",
+"a": "Stylopharyngeus muscle; greater horn and lower body of hyoid; common carotid and proximal internal carotid arteries; nerve CN IX (glossopharyngeal).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Pharyngeal apparatus",
+"q": "What are the muscle, artery and nerve derivatives of the 4th and 6th pharyngeal arches?",
+"a": "4th: cricothyroid and pharyngeal constrictors, thyroid/epiglottic cartilage; artery -> right subclavian (right) and aortic arch (left); nerve = superior laryngeal (vagus). 6th: intrinsic muscles of the larynx (except cricothyroid); artery -> pulmonary arteries and ductus arteriosus; nerve = recurrent laryngeal (vagus).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Pharyngeal apparatus",
+"q": "Which arch forms the anterior two-thirds versus posterior one-third of the tongue mucosa?",
+"a": "Anterior two-thirds from the 1st arch; posterior one-third from the 3rd arch (with 4th arch contribution to the root).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Pharyngeal apparatus",
+"q": "What does the 1st pharyngeal cleft form?",
+"a": "The external acoustic meatus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Pharyngeal apparatus",
+"q": "Which pharyngeal arch is implicated in cleft lip and cleft palate?",
+"a": "The 1st pharyngeal arch (failed development of its bony derivatives, e.g. maxillary and palatine bones); the 2nd arch is not involved.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Umbilical cord",
+"q": "What are the contents of the umbilical cord?",
+"a": "Two umbilical arteries, one umbilical vein, the (vitelline) omphalomesenteric duct, the allantois, and Wharton's jelly; covered by amniotic epithelium.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Umbilical cord",
+"q": "How do you distinguish the umbilical artery from the umbilical vein in the cord?",
+"a": "There are two umbilical arteries (thicker, more muscular wall) and one umbilical vein (thinner wall).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Hindgut",
+"q": "What is the allantois and what is its origin?",
+"a": "A ventral outpouching of the hindgut; it is endodermal in origin.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Fetal remnants",
+"q": "What does the obliterated allantois (urachus) become postnatally?",
+"a": "The median umbilical ligament.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Urinary development",
+"q": "Which three parts make up the early kidney systems from intermediate mesoderm, and what happens to each?",
+"a": "Pronephros (most proximal, completely degenerates), mesonephros (forms mesonephric duct and tubules; tubules largely degenerate), and metanephros (forms the definitive kidney/nephrons).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Urinary development",
+"q": "From which structure does the ureteric bud arise?",
+"a": "The mesonephric (Wolffian) duct.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Urinary development",
+"q": "What structures does the ureteric bud (mesonephric origin) form?",
+"a": "The ureter, renal pelvis, major and minor calyces, and collecting ducts (the collecting system).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Urinary development",
+"q": "What does the metanephros form, and what induces it?",
+"a": "The metanephric blastema forms the nephrons (functional unit of the kidney, from glomerulus to DCT); it is induced by the ureteric bud on contact.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Urinary development",
+"q": "What is the embryological origin of the bladder, and when does urine production begin?",
+"a": "The bladder arises from the urogenital sinus (endoderm). Urine production begins around 12 weeks.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Urinary development",
+"q": "What is the embryological origin of the bladder trigone?",
+"a": "The mesonephric duct (mesoderm), in contrast to the rest of the bladder which is from the urogenital sinus (endoderm).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Urinary development",
+"q": "What causes a horseshoe kidney and where does it become trapped?",
+"a": "The lower poles of the kidneys fuse; during ascent the fused kidney is caught beneath the inferior mesenteric artery and remains in the pelvis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Genital development",
+"q": "In a male embryo, what do Sertoli and Leydig cells secrete and what are their effects?",
+"a": "Sertoli cells (under SRY) produce Mullerian inhibiting substance (anti-Mullerian hormone), causing regression of the paramesonephric (Mullerian) ducts. Leydig cells produce testosterone, which stimulates the mesonephric (Wolffian) ducts.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Genital development",
+"q": "What is the role of 5-alpha-reductase and DHT in male development?",
+"a": "5-alpha-reductase converts testosterone to dihydrotestosterone (DHT), which masculinises the external genitalia.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Genital homologues",
+"q": "What is the female homologue of the gubernaculum testis?",
+"a": "The ovarian ligament and the round ligament of the uterus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Genital development",
+"q": "What do the mesonephric (Wolffian) duct and mesonephric tubules form in the male?",
+"a": "Mesonephric tubules form the ductus efferentes (efferent ductules); the mesonephric duct forms the epididymis, ductus deferens, seminal vesicle and ejaculatory duct.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Genital homologues",
+"q": "What is the female homologue of the appendix testis?",
+"a": "The fallopian tube (the appendix testis being a paramesonephric/Mullerian remnant).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Genital homologues",
+"q": "What is the female homologue of the prostatic utricle?",
+"a": "The uterus and proximal (upper) vagina.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Genital homologues",
+"q": "What are the female homologues of the epididymis and the ductus deferens (mesonephric remnants)?",
+"a": "Mesonephric (Wolffian) remnants in the female include the epoophoron, paroophoron and Gartner's duct (Gartner's duct corresponds to the ductus deferens/mesonephric duct).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Genital homologues",
+"q": "What is the origin of the male and female external genitalia from the genital tubercle?",
+"a": "The genital tubercle forms the glans penis in the male and the clitoris in the female.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Genital homologues",
+"q": "What do the urogenital folds and labioscrotal swellings form in each sex?",
+"a": "Urogenital folds: ventral aspect of the penis/spongy urethra (male) and labia minora (female). Labioscrotal swellings: scrotum (male) and labia majora (female).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Genital homologues",
+"q": "What is the homologue of the bulbourethral (Cowper's) glands and the greater vestibular (Bartholin's) glands?",
+"a": "The bulbourethral (Cowper's) glands in the male are homologous to the greater vestibular (Bartholin's) glands in the female.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Genital development",
+"q": "What is the embryological origin of the upper and lower thirds of the vagina?",
+"a": "Upper two-thirds (transcript: upper one-third) from the paramesonephric (Mullerian) ducts/uterovaginal canal; lower one-third from the urogenital sinus (sinovaginal bulbs/vaginal plate).",
+"ai": true,
+"note": "Transcript states the upper ONE-third of the vagina is Mullerian. Standard teaching is that the upper TWO-thirds derives from the paramesonephric (Mullerian) duct and the lower one-third from the urogenital sinus. Use upper two-thirds."
+},
+{
+"topic": "Embryology",
+"subtopic": "Genital anomalies",
+"q": "In which condition is the uterus absent while fallopian tubes are present?",
+"a": "Mullerian agenesis (Mayer-Rokitansky-Kuster-Hauser syndrome): uterus absent, upper vagina absent (blind-ending vaginal pouch), with normal ovaries.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Genital development",
+"q": "What is the origin of the ovarian (surface) epithelium?",
+"a": "Coelomic (mesothelial) epithelium; the ovary itself derives from intermediate mesoderm.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "GI development",
+"q": "Which germ layer forms the epithelium of the gut?",
+"a": "Endoderm forms the epithelial lining of the digestive tract; mesoderm forms the muscle and connective tissue of the gut wall; the epithelium of the oral cavity and distal anal canal is ectoderm.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "GI development",
+"q": "What are the boundaries and blood supply of the foregut?",
+"a": "Foregut: from the oesophagus to the entry of the bile duct in the duodenum (also contributes to trachea/lung bud, liver, pancreas, biliary tree); supplied by the coeliac trunk.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "GI development",
+"q": "What are the boundaries and blood supply of the midgut?",
+"a": "Midgut: from the duodenum distal to the bile duct to the proximal two-thirds of the transverse colon (includes small intestine, caecum, appendix, ascending colon); supplied by the superior mesenteric artery.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "GI development",
+"q": "What is the blood supply of the hindgut?",
+"a": "The inferior mesenteric artery (distal one-third of transverse colon to the upper anal canal).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "GI development",
+"q": "What does the dorsal mesogastrium form, and what does the ventral mesogastrium form?",
+"a": "Dorsal mesogastrium forms the greater omentum; ventral mesogastrium forms the lesser omentum and the falciform ligament.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "GI development",
+"q": "What is the origin of the falciform ligament?",
+"a": "The ventral mesogastrium (ventral mesentery), forming between the liver and the anterior body wall.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "GI development",
+"q": "In which structure does the hepatic (liver) bud invaginate and differentiate?",
+"a": "The septum transversum.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "GI development",
+"q": "How does the gallbladder and cystic duct form?",
+"a": "A ventral outgrowth of the biliary duct forms the gallbladder; the connection between the gallbladder and the biliary duct becomes the cystic duct.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "GI development",
+"q": "When does hepatic haematopoiesis begin, and when does bile production begin?",
+"a": "Hepatic haematopoiesis begins around 6 weeks; bile production begins around 12 weeks.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "GI development",
+"q": "What does the dorsal pancreatic bud form versus the ventral pancreatic bud?",
+"a": "The ventral bud forms the uncinate process and lower part of the head of the pancreas (and main pancreatic duct of Wirsung); the dorsal bud forms the rest of the pancreas (and accessory duct of Santorini).",
+"ai": true,
+"note": "Transcript assigns the uncinate process/lower head to the DORSAL bud; standard teaching is that the VENTRAL bud forms the uncinate process and inferior part of the head, while the dorsal bud forms the body, tail, and rest of the head. Verify expected answer."
+},
+{
+"topic": "Embryology",
+"subtopic": "GI development",
+"q": "Describe midgut rotation and physiological herniation.",
+"a": "Physiological herniation occurs around week 6. The midgut rotates 90 degrees counterclockwise around the superior mesenteric artery during herniation, then a further 180 degrees counterclockwise on return (weeks 10-12), giving a total of 270 degrees counterclockwise.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Abdominal wall defects",
+"q": "What distinguishes gastroschisis from omphalocele (exomphalos)?",
+"a": "In omphalocele the herniated contents are covered by amnion/peritoneum and herniate through the umbilicus; in gastroschisis there is no covering membrane and herniation is through a para-umbilical (lateral) abdominal wall defect, usually on the right.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Abdominal wall defects",
+"q": "What is the chromosomal association and prognosis of omphalocele?",
+"a": "Omphalocele is associated with chromosomal abnormalities in around 50% of cases and with other defects (neural tube and cardiac defects); prognosis depends on associated anomalies. Gastroschisis has a comparatively good prognosis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "GI development",
+"q": "What is a Meckel's diverticulum and what is its rule of 2s?",
+"a": "A persistence of part of the vitelline (omphalomesenteric) duct, forming an outpouching on the antimesenteric border of the ileum. Rule of 2s: occurs in ~2% of the population, ~2 inches (2 cm) long, ~2 feet from the ileocaecal valve, often symptomatic by age 2, and may contain 2 ectopic tissue types (gastric/pancreatic).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Hindgut",
+"q": "What forms the urorectal septum and the perineal body?",
+"a": "The urorectal septum (splanchnic mesoderm) grows down to divide the cloaca; its tip forms the perineal body. The anterior part of the cloaca becomes the urogenital sinus and the posterior part the anorectal canal.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "GI development",
+"q": "What is the cause and presentation of Hirschsprung disease?",
+"a": "Failure of neural crest cells to migrate into the distal gut, so myenteric (parasympathetic) ganglia are absent. The aganglionic segment cannot relax, causing functional obstruction and proximal megacolon; failure to pass meconium within 24 hours is suggestive.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Cardiac development",
+"q": "From which mesoderm does the heart develop, and where do cardiogenic precursor cells differentiate?",
+"a": "The heart develops from splanchnic (lateral plate) mesoderm; cardiogenic precursor cells in the cardiogenic area contribute to the myocardium and endocardium.",
+"ai": true,
+"note": "Transcript's auto-transcription states cardiogenic cells differentiate into 'endometrium and myometrium' - clearly a transcription error for ENDOCARDIUM and MYOCARDIUM, which is the corrected fact given here."
+},
+{
+"topic": "Embryology",
+"subtopic": "Cardiac development",
+"q": "What forms the foramen ovale, and what is the role of septum primum and septum secundum?",
+"a": "Septum primum grows toward the endocardial cushions (forming foramen primum, then foramen secundum on degeneration); septum secundum grows alongside, leaving the foramen ovale. The overlap acts as a one-way valve allowing right-to-left atrial shunting.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Cardiac development",
+"q": "Through which opening does blood pass from right to left atrium in the fetus?",
+"a": "The foramen ovale.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Cardiac development",
+"q": "What contributes to the interventricular septum?",
+"a": "The muscular part from the outgrowth of the primitive ventricular wall, and the membranous part from the aorticopulmonary (conotruncal) septum.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Cardiac development",
+"q": "What does the aorticopulmonary septum do?",
+"a": "It spirals to separate the truncus arteriosus into the aorta and pulmonary trunk, and contributes to the membranous interventricular septum.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Congenital heart defects",
+"q": "List the acyanotic versus cyanotic congenital heart defects.",
+"a": "Acyanotic: ventricular septal defect (VSD), atrial septal defect (ASD), patent ductus arteriosus (PDA). Cyanotic: tetralogy of Fallot, transposition of the great vessels, persistent truncus arteriosus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Congenital heart defects",
+"q": "What are the four features of tetralogy of Fallot?",
+"a": "Pulmonary stenosis, right ventricular hypertrophy, overriding aorta, and ventricular septal defect. (Overriding aorta compresses the pulmonary trunk causing pulmonary stenosis and back-pressure leading to RVH.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Congenital heart defects",
+"q": "What is the most common congenital heart defect overall, and the most common cyanotic defects?",
+"a": "Most common overall: VSD. Most common cyanotic at birth/early childhood: tetralogy of Fallot. Most common cyanotic causing cyanosis at birth: transposition of the great vessels. PDA is the most common defect associated with prematurity.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Congenital heart defects",
+"q": "What is persistent truncus arteriosus?",
+"a": "Failure of the aorticopulmonary septum to form, so the aorta and pulmonary trunk remain a single vessel with mixing of blood.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Congenital heart defects",
+"q": "What cardiac anomaly is associated with lithium exposure?",
+"a": "Ebstein anomaly (apical displacement/malformation of the tricuspid valve, causing tricuspid regurgitation and right atrial enlargement).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Congenital heart defects",
+"q": "How is patent ductus arteriosus managed pharmacologically versus surgically?",
+"a": "In term/preterm infants, NSAIDs (e.g. indometacin/ibuprofen) promote closure. If the duct must be kept open (duct-dependent lesions) prostaglandin infusion is used; surgical closure is the definitive option.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Fetal remnants",
+"q": "What are the postnatal remnants of the fetal vascular structures?",
+"a": "Ductus arteriosus -> ligamentum arteriosum; ductus venosus -> ligamentum venosum; foramen ovale -> fossa ovalis; umbilical vein -> ligamentum teres (round ligament of liver); umbilical arteries -> medial umbilical ligaments; urachus/allantois -> median umbilical ligament.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Fetal remnants",
+"q": "What is the postnatal remnant of the umbilical vein?",
+"a": "The ligamentum teres hepatis (round ligament of the liver).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Fetal venous development",
+"q": "Which vein is NOT a derivative of the vitelline vein system (mnemonic HIPS)?",
+"a": "The vitelline veins form the Hepatic veins, Inferior vena cava (hepatic portion), Portal vein, and Superior mesenteric vein (HIPS). The umbilical vein is NOT a vitelline derivative.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Fetal venous development",
+"q": "Which embryonic structure is associated with caput medusae?",
+"a": "The (para)umbilical vein - caput medusae is a portosystemic anastomosis at the umbilicus involving the paraumbilical veins. (Choose paraumbilical vein over umbilical vein if both are offered.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Embryology",
+"subtopic": "Fetal remnants",
+"q": "Of which artery is the superior vesical artery a branch?",
+"a": "The umbilical artery (its patent proximal part); the distal obliterated part becomes the medial umbilical ligament.",
+"ai": false,
+"note": ""
+}
+]
+},
+{
 "id": "general",
 "title": "General",
 "cards": [
