@@ -1,5 +1,2771 @@
 window.SECTIONS = [
 {
+"id": "anatomy",
+"title": "Anatomy",
+"cards": [
+{
+"topic": "Anatomy",
+"subtopic": "Scrotum / male reproductive",
+"q": "Which muscles are present in the scrotum?",
+"a": "The dartos muscle and the cremaster muscle. (The dartos is smooth muscle in the superficial fascia; the cremaster is striated muscle derived from the internal oblique.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Scrotum / spermatic cord coverings",
+"q": "List the coverings (layers) of the scrotum/testis from superficial to deep.",
+"a": "Skin, dartos muscle/fascia, external spermatic fascia (from external oblique aponeurosis), cremaster muscle and cremasteric fascia (from internal oblique), internal spermatic fascia (from transversalis fascia), then tunica vaginalis (parietal and visceral layers) overlying the tunica albuginea of the testis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Scrotum / testis coverings",
+"q": "Which scrotal/testicular layer cannot be separated from the testis?",
+"a": "The visceral layer of the tunica vaginalis (lies directly on the tunica albuginea and cannot be peeled off the testis).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Bony pelvis",
+"q": "What three bony/fascial landmarks fuse to form the linea terminalis (pelvic brim)?",
+"a": "The pubic crest, the pectin pubis (pectineal line), and the arcuate line of the ilium (iliopectineal line). Together they form the linea terminalis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic arterial supply",
+"q": "What is the origin of the obturator artery (relevant to trans-obturator tape procedures)?",
+"a": "The obturator artery is a branch of the anterior division of the internal iliac artery.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "External iliac artery",
+"q": "Name the three branches of the external iliac artery and the related anatomical landmark of the inferior epigastric artery.",
+"a": "Inferior epigastric artery, deep circumflex iliac artery, and the femoral artery (the continuation of the external iliac below the inguinal ligament). The inferior epigastric artery forms the lateral boundary of Hesselbach's (inguinal) triangle.",
+"ai": true,
+"note": "The external iliac artery proper gives only two branches (inferior epigastric and deep circumflex iliac); the femoral artery is its continuation distal to the inguinal ligament, not a true branch. Transcript lists the femoral artery as a third branch."
+},
+{
+"topic": "Anatomy",
+"subtopic": "Femoral artery",
+"q": "At what landmark does the external iliac artery become the femoral artery?",
+"a": "Below (deep to) the inguinal ligament, at the midinguinal point, the external iliac artery becomes the femoral artery.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Femoral artery branches",
+"q": "Name the superficial branches of the femoral artery and the plane they supply.",
+"a": "Superficial epigastric, superficial circumflex iliac, and superficial (external) pudendal arteries. They run in the superficial (subcutaneous) plane. (The deep circumflex iliac is a branch of the external iliac, not femoral.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Internal iliac artery",
+"q": "List the three branches of the posterior division of the internal iliac artery.",
+"a": "Iliolumbar artery, lateral sacral artery, and superior gluteal artery.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Internal iliac artery",
+"q": "Which artery does the umbilical artery (internal iliac, anterior division) give off?",
+"a": "The superior vesical artery. (The distal obliterated umbilical artery becomes the medial umbilical ligament.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Internal iliac artery",
+"q": "Which branch of the internal iliac artery is most commonly absent?",
+"a": "The middle rectal artery is most commonly absent.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Dermatomes",
+"q": "What dermatome corresponds to the level of the umbilicus?",
+"a": "T10.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Visceral referred pain",
+"q": "To what dermatome is ovarian pain and the referred pain of appendicitis referred?",
+"a": "T10 (peri-umbilical region).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Dermatomes",
+"q": "Which dermatome corresponds to the nipple, and which to the xiphisternum?",
+"a": "Nipple = T4; xiphisternum/epigastrium ≈ T6-T7 region. (Umbilicus = T10.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Dermatomes / surgical incisions",
+"q": "Which dermatome is relevant to a Pfannenstiel incision versus a suprapubic/transverse incision?",
+"a": "Pfannenstiel incision corresponds to L1; the suprapubic area is included in the T12 dermatome.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic nerve roots",
+"q": "What is the root value of the pelvic splanchnic nerves and the pudendal nerve?",
+"a": "Both arise from S2, S3, S4.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic spaces",
+"q": "Which median pelvic potential spaces lie between the pubis, bladder, cervix/vagina, rectum and sacrum?",
+"a": "Retropubic (prevesical) space, vesicocervical/vesicovaginal space, retrocervical/rectovaginal space, and the retrorectal (presacral) space behind the rectum/sacrum.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic spaces",
+"q": "What structure divides the paravesical space, and what divides the pararectal space (medial vs lateral)?",
+"a": "The (obliterated) umbilical artery divides the paravesical space; the ureter divides the pararectal space.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic spaces / ligaments",
+"q": "Which structure separates the paravesical from the pararectal space?",
+"a": "The cardinal (transverse cervical) ligament, through which the uterine artery runs.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic joints / ligaments",
+"q": "Which sacroiliac ligament resists anterior-inferior horizontal rotation of the pelvis?",
+"a": "The interosseous sacroiliac ligament.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic joints / ligaments",
+"q": "Which ligaments resist the posterior horizontal rotation / movement of the pelvis at the sacroiliac joint?",
+"a": "The sacrotuberous and sacrospinous ligaments.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic joints",
+"q": "Which pelvic joint limits horizontal and vertical rotation of the pelvis?",
+"a": "The sacroiliac joint.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic joints",
+"q": "Classify the lumbosacral, sacroiliac, sacrococcygeal, pubic symphysis and hip joints, and give the bones forming each.",
+"a": "Lumbosacral: between L5 and sacrum. Sacroiliac: between sacrum and ilium (synovial). Sacrococcygeal: sacrum and coccyx (secondary cartilaginous, midline). Pubic symphysis: between the two pubic bones (secondary cartilaginous, midline). Hip (acetabulofemoral): acetabulum and head of femur (synovial).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic joints",
+"q": "What type of joints are the sacrococcygeal joint and the pubic symphysis?",
+"a": "Both are secondary cartilaginous (midline) joints.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic ligaments",
+"q": "Which is the strongest ligament of the sacroiliac joint, and what is its function?",
+"a": "The interosseous sacroiliac ligament; it limits sacral flexion and resists anterior and inferior movement of the sacrum along the horizontal plane.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic ligaments",
+"q": "Where does the interosseous sacroiliac ligament attach?",
+"a": "It connects the sacrum to the ilium in the region between the S1 and S2 levels (deep to the posterior sacroiliac ligament).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Hip joint ligaments",
+"q": "Which is the strongest ligament of the body, and where does it attach?",
+"a": "The iliofemoral ligament (Y-shaped ligament of the hip). It attaches from the anterior inferior iliac spine to the intertrochanteric line of the femur; it resists hyperextension and lateral rotation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Hip joint ligaments",
+"q": "What does the pubofemoral ligament connect, and what movement does it limit?",
+"a": "It connects the superior pubic ramus to the intertrochanteric line/femur; it resists abduction and lateral rotation (extension).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Hip joint ligaments",
+"q": "What is the shape and function of the ischiofemoral ligament?",
+"a": "It is spiral-shaped, connecting the ischial body to the greater trochanter; it limits medial rotation of the hip.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic ligaments",
+"q": "Where does the iliolumbar ligament attach?",
+"a": "It connects the transverse processes of L4/L5 to the iliac crest and iliac tuberosity.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic ligaments",
+"q": "Which ligament attaches to the iliac tuberosity?",
+"a": "The iliolumbar ligament (attaches to the iliac crest/iliac tuberosity).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Fetal skull / obstetric diameters",
+"q": "What is the value of the suboccipitobregmatic diameter of the fetal head, and which presentation is associated with it?",
+"a": "Suboccipitobregmatic = 9.5 cm; it is the engaging diameter in a well-flexed vertex (occipito-anterior) presentation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Fetal skull / obstetric diameters",
+"q": "Which presentation is associated with the occipitofrontal (versus suboccipitofrontal) engaging diameter?",
+"a": "The occipitofrontal diameter (~11.5 cm) presents in deflexed/occipito-posterior positions (classically direct occipito-posterior); the suboccipitofrontal (~10 cm) is associated with occipito-posterior with slight flexion.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Fetal skull diameters",
+"q": "Give the transverse diameters of the fetal skull: biparietal, bitemporal, bimastoid.",
+"a": "Biparietal = 9.5 cm; bitemporal = 8.5 cm (some sources 8.0); bimastoid = 7.5 cm.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Anal canal venous drainage",
+"q": "Where does the inferior rectal vein drain?",
+"a": "Into the internal pudendal vein (then internal iliac vein - systemic drainage).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Anal canal / pectinate line",
+"q": "What epithelium and lymphatic/venous drainage are found above versus below the pectinate (dentate) line of the anal canal?",
+"a": "Above the pectinate line: columnar epithelium (endodermal origin), venous drainage via superior rectal vein to portal system, lymphatics to internal iliac nodes. Below: stratified squamous non-keratinised epithelium (ectodermal origin), venous drainage via inferior rectal vein to systemic (internal pudendal) system, lymphatics to superficial inguinal nodes.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Anal canal innervation",
+"q": "Why are internal haemorrhoids (above the pectinate line) painless while external haemorrhoids are painful?",
+"a": "Above the pectinate line the mucosa is visceral with autonomic innervation (insensate); below it the anoderm is somatic, supplied by the pudendal nerve (inferior rectal nerve), so external haemorrhoids are painful.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic venous drainage",
+"q": "Where does the left uterine vein drain?",
+"a": "Into the left internal iliac vein (the right uterine vein drains into the right internal iliac vein); internal iliac veins drain into the common iliac veins, then the IVC.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Gonadal venous drainage",
+"q": "How does right ovarian/gonadal venous drainage differ from the left?",
+"a": "The right ovarian (gonadal) vein drains directly into the IVC; the left ovarian vein drains into the left renal vein.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Gonadal arterial supply",
+"q": "From which vessel does the gonadal (ovarian/testicular) artery arise?",
+"a": "Directly from the abdominal aorta (at approximately the L2 level).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Ureter course",
+"q": "Which structure passes in front of (crosses) the sacroiliac joint at the bifurcation of the common iliac artery?",
+"a": "The ureter (crosses anterior to the bifurcation of the common iliac artery at the pelvic brim).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Ureter course",
+"q": "Trace the pelvic course of the ureter relative to the ovarian vessels, uterine artery and bladder.",
+"a": "The ureter passes deep to (below) the ovarian vessels, then passes below the uterine artery ('water under the bridge'), and runs forward toward the bladder.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Lumbar plexus",
+"q": "What is the root value of the obturator nerve, and from which division of the lumbar plexus does it arise?",
+"a": "L2, L3, L4 (anterior divisions of the lumbar plexus).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Lumbar plexus / obturator nerve",
+"q": "From which border of psoas major does the obturator nerve emerge, and what does it supply?",
+"a": "It emerges from the medial border of psoas major and supplies the adductor (medial) compartment of the thigh; it is at risk during ovarian surgery as it runs in the lateral boundary of the ovarian fossa.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Lumbar plexus / femoral nerve",
+"q": "What is the root value of the femoral nerve and from which border of psoas does it emerge?",
+"a": "L2, L3, L4 (posterior divisions); it emerges from the lateral border of psoas major.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Autonomic pelvic plexuses",
+"q": "What is the root value of the superior and inferior hypogastric plexuses?",
+"a": "Sympathetic input from approximately T10-L2. The superior hypogastric plexus is involved in ovarian and ureteric plexuses; the inferior hypogastric plexus supplies the vesical, prostatic, uterovaginal and rectal plexuses.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Lumbar plexus",
+"q": "Where is the lumbar plexus located and what is its root value?",
+"a": "Within the substance of psoas major, anterior to the transverse processes of the lumbar vertebrae; root value L1-L4 (with a contribution from T12).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Lumbar plexus",
+"q": "What is the root value of the iliohypogastric and ilioinguinal nerves?",
+"a": "L1 (with a contribution from T12). The iliohypogastric draws relatively more from T12, the ilioinguinal relatively more from L1; if T12+L1 is an option choose it, otherwise choose L1.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Lumbar plexus / genitofemoral nerve",
+"q": "What is the root value of the genitofemoral nerve and its relation to psoas major?",
+"a": "L1, L2; it pierces and runs on the anterior surface of psoas major.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Lumbar plexus / lateral femoral cutaneous nerve",
+"q": "What is the root value of the lateral femoral cutaneous nerve and its important landmark relation?",
+"a": "L2, L3; it passes deep to the inguinal ligament just medial to the anterior superior iliac spine. Compression here causes meralgia paraesthetica (hypersensitivity/pain along the lateral thigh).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Genitofemoral nerve",
+"q": "What do the genital and femoral branches of the genitofemoral nerve supply?",
+"a": "The genital branch supplies/participates in supply of the labia majora (and cremaster in males) and anterior perineum; the femoral branch passes deep to the inguinal ligament through the lateral part of the femoral triangle and supplies the skin over the femoral triangle.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Sacral plexus root values",
+"q": "What are the root values of the superior gluteal, inferior gluteal, sciatic and pudendal nerves?",
+"a": "Superior gluteal: L4, L5, S1. Inferior gluteal: L5, S1, S2. Sciatic: L4, L5, S1, S2, S3. Pudendal: S2, S3, S4.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Sacral plexus / pelvic floor innervation",
+"q": "Which root fibres predominantly supply piriformis, and which predominantly supply levator ani?",
+"a": "Piriformis is supplied mainly by S1 and S2; levator ani is supplied mainly by the S4 fibres (nerve to levator ani), with contributions from the pudendal nerve (S2-S4).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Sacral plexus",
+"q": "Where is the sacral plexus located and what is its root value?",
+"a": "Between the piriformis muscle and the pelvic fascia (on the posterior pelvic wall); root value L4-S4 (key contributions S2, S3, S4).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Ischioanal fossa",
+"q": "Which muscle forms the lateral wall of the ischiorectal (ischioanal) fossa?",
+"a": "Obturator internus (covered by obturator fascia) forms the lateral wall.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Ischioanal fossa",
+"q": "Describe the boundaries (medial, lateral, floor, base) of the ischioanal fossa.",
+"a": "Lateral wall: obturator internus. Medial wall: levator ani and external anal sphincter. Floor/base: skin of the perianal region. (Roof is where levator ani meets obturator fascia.) The pudendal canal lies in the lateral wall.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Small intestine histology",
+"q": "Where are Brunner's glands found, and what do they secrete?",
+"a": "Brunner's glands are mucus-secreting glands found in the duodenum (submucosa).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Small intestine histology",
+"q": "In which part of the small intestine are Peyer's patches most abundant?",
+"a": "The ileum (aggregated lymphoid follicles - Peyer's patches - are most numerous in the ileum).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Jejunum vs ileum",
+"q": "Compare jejunum and ileum: length, wall thickness, vasa recta/arcades, circular folds and villi.",
+"a": "Jejunum: thicker wall, wider lumen, long vasa recta with few (long) arcades, numerous tall closely-spaced circular folds (plicae), leaf-like villi. Ileum: longer, thinner wall, narrower lumen, short vasa recta with many (short) arcades, fewer/sparse circular folds, finger-like villi, abundant Peyer's patches.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Rectus sheath",
+"q": "Which muscle aponeuroses contribute to the rectus sheath?",
+"a": "The aponeuroses of external oblique, internal oblique and transversus abdominis. (Rectus abdominis itself is the enclosed muscle, not a sheath-forming aponeurosis.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Rectus sheath",
+"q": "How is the rectus sheath formed above the arcuate line?",
+"a": "Above the arcuate line: external oblique aponeurosis + anterior leaf of internal oblique aponeurosis form the anterior sheath; posterior leaf of internal oblique + transversus abdominis aponeurosis form the posterior sheath.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Rectus sheath",
+"q": "How is the rectus sheath arranged below the arcuate line?",
+"a": "Below the arcuate line all three aponeuroses (external oblique, internal oblique, transversus) pass anterior to rectus abdominis; the posterior sheath is deficient, leaving only transversalis fascia behind the muscle.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Rectus sheath / surgical layers",
+"q": "What layers are encountered in a low transverse (suprapubic, below arcuate line) incision after the rectus muscle?",
+"a": "Skin, then anterior rectus sheath, then rectus (and pyramidalis) muscle; immediately deep to rectus there is transversalis fascia (posterior sheath absent), then extraperitoneal fat and peritoneum into the abdomen.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Anterior abdominal wall",
+"q": "Which muscle lies just above the pubis anterior to the lower rectus abdominis?",
+"a": "Pyramidalis muscle (arises from the pubis, anterior to the lower rectus).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Gluteal/pelvic muscles",
+"q": "Describe the correct course of obturator internus and of piriformis through the sciatic notches.",
+"a": "Obturator internus arises from the internal surface of the obturator membrane/foramen, passes through the lesser sciatic foramen (notch) and inserts on the greater trochanter. Piriformis arises from the pelvic (ventral) surface of the sacrum, passes through the greater sciatic foramen (notch) to the greater trochanter.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Gluteal/pelvic muscles",
+"q": "What is the pathway of piriformis (origin to insertion)?",
+"a": "From the ventral (pelvic) surface of the sacrum, through the greater sciatic foramen, to the greater trochanter of the femur.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Hip flexor muscles",
+"q": "Origins/insertions of iliacus, psoas major and psoas minor.",
+"a": "Iliacus: from the iliac fossa to the lesser trochanter. Psoas major: from the lumbar vertebrae to the lesser trochanter. Psoas minor: inserts onto the pectineal line/iliopubic eminence (pubis).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Bladder ligaments",
+"q": "Which ligament has the strongest (primary) role in supporting the bladder?",
+"a": "The pubovesical ligament (the true ligament directly attached to the bladder; consists of two bands connecting the pubis to the bladder).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Bladder/pelvic support",
+"q": "Which ligament/structure has a major role in supporting the bladder neck but is not a true ligament of the bladder?",
+"a": "The pubocervical ligament (fascia) - it runs from the pubis to the cervix and supports the bladder neck, giving extensions to the cardinal/transverse cervical ligament, but is not directly attached to the bladder.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic support / prolapse",
+"q": "Which ligament is implicated in a cystocele versus a urethrocele?",
+"a": "Cystocele relates to weakness of the pubovesical ligament (bladder support); urethrocele relates to the pubourethral ligament (urethral support).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Surface anatomy",
+"q": "What forms a dimple in the gluteal region?",
+"a": "The posterior superior iliac spine (PSIS).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Uterine ligaments / clinical",
+"q": "On bimanual examination, which structure is palpated to differentiate the body of the cervix from the body of the uterus?",
+"a": "The uterosacral ligament.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Uterine ligaments",
+"q": "Where does the round ligament of the uterus terminate?",
+"a": "In the labium majus (it passes through the inguinal canal to insert into the labia majora).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Ovarian ligaments",
+"q": "What does the suspensory ligament of the ovary (infundibulopelvic ligament) attach, and what does it contain?",
+"a": "It attaches the ovary to the lateral pelvic wall and contains the ovarian vessels (ovarian artery, vein, nerves and lymphatics).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Uterine position",
+"q": "What is the normal angle of anteversion and of anteflexion of the uterus?",
+"a": "Anteversion ≈ 90° (between the long axis of the cervix and the vagina); anteflexion ≈ 120-125° (between the long axis of the body of the uterus and the cervix).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic floor",
+"q": "Which muscle forms a sling around the rectum, and which fascia/structure slings the bladder neck?",
+"a": "Puborectalis forms the sling around the anorectal junction (rectum); the pubocervical fascia/ligament supports (slings) the bladder neck.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Uterine pain pathways",
+"q": "At what dermatomal level is uterine pain sensation completely abolished, and what is the highest level of uterine pain afferents?",
+"a": "Uterine pain afferents run with sympathetics (T11-T12, via the inferior hypogastric/uterine plexus); a block must reach T10 and below to abolish uterine pain. The lowest level at which uterine pain is completely abolished is L2 (do not choose L1).",
+"ai": true,
+"note": "Transcript states the abolition level as L2 and gives uterine pain dermatomes as T11-T12 (afferents). Standard teaching: uterine body pain afferents are T11-L2 (sympathetic); this is internally consistent but verify exact 'L2' cut-off against your course material as it is course-specific."
+},
+{
+"topic": "Anatomy",
+"subtopic": "Abdominal aorta",
+"q": "At what vertebral level does the abdominal aorta bifurcate into the common iliac arteries?",
+"a": "L4.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Abdominal aorta branches",
+"q": "Give the single-best-answer vertebral levels for the origins of: coeliac trunk, superior mesenteric, inferior mesenteric, gonadal and renal arteries, and the aortic bifurcation.",
+"a": "Coeliac trunk: T12. Superior mesenteric artery: L1. Renal arteries: between L1 and L2. Gonadal arteries: L2. Inferior mesenteric artery: L3. Aortic bifurcation: L4. Common iliac bifurcation: ~L5/S1 (pelvic brim).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Great vessels",
+"q": "At what level does the inferior vena cava form, and which common iliac artery is longer?",
+"a": "The IVC forms at L5 (union of the common iliac veins). The right common iliac artery is about 1 cm longer than the left and crosses the midline.",
+"ai": true,
+"note": "The right common iliac artery is conventionally described as the SHORTER of the two; the transcript's claim that the right is ~1 cm longer is unreliable/garbled and conflicts with standard anatomy. IVC forming at L5 is correct."
+},
+{
+"topic": "Anatomy",
+"subtopic": "Inguinal canal contents",
+"q": "Which nerve pierces the internal oblique within the inguinal canal - the ilioinguinal or genitofemoral nerve?",
+"a": "The ilioinguinal nerve pierces the internal oblique (the genital branch of the genitofemoral nerve enters via the deep ring without piercing internal oblique).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Inguinal canal boundaries",
+"q": "What forms the anterior, posterior, roof and floor of the inguinal canal?",
+"a": "Anterior wall: external oblique aponeurosis (anterolateral reinforced by internal oblique). Posterior wall: transversalis fascia (medially reinforced by the conjoint tendon - internal oblique + transversus). Roof: arching fibres of internal oblique and transversus. Floor: inguinal ligament (medially lacunar ligament).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Inguinal canal boundaries",
+"q": "Who forms the anterolateral boundary of the inguinal canal - external or internal oblique?",
+"a": "Internal oblique forms the anterolateral wall (external oblique aponeurosis forms the anterior wall). This distinction is commonly tested.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Inguinal hernias",
+"q": "What is the relationship of the inferior epigastric artery to direct versus indirect inguinal hernias (Hesselbach's triangle)?",
+"a": "The inferior epigastric artery forms the lateral (superolateral) boundary of Hesselbach's triangle. A direct hernia passes medial to the inferior epigastric vessels (through Hesselbach's triangle/posterior wall weakness); an indirect hernia passes lateral to the inferior epigastric vessels, through the deep ring.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Hernias / surface landmarks",
+"q": "How are inguinal and femoral hernias differentiated using the pubic tubercle?",
+"a": "An inguinal hernia emerges above and medial to the pubic tubercle; a femoral hernia emerges below and lateral to the pubic tubercle.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Prolapse repair landmarks",
+"q": "Which abdominal-approach and vaginal-approach ligaments are used for apical/pelvic compartment prolapse repair?",
+"a": "Abdominal approach: the pectineal (Cooper's) ligament (e.g. sacrocolpopexy uses the anterior longitudinal ligament of the sacrum; iliopectineal/Cooper's used for paravaginal/colposuspension). Vaginal approach: the sacrospinous ligament (sacrospinous fixation).",
+"ai": true,
+"note": "Transcript garbled here. Standard: abdominal sacrocolpopexy fixes to the sacral promontory/anterior longitudinal ligament; the pectineal (Cooper's) ligament is used in colposuspension/paravaginal repair. Vaginal sacrospinous fixation uses the sacrospinous ligament. Verify the exact ligament intended by the question stem."
+},
+{
+"topic": "Anatomy",
+"subtopic": "Skull sutures",
+"q": "Between which bones is the coronal suture, and the sagittal and lambdoid sutures?",
+"a": "Coronal suture: between frontal and parietal bones. Sagittal suture: between the two parietal bones (midline). Lambdoid suture: between parietal and occipital bones. Squamous suture: between parietal and temporal bones.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Perineum / episiotomy",
+"q": "During an episiotomy in the midline, which muscles are typically incised?",
+"a": "Superficial perineal muscles - bulbospongiosus (around the introitus) and the superficial transverse perineal muscle, plus the perineal body; deep muscles are usually not divided.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic floor",
+"q": "Which muscles form the pelvic diaphragm?",
+"a": "Levator ani (puborectalis, pubococcygeus and iliococcygeus) and the coccygeus muscle.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Surgical anatomy",
+"q": "Which artery is most commonly injured in an appendicectomy and which nerve is at risk?",
+"a": "The deep circumflex iliac artery is at risk; the ilioinguinal and iliohypogastric nerves are at risk of injury in appendicectomy/gridiron incisions.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Perineal/anal innervation",
+"q": "Which nerve provides the main sensory supply to the perianal skin (around the anus)?",
+"a": "The inferior rectal (inferior anal) nerve, a branch of the pudendal nerve, provides the main supply; the perineal branch of S4 also contributes.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Perineal innervation",
+"q": "Which branch of the sacral plexus (other than the pudendal nerve) helps supply the external genitalia/perineum?",
+"a": "The posterior femoral cutaneous nerve of the thigh (its perineal branches supply the lateral part of the perineum/labia); it is a branch of the sacral plexus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "External genitalia innervation",
+"q": "What supplies the mons pubis and the anterior part of the labia majora?",
+"a": "The ilioinguinal and iliohypogastric nerves supply the mons pubis; the genital branch of the genitofemoral and the ilioinguinal nerve supply the anterior labia.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pudendal nerve branches",
+"q": "The dorsal nerve of the clitoris is a branch of which nerve?",
+"a": "The pudendal nerve.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pudendal canal",
+"q": "What are the contents of the pudendal (Alcock's) canal, and what forms its wall?",
+"a": "Contents: internal pudendal artery, internal pudendal vein, and the pudendal nerve. Its wall is formed by the obturator fascia (a split/duplication of the obturator internus fascia).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Vaginal blood supply",
+"q": "What is the arterial supply of the upper versus lower vagina?",
+"a": "Upper vagina: vaginal branch of the uterine artery (and the deep cervical/vaginal branch). Lower vagina: vaginal artery, a branch of the internal iliac artery; small contributions from the middle rectal and internal pudendal arteries.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "External genitalia histology",
+"q": "Which structures have no apocrine/paracrine glands, no hair, and non-keratinised epithelium?",
+"a": "The labia minora (no hair follicles, no sebaceous/sweat glands typical of skin, and covered by non-keratinised epithelium).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Laparoscopic anatomy",
+"q": "During laparoscopy, the inferior epigastric artery lies lateral to which structure?",
+"a": "It lies lateral to the medial umbilical ligament (the inferior epigastric vessels raise the lateral umbilical fold).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Anterior abdominal wall folds",
+"q": "What does the medial umbilical ligament contain, and the lateral umbilical fold?",
+"a": "The medial umbilical ligament contains the obliterated umbilical artery; the median umbilical ligament is the urachus remnant; the lateral umbilical fold contains the (patent) inferior epigastric vessels.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Bony pelvis angles",
+"q": "What is the approximate angle of the pelvic inlet and of the pelvic outlet?",
+"a": "Pelvic inlet angle (to horizontal) ≈ 55° (50-60°); pelvic outlet angle ≈ 10-15° (single best answer 15°).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Perineal pouches",
+"q": "Where are the bulbourethral (Cowper's) glands located, layer by layer?",
+"a": "In the deep perineal pouch (within the urogenital diaphragm), embedded in/near the external urethral sphincter. (The greater vestibular/Bartholin glands lie in the superficial perineal pouch.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Perineal pouches / fascia",
+"q": "What separates the superficial and deep perineal pouches, and what is the membranous layer of superficial fascia in the perineum called?",
+"a": "The perineal membrane separates the superficial from the deep perineal pouch. The membranous layer of superficial perineal fascia is Colles' fascia (continuous with Scarpa's fascia of the abdomen).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Superficial perineal pouch",
+"q": "List the contents of the superficial perineal pouch (female).",
+"a": "Superficial perineal muscles (superficial transverse perineal, bulbospongiosus, ischiocavernosus), the crura of the clitoris and bulbs of the vestibule, greater vestibular (Bartholin) glands, perineal vessels and labial branches, and branches of the perineal nerve.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Deep perineal pouch",
+"q": "List the key contents of the deep perineal pouch (female).",
+"a": "Deep transverse perineal muscle, the external urethral sphincter (sphincter urethrae / compressor urethrae), the bulbourethral (in male; equivalent deep glands), the proximal urethra, the deep artery and dorsal nerve of the clitoris.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Anal sphincters",
+"q": "Which muscle/structure of the anal sphincter complex is formed by the circular muscle of the rectum, and what supplies the external anal sphincter?",
+"a": "The internal anal sphincter is formed by thickened circular smooth muscle of the rectum (involuntary). The external anal sphincter is striated (voluntary) muscle with three parts - deep, superficial and subcutaneous - supplied (motor) by the inferior rectal nerve (branch of the pudendal nerve).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Bladder innervation",
+"q": "Which nerve causes contraction of the detrusor muscle (motor supply for micturition)?",
+"a": "The pelvic splanchnic nerves (parasympathetic, S2-S4) cause detrusor contraction; sympathetic fibres (via the inferior hypogastric plexus, L1-L2) mediate storage/relaxation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Superficial fascia",
+"q": "What is the extension of Scarpa's fascia (membranous superficial fascia) into the perineum called?",
+"a": "Colles' fascia. (Scarpa's fascia attaches to the fascia lata of the thigh; in the perineum it continues as Colles' fascia, and into the scrotum/penis as dartos fascia.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Fetal skull / obstetric procedure",
+"q": "For a flexed fetal head in vacuum (ventouse) delivery, where is the cup (flexion point) placed?",
+"a": "Over the flexion point - approximately 3 cm anterior to the posterior fontanelle (about 6 cm posterior to the anterior fontanelle), in the midline.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Uterine/cervical pain pathways",
+"q": "Which nerve/plexus provides the sensory (pain) innervation to the cervix?",
+"a": "The pelvic splanchnic nerves (S2, S3, S4) - parasympathetic afferents - carry cervical and lower uterine/vaginal pain; uterine body pain is carried by sympathetic fibres via the inferior hypogastric plexus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Autonomic / applied anatomy",
+"q": "What is the mechanism of spinal anaesthesia-induced hypotension?",
+"a": "Blockade of preganglionic autonomic (sympathetic) fibres causes vasodilatation of blood vessels, producing a sudden fall in blood pressure (hypotension); hence pre-loading with fluids before spinal anaesthesia.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "GI arterial supply / embryology",
+"q": "Which artery is the major supply to the midgut, and which to the hindgut and foregut?",
+"a": "Midgut: superior mesenteric artery. Hindgut: inferior mesenteric artery. Foregut: coeliac trunk.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Colonic arterial supply",
+"q": "Which arteries supply the ascending, transverse and descending colon?",
+"a": "Ascending colon: right colic artery. Transverse colon: middle colic artery (SMA). Descending colon: left colic artery (IMA).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Uterine adnexal blood supply",
+"q": "Which artery supplies the round ligament of the uterus?",
+"a": "The artery of Sampson (a branch of the inferior epigastric artery) supplies the round ligament of the uterus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Reproductive blood supply",
+"q": "Which artery supplies the vas deferens / oviduct region (artery to the ductus)?",
+"a": "The artery to the vas deferens (ductus deferens) arises from the (superior/inferior vesical) internal iliac branch; in females the ovarian/uterine arteries supply the tube. (Transcript answer for the vas: a branch supplying the ductus.)",
+"ai": true,
+"note": "Transcript phrasing here is garbled ('which artery supply of the orvidus'). The artery to the ductus deferens arises from the superior/inferior vesical artery; cannot confidently map the intended question, so flagged."
+},
+{
+"topic": "Anatomy",
+"subtopic": "Skull sutures",
+"q": "Which suture lies in the centre between the two parietal bones?",
+"a": "The sagittal suture (midline, between the two parietal bones).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Bony pelvis / obstetric diameters",
+"q": "Which is the widest diameter of the pelvic inlet?",
+"a": "The transverse diameter is the widest at the pelvic inlet; in the mid-cavity the diameters are approximately equal (~12 cm).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Breast anatomy",
+"q": "Which ligaments suspend/support the breast and separate its lobes?",
+"a": "The suspensory ligaments of Cooper - they run from the dermis to the deep fascia and divide the breast into lobes; the breast lies on the pectoral fascia over pectoralis major.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Breast anatomy",
+"q": "Which fascia lies deep to the breast (the breast lies on which structure)?",
+"a": "The breast lies on the pectoral fascia overlying pectoralis major (with the retromammary space between the breast and the fascia).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Perineal glands",
+"q": "Where is the Bartholin (greater vestibular) gland located versus the bulbourethral gland?",
+"a": "The Bartholin (greater vestibular) gland is in the superficial perineal pouch; the bulbourethral (Cowper's) gland is in the deep perineal pouch.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Inguinal region ligaments",
+"q": "Which ligament attaches to the anterior superior iliac spine, and what is the medial extension of the inguinal ligament?",
+"a": "The inguinal ligament attaches to the anterior superior iliac spine (to the pubic tubercle medially). Its medial extension is the lacunar ligament; the further extension along the pectineal line is the pectineal (Cooper's) ligament.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Femoral hernia",
+"q": "Which ligament is responsible for strangulation of a femoral hernia?",
+"a": "The lacunar ligament (its sharp medial border narrows the femoral ring and can strangulate a femoral hernia).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic ligaments",
+"q": "Trace the attachments of the sacrotuberous and sacrospinous ligaments.",
+"a": "Sacrotuberous ligament: from the ischial tuberosity to the posterior ilium, sacrum and coccyx (posterolateral sacrum). Sacrospinous ligament: from the ischial spine to the lateral lower sacrum/coccyx.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Ureter / surgical injury",
+"q": "During hysterectomy, at which site is the ureter at greatest (most common) risk of injury?",
+"a": "Where the ureter passes beneath the uterine artery ('water under the bridge'), near the level of the cervix at the cardinal ligament - the most common site of ureteric injury.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Ovarian fossa",
+"q": "What are the boundaries of the ovarian fossa, and which nerve lies in its (lateral) floor?",
+"a": "Boundaries: anteriorly the external/internal iliac vessels (obliterated umbilical artery anteriorly, ureter and internal iliac vessels posteriorly); the obturator nerve runs in the lateral wall/floor and is at risk in ovarian surgery.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic lymphadenectomy anatomy",
+"q": "What are the boundaries of the paravesical space relevant in pelvic lymphadenectomy?",
+"a": "Lateral: psoas major / external iliac vessels (and genitofemoral nerve, obturator nerve in the lateral wall). Medial: superior vesical vessels/obliterated umbilical artery. Base: the bifurcation of the common iliac artery. The genitofemoral nerve and psoas are key landmarks.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Para-aortic lymphadenectomy anatomy",
+"q": "What are the boundaries of the para-aortic region for lymphadenectomy?",
+"a": "Lateral: the ureter; medial: the aorta itself; caudally: the bifurcation of the common iliac arteries; cephalad: the inferior mesenteric/renal vessels region.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Neuroanatomy (miscellaneous)",
+"q": "Where is the choroid plexus located and which cells produce CSF?",
+"a": "The choroid plexus is located in the ventricles, covered by pia mater (tela choroidea); ependymal cells produce the cerebrospinal fluid.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Histology / canals",
+"q": "Through which canal do mucus-secreting glands of the GI tract relate, and what are Brunner's glands' alternate testing point?",
+"a": "Brunner's glands are the mucus-secreting glands of the duodenum; the ilioinguinal nerve passes through the inguinal canal (commonly tested distractor pairing of canals/glands).",
+"ai": true,
+"note": "Transcript conflates two separate recall items (Brunner glands and ilioinguinal/pudendal canal). Brunner's glands = duodenum (correct); the canal item is a separate question - the combined phrasing is garbled, so flagged."
+},
+{
+"topic": "Anatomy",
+"subtopic": "Bladder / applied anatomy",
+"q": "Where are oestrogen receptors most densely concentrated in the lower urinary tract?",
+"a": "In the trigone of the bladder (and urethra) - explaining the response of urinary frequency/dysuria to topical oestrogen in atrophic conditions.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Developmental lower limb alignment",
+"q": "In normal newborns, what is the typical position/alignment of the lower limbs at the knees after delivery?",
+"a": "Newborns are normally moderately genu varum (bow-legged) with slightly inverted feet at birth; this becomes maximal around 6 months, with the legs straightening by about 1-7 years.",
+"ai": true,
+"note": "This is developmental orthopaedics rather than core MRCOG anatomy and was a difficult new recall in the transcript; the exact timings are approximate and should be verified against a paediatric source if examined."
+},
+{
+"topic": "Anatomy",
+"subtopic": "Abdominal wall / transverse planes",
+"q": "At which vertebral level does the transpyloric plane (of Addison) lie, and which structures lie at this level?",
+"a": "L1 (lower border of L1 / level of 9th costal cartilage tips). Structures at the transpyloric plane include: pylorus of stomach, 1st part and beginning of 2nd part of duodenum, fundus of gallbladder, hila of the kidneys, neck of pancreas, origin of the superior mesenteric artery, formation of the portal vein, duodenojejunal flexure, both colic flexures (hepatic/right and splenic/left), and the termination of the spinal cord (conus medullaris) at L1.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Anterior abdominal wall",
+"q": "What does the linea alba represent and what is the linea semilunaris?",
+"a": "The linea alba is the midline fibrous band formed by the fusion (interlacing) of the aponeuroses of the rectus sheath from both sides, lying between the two rectus abdominis muscles. The linea semilunaris is the curved tendinous line at the lateral border of the rectus abdominis muscle.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Abdominal wall / transverse planes",
+"q": "At which vertebral levels lie the subcostal, supracristal (transcristal) and intertubercular (transtubercular) planes?",
+"a": "Subcostal plane = L3 (upper part of L3 body). Supracristal/transcristal plane (highest points of the iliac crests) = L4 (between L4/L5). Intertubercular/transtubercular plane (iliac tubercles) = L5.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Diaphragm",
+"q": "At which vertebral levels do the major openings of the diaphragm lie?",
+"a": "Caval opening (IVC) = T8; oesophageal opening (oesophagus, vagi) = T10; aortic opening/hiatus (aorta, thoracic duct, azygos vein) = T12.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Surface anatomy",
+"q": "At which surface/vertebral landmarks lie the umbilicus, the nipple, and the bifurcation of the aorta?",
+"a": "Umbilicus = L3/L4 (skin surface marker, variable). Nipple = T4 dermatome. Aortic bifurcation = L4 (at the level of the umbilicus / supracristal region).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Inguinal canal",
+"q": "Describe the relationship of the deep inguinal ring and the superficial inguinal ring to the inferior epigastric vessels and the external oblique aponeurosis.",
+"a": "The deep (internal) inguinal ring lies in the transversalis fascia, LATERAL to the inferior epigastric vessels. The superficial (external) inguinal ring is a triangular defect in the external oblique aponeurosis, lying just superolateral to the pubic tubercle.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Inguinal canal / hernias",
+"q": "How do indirect and direct inguinal hernias relate to the inferior epigastric vessels and to the deep ring?",
+"a": "Indirect hernia: arises LATERAL to the inferior epigastric vessels, enters through the deep ring, traverses the canal and exits the superficial ring. Direct hernia: arises MEDIAL to the inferior epigastric vessels, pushes through the weakness of Hesselbach's triangle, does NOT pass through the deep ring, and exits directly via the superficial ring.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Inguinal canal / hernias",
+"q": "What are the boundaries of Hesselbach's (inguinal) triangle?",
+"a": "Medial border: lateral border of rectus abdominis (and linea semilunaris). Superolateral/lateral border: inferior epigastric vessels. Inferior border (base): inguinal ligament. Direct inguinal hernias protrude through this triangle.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Inguinal/femoral hernias",
+"q": "What is the relationship of an inguinal hernia versus a femoral hernia to the pubic tubercle?",
+"a": "Inguinal hernia neck lies SUPERIOR and MEDIAL to the pubic tubercle. Femoral hernia neck lies INFERIOR and LATERAL to the pubic tubercle.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Femoral triangle / sheath",
+"q": "Which structures lie within the femoral sheath, and is the femoral nerve part of it?",
+"a": "The femoral sheath contains (lateral to medial) the femoral artery and femoral vein and, in the medial compartment, lymph nodes (femoral canal). The femoral NERVE is NOT part of the femoral sheath (it lies lateral to the sheath, in the femoral triangle).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Femoral triangle / sheath",
+"q": "Which nerve pierces the femoral sheath, and which nerve supplies the floor/skin of the femoral triangle?",
+"a": "The femoral branch of the genitofemoral nerve pierces the femoral sheath. The genitofemoral nerve also contributes sensory supply to the femoral triangle region.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Inguinal/femoral region ligaments",
+"q": "What are the lacunar ligament and the pectineal (Cooper's) ligament, and where do they attach?",
+"a": "Both arise from the medial end of the inguinal ligament. The lacunar ligament (Gimbernat's) is a crescentic/triangular extension that attaches medially; it forms the medial border of the femoral ring and is significant in femoral hernia strangulation. The pectineal ligament (of Cooper) extends laterally from the lacunar ligament along the pecten pubis (superior pubic ramus).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic arterial supply",
+"q": "List the branches of the ANTERIOR division of the internal iliac artery.",
+"a": "Anterior division branches: umbilical artery (giving superior vesical arteries; distal part becomes the medial umbilical ligament), inferior vesical artery (uterine artery in females), middle rectal artery, internal pudendal artery, inferior gluteal artery, and obturator artery (uterine and vaginal arteries are the female equivalents of vesical/rectal vessels).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic arterial supply",
+"q": "List the branches of the POSTERIOR division of the internal iliac artery.",
+"a": "Posterior division branches: iliolumbar artery, lateral sacral artery, and superior gluteal artery.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic arterial supply",
+"q": "What does the uterine artery supply, and what are its main branches?",
+"a": "The uterine artery (a branch of the anterior division of the internal iliac artery) supplies the uterus. It gives a descending (cervicovaginal) branch supplying the cervix and upper vagina, and ascending branches supplying the body of the uterus; it anastomoses with the ovarian artery.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic arterial supply",
+"q": "Which artery is the most commonly ABSENT branch of the anterior division of the internal iliac artery?",
+"a": "The middle rectal artery is the most commonly absent (most variable) branch of the anterior division; in many individuals it is absent and the rectum is supplied by other vessels (e.g. branches of the internal pudendal/inferior vesical arteries).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Perineal arterial supply",
+"q": "Which artery supplies Bartholin's gland?",
+"a": "Bartholin's (greater vestibular) gland is supplied by the internal pudendal artery (via its perineal/labial branches).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Perineal arterial supply",
+"q": "Describe the course of the internal pudendal artery as it leaves the pelvis.",
+"a": "The internal pudendal artery exits the pelvis through the greater sciatic foramen (below piriformis), loops around the ischial spine/sacrospinous ligament, then re-enters the pelvis/perineum through the lesser sciatic foramen to run in the pudendal (Alcock's) canal.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Perineal arterial supply",
+"q": "Name the terminal/perineal branches of the internal pudendal artery and what they supply.",
+"a": "Branches of the internal pudendal artery include: perineal artery (giving posterior scrotal/labial branches), inferior rectal artery (supplying the external anal sphincter and anal canal below the dentate line), urethral artery (supplying corpus spongiosum and urethra), artery of the bulb of the vestibule/penis, and the deep and dorsal arteries of the clitoris/penis (deep artery supplies erectile corpora; dorsal artery supplies skin).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Perineal arterial supply",
+"q": "Which artery gives the anterior scrotal/labial branches, and what is its origin?",
+"a": "The anterior scrotal/labial branches arise from the external pudendal arteries (branches of the femoral artery), NOT from the internal pudendal artery. The internal pudendal supplies the POSTERIOR scrotal/labial branches (via the perineal artery).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Anterior abdominal wall blood supply",
+"q": "What are the two branches of the external iliac artery, and why are they clinically important in laparoscopy?",
+"a": "The external iliac artery gives the inferior epigastric artery and the deep circumflex iliac artery just above the inguinal ligament. The inferior epigastric artery ascends behind rectus abdominis (lateral to it, entering the rectus sheath) and anastomoses with the superior epigastric artery; it is the most commonly injured vessel at lateral (secondary) laparoscopic port insertion.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Anterior abdominal wall blood supply",
+"q": "Distinguish the inferior epigastric artery from the superficial epigastric artery.",
+"a": "Inferior epigastric artery = branch of the external iliac artery; it is DEEP (runs deep to/along the lateral border of rectus abdominis). Superficial epigastric artery = branch of the femoral artery; it is SUPERFICIAL (in the superficial fascia of the lower abdominal wall). The superficial circumflex iliac and superficial external pudendal arteries are also superficial femoral branches.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Laparoscopic entry / vascular injury",
+"q": "Where is the safe zone for lateral laparoscopic port placement relative to the inferior epigastric vessels?",
+"a": "The inferior epigastric vessels lie approximately 3-6 cm from the midline at the umbilical level and 2-8 cm from the midline at the level of the pubic tubercle (overall roughly within a 1.5-8 cm band lateral to the midline). Lateral ports should be placed in the safe zones - either in the midline (linea alba) or sufficiently lateral (typically >8 cm from midline) to avoid these vessels.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Laparoscopic entry / vascular injury",
+"q": "At the umbilicus, which vessels are at risk during PRIMARY (midline) laparoscopic port insertion, and how does port position change the answer?",
+"a": "At the umbilical primary port the aortic bifurcation lies at risk (aorta bifurcates at the umbilical level, L4). Slightly to the RIGHT of midline risks the right common iliac artery (and IVC, which lies ~2.5 cm right of midline); slightly to the LEFT/below the umbilicus risks the left common iliac vein (which crosses the midline below the umbilicus). The aorta itself lies slightly left of midline.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Liver ligaments",
+"q": "Name the ligaments of the liver and identify which contains the round ligament (ligamentum teres).",
+"a": "Liver ligaments: falciform ligament (between anterior abdominal wall and liver; carries the round ligament of the liver/ligamentum teres in its free lower margin), coronary ligament (between diaphragm and liver, at the bare area), and the right and left triangular ligaments (lateral extensions of the coronary ligament). The ligamentum venosum is also a hepatic ligament.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Thigh compartments / nerves",
+"q": "Compare the actions of the posterior versus anterior thigh muscle compartments (and their nerve supply).",
+"a": "Posterior compartment (sciatic nerve) extends the hip and flexes the knee. Anterior compartment (femoral nerve) flexes the hip and extends the knee. The medial compartment (obturator nerve) chiefly adducts the thigh.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Lumbar plexus",
+"q": "What is the root value of the femoral nerve, what does it supply, and what is the motor/sensory deficit if injured?",
+"a": "Femoral nerve: root value L2, L3, L4. It emerges at the lateral border of psoas major and passes under the inguinal ligament lateral to the femoral sheath. It supplies the anterior thigh (quadriceps - hip flexion, knee extension) and gives sensory supply to the anterior thigh and, via the saphenous branch, the medial leg/foot. Injury causes loss of knee extension, weak hip flexion, loss of the knee jerk, and paraesthesia over the anterior/medial thigh and medial leg ('unable to climb stairs').",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Lumbar plexus",
+"q": "What is the root value of the obturator nerve and what does it supply?",
+"a": "Obturator nerve: root value L2, L3, L4 (anterior divisions). It emerges at the medial border of psoas major and supplies the adductor compartment of the thigh (motor: adduction) and the skin of the upper medial thigh. Injury causes weak thigh adduction with little limitation of overall mobility.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Sacral plexus",
+"q": "What is the root value of the sciatic nerve, what does it supply, and what is the action of its two divisions?",
+"a": "Sciatic nerve: root value L4, L5, S1, S2, S3. It supplies the posterior thigh (hip extension, knee flexion). Its common peroneal (fibular) division supplies the lateral leg and dorsum of the foot (dorsiflexion); its tibial division supplies the plantar surface (plantarflexion). The sciatic nerve performs the opposite movements to the femoral nerve.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Sacral plexus / nerve injury",
+"q": "Where is the common peroneal (fibular) nerve vulnerable, and what is the deficit when injured?",
+"a": "The common peroneal nerve winds around the neck of the fibula, where it is vulnerable to injury (e.g. in the lithotomy position). Injury causes loss of dorsiflexion (and eversion), resulting in foot drop. The tibial nerve supplies plantarflexion of the foot.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Lumbar plexus",
+"q": "What are the root values of the iliohypogastric and ilioinguinal nerves, and how are they best distinguished?",
+"a": "Both arise mainly from T12 and L1. For a single-best-answer: iliohypogastric major fibres come from T12; ilioinguinal major fibres come from L1. They are purely sensory in practice (no significant motor deficit clinically tested); injury gives altered/burning sensation over the suprapubic/inguinal/upper medial thigh region. Both contribute sensory supply to the mons, labia and area near the symphysis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Lumbar plexus",
+"q": "What is the root value of the genitofemoral nerve, what is its course, and what does it supply?",
+"a": "Genitofemoral nerve: root value L1, L2. It pierces and runs on the anterior surface of psoas major, lying just lateral to the external iliac vessels. It divides into a genital branch (supplies cremaster / skin of scrotum or labium majus) and a femoral branch (supplies skin over the femoral triangle and pierces the femoral sheath). It contributes laterally/anteriorly to labial/scrotal sensation.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Lumbar plexus",
+"q": "What does the lateral femoral cutaneous nerve supply and what causes meralgia paraesthetica?",
+"a": "The lateral femoral cutaneous nerve of the thigh is purely sensory, supplying the anterolateral (and lateral posterior) skin of the thigh. It runs just medial to the ASIS under the inguinal ligament; entrapment here causes meralgia paraesthetica.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic floor / anal sphincter innervation",
+"q": "Does the pudendal nerve provide the motor supply to levator ani? How are the anal sphincters innervated?",
+"a": "No. The pudendal artery may give branches to the region, but the pudendal NERVE does not provide the main motor supply to levator ani; levator ani receives a separate direct branch from the sacral plexus (nerve to levator ani, mainly S3-S4). The EXTERNAL anal sphincter (striated muscle) is supplied by the inferior rectal branch of the pudendal nerve (S2-S4). The INTERNAL anal sphincter (smooth muscle) is involuntary - sympathetic from the inferior hypogastric plexus and parasympathetic from the pelvic splanchnic nerves.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic floor / anal sphincter",
+"q": "Which muscles form the internal and external anal sphincters?",
+"a": "Internal anal sphincter = thickened circular smooth muscle layer of the rectum (involuntary). External anal sphincter = striated (voluntary) muscle. Puborectalis and puboanalis (parts of levator ani) contribute to the sphincter mechanism / anorectal sling.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic floor / ischioanal fossa",
+"q": "What are the parts of levator ani and what are the boundaries of the ischioanal (ischiorectal) fossa?",
+"a": "Levator ani comprises pubococcygeus (including puborectalis and puboanalis) and iliococcygeus; the coccygeus completes the pelvic diaphragm posteriorly. The ischioanal fossa is bounded medially by levator ani and the external anal sphincter, laterally by the obturator internus fascia, with its base formed by perineal skin and its apex where levator ani meets obturator internus; posteriorly relate to gluteus maximus and the sacrotuberous ligament.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Gluteal region",
+"q": "Describe the origin, course and nerve supply of piriformis, and its relationship to the greater sciatic foramen.",
+"a": "Piriformis originates from the anterior/pelvic surface of the sacrum, passes through the greater sciatic foramen, and inserts on the greater trochanter of the femur. It is supplied by branches of S1-S2 (and the lateral sacral artery, a posterior-division branch of the internal iliac). It divides the greater sciatic foramen into suprapiriform and infrapiriform compartments; the sacral plexus lies on its anterior surface. Its main actions are lateral rotation and abduction of the flexed hip.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic floor / obstetrics",
+"q": "Which muscle of levator ani is most active in supporting the fetal head and most prone to injury during birth?",
+"a": "Pubococcygeus is the most active muscle of levator ani in supporting and guiding the fetal head (it produces rotation of the head); it undergoes the greatest stretch during birth and is therefore the most prone to injury.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic autonomic innervation",
+"q": "What is the autonomic (sympathetic and parasympathetic) supply to the uterus and cervix, including root values?",
+"a": "Uterine body: mainly SYMPATHETIC supply from the inferior hypogastric plexus, root values T12-L2 (uterus) / T10-L2 to the fundus and tubes. Cervix and lower uterus: mainly PARASYMPATHETIC from the pelvic splanchnic nerves (S2-S4). The lateral (sympathetic) fibres predominate for the uterine body.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Bladder innervation / micturition",
+"q": "Describe the autonomic supply of the bladder (detrusor and internal urethral sphincter), and the somatic supply of the external sphincter, including the micturition reflex logic.",
+"a": "Sympathetic (T11/L1-L2, via the hypogastric plexus) relaxes the detrusor and contracts the internal urethral sphincter to STORE urine. Parasympathetic (pelvic splanchnic nerves, S2-S4) contracts the detrusor and relaxes the internal sphincter to allow micturition (voiding). The external urethral sphincter is striated and under somatic (voluntary) control via the pudendal nerve, normally held in tonic motor activity and relaxed voluntarily to void.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Nerve injury classification",
+"q": "Define neurapraxia, axonotmesis and neurotmesis (Seddon classification of nerve injury).",
+"a": "Neurapraxia = nerve conduction block from compression with no axonal damage (recovers fully). Axonotmesis = damage to the axon (e.g. severe/prolonged compression) with the connective tissue intact (recovery by regeneration). Neurotmesis = complete nerve transection (worst prognosis; often needs surgical repair).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Surgical nerve injury",
+"q": "Which nerves are at risk during external iliac lymph node dissection, sacrospinous fixation, and trans-obturator tape / trans-vaginal repairs?",
+"a": "External iliac lymphadenectomy / lower-abdominal transverse incisions risk the genitofemoral, ilioinguinal and iliohypogastric nerves. Sacrospinous fixation risks the pudendal nerve (and sciatic). Trans-obturator tapes and trans-vaginal defect repairs risk the obturator nerve. On psoas: genitofemoral runs on its surface, femoral emerges at its lateral border, obturator at its medial border.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Surgical nerve injury",
+"q": "Which is the most commonly injured nerve in gynaecological surgery, and what is its surgical landmark?",
+"a": "The femoral nerve is among the most commonly injured nerves in gynaecological surgery (frequently cited, ~roughly 10% of neuropathies). It emerges at the lateral border of psoas major and passes under the inguinal ligament lateral to the femoral artery; injury (e.g. from self-retaining retractor blades or lithotomy hyperflexion/external rotation/abduction) causes loss of knee extension and the knee jerk with anteromedial thigh paraesthesia.",
+"ai": true,
+"note": "Transcript claims femoral nerve is the single most common nerve injured in gynae surgery (~11%). Literature is mixed: femoral nerve is among the most commonly injured in classic teaching, but several series report obturator or ilioinguinal/iliohypogastric injuries as more frequent overall and the genitofemoral as commonly affected in node dissection. 'Most common' is not consistently established - treat as 'commonly injured' rather than definitively the single most common."
+},
+{
+"topic": "Anatomy",
+"subtopic": "Uterine wall histology",
+"q": "Describe the three muscle layers of the uterus (myometrium) and how they differ in cervix, body and tubes.",
+"a": "Three myometrial layers: outer longitudinal, inner circular, and a middle layer that is criss-cross/oblique (spiral/meshwork-like, containing the interlacing fibres important for haemostasis). The criss-cross middle layer is best developed in the uterine body but is ABSENT in the cervix, vagina and fallopian tubes, which have only outer longitudinal and inner circular layers.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Fetal skull diameters",
+"q": "Which engaging diameter and presenting part correspond to a fully flexed, partially deflexed and deflexed fetal head?",
+"a": "Fully flexed head: engaging diameter = suboccipitobregmatic (9.5 cm), presenting part = vertex (occipitoanterior). Partially deflexed: occipitofrontal diameter (~11.5 cm), presenting part occipitoposterior. Deflexed further (brow): mentovertical diameter (the largest, ~13.5 cm). Face presentation (fully extended): submentobregmatic diameter (~9.5 cm).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Fetal skull diameters",
+"q": "Which fetal skull diameter is the largest, and which presents in brow versus face presentation?",
+"a": "The mentovertical diameter (~13.5 cm) is the largest engaging diameter and presents in BROW presentation. The submentobregmatic diameter (~9.5 cm) presents in FACE presentation. The biparietal diameter (transverse, ~9.5 cm) and bitemporal are the key transverse diameters.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Bony pelvis / labour",
+"q": "What is the widest diameter at the pelvic inlet, midpelvis and outlet, and how is engagement defined?",
+"a": "Pelvic INLET: widest diameter is transverse (~13 cm). Pelvic OUTLET: widest diameter is anteroposterior. Engagement = the widest diameter of the fetal head (biparietal, ~9.5-11 cm) has passed through the plane of the pelvic inlet (the AP/transverse of the inlet).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Bony pelvis",
+"q": "What is the angle of the pelvic inlet (pelvic brim) to the horizontal plane?",
+"a": "The pelvic inlet (brim) is inclined at approximately 55-60 degrees to the horizontal plane; the single best answer is ~60 degrees.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Uterine position / axis",
+"q": "What are the angles of anteversion and anteflexion of the uterus?",
+"a": "Anteflexion = angle between the long axis of the uterine body and the cervix, approximately 170 degrees (often quoted ~120-170 degrees). Anteversion = angle between the long axis of the cervix and the vagina, approximately a right angle (~90 degrees). The vaginal axis makes an angle of about 60 degrees with the horizontal plane.",
+"ai": true,
+"note": "The lecturer conflated terms: stated 'cervix-to-uterus angle = 170 and vagina 60 with horizontal'. Correct standard definitions: ANTEFLEXION (body-to-cervix) ~120-170 deg; ANTEVERSION (cervix-to-vagina) ~90 deg. 170 deg fits anteflexion, not anteversion. Card corrected to standard values."
+},
+{
+"topic": "Anatomy",
+"subtopic": "Uterine development / age changes",
+"q": "How does the cervix-to-uterine-body length ratio change with age (prepubertal, reproductive, postmenopausal)?",
+"a": "Prepubertal/childhood: cervix is larger than the body, cervix:body ratio ~2:1. Puberty: ratio ~1:1 (equal). Reproductive age: body is larger than the cervix, ratio ~1:2. Postmenopausal: the body atrophies and the cervix again becomes relatively larger.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Fetal skull diameters",
+"q": "Name some fetal skull diameters used to describe presentation.",
+"a": "Anteroposterior diameters: suboccipitobregmatic (9.5 cm, full flexion/vertex), suboccipitofrontal, occipitofrontal (11.5 cm), mentovertical (13.5 cm, brow, largest), submentobregmatic (9.5 cm, face), submentovertical. Transverse diameters: biparietal (9.5 cm) and bitemporal.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic autonomic innervation",
+"q": "What is the sympathetic root value supplying pelvic organs via the inferior hypogastric plexus?",
+"a": "Sympathetic supply to the pelvic organs is carried via the inferior hypogastric plexus with root values approximately T10-L2 (uterus/tubes from T10-L2; bladder and lower uterus around T11/T12-L2). Parasympathetic supply comes from the pelvic splanchnic nerves (S2-S4).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Lumbar / sacral plexus",
+"q": "From the sacral plexus, which nerves supply piriformis and levator ani, and which divisions give the obturator and femoral nerves?",
+"a": "Piriformis is supplied by S1-S2 fibres; levator ani by S3-S4 (nerve to levator ani). From the lumbar plexus, the obturator nerve arises from the ANTERIOR divisions of L2-L4 and the femoral nerve from the POSTERIOR divisions of L2-L4. Obturator emerges at the medial border of psoas, femoral at the lateral border.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Surface anatomy",
+"q": "In an obese patient, which transverse plane is the more reliable surface landmark, and why?",
+"a": "Because the umbilicus normally lies at L3/L4 but sits lower in obese patients, the supracristal (transcristal) plane at L4/L5 is a more reliable landmark than the intertubercular (transtubercular) plane in obese patients; the iliac crests remain a stable reference.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Aortic branches and vertebral levels",
+"q": "At what vertebral level does the coeliac trunk arise from the aorta?",
+"a": "T12.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Aortic branches and vertebral levels",
+"q": "At what vertebral level does the superior mesenteric artery (SMA) arise from the aorta?",
+"a": "L1.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Aortic branches and vertebral levels",
+"q": "At what vertebral level do the renal arteries arise? (single best answer)",
+"a": "L1. (They actually lie between L1 and L2, but L1 is the single best answer.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Aortic branches and vertebral levels",
+"q": "At what vertebral level do the gonadal (ovarian/testicular) vessels arise from the aorta?",
+"a": "L2.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Aortic branches and vertebral levels",
+"q": "At what vertebral level does the inferior mesenteric artery (IMA) arise from the aorta?",
+"a": "L3.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Aortic branches and vertebral levels",
+"q": "At what vertebral level does the abdominal aorta bifurcate? If both L4 and L5 are separate options, which do you choose?",
+"a": "The aorta bifurcates at L4. (If a combined 'L4/L5' option is given choose that, but if L4 and L5 are separate options choose L4.)",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Aortic branches and vertebral levels",
+"q": "At what vertebral level does the common iliac artery bifurcate (into internal and external iliac), and where does the IVC form?",
+"a": "Common iliac bifurcation occurs at L5; the inferior vena cava is formed at L5.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Aortic branches and vertebral levels",
+"q": "What are the two terminal branches of the abdominal aorta and which is the small midline 'true' terminal branch?",
+"a": "The two common iliac arteries; the median sacral artery is the small midline terminal branch.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Coeliac trunk and foregut supply",
+"q": "What are the three branches of the coeliac trunk?",
+"a": "Left gastric artery, splenic artery, and common hepatic artery.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Coeliac trunk and foregut supply",
+"q": "What does the left gastric artery supply?",
+"a": "The lesser curvature of the stomach, and gives oesophageal branches to the lower part of the oesophagus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Coeliac trunk and foregut supply",
+"q": "Which branches arise from the splenic artery and what do they supply?",
+"a": "The splenic artery supplies the spleen and tail of pancreas, and gives the left gastro-epiploic artery (greater curvature) and the short gastric arteries (fundus of stomach).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Coeliac trunk and foregut supply",
+"q": "What are the two branches of the common hepatic artery?",
+"a": "The gastroduodenal artery and the (proper) hepatic artery.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Coeliac trunk and foregut supply",
+"q": "What branch does the gastroduodenal artery give, and what does the proper hepatic artery supply along the lesser curvature?",
+"a": "The gastroduodenal artery gives the (superior) pancreaticoduodenal artery; the proper hepatic artery gives the right gastric artery (which anastomoses with the left gastric artery along the lesser curvature) before dividing into left and right hepatic arteries.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Iliac vessels",
+"q": "Into which two vessels does the common iliac artery divide, and what is the fate of the external iliac artery?",
+"a": "It divides into the internal and external iliac arteries; the external iliac passes deep to the inguinal ligament and becomes the femoral artery.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Internal iliac artery relations",
+"q": "List the anterior relations of the internal iliac artery in the female pelvis.",
+"a": "The ureter, the ovary and fimbriae of the fallopian tube, and the uterus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Internal iliac artery relations",
+"q": "What is the lateral relation and the posterior relation of the internal iliac artery?",
+"a": "Lateral: the external iliac artery and external iliac vein. Posterior: the internal iliac vein.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Internal iliac artery relations",
+"q": "Going from lateral to medial/posterior, what is the sequence of the iliac vessels related to the internal iliac artery?",
+"a": "External iliac artery, then external iliac vein, then internal iliac artery, then internal iliac vein.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Internal iliac branches – anterior division",
+"q": "What does the umbilical artery (anterior division of internal iliac) give off, and what is the fate of its distal part?",
+"a": "It gives the superior vesical artery (supplying the superior part of the bladder); its distal (obliterated) part forms the medial umbilical ligament.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Internal iliac branches – anterior division",
+"q": "What is the dual arterial supply of the urinary bladder?",
+"a": "The superior vesical artery (superior part of bladder) and the inferior vesical artery (lower part of bladder), both from the anterior division of the internal iliac artery.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Internal iliac branches – anterior division",
+"q": "Which branch of the internal iliac artery is most commonly absent?",
+"a": "The middle rectal artery. When absent it may instead arise from the internal pudendal artery or another adjacent artery.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Internal iliac branches – posterior division",
+"q": "List the branches of the posterior division of the internal iliac artery.",
+"a": "Iliolumbar artery, lateral sacral arteries, and superior gluteal artery.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Gluteal arteries",
+"q": "What is the relation of the superior and inferior gluteal arteries to the piriformis muscle?",
+"a": "The superior gluteal artery passes superior (above) piriformis; the inferior gluteal artery passes inferior (below) piriformis.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Uterine artery and ureter",
+"q": "Within which ligament does the uterine artery run, and what is its key relation to the ureter?",
+"a": "It runs in the transverse cervical (cardinal) ligament; about 1.5 cm lateral to the cervix it crosses superior to (over) the ureter ('water under the bridge').",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Uterine artery and ureter",
+"q": "At approximately what distance from the cervix does the ureter lie where it is crossed by the uterine artery?",
+"a": "About 2.5 cm (up to ~3 cm) from the cervix.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Uterine artery",
+"q": "What does the uterine artery supply after it ascends?",
+"a": "The fundus and the medial part of the fallopian tube; it gives a descending cervical branch (to the cervix) and a vaginal branch (to the upper vagina).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Vaginal blood supply",
+"q": "Describe the blood supply of the upper versus lower vagina.",
+"a": "Upper vagina: vaginal branch of the uterine artery. Lower vagina: the vaginal artery (a direct branch of the anterior division of the internal iliac artery), with contributions from the middle rectal and internal pudendal arteries.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Obturator canal relations",
+"q": "Describe the relations of the obturator nerve, artery and vein within the obturator canal.",
+"a": "The obturator nerve lies superior to the obturator artery, and the obturator vein lies medial to the obturator artery.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Obturator vasculature",
+"q": "What is the corona mortis and why is it clinically significant?",
+"a": "An anastomosis between the obturator artery and the inferior epigastric artery. Injury during surgery can cause significant haemorrhage.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Internal pudendal artery",
+"q": "Through which structures does the internal pudendal artery course to reach the perineum?",
+"a": "It exits the pelvis through the greater sciatic foramen, hooks around the ischial spine, re-enters via the lesser sciatic foramen, and runs in the pudendal (Alcock's) canal.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Internal pudendal artery",
+"q": "List the main branches of the internal pudendal artery in the female perineum.",
+"a": "Inferior rectal (perineal/anal) branches, perineal branch (superficial skin/subcutaneous and deep to muscles), artery of the bulb of the vestibule (supplies bulb/erectile tissue), and the deep and dorsal arteries of the clitoris.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pudendal canal relations",
+"q": "In the pudendal (Alcock's) canal, what is the medial-to-lateral arrangement of the pudendal nerve, artery and vein?",
+"a": "The pudendal nerve lies medial to the pudendal artery, and the pudendal vein lies medial to the pudendal nerve (so the vein is most medial).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "External iliac / femoral artery",
+"q": "What are the two branches of the external iliac artery given off just before it becomes the femoral artery?",
+"a": "The deep circumflex iliac artery and the inferior epigastric artery (both contribute to the abdominal wall blood supply).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "External iliac / femoral artery",
+"q": "Which superficial arteries are branches of the femoral artery (supplying superficial perineum/abdominal wall)?",
+"a": "Superficial epigastric artery, superficial circumflex iliac artery, and the external pudendal artery.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Abdominal wall blood supply",
+"q": "What are the two terminal branches of the internal thoracic artery, and which supplies the midline abdominal wall above the umbilicus?",
+"a": "Musculophrenic and superior epigastric arteries; the superior epigastric artery supplies the midline above the umbilicus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Abdominal wall blood supply",
+"q": "Which artery supplies the midline abdominal wall below the umbilicus, and from what is it a branch?",
+"a": "The inferior epigastric artery, a branch of the external iliac artery.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Intestinal blood supply",
+"q": "What are the three branches of the superior mesenteric artery relevant to the colon, and what does each supply?",
+"a": "Ileocolic (gives the appendicular artery to the appendix and supplies caecum), right colic (ascending colon), and middle colic artery (medial two-thirds of the transverse colon).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Intestinal blood supply",
+"q": "List the branches of the inferior mesenteric artery and what they supply.",
+"a": "Left colic artery (descending colon and distal one-third of transverse colon), sigmoid arteries (sigmoid colon), and superior rectal artery (upper rectum).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Rectal/anal blood supply",
+"q": "Describe the arterial supply of the rectum/anal canal above versus below the pectinate line.",
+"a": "Above the pectinate line: superior rectal artery (branch of the IMA), with middle rectal artery (internal iliac) contribution. Below the pectinate line: inferior rectal artery (branch of the internal pudendal artery), which also supplies the external anal sphincter.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Female organ blood supply",
+"q": "What supplies the ovary, and from what is that artery a branch?",
+"a": "The ovarian artery, a direct branch of the aorta (gonadal vessels arise at L2).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Female organ blood supply",
+"q": "Describe the arterial supply of the fallopian tube.",
+"a": "Medial two-thirds: uterine artery. Lateral one-third: ovarian artery.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Female organ blood supply",
+"q": "In which ligament does the ovarian artery run to reach the ovary?",
+"a": "The infundibulopelvic (suspensory) ligament of the ovary.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Gonadal venous drainage",
+"q": "Describe the venous drainage of the left and right ovarian veins.",
+"a": "The left ovarian vein drains into the left renal vein; the right ovarian vein drains directly into the inferior vena cava (same pattern as the testicular veins).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Female organ blood supply",
+"q": "What supplies the round ligament of the uterus?",
+"a": "Sampson's artery, a branch of the inferior epigastric artery.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "External genitalia blood supply",
+"q": "Compare the arterial supply of the scrotum and the labia majora.",
+"a": "They share the same pattern: anterior scrotal/labial branches arise from the external pudendal artery (femoral), and posterior scrotal/labial branches arise from the internal pudendal artery.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Ureteric blood supply",
+"q": "Describe the arterial supply of the abdominal versus pelvic ureter.",
+"a": "Abdominal ureter: branches of the renal and gonadal arteries (and aorta). Pelvic ureter: branches of the internal iliac, with major supply from the superior and inferior vesical arteries, plus contributions from the uterine and middle rectal arteries.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Surgical vessel injuries",
+"q": "During laparoscopy with a primary umbilical port, which vessels are at risk of damage?",
+"a": "The distal aorta and right common iliac artery (the right common iliac lies near the umbilical insertion point). The IVC is also at risk if the port is placed too far to the right lateral side.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Surgical vessel injuries",
+"q": "After a lateral (secondary) laparoscopic port insertion causing a rectus sheath haematoma, which artery is most likely injured?",
+"a": "The inferior epigastric artery.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Surgical vessel/nerve injuries",
+"q": "In a McBurney incision (open appendicectomy), which artery and which nerve are at risk?",
+"a": "The deep circumflex iliac artery (vessel) and the ilio-hypogastric nerve (the pudendal nerve is also classically cited for McBurney in this lecture).",
+"ai": true,
+"note": "Lecture states deep circumflex iliac artery + ilio-hypogastric nerve for McBurney; later in the recall it says 'pudendal nerve' for McBurney, which is inconsistent. Standard teaching: McBurney's incision risks the ilio-hypogastric and ilio-inguinal nerves (not the pudendal). The pudendal-nerve claim is incorrect."
+},
+{
+"topic": "Anatomy",
+"subtopic": "Surgical vessel injuries",
+"q": "In a mediolateral episiotomy / perineal anaesthetic injection causing a vulval haematoma, which artery is involved?",
+"a": "The perineal branch of the internal pudendal artery.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Surgical vessel injuries",
+"q": "In a midline episiotomy, which vessel is most likely damaged?",
+"a": "The inferior rectal artery.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Surgical vessel injuries",
+"q": "During forceps delivery, if bleeding comes from above piriformis versus below piriformis, which arteries are involved?",
+"a": "Above piriformis: superior gluteal artery. Below piriformis: inferior gluteal artery. A vaginal haematoma implicates the vaginal artery.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Surgical vessel injuries",
+"q": "In acute postpartum haemorrhage, which artery is ligated, and why might ischaemic pain follow?",
+"a": "The anterior division of the internal iliac artery is ligated; ischaemic pain can follow because the gluteal arteries also arise from the internal iliac, disrupting their supply until collaterals open.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Surgical vessel injuries",
+"q": "In a lateral extension of the uterine incision at caesarean section, which artery is involved?",
+"a": "The uterine artery.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Surgical vessel/nerve injuries",
+"q": "During sacrospinous fixation, which artery and nerve are at risk of damage?",
+"a": "The inferior gluteal artery and the pudendal nerve.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Surgical vessel injuries",
+"q": "During abdominal sacrocolpopexy, which vessel is at risk at the sacral promontory?",
+"a": "The middle (median) sacral artery.",
+"ai": true,
+"note": "The transcript says 'vertebral artery' for abdominal sacrocolpopexy, which is anatomically impossible in the pelvis. The vessel at risk at the sacral promontory is the middle/median sacral artery (and left common iliac vein). 'Vertebral artery' is a transcription/lecture error."
+},
+{
+"topic": "Anatomy",
+"subtopic": "Autonomic outflow",
+"q": "Which spinal cord segments carry sympathetic versus parasympathetic outflow to the pelvis?",
+"a": "Sympathetic outflow is thoracolumbar (T11/T12–L2 region); parasympathetic outflow is sacral (S2–S4, the pelvic splanchnic nerves).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Autonomic anatomy",
+"q": "Are postganglionic sympathetic fibres or preganglionic parasympathetic fibres found peripherally en route to pelvic organs?",
+"a": "Sympathetic fibres relay in ganglia near the cord and reach organs as postganglionic fibres; parasympathetic fibres have no peripheral relay near the cord and travel as preganglionic fibres to ganglia at/near the organ.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic plexuses",
+"q": "Where is the superior hypogastric plexus located?",
+"a": "Anterior to the aortic bifurcation, in front of the sacral promontory.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic plexuses",
+"q": "Where is the inferior hypogastric plexus located?",
+"a": "On either side of the rectum, uterus/cervix and vaginal fornices.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic plexuses",
+"q": "Where is the lumbar plexus located, and where is the sacral plexus located?",
+"a": "The lumbar plexus lies within the substance of the psoas major muscle; the sacral plexus lies in front of the piriformis muscle.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Plexus root values",
+"q": "What are the root values of the lumbar plexus and the sacral plexus?",
+"a": "Lumbar plexus: T12–L5 (with contribution from T12/subcostal). Sacral plexus: L4–S4 (commonly cited L4–S4/S5).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Nerve root values",
+"q": "Give the root values: ilio-inguinal, ilio-hypogastric, genitofemoral, lateral femoral cutaneous nerves.",
+"a": "Ilio-inguinal: L1. Ilio-hypogastric: L1. Genitofemoral: L1–L2. Lateral femoral cutaneous: L2–L3.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Nerve root values",
+"q": "Give the root values of the obturator and femoral nerves, and from which divisions of the lumbar plexus do they arise?",
+"a": "Obturator: L2–L4 (anterior divisions). Femoral: L2–L4 (posterior divisions).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Nerve root values",
+"q": "Give the root values of the superior gluteal, inferior gluteal, and sciatic nerves.",
+"a": "Superior gluteal: L4–S1. Inferior gluteal: L5–S2. Sciatic: L4–S3.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Nerve root values",
+"q": "Give the root values of the posterior cutaneous nerve of the thigh and the pudendal nerve.",
+"a": "Posterior cutaneous nerve of thigh: S1–S3. Pudendal nerve: S2–S4.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Levator ani innervation",
+"q": "What is the main nerve supply (root value) to the levator ani muscle?",
+"a": "Majorly S4 (nerve to levator ani, S3–S4); the pudendal nerve also contributes. Best single answer is S4.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pudendal nerve branches",
+"q": "List the branches of the pudendal nerve and what each supplies.",
+"a": "Inferior rectal nerve (external anal sphincter, lower anal canal), perineal nerve (perineal muscles + skin), and the dorsal nerve of the clitoris (clitoris).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Cutaneous innervation",
+"q": "Which nerves supply the mons pubis and the area over the pubic symphysis?",
+"a": "The ilio-hypogastric nerve (mons – the classic buzzword) and the ilio-inguinal nerve (pubic symphysis region); either can be acceptable for the mons.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Perineal innervation",
+"q": "Describe the cutaneous innervation of the anterior one-third versus posterior two-thirds of the perineum.",
+"a": "Anterior one-third: ilio-inguinal nerve and genital branch of the genitofemoral nerve. Posterior two-thirds: perineal branch of the pudendal nerve (with perineal branch of the posterior cutaneous nerve of thigh).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Perineal innervation",
+"q": "Which nerves supply the anterior one-third and posterior two-thirds of the labia majora?",
+"a": "Anterior one-third: ilio-inguinal and genital branch of the genitofemoral nerve. Posterior two-thirds: pudendal nerve (perineal branch).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pudendal nerve block",
+"q": "How is a pudendal nerve block performed?",
+"a": "Local anaesthetic is injected into the main trunk of the pudendal nerve; the needle is inserted on the medial side of the ischial spine to a depth of about 1 inch (2.5 cm).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Bladder innervation",
+"q": "Describe the autonomic and somatic innervation of the bladder and urethral sphincters.",
+"a": "Sympathetic (via inferior hypogastric plexus, L1–L2) = storage (relaxes detrusor, closes internal sphincter). Parasympathetic (pelvic splanchnic, S2–S4) = voiding (contracts detrusor). External urethral sphincter = somatic, supplied by the pudendal nerve.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Visceral pain pathways",
+"q": "Which fibres carry uterine contraction pain versus cervical pain sensation?",
+"a": "Uterine (body) pain travels with sympathetic fibres via the (inferior) hypogastric nerve/plexus; cervical and upper vaginal pain travels with parasympathetic fibres via the pelvic splanchnic nerves.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Dermatomes",
+"q": "What is the dermatome at the level of the umbilicus, and what vertebral level corresponds to it?",
+"a": "T10; the umbilicus lies at approximately the L3/L4 vertebral level.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Referred pain / dermatomes",
+"q": "To which dermatome is uterine contraction pain referred, and what is the single best answer when multiple levels are options?",
+"a": "T10–L1; when all are options, choose T12 as the single best answer.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Referred pain / dermatomes",
+"q": "What are the highest and lowest spinal levels at which uterine (labour) pain sensation can be abolished?",
+"a": "Highest level: T10. Lowest level: L2.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Dermatomes / incisions",
+"q": "What dermatome corresponds to a suprapubic transverse incision versus a Pfannenstiel incision?",
+"a": "Suprapubic transverse: T12. Pfannenstiel: L1.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Referred pain",
+"q": "Following ovarian irritation (e.g. ovarian cystectomy), where is the pain referred and why is the umbilicus the best answer over the medial thigh?",
+"a": "To the umbilicus (T10 dermatome), because the ovary is supplied by T10. Although the obturator nerve forms the inferior boundary of the ovarian fossa (which can refer pain to the medial thigh), the best answer for ovarian pain is the umbilicus (T10).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Dermatomes",
+"q": "Give the key upper limb dermatome landmarks from C3 to T1.",
+"a": "C3 collar/neck, C4 shoulder, C6 thumb, C7 middle finger, C8 little finger, T1 axilla.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Dermatomes",
+"q": "Give the key trunk/lower limb dermatomes: T4, T10, L1, L2/L3, L4, L5, S1.",
+"a": "T4 nipples, T10 umbilicus, L1 groin/pubis, L2–L3 front of thigh, L4 medial malleolus/great toe (medial leg), L5 dorsum of foot, S1 lateral malleolus/little toe/heel.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Thigh innervation",
+"q": "Which nerve supplies each compartment of the thigh?",
+"a": "Anterior (extensor) compartment: femoral nerve. Medial (adductor) compartment: obturator nerve. Posterior (flexor) compartment: sciatic nerve.",
+"ai": true,
+"note": "The transcript mislabels the compartments (calls the flexor compartment femoral and extensor compartment sciatic). Correct standard anatomy: femoral nerve = anterior (extensor) compartment (knee extension/hip flexion); sciatic nerve = posterior (flexor/hamstring) compartment; obturator = medial (adductor). The function-to-nerve mapping in the lecture is correct even though the compartment labels are swapped."
+},
+{
+"topic": "Anatomy",
+"subtopic": "Femoral nerve",
+"q": "What is the function and cutaneous supply of the femoral nerve in the thigh?",
+"a": "It supplies the anterior thigh muscles (knee extensors/hip flexors) and the skin of the anterior thigh; it also supplies the iliacus muscle.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Obturator nerve",
+"q": "What does the obturator nerve supply (root value L2–L4)?",
+"a": "The adductor (medial) compartment muscles of the thigh and the skin of the medial thigh.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Common peroneal nerve",
+"q": "What does the common peroneal (fibular) nerve supply, and what deficit results from injury?",
+"a": "It supplies the lateral calf and dorsum of the foot and produces dorsiflexion. Injury causes foot drop with unopposed plantarflexion.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Tibial nerve",
+"q": "What does the tibial nerve supply, and what results from its injury?",
+"a": "It supplies the posterior calf and plantar surface of the foot and produces plantarflexion. Injury causes loss of plantarflexion and a high-arched 'pes cavus'-type deformity.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Common peroneal nerve injury",
+"q": "Where is the common peroneal nerve commonly compressed, and in what obstetric scenario does foot drop occur?",
+"a": "At the fibular neck (e.g. over lithotomy stirrups); foot drop can follow prolonged lithotomy position during/after vaginal birth, presenting with plantarflexion.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Lateral femoral cutaneous nerve",
+"q": "What causes meralgia paraesthetica and which nerve is involved?",
+"a": "Compression of the lateral femoral cutaneous nerve (just medial and inferior to the ASIS, below the inguinal ligament), causing paraesthesia over the lateral thigh.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Femoral triangle innervation",
+"q": "Which nerve supplies the skin of the femoral triangle?",
+"a": "The genitofemoral nerve – specifically the femoral branch of the genitofemoral nerve.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Surgical nerve injuries",
+"q": "What is the most common nerve injured in gynaecological laparotomies, and which nerve is at risk in external iliac lymphadenectomy?",
+"a": "Femoral nerve is most commonly injured in gynaecological laparotomies (e.g. retractor blades); the genitofemoral nerve is at risk during external iliac lymphadenectomy.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Surgical nerve injuries",
+"q": "Which nerve is at risk during transobturator tape (TOT) procedures and sling operations?",
+"a": "The obturator nerve (and obturator vessels).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Surgical/traumatic nerve injuries",
+"q": "Which nerve is injured with a stab wound entering the pelvis above piriformis with hyperflexion of the thigh?",
+"a": "The sciatic nerve (loss of thigh extension; the superior gluteal artery is the vessel above piriformis).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Facial nerve",
+"q": "Through which foramen does the facial nerve exit the skull, and why is it vulnerable in the neonate?",
+"a": "The stylomastoid foramen; in neonates the mastoid process is undeveloped so the foramen is unprotected, making the facial nerve vulnerable to forceps compression.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Brachial plexus injuries",
+"q": "What brachial plexus injury occurs in shoulder dystocia, its eponym, and root value?",
+"a": "Upper brachial plexus injury (Erb's palsy), root value C5–C6, producing the 'waiter's tip' deformity (arm medially rotated, elbow extended, forearm pronated, wrist flexed).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Upper limb nerve injuries",
+"q": "What deformity results from lower trunk brachial plexus injury, and from radial, median, and ulnar nerve injuries?",
+"a": "Lower trunk: Klumpke's palsy. Radial nerve: wrist drop. Median nerve: ape thumb / 'hand of benediction'. Ulnar nerve: claw hand.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Sexual response innervation",
+"q": "Describe the autonomic control of the sexual response ('point, shoot, ...').",
+"a": "Erection = parasympathetic (pelvic splanchnic / nervi erigentes); emission = sympathetic (hypogastric nerves); expulsion (ejaculation) = pudendal nerve (somatic).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Sexual response innervation",
+"q": "Engorgement of the bulb of the vestibule during sexual arousal is mediated by which system, and what is the source of vaginal lubrication?",
+"a": "Parasympathetic (vasodilatation/erectile response). Vaginal lubrication is a transudate from the vaginal walls (not from Bartholin's or Skene's glands).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Bladder innervation",
+"q": "What are the sympathetic spinal segments supplying the urinary bladder?",
+"a": "L1–L2 (broadly T10/T12–L2); the parasympathetic supply (voiding) is via the pelvic splanchnic nerves (S2–S4).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Autonomic anatomy",
+"q": "What type of nerve fibres are found in the pelvic splanchnic nerves?",
+"a": "Preganglionic parasympathetic nerve fibres.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pudendal nerve",
+"q": "Summarise the pudendal nerve's motor and sensory innervation of the anal canal/perineum.",
+"a": "Motor to the external anal sphincter; sensory to the lower two-thirds of the anal canal (below the pectinate line) and to the perineal region. It does NOT supply the internal anal sphincter (autonomic) or sensation above the pectinate line.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pudendal nerve branches",
+"q": "The dorsal nerve of the clitoris is a branch of which nerve?",
+"a": "The pudendal nerve.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Anal sphincter innervation",
+"q": "What innervates the internal anal sphincter versus the external anal sphincter?",
+"a": "Internal anal sphincter: autonomic (sympathetic via inferior hypogastric plexus; parasympathetic via pelvic splanchnic). External anal sphincter: somatic via the pudendal nerve.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Reproductive organs",
+"q": "Name the four parts of the male urethra from proximal to distal.",
+"a": "Pre-prostatic/prostatic urethra, membranous urethra, bulbar urethra, and penile (pendulous) urethra. The bulbar and penile parts together form the spongy urethra.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Reproductive organs",
+"q": "Which part of the male urethra is the widest and most distensible, and which is the narrowest and least distensible?",
+"a": "The prostatic urethra is the widest and most distensible part. The membranous urethra is the narrowest and least distensible part.",
+"ai": false,
+"note": "Standard teaching/MRCOG answer. Strictly, the external urethral meatus is the absolute narrowest point; membranous urethra is the narrowest/least dilatable of the internal segments."
+},
+{
+"topic": "Anatomy",
+"subtopic": "Reproductive organs",
+"q": "Approximate length of the male urethra versus the female urethra.",
+"a": "Male urethra is about 20 cm (18-22 cm); female urethra is about 4 cm.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Reproductive organs",
+"q": "What is the epithelial lining of the prostatic and membranous urethra versus the spongy (bulbar and penile) urethra?",
+"a": "Prostatic and membranous urethra are lined by urothelium (transitional epithelium). The bulbar and penile (spongy) urethra are lined by pseudostratified/stratified columnar epithelium.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Reproductive organs",
+"q": "What epithelium lines the external openings (meatus) of body cavities such as the urethral meatus, oral cavity and anal opening?",
+"a": "Stratified squamous non-keratinized epithelium (the navicular fossa / distal urethra near the meatus is lined by stratified squamous epithelium).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Reproductive organs",
+"q": "Into which part of the urethra do the ducts of the bulbourethral (Cowper) glands open, and where are the glands located?",
+"a": "The bulbourethral (Cowper) glands lie at the level of the membranous urethra (within the deep perineal pouch / urogenital diaphragm), but their ducts open into the bulbar (spongy) urethra.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Reproductive organs",
+"q": "Where do the paraurethral gland ducts open in the male urethra?",
+"a": "The paraurethral gland ducts open into the penile (spongy) urethra.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Reproductive organs",
+"q": "How is the ejaculatory duct formed and where does it open?",
+"a": "The ductus (vas) deferens joins the duct of the seminal vesicle to form the ejaculatory duct, which opens into the prostatic urethra.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Reproductive organs",
+"q": "Approximately how many lobules are in a testis, and how many seminiferous tubules per lobule?",
+"a": "About 200-400 (commonly quoted ~250) lobules per testis, each lobule containing 1-3 seminiferous tubules.",
+"ai": false,
+"note": "Consistent with standard texts (~250 lobules; 1-4 tubules per lobule)."
+},
+{
+"topic": "Anatomy",
+"subtopic": "External genitalia",
+"q": "List the layers/coverings of the scrotum from superficial to deep.",
+"a": "Skin, dartos muscle (superficial fascia), external spermatic fascia, cremasteric fascia (cremaster muscle), and internal spermatic fascia.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "External genitalia",
+"q": "Which muscle lies immediately beneath the skin of the scrotum?",
+"a": "The dartos muscle (smooth muscle in the superficial fascia of the scrotum).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Reproductive organs",
+"q": "Name the coverings of the testis from outer to inner.",
+"a": "Tunica vaginalis (parietal layer outside, visceral layer adherent to testis), then tunica albuginea, then the innermost tunica vasculosa.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Reproductive organs",
+"q": "Which layer is the innermost covering of the testis and cannot be separated from it?",
+"a": "The tunica vasculosa is the innermost layer (the visceral tunica vaginalis is also closely adherent and not separable from the testis).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Reproductive organs",
+"q": "The tunica vaginalis is deficient at which aspect of the testis?",
+"a": "Posteriorly - the tunica vaginalis is deficient posteriorly (where the epididymis and vessels enter).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Reproductive organs",
+"q": "What are the main contents of the spermatic cord?",
+"a": "Ductus (vas) deferens with the artery of the vas deferens, testicular artery, pampiniform plexus of veins, lymphatics, the genital branch of the genitofemoral nerve, and sympathetic nerve fibres.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Reproductive organs",
+"q": "What are the nerve roots of the genitofemoral nerve?",
+"a": "L1 and L2.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "External genitalia",
+"q": "What is the arterial supply of the scrotum?",
+"a": "The anterior scrotal artery (branch of the external pudendal artery) supplies anteriorly; the posterior scrotal artery (branch of the internal pudendal artery) supplies posteriorly.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "External genitalia",
+"q": "Where does lymph from the scrotum drain?",
+"a": "To the superficial inguinal lymph nodes.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "External genitalia",
+"q": "In the female external genitalia, what is the pudendal cleft and what is the vestibule?",
+"a": "The pudendal cleft is the area between the two labia majora. The vestibule is the area between the two labia minora.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "External genitalia",
+"q": "Where are the paraurethral (Skene) glands located and where do they open?",
+"a": "The paraurethral (Skene) glands lie around the external urethral opening and open near/on either side of the urethral orifice.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "External genitalia",
+"q": "Where are the Bartholin (greater vestibular) glands located and where do their ducts open?",
+"a": "They lie in the posterolateral wall of the vaginal vestibule (within the superficial perineal pouch); their ducts open into the vestibule on the medial aspect of the labium minus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "External genitalia",
+"q": "What are the male homologues of the paraurethral (Skene) and Bartholin glands?",
+"a": "The paraurethral (Skene / lesser vestibular) glands are homologous to the prostate. The Bartholin (greater vestibular) glands are homologous to the bulbourethral (Cowper) glands.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "External genitalia",
+"q": "What are the alternative names for the Bartholin glands and the Skene glands?",
+"a": "Bartholin glands = greater vestibular glands. Skene glands = paraurethral glands or lesser vestibular glands.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "External genitalia",
+"q": "In which pouch do the Bartholin glands lie, versus the bulbourethral (Cowper) glands in the male?",
+"a": "Bartholin glands lie in the superficial perineal pouch; the bulbourethral (Cowper) glands lie in the deep perineal pouch.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Reproductive organs",
+"q": "What are the boundaries (relations) of the ovarian fossa?",
+"a": "Anterior: broad ligament; superior: external iliac artery and vein; posterior: ureter and internal iliac vessels; inferior: obturator nerve and vessels (with superior vesical artery). The fossa lies in the angle between the external and internal iliac vessels.",
+"ai": false,
+"note": "Transcript phrasing matches standard ovarian fossa boundaries; superior vesical artery/obturator nerve form the inferior floor relation."
+},
+{
+"topic": "Anatomy",
+"subtopic": "Reproductive organs",
+"q": "Name the four parts of the fallopian tube from the uterus laterally.",
+"a": "Intramural (interstitial) part, isthmus, ampulla, and infundibulum (bearing the fimbriae).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Reproductive organs",
+"q": "Which part of the fallopian tube is the narrowest/shortest, and which is the usual site of fertilization?",
+"a": "The intramural (interstitial) part is the narrowest and shortest part. Fertilization usually occurs in the ampulla.",
+"ai": false,
+"note": "Transcript states fertilization occurs in the intramural part; standard teaching is that fertilization occurs in the ampulla, so that detail was corrected here."
+},
+{
+"topic": "Anatomy",
+"subtopic": "Reproductive organs",
+"q": "What is the epithelium of the fallopian tube?",
+"a": "Ciliated columnar epithelium (the cilia help transport the ovum, distinguishing it from the non-ciliated columnar epithelium of the uterus).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Reproductive organs",
+"q": "What is the epithelium of the endocervix versus the ectocervix, and what is their junction called?",
+"a": "Endocervix is lined by columnar epithelium; ectocervix is lined by stratified squamous non-keratinized epithelium. Their meeting point is the squamocolumnar junction.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Reproductive organs",
+"q": "What is the cervix-to-uterine body (corpus) ratio at different life stages?",
+"a": "Pre-pubertal and post-menopausal: 2:1 (cervix:body). At puberty: 1:1. In the reproductive years: 1:2.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Reproductive organs",
+"q": "What are the relations of the vagina (anterior, posterior, lateral)?",
+"a": "Anteriorly: bladder and urethra. Posteriorly: rectouterine pouch (of Douglas) and rectum. Laterally: cardinal (transverse cervical) ligament, ureter and uterine artery.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Reproductive organs",
+"q": "What is the shape of the external cervical os in nulliparous versus multiparous women?",
+"a": "Circular in nulliparous women; transverse (slit-like) in multiparous women.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Reproductive organs",
+"q": "What is the epithelium and ciliary status of the uterine (endometrial) lining compared to the fallopian tube?",
+"a": "The uterus is lined by columnar epithelium that is NOT ciliated, whereas the fallopian tube columnar epithelium IS ciliated.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Reproductive organs",
+"q": "What are the three layers of the uterine wall?",
+"a": "Endometrium (inner), myometrium (middle muscular layer), and serosa/perimetrium (outer).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic support",
+"q": "Which ligaments provide the PRIMARY (musculofascial/visceral) support of the uterus?",
+"a": "The cardinal (transverse cervical / Mackenrodt) ligament, uterosacral ligament, pubocervical ligament, and round ligament.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic support",
+"q": "What is the single most important ligament supporting the uterus?",
+"a": "The cardinal (transverse cervical / Mackenrodt) ligament - all three names refer to the same structure.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic support",
+"q": "What does the cardinal (transverse cervical) ligament attach, and which structures run within it?",
+"a": "It attaches the cervix and upper vagina to the lateral pelvic wall. The uterine artery runs within it, and it is crossed by the ureter.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic support",
+"q": "What does the uterosacral ligament attach, and what is its clinical/surgical use during hysterectomy?",
+"a": "It attaches the cervix (uterocervical junction) posteriorly to the sacrum. During abdominal hysterectomy it can be palpated to differentiate the body of the uterus from the cervix.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic support",
+"q": "What does the pubocervical ligament attach and what is its key supporting role?",
+"a": "It attaches the cervix anteriorly to the pubis (pubic bone) and is important in holding/supporting the neck of the bladder.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic support",
+"q": "What is the infundibulopelvic (suspensory ligament of the ovary) and what does it contain?",
+"a": "A peritoneal fold extending from the ovary/infundibulum of the tube to the lateral pelvic wall; it carries the ovarian vessels.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic support",
+"q": "What does the round ligament of the uterus connect, where does it travel, and what nerve accompanies it?",
+"a": "It runs from the uterine cornu (anterolateral uterus) through the inguinal canal to the labia majora, accompanied by the ilioinguinal nerve, which also supplies it. It helps maintain anteversion of the uterus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic support",
+"q": "What is Sampson's artery (artery of the round ligament) a branch of?",
+"a": "It is a branch of the inferior epigastric artery.",
+"ai": false,
+"note": "Confirmed: artery of the round ligament (Sampson's artery) arises from the inferior epigastric artery."
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic support",
+"q": "What does the ovarian ligament (ligament of the ovary) connect?",
+"a": "It connects the ovary to the uterus (uterine cornu).",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic support",
+"q": "What is the broad ligament and what does it cover?",
+"a": "A sheet of peritoneum draped over the uterus that also covers the fallopian tubes and ovaries; its subdivisions are the mesometrium, mesosalpinx and mesovarium.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic support",
+"q": "Describe the relationship of the uterine artery to the ureter and their distance from the cervix.",
+"a": "The uterine artery crosses ANTERIOR (over) the ureter ('water under the bridge') near the cervix. The uterine artery ascends about 1.5 cm lateral to the cervix; the ureter passes about 2-2.5 cm lateral to the cervix.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic support",
+"q": "What forms the anterior and posterior peritoneal folds/pouches around the uterus (secondary support)?",
+"a": "Anteriorly the uterovesical (vesicouterine) fold between bladder and uterus; posteriorly the rectouterine fold forming the rectouterine pouch (of Douglas) between rectum and uterus.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic support",
+"q": "List the three levels of pelvic/uterovaginal support.",
+"a": "Level 1 (upper): cardinal and uterosacral ligaments (apical suspension). Level 2 (middle): pubocervical and rectovaginal fascia (lateral attachment). Level 3 (lower): pelvic diaphragm and perineal body.",
+"ai": false,
+"note": "Matches DeLancey's three levels; level 2 corresponds to lateral/paravaginal fascial attachment, level 3 to perineal membrane/body and distal support."
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic support",
+"q": "What are the muscular components of the pelvic diaphragm?",
+"a": "The levator ani muscles (pubococcygeus including puborectalis, and iliococcygeus) plus the coccygeus muscle.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic support",
+"q": "What are the components of the urogenital diaphragm/region in pelvic support?",
+"a": "The urethral sphincter (sphincter urethrae) and the deep transverse perineal muscles.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic support",
+"q": "In uterine prolapse, which ligament is the most important structure involved?",
+"a": "The cardinal (transverse cervical) ligament.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic support",
+"q": "Which ligament is principally involved in vaginal vault prolapse?",
+"a": "The uterosacral ligament.",
+"ai": false,
+"note": "Consistent with DeLancey level 1 apical support; uterosacral-cardinal complex failure underlies vault prolapse."
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic support",
+"q": "Which structure is involved in a cystocele, and which in a rectocele?",
+"a": "Cystocele involves weakness of the pubocervical ligament/fascia; rectocele involves weakness of the rectovaginal fascia.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic support",
+"q": "In a multiparous woman with pelvic floor weakness, which levator ani muscle most commonly undergoes maximal stretch and is implicated in pelvic organ prolapse?",
+"a": "The pubococcygeus muscle.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic support",
+"q": "Which levator ani muscle is most associated with support of the perineal body?",
+"a": "The iliococcygeus muscle (its larger bulk provides more support to the perineal body).",
+"ai": true,
+"note": "Per transcript. Standard anatomy attributes perineal body support more to the puborectalis/pubococcygeus (pubovisceral) sling and the perineal muscles; iliococcygeus chiefly forms the posterior levator plate. This specific single-muscle attribution could not be confirmed against standard texts."
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic support",
+"q": "Which two lateral pelvic spaces flank the bladder and the rectum, and what separates them?",
+"a": "The paravesical space lies on each side of the bladder and the pararectal space on each side of the rectum; they are separated by the cardinal (transverse cervical) ligament.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic support",
+"q": "Name the midline pelvic spaces from anterior to posterior.",
+"a": "Prevesical (retropubic) space, vesicocervical/vesicovaginal space, rectovaginal (rectocervical/rectouterine) space, and the retrorectal space.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic support",
+"q": "Which artery divides the paravesical space from the pararectal space, and which vessels subdivide each into medial and lateral parts?",
+"a": "The uterine artery separates the paravesical from the pararectal space. The umbilical (obliterated) artery divides the paravesical space into medial and lateral parts; the ureter divides the pararectal space into medial and lateral parts.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic support",
+"q": "Which ligament can be palpated during abdominal hysterectomy to differentiate the body of the uterus from the cervix?",
+"a": "The uterosacral ligament.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic support",
+"q": "What are the ligaments that support the urinary bladder?",
+"a": "Lateral true ligaments, posterior ligaments (posterolateral), the medial pubovesical ligament (female) / puboprostatic ligament (male) anteriorly, and the median umbilical ligament (remnant of the urachus). The medial pubovesical ligament supports the bladder neck.",
+"ai": false,
+"note": ""
+},
+{
+"topic": "Anatomy",
+"subtopic": "Pelvic support",
+"q": "What is the median umbilical ligament a remnant of?",
+"a": "The urachus (allantois remnant).",
+"ai": false,
+"note": ""
+}
+]
+},
+{
 "id": "biochemistry",
 "title": "Biochemistry",
 "cards": [
